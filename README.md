@@ -22,6 +22,12 @@ This repository contains detailed reviews of games I've completed, focusing on s
 | [Assassin's Creed II](assassin's_creed_2.md) | 2009 | ★★★★⯪ | 56h 53m | Completed |
 | [Assassin's Creed: Brotherhood](assassin's_creed_brotherhood.md) | 2010 | ★★★★☆ | 60h 17m | Completed |
 
+### Strategy Games
+
+| Game | Release Year | Rating | Playtime | Status |
+|------|--------------|--------|----------|--------|
+| [Age of Mythology: Retold](age_of_mythology_retold.md) | 2024 | ★★★⯪☆ | 20h 7m | Completed |
+
 ## Rating System
 
 - ★★★★★ - Masterpiece
