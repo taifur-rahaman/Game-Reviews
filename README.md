@@ -8,8 +8,8 @@
 
 | 🗝️ **Metric** | 💎 **Value** |
 | :--- | :--- |
-| **Scrolls Inscribed** | **20** |
-| **Hours in Realms** | **4,851+** |
+| **Scrolls Inscribed** | **21** |
+| **Hours in Realms** | **4,851h 31m+** |
 
 ---
 
@@ -94,6 +94,13 @@
 | [Disney's Hercules Action Game](disneys_hercules_action_game.md) | 1997 | ★★★★⯪ | 1h 56m | Completed | Pirated |
 | [Farm Frenzy](farm_frenzy.md) | 2007 | ★★⯪☆☆ | 9h 38m | Completed | Pirated |
 | [Farm Frenzy 2](farm_frenzy_2.md) | 2008 | ★★★☆☆ | 16h 56m | Completed | Pirated |
+
+### 📱 The Pocket Front
+*Battlefields in the palm of your hand.*
+
+| 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** |
+|:---|:---:|:---:|:---:|:---:|:---:|
+| [Clash of Clans](clash_of_clans.md) | 2012 | TBD | 31m | Active | Android |
 
 ---
 
