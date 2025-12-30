@@ -4,8 +4,8 @@ A personal collection of in-depth game reviews, documenting my journey through v
 
 ## Statistics
 
-- **Total Games Reviewed**: 17
-- **Total Playtime**: 589+ hours
+- **Total Games Reviewed**: 18
+- **Total Playtime**: 615+ hours
 
 ## About
 
@@ -41,6 +41,12 @@ This repository contains detailed reviews of games I've completed, focusing on s
 |------|--------------|--------|----------|--------|
 | [Middle-Earth: Shadow of Mordor](shadow_of_mordor.md) | 2014 | ★★★★★ | 39h 26m | Completed |
 | [Middle-Earth: Shadow of War](shadow_of_war.md) | 2017 | ★★★★☆ | 46h 42m | Completed |
+
+### Racing Games
+
+| Game | Release Year | Rating | Playtime | Status |
+|------|--------------|--------|----------|--------|
+| [Need for Speed: Most Wanted](nfs_most_wanted.md) | 2005 | ★★★★★★ | 26h 52m | Completed |
 
 ### Strategy Games
 
