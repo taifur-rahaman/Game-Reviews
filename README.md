@@ -12,7 +12,16 @@ Herein are recorded the cumulative feats of the adventurer, updated as the journ
 | :--- | :--- |
 | **📜 Scrolls Inscribed** | **24** |
 | **⏳ Hours in Realms** | **4,876h 43m** |
-| **🛡️ Active Campaigns** | **DOTA 2, Company of Heroes, Auto Brawl Chess, Clash of Clans, Clash Royale** |
+
+## 🛡️ Active Campaigns
+
+*The current battlegrounds where the Keeper is deployed.*
+
+| 🏷️ **Type** | 🏹 **Active Quests** |
+| :--- | :--- |
+| **MOBA** | [DOTA 2](dota_2.md) |
+| **Strategy** | [Company of Heroes](company_of_heroes.md), [Auto Brawl Chess](auto_brawl_chess.md) |
+| **Mobile** | [Clash of Clans](clash_of_clans.md), [Clash Royale](clash_royale.md) |
 
 ---
 
