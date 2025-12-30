@@ -4,8 +4,8 @@ A personal collection of in-depth game reviews, documenting my journey through v
 
 ## Statistics
 
-- **Total Games Reviewed**: 20
-- **Total Playtime**: 659+ hours
+- **Total Games Reviewed**: 21
+- **Total Playtime**: 4851+ hours
 
 ## About
 
@@ -47,6 +47,12 @@ This repository contains detailed reviews of games I've completed, focusing on s
 | Game | Release Year | Rating | Playtime | Status |
 |------|--------------|--------|----------|--------|
 | [The Godfather](the_godfather.md) | 2006 | ★★★★★ | 17h 6m | Completed |
+
+### MOBA
+
+| Game | Release Year | Rating | Playtime | Status |
+|------|--------------|--------|----------|--------|
+| [DOTA 2](dota_2.md) | 2013 | ★★★★★ | 4192h 11m | Active |
 
 ### Racing Games
 
