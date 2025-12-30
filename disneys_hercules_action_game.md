@@ -10,6 +10,7 @@
 | Time Played        | 1 Hour 56 Minutes           |
 | Rating (Objective) | ★ ★ ⯪ ☆ ☆                 |
 | Rating (Nostalgic) | ★ ★ ★ ★ ⯪                 |
+| Platform           | Pirated                     |
 
 
 

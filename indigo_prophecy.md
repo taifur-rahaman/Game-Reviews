@@ -9,6 +9,7 @@
 | Status             | Completed                   |
 | Time Played        | 9 Hours 33 Minutes          |
 | Rating             | ★ ★ ★ ★ ⯪                 |
+| Platform           | Steam                       |
 
 
 

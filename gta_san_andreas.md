@@ -9,6 +9,7 @@
 | Status             | Completed                   |
 | Time Played        | 41 Hours 48 Minutes         |
 | Rating             | ★ ★ ★ ★ ★                 |
+| Platform           | Pirated                     |
 
 
 
