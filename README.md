@@ -4,8 +4,8 @@ A personal collection of in-depth game reviews, documenting my journey through v
 
 ## Statistics
 
-- **Total Games Reviewed**: 14
-- **Total Playtime**: 306+ hours
+- **Total Games Reviewed**: 15
+- **Total Playtime**: 503+ hours
 
 ## About
 
@@ -56,6 +56,12 @@ This repository contains detailed reviews of games I've completed, focusing on s
 | Game | Release Year | Rating | Playtime | Status |
 |------|--------------|--------|----------|--------|
 | [Indigo Prophecy (Fahrenheit)](indigo_prophecy.md) | 2005 | ★★★★⯪ | 9h 33m | Completed |
+
+### RPG
+
+| Game | Release Year | Rating | Playtime | Status |
+|------|--------------|--------|----------|--------|
+| [Mass Effect Legendary Edition](mass_effect_legendary_edition.md) | 2021 | ★★★★★ | 196h 35m | Completed |
 
 ## Rating System
 
