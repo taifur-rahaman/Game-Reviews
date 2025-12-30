@@ -4,8 +4,8 @@ A personal collection of in-depth game reviews, documenting my journey through v
 
 ## Statistics
 
-- **Total Games Reviewed**: 18
-- **Total Playtime**: 615+ hours
+- **Total Games Reviewed**: 19
+- **Total Playtime**: 642+ hours
 
 ## About
 
@@ -74,6 +74,7 @@ This repository contains detailed reviews of games I've completed, focusing on s
 
 | Game | Release Year | Rating | Playtime | Status |
 |------|--------------|--------|----------|--------|
+| [Rise of the Argonauts](rise_of_the_argonauts.md) | 2008 | ★★★⯪☆ | 26h 52m | Completed |
 | [Mass Effect Legendary Edition](mass_effect_legendary_edition.md) | 2021 | ★★★★★ | 196h 35m | Completed |
 
 ## Rating System
