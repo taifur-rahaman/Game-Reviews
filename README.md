@@ -4,8 +4,8 @@ A personal collection of in-depth game reviews, documenting my journey through v
 
 ## Statistics
 
-- **Total Games Reviewed**: 16
-- **Total Playtime**: 542+ hours
+- **Total Games Reviewed**: 17
+- **Total Playtime**: 589+ hours
 
 ## About
 
@@ -35,11 +35,12 @@ This repository contains detailed reviews of games I've completed, focusing on s
 | [Grand Theft Auto: Vice City](gta_vice_city.md) | 2002 | ★★★★⯪ | 17h 39m | Completed |
 | [Grand Theft Auto: San Andreas](gta_san_andreas.md) | 2004 | ★★★★★ | 41h 48m | Completed |
 
-### Action-Adventure
+### Middle-Earth Series
 
 | Game | Release Year | Rating | Playtime | Status |
 |------|--------------|--------|----------|--------|
 | [Middle-Earth: Shadow of Mordor](shadow_of_mordor.md) | 2014 | ★★★★★ | 39h 26m | Completed |
+| [Middle-Earth: Shadow of War](shadow_of_war.md) | 2017 | ★★★★☆ | 46h 42m | Completed |
 
 ### Strategy Games
 
