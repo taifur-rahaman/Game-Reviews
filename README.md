@@ -8,8 +8,8 @@
 
 | 🗝️ **Metric** | 💎 **Value** |
 | :--- | :--- |
-| **Scrolls Inscribed** | **23** |
-| **Hours in Realms** | **4,865h 13m+** |
+| **Scrolls Inscribed** | **24** |
+| **Hours in Realms** | **4,875h 51m+** |
 
 ---
 
@@ -63,6 +63,7 @@
 |:---|:---:|:---:|:---:|:---:|:---:|
 | [Desperados: Wanted Dead or Alive](desperados_wanted_dead_or_alive.md) | 2001 | ★★★★☆ | 7h 10m | Completed | Pirated |
 | [Frostpunk](frostpunk.md) | 2018 | ★★★★☆ | 15h | Completed | Pirated |
+| [Company of Heroes](company_of_heroes.md) | 2006 | TBD | 10h 38m | Active | Steam |
 | [Auto Brawl Chess](auto_brawl_chess.md) | 2023 | TBD | 7h 31m | Active | Steam |
 | [Age of Mythology: Retold](age_of_mythology_retold.md) | 2024 | ★★★⯪☆ | 20h 7m | Completed | Pirated |
 
