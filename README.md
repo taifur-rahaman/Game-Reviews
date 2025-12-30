@@ -28,6 +28,7 @@ This repository contains detailed reviews of games I've completed, focusing on s
 |------|--------------|--------|----------|--------|
 | [Age of Mythology: Retold](age_of_mythology_retold.md) | 2024 | ★★★⯪☆ | 20h 7m | Completed |
 | [Desperados: Wanted Dead or Alive](desperados_wanted_dead_or_alive.md) | 2001 | ★★★★☆ | 7h 10m | Completed |
+| [Frostpunk](frostpunk.md) | 2018 | ★★★★☆ | 15h | Completed |
 
 ### Casual & Other Games
 
