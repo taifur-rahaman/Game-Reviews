@@ -8,8 +8,8 @@
 
 | 🗝️ **Metric** | 💎 **Value** |
 | :--- | :--- |
-| **Scrolls Inscribed** | **22** |
-| **Hours in Realms** | **4,859h 2m+** |
+| **Scrolls Inscribed** | **23** |
+| **Hours in Realms** | **4,865h 13m+** |
 
 ---
 
@@ -102,6 +102,7 @@
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** |
 |:---|:---:|:---:|:---:|:---:|:---:|
 | [Clash of Clans](clash_of_clans.md) | 2012 | TBD | 31m | Active | Android |
+| [Clash Royale](clash_royale.md) | 2016 | TBD | 6h 11m | Active | Android |
 
 ---
 
