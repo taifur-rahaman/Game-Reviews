@@ -22,6 +22,12 @@ This repository contains detailed reviews of games I've completed, focusing on s
 | [Assassin's Creed II](assassin's_creed_2.md) | 2009 | ★★★★⯪ | 56h 53m | Completed |
 | [Assassin's Creed: Brotherhood](assassin's_creed_brotherhood.md) | 2010 | ★★★★☆ | 60h 17m | Completed |
 
+### Grand Theft Auto Series
+
+| Game | Release Year | Rating | Playtime | Status |
+|------|--------------|--------|----------|--------|
+| [Grand Theft Auto III](gta_3.md) | 2001 | ★★★★☆ | 19h 56m | Completed |
+
 ### Strategy Games
 
 | Game | Release Year | Rating | Playtime | Status |
