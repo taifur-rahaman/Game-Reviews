@@ -2,6 +2,11 @@
 
 A personal collection of in-depth game reviews, documenting my journey through various titles with thoughtful analysis and reflection.
 
+## Statistics
+
+- **Total Games Reviewed**: 14
+- **Total Playtime**: 306+ hours
+
 ## About
 
 This repository contains detailed reviews of games I've completed, focusing on story, atmosphere, gameplay mechanics, and overall experience. Each review includes:
@@ -45,6 +50,12 @@ This repository contains detailed reviews of games I've completed, focusing on s
 | [Disney's Hercules Action Game](disneys_hercules_action_game.md) | 1997 | ★★★★⯪ | 1h 56m | Completed |
 | [Farm Frenzy](farm_frenzy.md) | 2007 | ★★⯪☆☆ | 9h 38m | Completed |
 | [Farm Frenzy 2](farm_frenzy_2.md) | 2008 | ★★★☆☆ | 16h 56m | Completed |
+
+### Interactive Drama
+
+| Game | Release Year | Rating | Playtime | Status |
+|------|--------------|--------|----------|--------|
+| [Indigo Prophecy (Fahrenheit)](indigo_prophecy.md) | 2005 | ★★★★⯪ | 9h 33m | Completed |
 
 ## Rating System
 
