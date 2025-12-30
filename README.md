@@ -27,6 +27,7 @@ This repository contains detailed reviews of games I've completed, focusing on s
 | Game | Release Year | Rating | Playtime | Status |
 |------|--------------|--------|----------|--------|
 | [Grand Theft Auto III](gta_3.md) | 2001 | ★★★★☆ | 19h 56m | Completed |
+| [Grand Theft Auto: Vice City](gta_vice_city.md) | 2002 | ★★★★⯪ | 17h 39m | Completed |
 
 ### Strategy Games
 
