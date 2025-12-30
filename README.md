@@ -29,11 +29,13 @@ This repository contains detailed reviews of games I've completed, focusing on s
 | [Age of Mythology: Retold](age_of_mythology_retold.md) | 2024 | ★★★⯪☆ | 20h 7m | Completed |
 | [Desperados: Wanted Dead or Alive](desperados_wanted_dead_or_alive.md) | 2001 | ★★★★☆ | 7h 10m | Completed |
 
-### Platformers
+### Casual & Other Games
 
 | Game | Release Year | Rating | Playtime | Status |
 |------|--------------|--------|----------|--------|
 | [Disney's Hercules Action Game](disneys_hercules_action_game.md) | 1997 | ★★★★⯪ | 1h 56m | Completed |
+| [Farm Frenzy](farm_frenzy.md) | 2007 | ★★⯪☆☆ | 9h 38m | Completed |
+| [Farm Frenzy 2](farm_frenzy_2.md) | 2008 | ★★★☆☆ | 16h 56m | Completed |
 
 ## Rating System
 
