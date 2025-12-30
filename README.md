@@ -4,8 +4,8 @@ A personal collection of in-depth game reviews, documenting my journey through v
 
 ## Statistics
 
-- **Total Games Reviewed**: 19
-- **Total Playtime**: 642+ hours
+- **Total Games Reviewed**: 20
+- **Total Playtime**: 659+ hours
 
 ## About
 
@@ -41,6 +41,12 @@ This repository contains detailed reviews of games I've completed, focusing on s
 |------|--------------|--------|----------|--------|
 | [Middle-Earth: Shadow of Mordor](shadow_of_mordor.md) | 2014 | ★★★★★ | 39h 26m | Completed |
 | [Middle-Earth: Shadow of War](shadow_of_war.md) | 2017 | ★★★★☆ | 46h 42m | Completed |
+
+### Action-Adventure
+
+| Game | Release Year | Rating | Playtime | Status |
+|------|--------------|--------|----------|--------|
+| [The Godfather](the_godfather.md) | 2006 | ★★★★★ | 17h 6m | Completed |
 
 ### Racing Games
 
