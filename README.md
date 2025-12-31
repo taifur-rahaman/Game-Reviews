@@ -3,8 +3,8 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║  "In the beginning, there was the PC, and the PC was with the       ║
-║   Gamer, and the Gamer was eternal. Through keyboard and mouse,     ║
+║  "In the beginning, there was the PC, and the PC was with the        ║
+║   Gamer, and the Gamer was eternal. Through keyboard and mouse,      ║
 ║   through countless hours at the sacred desk, legends were born..."  ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
