@@ -160,6 +160,28 @@
 ═══════════════════════════════════════════════════════════════════════
 ```
 
+## 🗺️ What to Play Next
+### *The Keeper's Curated Quests by Era*
+
+> *Not all adventures lie in the past, brave keeper. The multiverse of gaming spans decades, and many legendary realms await thy exploration. Consult these sacred scrolls—recommendations forged from thy proven preferences and the wisdom of gaming history.*
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║           📚 YEAR-WISE RECOMMENDATIONS & BACKLOG 📚                  ║
+║     Curated specifically for the Eternal Keeper's tastes             ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+| 📅 **Year** | 🎮 **Must-Play Titles** | 📊 **Status** | 🔗 **Guide** |
+|:---:|:---|:---:|:---:|
+| **2009** | Batman: Arkham Asylum, Dragon Age: Origins, Trine | 3 Owned | [View Details](recommendations/2009.md) |
+
+> *More years shall be added to this chronicle as thy journey continues. Each era of gaming holds treasures waiting to be discovered.*
+
+```
+═══════════════════════════════════════════════════════════════════════
+```
+
 ## 🌟 The Star Chart of Judgment
 ### *The Sacred Scale by Which All Realms Are Measured*
 
