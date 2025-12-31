@@ -10,8 +10,8 @@ Herein are recorded the cumulative feats of the adventurer, updated as the journ
 
 | 🗝️ **Metric** | 💎 **Value** |
 | :--- | :--- |
-| **📜 Scrolls Inscribed** | **24** |
-| **⏳ Hours in Realms** | **4,876h 43m** |
+| **📜 Scrolls Inscribed** | **22** |
+| **⏳ Hours in Realms** | **4,870h 01m** |
 
 ## 🛡️ Active Campaigns
 
@@ -21,7 +21,7 @@ Herein are recorded the cumulative feats of the adventurer, updated as the journ
 | :--- | :--- |
 | **MOBA** | [DOTA 2](dota_2.md) |
 | **Strategy** | [Company of Heroes](company_of_heroes.md), [Auto Brawl Chess](auto_brawl_chess.md) |
-| **Mobile** | [Clash of Clans](clash_of_clans.md), [Clash Royale](clash_royale.md) |
+
 
 ---
 
@@ -109,13 +109,6 @@ Herein are recorded the cumulative feats of the adventurer, updated as the journ
 | [Farm Frenzy](farm_frenzy.md) | 2007 | ★★⯪☆☆ | 9h 38m | Completed | Pirated |
 | [Farm Frenzy 2](farm_frenzy_2.md) | 2008 | ★★★☆☆ | 16h 56m | Completed | Pirated |
 
-### 📱 The Pocket Front
-*Portable battlefields held in the palm of one's hand.*
-
-| 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** |
-|:---|:---:|:---:|:---:|:---:|:---:|
-| [Clash of Clans](clash_of_clans.md) | 2012 | TBD | 31m | **Active** | Android |
-| [Clash Royale](clash_royale.md) | 2016 | TBD | 6h 11m | **Active** | Android |
 
 ---
 
