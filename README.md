@@ -40,12 +40,12 @@
 
 > *Even now, as you read these words, the Keeper wages war across multiple dimensions. These are the living chronicles—the battles yet unfinished, the stories still being written in blood and glory.*
 
-| 🏷️ **Realm Type** | 🏹 **Active Quests** | ⚡ **Status** |
-| :--- | :--- | :---: |
-| **⚔️ MOBA - The Eternal Arena** | [DOTA 2](dota_2.md) | 🔥 **BURNING** |
-| **♟️ Strategy - The War Council** | [Company of Heroes](company_of_heroes.md) | ⚔️ **DEPLOYED** |
-| **♟️ Strategy - The Chess Dimension** | [Auto Brawl Chess](auto_brawl_chess.md) | 🎲 **STRATEGIZING** |
-| **🎨 Puzzle - The Enchanted Realms** | [Trine: Enhanced Edition](trine.md) | ✨ **EXPLORING** |
+| 🏷️ **Realm Type** | 🏹 **Active Quests** | ⚡ **Status** | 🎮 **Platform** |
+| :--- | :--- | :---: | :---: |
+| **⚔️ MOBA - The Eternal Arena** | [DOTA 2](dota_2.md) | 🔥 **BURNING** | Steam |
+| **♟️ Strategy - The War Council** | [Company of Heroes](company_of_heroes.md) | ⚔️ **DEPLOYED** | Steam |
+| **♟️ Strategy - The Chess Dimension** | [Auto Brawl Chess](auto_brawl_chess.md) | 🎲 **STRATEGIZING** | Steam |
+| **🎨 Puzzle - The Enchanted Realms** | [Trine: Enhanced Edition](trine.md) | ✨ **EXPLORING** | Epic Games |
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
