@@ -183,6 +183,32 @@
 ═══════════════════════════════════════════════════════════════════════
 ```
 
+## 🏆 Achievement Guides
+### *Pathways to 100% Completion*
+
+> *For those who seek not merely to play, but to master—to unlock every secret, conquer every challenge, and etch their name in the annals of completion. These sacred guides illuminate the path to perfection, revealing the strategies and wisdom needed to claim every achievement the gaming gods have bestowed.*
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║              📚 COMPREHENSIVE ACHIEVEMENT WALKTHROUGHS 📚            ║
+║         Your roadmap to 100% completion and gaming glory            ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+| 🎮 **Game** | 🏆 **Achievements** | ⏱️ **Est. Time** | 📊 **Difficulty** | 📖 **Guide** |
+|:---|:---:|:---:|:---:|:---:|
+| **Trine: Enhanced Edition** | 33 | 7-15 hours | 4/10 | [View Guide](achievement-guides/trine.md) |
+| **Indigo Prophecy** | 17 | 8-10 hours | 3/10 | 📝 Coming Soon |
+| **Auto Brawl Chess** | 26 | TBD | TBD | 📝 Coming Soon |
+
+> *More guides shall be inscribed as the Keeper's journey continues. Each guide contains detailed strategies, tips, and a complete roadmap to achieve gaming perfection.*
+
+**[📂 Browse All Achievement Guides](achievement-guides/)**
+
+```
+═══════════════════════════════════════════════════════════════════════
+```
+
 ## 🌟 The Star Chart of Judgment
 ### *The Sacred Scale by Which All Realms Are Measured*
 
