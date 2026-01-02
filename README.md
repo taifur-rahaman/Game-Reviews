@@ -19,7 +19,44 @@
 ═══════════════════════════════════════════════════════════════════════
 ```
 
-## 📜 The Keeper's Sacred Registry
+## � Table of Contents
+### *Navigate the Archives with Ease*
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                    🗺️  QUICK NAVIGATION  🗺️                        ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+| 🔖 **Section** | 📝 **Description** |
+|:---|:---|
+| [📜 The Keeper's Sacred Registry](#-the-keepers-sacred-registry) | View total games, hours played, and active campaigns |
+| [🗺️ The Atlas of Realms](#️-the-atlas-of-realms) | Browse all game reviews by category |
+| └─ [⚔️ The Brotherhood's Codex](#️-the-brotherhoods-codex) | Assassin's Creed series |
+| └─ [🔫 Chronicles of Crime & Chaos](#-chronicles-of-crime--chaos) | Grand Theft Auto series |
+| └─ [💍 The Ringbearer's Journals](#-the-ringbearers-journals) | Middle-Earth series |
+| └─ [🔮 Epics of Role-Play](#-epics-of-role-play) | RPG adventures |
+| └─ [⚔️ The Eternal Battlefields](#️-the-eternal-battlefields) | MOBA games |
+| └─ [♟️ The Tactician's War Room](#️-the-tacticians-war-room) | Strategy games |
+| └─ [🗡️ Sagas of Action & Adventure](#️-sagas-of-action--adventure) | Action-adventure titles |
+| └─ [🐎 Chariots of Iron](#-chariots-of-iron) | Racing games |
+| └─ [🎭 The Playwright's Scripts](#-the-playwrights-scripts) | Interactive dramas |
+| └─ [🍺 Tales from the Tavern](#-tales-from-the-tavern) | Casual & lighthearted games |
+| [🗺️ What to Play Next](#️-what-to-play-next) | Year-wise game recommendations |
+| [🏆 Achievement Guides](#-achievement-guides) | 100% completion walkthroughs |
+| [🌟 The Star Chart of Judgment](#-the-star-chart-of-judgment) | Rating system explained |
+| [📚 The Keeper's Wisdom](#-the-keepers-wisdom) | Gaming philosophy & quotes |
+| [🤝 Join the Fellowship](#-join-the-fellowship) | Add me on Steam! |
+
+</div>
+
+```
+═══════════════════════════════════════════════════════════════════════
+```
+
+## �📜 The Keeper's Sacred Registry
 ### *Wherein the Cumulative Feats of the Eternal Wanderer Are Inscribed*
 
 > *These mystical metrics are etched upon enchanted parchment, updated by arcane ritual as each new chapter of the journey unfolds. Behold the magnitude of the quest!*
@@ -249,6 +286,59 @@
 ║                                                                      ║
 ║                    ⚔️  GAME ON, FOREVER  ⚔️                         ║
 ╚══════════════════════════════════════════════════════════════════════╝
+```
+
+```
+═══════════════════════════════════════════════════════════════════════
+```
+
+## 🤝 Join the Fellowship
+### *Forge Bonds Across the Digital Realms*
+
+> *Brave wanderer, the path of the lone wolf is noble, but even the mightiest heroes need companions for their journey. If thou seekest a fellow warrior to share epic battles, legendary raids, and unforgettable gaming moments—extend thy hand in friendship!*
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║              🎮  SUMMON THE KEEPER ON STEAM  🎮                     ║
+║                                                                      ║
+║    ┌────────────────────────────────────────────────────────┐        ║
+║    │                                                        │        ║
+║    │         ⚔️  STEAM FRIEND CODE  ⚔️                     │        ║
+║    │                                                        │        ║
+║    │              ✨  881162132  ✨                        │        ║
+║    │                                                        │        ║
+║    │      "Together, we conquer worlds unknown"             │        ║
+║    │                                                        │        ║ 
+║    └────────────────────────────────────────────────────────┘        ║
+║                                                                      ║
+║  🔥 Send a friend request and join the eternal campaign! 🔥         ║
+║                                                                      ║
+║  Whether you seek a DOTA 2 ally, a strategy gaming partner,          ║
+║  or simply a fellow PC enthusiast to discuss legendary games—        ║
+║  the Keeper welcomes all who share the passion for gaming glory!     ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+**🌟 The Fellowship Awaits 🌟**
+
+*Add me on Steam and let's write new legends together!*
+
+**Steam Friend ID:** `881162132`
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║      🎯 Quick Add: Open Steam → Add Friend → Enter: 881162132       ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+🎯 Quick Add: Open Steam → Add Friend → Enter: 881162132
+</div>
+
+```
+═══════════════════════════════════════════════════════════════════════
 ```
 
 ---
