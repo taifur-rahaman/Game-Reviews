@@ -202,6 +202,7 @@
 
 | 📅 **Year** | 🎮 **Must-Play Titles** | 📊 **Status** | 🔗 **Guide** |
 |:---:|:---|:---:|:---:|
+| **2002** | Mafia, Morrowind, Syberia, Splinter Cell | 3 Played | [View Details](recommendations/2002.md) |
 | **2009** | Batman: Arkham Asylum, Dragon Age: Origins, Trine | 2 Owned | [View Details](recommendations/2009.md) |
 
 <p><em>More years shall be added to this chronicle as thy journey continues. Each era of gaming holds treasures waiting to be discovered.</em></p>
