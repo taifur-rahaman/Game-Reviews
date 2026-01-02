@@ -1,5 +1,8 @@
+<div align="center">
+
 # ⚔️ 𝕿𝖍𝖊 𝕲𝖗𝖆𝖓𝖉 𝕬𝖗𝖈𝖍𝖎𝖛𝖊𝖘 ⚔️
 ## *Chronicles of the Digital Realm Keeper*
+
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
@@ -28,8 +31,6 @@
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-<div align="center">
-
 | 🔖 **Section** | 📝 **Description** |
 |:---|:---|
 | [📜 The Keeper's Sacred Registry](#-the-keepers-sacred-registry) | View total games, hours played, and active campaigns |
@@ -48,8 +49,6 @@
 | [🌟 The Star Chart of Judgment](#-the-star-chart-of-judgment) | Rating system explained |
 | [📚 The Keeper's Wisdom](#-the-keepers-wisdom) | Gaming philosophy & quotes |
 | [🤝 Join the Fellowship](#-join-the-fellowship) | Add me on Steam! |
-
-</div>
 
 ```
 ═══════════════════════════════════════════════════════════════════════
@@ -327,15 +326,12 @@
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 🎯 Quick Add: Open Steam → Add Friend → Enter: 881162132
-</div>
 
 ```
 ═══════════════════════════════════════════════════════════════════════
 ```
 
 ---
-
-<div align="center">
 
 *The Grand Archives are maintained by the Eternal Keeper*  
 *A Proud Member of the **PC Master Race***  
