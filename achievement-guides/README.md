@@ -19,6 +19,22 @@ A complete guide to unlocking all 33 achievements in Trine, including:
 
 ---
 
+### 🎮 [Auto Brawl Chess](auto_brawl_chess.md)
+**Platform:** Steam  
+**Total Achievements:** 26  
+**Estimated Time:** 50-100+ hours  
+**Difficulty:** 7/10
+
+A comprehensive guide to achieving 100% completion in Auto Brawl Chess, including:
+- All 26 achievement details with strategies
+- Hero star level achievements for 16 different heroes
+- Challenging achievements (Dungeon, Chess Pass, etc.)
+- Leaderboard achievement strategies
+- Team composition and synergy tips
+- Complete roadmap to 100% completion
+
+---
+
 ## Guide Format
 
 Each guide includes:
@@ -35,8 +51,8 @@ Each guide includes:
 | Game | Platform | Achievements | Guide Status |
 |:---|:---:|:---:|:---:|
 | [Trine: Enhanced Edition](trine.md) | Epic Games | 33 | ✅ Complete |
+| [Auto Brawl Chess](auto_brawl_chess.md) | Steam | 26 | ✅ Complete |
 | Indigo Prophecy | Steam | 17 | 📝 Planned |
-| Auto Brawl Chess | Steam | 26 | 📝 Planned |
 
 ---
 
