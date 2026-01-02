@@ -79,7 +79,7 @@
 | :--- | :--- | :---: | :---: | :---: |
 | **⚔️ MOBA - The Eternal Arena** | [DOTA 2](dota_2.md) | 🔥 **BURNING** | Steam | Not Available |
 | **♟️ Strategy - The War Council** | [Company of Heroes](company_of_heroes.md) | ⚔️ **DEPLOYED** | Steam | Not Available |
-| **♟️ Strategy - The Chess Dimension** | [Auto Brawl Chess](auto_brawl_chess.md) | 🎲 **STRATEGIZING** | Steam | 0/26 (0%) |
+| **♟️ Strategy - The Chess Dimension** | [Auto Brawl Chess](auto_brawl_chess.md) | 🎲 **STRATEGIZING** | Steam | 4/26 (15%) |
 
 <pre>
 ╔══════════════════════════════════════════════════════════════════════╗
@@ -142,7 +142,7 @@
 | [Desperados: Wanted Dead or Alive](desperados_wanted_dead_or_alive.md) | 2001 | ★★★★☆ | 7h 10m | Completed | Pirated | Pirated |
 | [Company of Heroes](company_of_heroes.md) | 2006 | TBD | 10h 38m | **Active** | Steam | Not Available |
 | [Frostpunk](frostpunk.md) | 2018 | ★★★★☆ | 15h | Completed | Pirated | Pirated |
-| [Auto Brawl Chess](auto_brawl_chess.md) | 2023 | TBD | 7h 31m | **Active** | Steam | 0/26 (0%) |
+| [Auto Brawl Chess](auto_brawl_chess.md) | 2023 | TBD | 9h 9m | **Active** | Steam | 4/26 (15%) |
 | [Age of Mythology: Retold](age_of_mythology_retold.md) | 2024 | ★★★⯪☆ | 20h 7m | Completed | Pirated | Pirated |
 
 ### 🏎️ Racing
@@ -226,7 +226,7 @@
 |:---|:---:|:---:|:---:|:---:|
 | **Trine: Enhanced Edition** | 33 | 7-15 hours | 4/10 | [View Guide](achievement-guides/trine.md) |
 | **Indigo Prophecy** | 17 | 8-10 hours | 3/10 | 📝 Coming Soon |
-| **Auto Brawl Chess** | 26 | TBD | TBD | 📝 Coming Soon |
+| **Auto Brawl Chess** | 26 | 50-100+ hours | 7/10 | [View Guide](achievement-guides/auto_brawl_chess.md) |
 
 <p><em>More guides shall be inscribed as the Keeper's journey continues. Each guide contains detailed strategies, tips, and a complete roadmap to achieve gaming perfection.</em></p>
 
