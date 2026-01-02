@@ -29,7 +29,7 @@
 | **📜 Scrolls Inscribed** | **22 Tomes** | *Worlds Documented* |
 | **⏳ Hours in Realms** | **4,870h 01m** | *Lifetimes Lived* |
 | **🎮 Realms Conquered** | **19 Kingdoms** | *Victories Eternal* |
-| **⚔️ Active Campaigns** | **4 Battlefronts** | *Wars Ongoing* |
+| **⚔️ Active Campaigns** | **3 Battlefronts** | *Wars Ongoing* |
 
 ```
 ═══════════════════════════════════════════════════════════════════════
@@ -45,7 +45,6 @@
 | **⚔️ MOBA - The Eternal Arena** | [DOTA 2](dota_2.md) | 🔥 **BURNING** | Steam | Not Available |
 | **♟️ Strategy - The War Council** | [Company of Heroes](company_of_heroes.md) | ⚔️ **DEPLOYED** | Steam | Not Available |
 | **♟️ Strategy - The Chess Dimension** | [Auto Brawl Chess](auto_brawl_chess.md) | 🎲 **STRATEGIZING** | Steam | 0/26 (0%) |
-| **🎨 Puzzle - The Enchanted Realms** | [Trine: Enhanced Edition](trine.md) | ✨ **EXPLORING** | TBD (Pending) | 0/33 (0%) |
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
