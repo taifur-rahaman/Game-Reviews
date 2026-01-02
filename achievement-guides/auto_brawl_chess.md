@@ -57,10 +57,12 @@ Auto Brawl Chess is an auto-battler that combines elements of auto chess, idle R
 
 ## Easy Achievements
 
-### 🏆 Don't Sweat It!
+### 🏆 Don't Sweat It! ✅
 **Description:** Enable Auto Battle  
 **Difficulty:** 1/10  
 **Strategy:** This is your first achievement. Simply enable the Auto Battle feature in the game settings or during a match. This will unlock immediately.
+
+**Status:** ✅ **UNLOCKED**
 
 ---
 
@@ -235,7 +237,7 @@ These 16 achievements require you to reach the maximum Star level with specific 
 - More likely to occur naturally as you play ranked matches
 - Focus on strong late-game compositions that can clutch victories
 
-### 🏆 Can't Touch This
+### 🏆 Can't Touch This ✅
 **Description:** Finish a match without taking damage  
 **Difficulty:** 9/10  
 **Strategy:**
@@ -246,7 +248,9 @@ These 16 achievements require you to reach the maximum Star level with specific 
 - Best attempted on a lucky draft with strong early heroes
 - May require playing against weaker opponents
 
-### 🏆 Fight Club
+**Status:** ✅ **UNLOCKED**
+
+### 🏆 Fight Club ✅
 **Description:** Be the one to land a killing blow to every enemy player in a ranked match  
 **Difficulty:** 8/10  
 **Strategy:**
@@ -255,6 +259,8 @@ These 16 achievements require you to reach the maximum Star level with specific 
 - Build a balanced team that can win consistently
 - Don't rely on other players eliminating your opponents
 - May take many attempts due to the competitive nature
+
+**Status:** ✅ **UNLOCKED**
 
 ---
 
@@ -298,7 +304,7 @@ These 16 achievements require you to reach the maximum Star level with specific 
 - Study top player replays if available
 - Maintain consistent play over time to climb
 
-### 🏆 Homelander
+### 🏆 Homelander ✅
 **Description:** Reach Top 100 in the Country Leaderboards  
 **Difficulty:** 7-9/10 (varies by country)  
 **Time Required:** 30-60 hours  
@@ -308,6 +314,8 @@ These 16 achievements require you to reach the maximum Star level with specific 
 - Larger countries (USA, China, etc.) = much harder
 - Same strategies as World Leaderboards but more achievable
 - Consistent ranked play is key
+
+**Status:** ✅ **UNLOCKED**
 
 ---
 
@@ -393,17 +401,17 @@ The game features **10 Classes** and **11 Factions**:
 ## Achievement Difficulty Summary
 
 ### Instant Unlock (1)
-- Don't Sweat It!
+- ✅ Don't Sweat It!
 
 ### Easy-Medium (4)
 - Tough Cookie
-- Homelander (country-dependent)
+- ✅ Homelander (country-dependent)
 
 ### Medium-Hard (5)
 - Not a Scratch
 - Cheating Death
-- Fight Club
-- Can't Touch This
+- ✅ Fight Club
+- ✅ Can't Touch This
 
 ### Hard - Hero Achievements (16)
 - All hero star level achievements (Frozen Heart, Feline Cute, etc.)
