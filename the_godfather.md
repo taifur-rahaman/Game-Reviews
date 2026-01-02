@@ -10,6 +10,7 @@
 | Time Played        | 17 Hours 6 Minutes          |
 | Rating             | ★ ★ ★ ★ ★                 |
 | Platform           | Pirated                     |
+| Achievements       | Pirated                     |
 
 
 

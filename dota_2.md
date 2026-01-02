@@ -10,6 +10,7 @@
 | Time Played        | 4192 Hours 11 Minutes       |
 | Rating             | ★ ★ ★ ★ ★                 |
 | Platform           | Steam                       |
+| Achievements       | Not Available               |
 
 
 

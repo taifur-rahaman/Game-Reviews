@@ -10,6 +10,7 @@
 | Time Played        | TBD                         |
 | Rating             | TBD                         |
 | Platform           | Epic Games                  |
+| Achievements       | 0/33 (0%)                   |
 
 
 
@@ -34,3 +35,49 @@ The physics-based puzzles encourage creative problem-solving—there's often mor
 ## Verdict
 
 Rating and Verdict are still in process. I don't know how much I like this game until I complete it.
+
+---
+
+## Achievements
+
+**Progress: 0/33 (0%)**
+
+### Story & Completion
+- [ ] **Enchanted** - Launch the Enchanted Edition of the game
+- [ ] **Astral Introduction** - Complete Astral Academy
+- [ ] **Completed!** - Complete the entire game
+- [ ] **Way Out of the Trine** - Earn all Achievements in Trine
+
+### Experience Collection (Master Achievements)
+- [ ] **Academy Master** - Collect all experience in Astral Academy
+- [ ] **Hallways Master** - Collect all experience in Academy Hallways
+- [ ] **Wolvercote Master** - Collect all experience in Wolvercote Catacombs
+- [ ] **Graveyard Master** - Collect all experience in Dragon Graveyard
+- [ ] **Caverns Master** - Collect all experience in Crystal Caverns
+- [ ] **Crypt Master** - Collect all experience in Crypt of the Damned
+- [ ] **Dungeon Master** - Collect all experience in Forsaken Dungeons
+- [ ] **Castle Master** - Collect all experience in Throne of the Lost
+- [ ] **Forest Master** - Collect all experience in Fangle Forest
+- [ ] **Thicket Master** - Collect all experience in Shadowthorn Thicket
+- [ ] **Ruins Master** - Collect all experience in Ruins of the Perished
+- [ ] **Mines Master** - Collect all experience in Heartland Mines
+- [ ] **Village Master** - Collect all experience in Bramblestoke Village
+- [ ] **Forge Master** - Collect all experience in Iron Forge
+- [ ] **Tower Master** - Collect all experience in Tower of Sarek
+- [ ] **Volcano Master** - Collect all experience in Path to New Dawn
+- [ ] **Master Collector** - Collect all experience in all levels
+
+### Challenge & Skill-Based
+- [ ] **Better Than Developers!** - Complete Tower of Sarek without any deaths on hardest difficulty
+- [ ] **Walk in the Park** - Complete the game on hard using hardcore mode
+- [ ] **Dead on arrival** - Complete a level with 25 or more character deaths
+- [ ] **Survivalist** - Survive a level other than Astral Academy without any damage
+- [ ] **The Cool Way** - In a single level, kill one monster by jumping on it with the Knight, one with the Wizard's abilities, and one with the Thief's grappling hook kick
+- [ ] **Whoops!** - Kill 3 monsters with a single physical object drop or throw
+- [ ] **Still no fireball** - Conjure 200 objects in a single level
+- [ ] **What a View!** - Build a tower with at least 12 Wizard-created objects and stand on top without collapsing it
+- [ ] **Spring master** - Complete at least 3 jumps in a row on different skeletons without touching the ground
+- [ ] **Undead have rights, too!** - Complete a level other than Astral Academy without directly killing any enemies
+- [ ] **Summer Dip** - Stay underwater for more than 20 seconds without taking damage
+- [ ] **Winter Secrets** - Find the Academic, Bony, and Crystalline holiday secret gifts
+

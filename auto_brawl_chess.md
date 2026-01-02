@@ -10,6 +10,7 @@
 | Time Played        | 7h 31m                      |
 | Rating             | TBD                         |
 | Platform           | Steam                       |
+| Achievements       | 0/26 (0%)                   |
 
 
 
@@ -30,3 +31,32 @@ The core loop involves purchasing and placing units on a board, managing an econ
 ## Verdict
 
 Rating and Verdict is still on process. I don't know how much I like this game until i play a significant amount of time.
+
+---
+
+## Achievements
+
+**Progress: 0/26 (0%)**
+
+### Competitive & Leaderboards
+- [ ] **Legend of Pangea** - Reach 1st place in the Tournament of Legends
+- [ ] **Born to Win** - Reach the Top 100 in the World Leaderboards
+- [ ] **Homelander** - Reach the Top 100 in the Country Leaderboards
+- [ ] **Moon Prism** - Reach 1st place in the Awakening Leaderboards
+- [ ] **Cheating Death** - Reach 1st place with 1 health remaining
+- [ ] **Can't Touch This** - Finish a match without taking damage
+- [ ] **Fight Club** - Be the one to land a killing blow to every enemy player in a ranked match
+
+### Character Mastery (Max Star Level)
+- [ ] **Frozen Heart** - Reach the maximum Star level with Marilyn in a ranked match
+- [ ] **Feline Cute** - Reach the maximum Star level with Norris in a ranked match
+- [ ] **Garlic-proof** - Reach the maximum Star level with Azrael in a ranked match
+- [ ] **Dark Knight Rising** - Reach the maximum Star level with Mordred in a ranked match
+- [ ] **Sacred Temptation** - Reach the maximum Star level with Mary in a ranked match
+- [ ] *(Additional character mastery achievements - 10+ more characters)*
+
+### Gameplay & Progression
+- [ ] **Tough Cookie** - Complete all stages of the Chess Pass
+- [ ] **Not a Scratch** - Complete the Dungeon without losing a single fight
+- [ ] **Don't Sweat It!** - Enable Auto Battle
+

@@ -11,6 +11,7 @@
 | Rating (Objective) | ★ ★ ⯪ ☆ ☆                 |
 | Rating (Nostalgic) | ★ ★ ★ ★ ⯪                 |
 | Platform           | Pirated                     |
+| Achievements       | Pirated                     |
 
 
 

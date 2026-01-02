@@ -10,6 +10,7 @@
 | Time Played        | 10h 38m                     |
 | Rating             | TBD                         |
 | Platform           | Steam                       |
+| Achievements       | Not Available               |
 
 
 

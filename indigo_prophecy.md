@@ -10,6 +10,7 @@
 | Time Played        | 9 Hours 33 Minutes          |
 | Rating             | ★ ★ ★ ★ ⯪                 |
 | Platform           | Steam                       |
+| Achievements       | 0/17 (0%)                   |
 
 
 
@@ -50,3 +51,33 @@ The first two-thirds are exceptional — a tightly wound thriller with genuine m
 Indigo Prophecy proved that games could tell mature, complex stories with cinematic flair. It showed that player agency could coexist with authored narrative, that QTEs could be more than gimmicks, and that interactive drama was a viable genre. It's a game that influenced an entire generation of narrative-driven titles, from Heavy Rain to The Walking Dead to Detroit: Become Human.
 
 If you're looking for a polished, mechanically refined experience, this might frustrate you. But if you want a game that takes risks, tells a story unlike anything else, and isn't afraid to be messy in pursuit of ambition, Indigo Prophecy is essential. It's flawed, brilliant, bizarre, and unforgettable — an underrated classic that deserves far more recognition than it receives.
+
+---
+
+## Achievements
+
+**Progress: 0/17 (0%)**
+
+### Story & Gameplay
+- [ ] **Butter Fingers** - Get caught taking too long in the bathroom
+- [ ] **Warning Label** - Kill Lucas by mixing pills and alcohol
+- [ ] **Ice Fishing** - Save the kid in the park
+- [ ] **Forgotten Love** - Convince Tiffany to stay
+- [ ] **Nobody Left Behind** - Save all the kids in the Hangar
+- [ ] **Good Shape** - Win the sparring match as Carla
+- [ ] **Breathless** - Fail the breathing sequence with Carla
+- [ ] **Can't Take Anymore** - Have Carla or Tyler lose all of their mental health
+- [ ] **Ace Cop** - Impress Sergeant Mitchell at the shooting range
+- [ ] **White Men Can't Jump** - Win the basketball game
+
+### Character Progression
+- [ ] **Teflon** - Pass the interrogation as Lucas
+- [ ] **Brotherly Love** - Save Markus
+- [ ] **Seems Legit** - Give Jade to the Purple Clan
+- [ ] **Never Gonna Give You Up** - Refuse to give Jade to the Purple Clan
+
+### Multiple Endings
+- [ ] **Endless Summer** - Achieve the Good Ending
+- [ ] **Winter is Here** - Achieve the Purple Clan Ending
+- [ ] **The Future Awaits** - Achieve the Orange Clan Ending
+
