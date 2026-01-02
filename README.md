@@ -45,7 +45,7 @@
 | **⚔️ MOBA - The Eternal Arena** | [DOTA 2](dota_2.md) | 🔥 **BURNING** | Steam | Not Available |
 | **♟️ Strategy - The War Council** | [Company of Heroes](company_of_heroes.md) | ⚔️ **DEPLOYED** | Steam | Not Available |
 | **♟️ Strategy - The Chess Dimension** | [Auto Brawl Chess](auto_brawl_chess.md) | 🎲 **STRATEGIZING** | Steam | 0/26 (0%) |
-| **🎨 Puzzle - The Enchanted Realms** | [Trine: Enhanced Edition](trine.md) | ✨ **EXPLORING** | Epic Games | 0/33 (0%) |
+| **🎨 Puzzle - The Enchanted Realms** | [Trine: Enhanced Edition](trine.md) | ✨ **EXPLORING** | TBD (Pending) | 0/33 (0%) |
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
@@ -175,7 +175,7 @@
 
 | 📅 **Year** | 🎮 **Must-Play Titles** | 📊 **Status** | 🔗 **Guide** |
 |:---:|:---|:---:|:---:|
-| **2009** | Batman: Arkham Asylum, Dragon Age: Origins, Trine | 3 Owned | [View Details](recommendations/2009.md) |
+| **2009** | Batman: Arkham Asylum, Dragon Age: Origins, Trine | 2 Owned | [View Details](recommendations/2009.md) |
 
 > *More years shall be added to this chronicle as thy journey continues. Each era of gaming holds treasures waiting to be discovered.*
 

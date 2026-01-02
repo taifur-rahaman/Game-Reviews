@@ -9,7 +9,7 @@
 | Status             | Active                      |
 | Time Played        | TBD                         |
 | Rating             | TBD                         |
-| Platform           | Epic Games                  |
+| Platform           | TBD (Pending Purchase)      |
 | Achievements       | 0/33 (0%)                   |
 
 
