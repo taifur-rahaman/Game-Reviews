@@ -34,16 +34,15 @@
 |:---|:---|
 | [📜 The Keeper's Sacred Registry](#-the-keepers-sacred-registry) | View total games, hours played, and active campaigns |
 | [🗺️ The Atlas of Realms](#️-the-atlas-of-realms) | Browse all game reviews by category |
-| └─ [⚔️ The Brotherhood's Codex](#️-the-brotherhoods-codex) | Assassin's Creed series |
-| └─ [🔫 Chronicles of Crime & Chaos](#-chronicles-of-crime--chaos) | Grand Theft Auto series |
-| └─ [💍 The Ringbearer's Journals](#-the-ringbearers-journals) | Middle-Earth series |
-| └─ [🔮 Epics of Role-Play](#-epics-of-role-play) | RPG adventures |
-| └─ [⚔️ The Eternal Battlefields](#️-the-eternal-battlefields) | MOBA games |
-| └─ [♟️ The Tactician's War Room](#️-the-tacticians-war-room) | Strategy games |
-| └─ [🗡️ Sagas of Action & Adventure](#️-sagas-of-action--adventure) | Action-adventure titles |
-| └─ [🐎 Chariots of Iron](#-chariots-of-iron) | Racing games |
-| └─ [🎭 The Playwright's Scripts](#-the-playwrights-scripts) | Interactive dramas |
-| └─ [🍺 Tales from the Tavern](#-tales-from-the-tavern) | Casual & lighthearted games |
+| └─ [⚔️ Action-Adventure](#️-action-adventure) | Stealth, combat & exploration games |
+| └─ [🌆 Open-World Action](#-open-world-action) | Urban chaos & criminal empires |
+| └─ [🔮 Role-Playing Games (RPG)](#-role-playing-games-rpg) | Epic RPG adventures |
+| └─ [⚔️ MOBA](#️-moba-multiplayer-online-battle-arena) | Multiplayer battle arenas |
+| └─ [♟️ Strategy](#️-strategy) | Tactical & strategy games |
+| └─ [🏎️ Racing](#️-racing) | High-speed racing games |
+| └─ [🧩 Puzzle-Platformer](#-puzzle-platformer) | Physics-based puzzle games |
+| └─ [🎭 Interactive Drama](#-interactive-drama) | Story-driven experiences |
+| └─ [🍺 Casual & Family-Friendly](#-casual--family-friendly) | Lighthearted games |
 | [🗺️ What to Play Next](#️-what-to-play-next) | Year-wise game recommendations |
 | [🏆 Achievement Guides](#-achievement-guides) | 100% completion walkthroughs |
 | [🌟 The Star Chart of Judgment](#-the-star-chart-of-judgment) | Rating system explained |
@@ -90,19 +89,22 @@
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
-### ⚔️ The Brotherhood's Codex
-#### *Legends of the Hidden Blade*
+### ⚔️ Action-Adventure
+#### *Legends of Stealth, Combat & Exploration*
 
-> *In the shadows between light and darkness, where justice and vengeance dance their eternal waltz, the Brotherhood moves unseen. These are the forbidden chronicles of the Assassin Order—tales whispered in the dead of night, written in the crimson ink of those who dared defy tyranny. Each memory, a blade in the dark. Each life, a leap of faith.*
+> *These are the chronicles of heroes who blend cunning with combat, stealth with strength. From the rooftops of Renaissance Italy to the shadow-haunted lands of Mordor, from the streets of 1940s New York to ancient kingdoms—these warriors carve their legends through blade and shadow, honor and vengeance. Each leap of faith, each silent assassination, each epic duel writes another verse in the eternal saga of action and adventure.*
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Assassin's Creed I](assassin's_creed_1.md) | 2007 | ★★★★☆ | 29h 15m | Completed | Pirated | Pirated |
 | [Assassin's Creed II](assassin's_creed_2.md) | 2009 | ★★★★⯪ | 56h 53m | Completed | Pirated | Pirated |
 | [Assassin's Creed: Brotherhood](assassin's_creed_brotherhood.md) | 2010 | ★★★★☆ | 60h 17m | Completed | Pirated | Pirated |
+| [Middle-Earth: Shadow of Mordor](shadow_of_mordor.md) | 2014 | ★★★★★ | 39h 26m | Completed | Pirated | Pirated |
+| [Middle-Earth: Shadow of War](shadow_of_war.md) | 2017 | ★★★★☆ | 46h 42m | Completed | Pirated | Pirated |
+| [The Godfather](the_godfather.md) | 2006 | ★★★★★ | 17h 6m | Completed | Pirated | Pirated |
 
-### 🔫 Chronicles of Crime & Chaos
-#### *The Urban Underworld Sagas*
+### 🌆 Open-World Action
+#### *Urban Chaos & Criminal Empires*
 
 > *From the neon-lit streets of Vice to the sun-scorched highways of San Andreas, these are the ballads of the lawless—modern myths forged in concrete and steel. Here, loyalty is currency, betrayal is commonplace, and ambition knows no bounds. The asphalt jungle becomes a battlefield where only the ruthless survive and legends are born in blood and chrome.*
 
@@ -112,17 +114,7 @@
 | [Grand Theft Auto: Vice City](gta_vice_city.md) | 2002 | ★★★★⯪ | 17h 39m | Completed | Pirated | Pirated |
 | [Grand Theft Auto: San Andreas](gta_san_andreas.md) | 2004 | ★★★★★ | 41h 48m | Completed | Pirated | Pirated |
 
-### 💍 The Ringbearer's Journals
-#### *Chronicles from the Land of Shadow*
-
-> *In the dark lands of Mordor, where the Eye of Sauron never sleeps and the very air whispers of ancient evil, heroes rise from the ashes of despair. These are the tales of the Gravewalker, the Bright Lord, and those who dared challenge the Dark Lord's dominion. Through the Nemesis System, enemies become legends, and every death writes a new chapter in the eternal struggle between light and shadow.*
-
-| 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Middle-Earth: Shadow of Mordor](shadow_of_mordor.md) | 2014 | ★★★★★ | 39h 26m | Completed | Pirated | Pirated |
-| [Middle-Earth: Shadow of War](shadow_of_war.md) | 2017 | ★★★★☆ | 46h 42m | Completed | Pirated | Pirated |
-
-### 🔮 Epics of Role-Play
+### � Role-Playing Games (RPG)
 #### *Where Destiny Bends to the Will of Heroes*
 
 > *These are the grandest of tales—odysseys that span galaxies and epochs, where every choice ripples through the fabric of reality itself. From the mythic shores of ancient Greece to the star-spanning civilizations of the Milky Way, heroes rise to shape the very fate of existence. Here, the pen is mightier than the sword, and dialogue can save—or doom—entire worlds.*
@@ -132,8 +124,8 @@
 | [Rise of the Argonauts](rise_of_the_argonauts.md) | 2008 | ★★★⯪☆ | 26h 52m | Completed | Pirated | Pirated |
 | [Mass Effect Legendary Edition](mass_effect_legendary_edition.md) | 2021 | ★★★★★ | 196h 35m | Completed | Pirated | Pirated |
 
-### ⚔️ The Eternal Battlefields
-#### *MOBA - Where Legends Never Die*
+### ⚔️ MOBA (Multiplayer Online Battle Arena)
+#### *The Eternal Battlefields*
 
 > *Behold the Arena Eternal, where time holds no meaning and death is but a temporary inconvenience. In this realm of perpetual conflict, champions from across the multiverse clash in an endless cycle of glory and defeat. Four thousand hours have been consecrated to this sacred battleground—a testament to dedication that transcends mortal comprehension. The Ancient falls, only to rise again. The battle never ends.*
 
@@ -141,8 +133,8 @@
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | [DOTA 2](dota_2.md) | 2013 | ★★★★★ | 4192h 11m | **Active** | Steam | Not Available |
 
-### ♟️ The Tactician's War Room
-#### *Where Strategy Conquers All*
+### ♟️ Strategy
+#### *The Tactician's War Room*
 
 > *In these hallowed halls of strategic mastery, victory belongs not to the strongest arm, but to the keenest mind. From the frozen wastelands of Frostpunk to the war-torn battlefields of World War II, from the Wild West to the mystical realms of ancient mythology—these are the chronicles of commanders who shaped history through cunning, foresight, and tactical brilliance. Every unit placed, every resource managed, every decision made echoes through the annals of strategic warfare.*
 
@@ -154,17 +146,8 @@
 | [Auto Brawl Chess](auto_brawl_chess.md) | 2023 | TBD | 7h 31m | **Active** | Steam | 0/26 (0%) |
 | [Age of Mythology: Retold](age_of_mythology_retold.md) | 2024 | ★★★⯪☆ | 20h 7m | Completed | Pirated | Pirated |
 
-### 🗡️ Sagas of Action & Adventure
-#### *Legends Forged in Combat*
-
-> *These are the visceral chronicles—stories written not in ink, but in the clash of steel and the thunder of gunfire. Tales of honor and revenge, of family bonds tested by fire, and of destinies that cannot be escaped. Each swing of the blade, each pull of the trigger, carves another verse into the epic poem of action and consequence.*
-
-| 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [The Godfather](the_godfather.md) | 2006 | ★★★★★ | 17h 6m | Completed | Pirated | Pirated |
-
-### 🐎 Chariots of Iron
-#### *The Velocity Chronicles*
+### 🏎️ Racing
+#### *Chariots of Iron*
 
 > *In the realm of asphalt and nitrous oxide, where the scream of turbocharged engines drowns out all reason, speed becomes religion and the finish line becomes salvation. These are the ballads of the street racer—modern gladiators who stake their honor on quarter-mile sprints and midnight runs through neon-drenched cities. The Most Wanted stands eternal, a six-star masterpiece of automotive perfection.*
 
@@ -172,8 +155,17 @@
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Need for Speed: Most Wanted](nfs_most_wanted.md) | 2005 | ★★★★★★ | 26h 52m | Completed | Pirated | Pirated |
 
-### 🎭 The Playwright's Scripts
-#### *Interactive Dramas of the Digital Stage*
+### 🧩 Puzzle-Platformer
+#### *Realms of Wonder & Wit*
+
+> *Where physics bends to magic and every obstacle becomes a canvas for creativity. These enchanted realms challenge not just reflexes, but the mind itself. Through mystical forests and ancient ruins, heroes must think as much as they leap, conjure as much as they climb. Here, the greatest weapon is not a sword, but imagination—and the path forward is paved with cleverness and wonder.*
+
+| 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+| [Trine: Enhanced Edition](trine.md) | 2009 | TBD | TBD | **Active** | TBD | 0/33 (0%) |
+
+### 🎭 Interactive Drama
+#### *The Playwright's Scripts*
 
 > *Here, the boundary between player and protagonist dissolves into mist. These are not mere games, but living narratives—digital theater where your choices direct the performance and every decision rewrites the script. In this realm, story is sovereign, and the controller becomes a quill with which to author destiny itself.*
 
@@ -181,8 +173,8 @@
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Indigo Prophecy (Fahrenheit)](indigo_prophecy.md) | 2005 | ★★★★⯪ | 9h 33m | Completed | Steam | 0/17 (0%) |
 
-### 🍺 Tales from the Tavern
-#### *Casual Quests & Lighthearted Legends*
+### 🍺 Casual & Family-Friendly
+#### *Tales from the Tavern*
 
 > *Not every adventure need be a world-ending crisis. Sometimes, a weary hero simply seeks the comfort of simpler pleasures—a mug of ale, a warm hearth, and tales that bring smiles rather than scars. These are the lighter chronicles: nostalgic journeys to childhood, pastoral adventures on sun-dappled farms, and whimsical quests that remind us why we fell in love with gaming in the first place.*
 
