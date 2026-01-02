@@ -56,6 +56,9 @@ If you're looking for a polished, mechanically refined experience, this might fr
 
 ## Achievements
 
+> [!NOTE]
+> **📝 Achievement Guide Coming Soon!** - A comprehensive walkthrough guide for all 17 achievements is planned for this game.
+
 **Progress: 0/17 (0%)**
 
 ### Story & Gameplay

@@ -40,6 +40,9 @@ Rating and Verdict are still in process. I don't know how much I like this game 
 
 ## Achievements
 
+> [!TIP]
+> **📖 [View Full Achievement Guide](achievement-guides/trine.md)** - Complete walkthrough with detailed strategies, tips, and roadmap to 100% completion!
+
 **Progress: 0/33 (0%)**
 
 ### Story & Completion

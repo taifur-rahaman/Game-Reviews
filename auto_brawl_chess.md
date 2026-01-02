@@ -36,6 +36,9 @@ Rating and Verdict is still on process. I don't know how much I like this game u
 
 ## Achievements
 
+> [!TIP]
+> **📖 [View Full Achievement Guide](achievement-guides/auto_brawl_chess.md)** - Complete walkthrough with detailed strategies, hero tips, synergies, and roadmap to 100% completion!
+
 **Progress: 0/26 (0%)**
 
 ### Competitive & Leaderboards
