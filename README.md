@@ -161,7 +161,6 @@
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Trine: Enhanced Edition](trine.md) | 2009 | TBD | TBD | **Active** | TBD | 0/33 (0%) |
 
 ### 🎭 Interactive Drama
 #### *The Playwright's Scripts*
@@ -200,10 +199,10 @@
 ╚══════════════════════════════════════════════════════════════════════╝
 </pre>
 
-| 📅 **Year** | 🎮 **Must-Play Titles** | 📊 **Status** | 🔗 **Guide** |
+| 📅 **Year** | 🎮 **Must-Play Titles** | 📊 **Progress** | 🔗 **Guide** |
 |:---:|:---|:---:|:---:|
-| **2002** | Mafia, Morrowind, Syberia, Splinter Cell | 3 Played | [View Details](recommendations/2002.md) |
-| **2009** | Batman: Arkham Asylum, Dragon Age: Origins, Trine | 2 Owned | [View Details](recommendations/2009.md) |
+| **2002** | • Mafia<br>• Morrowind<br>• Syberia<br>• Splinter Cell | 3/4 Played | [View Details](recommendations/2002.md) |
+| **2009** | • Batman: Arkham Asylum<br>• Dragon Age: Origins | 0/2 Played | [View Details](recommendations/2009.md) |
 
 <p><em>More years shall be added to this chronicle as thy journey continues. Each era of gaming holds treasures waiting to be discovered.</em></p>
 
