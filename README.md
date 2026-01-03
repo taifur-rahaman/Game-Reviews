@@ -202,12 +202,14 @@
 ╚══════════════════════════════════════════════════════════════════════╝
 </pre>
 
+**Legend:** ✅ = Completed | 🎮 = Currently Playing | • = Not Started
+
 | 📅 **Year** | 🎮 **Must-Play Titles** | 📊 **Progress** | 🔗 **Guide** |
 |:---:|:---|:---:|:---:|
-| **2002** | ✅ [GTA Vice City](gta_vice_city.md)<br>✅ [GTA III](gta_3.md)<br>✅ [Age of Mythology](age_of_mythology.md)<br>• Morrowind<br>• Mafia<br>• Hitman 2<br>• Syberia<br>• Splinter Cell | 3/8 Played | [View Details](recommendations/2002.md) |
-| **2006** | ✅ [Company of Heroes](company_of_heroes.md) (Base Game) | 1/1 Played | [View Details](recommendations/2006.md) |
-| **2007** | ✅ [Company of Heroes: Opposing Fronts](company_of_heroes.md) | 1/1 Played | [View Details](recommendations/2007.md) |
-| **2009** | ✅ [Company of Heroes: Tales of Valor](company_of_heroes.md)<br>• Batman: Arkham Asylum<br>• Dragon Age: Origins<br>• Borderlands<br>• The Saboteur<br>• Risen<br>• Prototype<br>• Divinity II<br>• Modern Warfare 2<br>• Plants vs. Zombies<br>• Empire/Torchlight/ArmA 2 | 1/11 Played | [View Details](recommendations/2009.md) |
+| **2002** | ✅ [GTA Vice City](gta_vice_city.md)<br>✅ [GTA III](gta_3.md)<br>✅ [Age of Mythology](age_of_mythology.md)<br>🎮 [Syberia](syberia.md)<br>• Morrowind<br>• Mafia<br>• Hitman 2<br>• Splinter Cell | 3/8 Complete<br>1/8 Active | [View Details](recommendations/2002.md) |
+| **2006** | 🎮 [Company of Heroes](company_of_heroes.md) (Base Game) | 0/1 Complete<br>1/1 Active | [View Details](recommendations/2006.md) |
+| **2007** | 🎮 [Company of Heroes: Opposing Fronts](company_of_heroes.md) | 0/1 Complete<br>1/1 Active | [View Details](recommendations/2007.md) |
+| **2009** | 🎮 [Company of Heroes: Tales of Valor](company_of_heroes.md)<br>• Batman: Arkham Asylum<br>• Dragon Age: Origins<br>• Borderlands<br>• The Saboteur<br>• Risen<br>• Prototype<br>• Divinity II<br>• Modern Warfare 2<br>• Plants vs. Zombies<br>• Empire/Torchlight/ArmA 2 | 0/11 Complete<br>1/11 Active | [View Details](recommendations/2009.md) |
 
 <p><em>More years shall be added to this chronicle as thy journey continues. Each era of gaming holds treasures waiting to be discovered.</em></p>
 
