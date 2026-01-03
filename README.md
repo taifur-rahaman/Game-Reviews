@@ -262,6 +262,9 @@ These guides focus on optimal routes, time-saving strategies, and efficient comp
 
 Comprehensive guides that help you savor the full richness of each game, including all story beats, collectibles, side quests, and hidden secrets.
 
+**Available Guides:**
+- **[Syberia](walkthroughs/syberia.md)** - Complete chapter-by-chapter walkthrough covering all 4 locations (Valadilène, Barrockstadt, Komkolzgrad, Aralbad) with detailed puzzle solutions, item locations, and tips for experiencing Kate Walker's dreamlike journey.
+
 **[📂 Browse All Walkthrough Guides](walkthroughs/)**
 
 <p><em>More guides shall be inscribed as the Keeper's journey continues. Each walkthrough is crafted to enhance your adventure, whether you race against time or explore at leisure.</em></p>
