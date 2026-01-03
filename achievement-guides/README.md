@@ -20,22 +20,6 @@ A comprehensive guide to achieving 100% completion in Auto Brawl Chess, includin
 
 ---
 
-### 🎮 [Syberia](syberia.md)
-**Platform:** Steam  
-**Total Achievements:** 13  
-**Estimated Time:** 8-12 hours (single playthrough)  
-**Difficulty:** 5/10
-
-A complete guide to unlocking all 13 achievements in Syberia, including:
-- All story-related achievements
-- Missable achievements (Music Box, Gossip, Snoop, Old School)
-- Complete character and item checklists
-- Location-by-location walkthrough
-- Two-playthrough roadmap for 100% completion
-- Critical warnings for easily missed content
-
----
-
 ## Guide Format
 
 Each guide includes:
@@ -52,7 +36,6 @@ Each guide includes:
 | Game | Platform | Achievements | Guide Status |
 |:---|:---:|:---:|:---:|
 | [Auto Brawl Chess](auto_brawl_chess.md) | Steam | 26 | ✅ Complete |
-| [Syberia](syberia.md) | Steam | 13 | ✅ Complete |
 | Indigo Prophecy | Steam | 17 | 📝 Planned |
 
 ---

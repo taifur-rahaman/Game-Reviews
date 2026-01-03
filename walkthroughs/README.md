@@ -21,11 +21,14 @@
 ### 🏃 Speedrun Walkthroughs
 *For those who seek to conquer with speed and precision*
 
-These guides focus on completing games efficiently, often targeting specific difficulty-based achievements (like Syberia's completion achievements). They include:
+These guides focus on completing games efficiently, often targeting specific difficulty-based achievements. They include:
 - Optimal route planning
 - Time-saving strategies
 - Skip techniques and shortcuts
 - Achievement-focused paths
+
+> [!NOTE]
+> Speedrun guides are only created for games with time-based or difficulty-related achievements. Games without achievements (like Syberia) only have normal playthrough guides.
 
 | 🎮 **Game** | ⏱️ **Target Time** | 📊 **Difficulty** | 📖 **Guide** |
 |:---|:---:|:---:|:---:|
@@ -44,7 +47,7 @@ These comprehensive guides help you experience the full richness of each game, i
 
 | 🎮 **Game** | ⏱️ **Est. Time** | 📊 **Completeness** | 📖 **Guide** |
 |:---|:---:|:---:|:---:|
-| *Coming Soon* | - | - | - |
+| **Syberia** | 8-12 hours | Full Story | [View Guide](syberia.md) |
 
 ---
 
@@ -52,9 +55,9 @@ These comprehensive guides help you experience the full richness of each game, i
 
 ### 🏃 **Speedrun Guides**
 - **Purpose**: Complete the game quickly while achieving specific goals
-- **Best For**: Players who want to unlock difficulty-based achievements efficiently
+- **Best For**: Players who want to unlock difficulty-based or time-based achievements efficiently
 - **Includes**: Optimal paths, time-saving tricks, minimal collectibles
-- **Example**: Syberia speedrun for completion achievements
+- **Note**: Only created for games with relevant achievements
 
 ### 🌟 **Normal Playthrough Guides**
 - **Purpose**: Experience the full game with all content
@@ -66,10 +69,10 @@ These comprehensive guides help you experience the full richness of each game, i
 
 ## 📖 How to Use These Guides
 
-1. **Choose Your Path**: Decide if you want a speedrun or normal playthrough
+1. **Choose Your Path**: Decide if you want a speedrun or normal playthrough (if both are available)
 2. **Follow the Steps**: Each guide is broken into chapters or sections
 3. **Check Your Progress**: Use the guide to track where you are
-4. **Combine with Achievement Guides**: For 100% completion, use both walkthrough and achievement guides
+4. **Combine with Achievement Guides**: For 100% completion, use both walkthrough and achievement guides (when applicable)
 
 ---
 

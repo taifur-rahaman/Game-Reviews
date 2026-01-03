@@ -10,7 +10,7 @@
 | Time Played        | TBD                         |
 | Rating             | TBD                         |
 | Platform           | Steam                       |
-| Achievements       | 0/13 (0%)                   |
+| Achievements       | Not Available               |
 
 
 
@@ -42,32 +42,8 @@ However, the gameplay has its limitations. The controls are clunky by modern sta
 
 ---
 
-## Achievements
+## Walkthrough Guide
 
-> [!IMPORTANT]
-> **📖 Full Achievement Guide Available!** - Check out the [complete walkthrough guide](achievement-guides/syberia.md) for all 13 achievements, including missable warnings and detailed strategies.
+> [!NOTE]
+> **🗺️ Complete Walkthrough Available!** - Check out the [full playthrough guide](walkthroughs/syberia.md) for detailed chapter-by-chapter guidance, puzzle solutions, and tips for experiencing the entire story.
 
-**Progress: 0/13 (0%)**
-
-### Story-Related
-- [ ] **Welcome to Valadilene** - Arrive in Valadilene
-- [ ] **Legacy of Kate** - Complete the Valadilene section
-- [ ] **Graduate** - Solve all the Barrockstadt University's problems
-- [ ] **All quiet on the Eastern front** - Arrive at the space station
-- [ ] **A space odyssey** - Get the zeppelin off the ground with Boris' help
-- [ ] **The origin** - Talk to Helena
-- [ ] **The great escape** - Return to Aralbad and escape from the thief
-- [ ] **On the way to Syberia** - Finish the game
-
-### Collectibles ⚠️ MISSABLE
-- [ ] **Music Box** - Listen to all the cylinders in the train
-- [ ] **Memory of the Amerzone** - Find an Amerzone speaking book
-
-### Social ⚠️ MISSABLE
-- [ ] **Gossip** - Talk with every character (21 total)
-
-### Collection ⚠️ MISSABLE
-- [ ] **Snoop** - Find all the game items
-
-### Challenge ⚠️ MISSABLE
-- [ ] **Old School** - Finish the game in difficult mode in less than 6 hours

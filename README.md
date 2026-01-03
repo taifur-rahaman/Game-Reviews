@@ -81,7 +81,7 @@
 | **⚔️ MOBA - The Eternal Arena** | [DOTA 2](dota_2.md) | 🔥 **BURNING** | Steam | Not Available |
 | **♟️ Strategy - The War Council** | [Company of Heroes](company_of_heroes.md) | ⚔️ **DEPLOYED** | Steam | Not Available |
 | **♟️ Strategy - The Chess Dimension** | [Auto Brawl Chess](auto_brawl_chess.md) | 🎲 **STRATEGIZING** | Steam | 4/26 (15%) |
-| **🧩 Adventure - The Dreamlike Journey** | [Syberia](syberia.md) | 🦣 **EXPLORING** | Steam | 0/13 (0%) |
+| **🧩 Adventure - The Dreamlike Journey** | [Syberia](syberia.md) | 🦣 **EXPLORING** | Steam | Not Available |
 
 <pre>
 ╔══════════════════════════════════════════════════════════════════════╗
@@ -163,7 +163,7 @@
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Syberia](syberia.md) | 2002 | TBD | TBD | **Active** | Steam | 0/13 (0%) |
+| [Syberia](syberia.md) | 2002 | TBD | TBD | **Active** | Steam | Not Available |
 
 ### 🎭 Interactive Drama
 #### *The Playwright's Scripts*
@@ -229,7 +229,6 @@
 
 | 🎮 **Game** | 🏆 **Achievements** | ⏱️ **Est. Time** | 📊 **Difficulty** | 📖 **Guide** |
 |:---|:---:|:---:|:---:|:---:|
-| **Syberia** | 13 | 8-12 hours | 5/10 | [View Guide](achievement-guides/syberia.md) |
 | **Indigo Prophecy** | 17 | 8-10 hours | 3/10 | 📝 Coming Soon |
 | **Auto Brawl Chess** | 26 | 50-100+ hours | 7/10 | [View Guide](achievement-guides/auto_brawl_chess.md) |
 
@@ -256,7 +255,7 @@
 ### 🏃 Speedrun Walkthroughs
 *For the swift and the strategic—conquer with speed and precision*
 
-These guides focus on optimal routes, time-saving strategies, and efficient completion paths, perfect for unlocking difficulty-based achievements like Syberia's completion challenges.
+These guides focus on optimal routes, time-saving strategies, and efficient completion paths for those who seek to master games quickly.
 
 ### 🌟 Normal Playthrough Walkthroughs
 *For the explorers and completionists—experience every detail*
