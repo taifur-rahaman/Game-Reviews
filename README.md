@@ -201,8 +201,8 @@
 
 | 📅 **Year** | 🎮 **Must-Play Titles** | 📊 **Progress** | 🔗 **Guide** |
 |:---:|:---|:---:|:---:|
-| **2002** | • Mafia<br>• Morrowind<br>• Syberia<br>• Splinter Cell | 3/4 Played | [View Details](recommendations/2002.md) |
-| **2009** | • Batman: Arkham Asylum<br>• Dragon Age: Origins | 0/2 Played | [View Details](recommendations/2009.md) |
+| **2002** | ✅ [GTA Vice City](gta_vice_city.md)<br>✅ [GTA III](gta_3.md)<br>✅ [Age of Mythology](age_of_mythology_retold.md)<br>• Morrowind<br>• Mafia<br>• Syberia<br>• Splinter Cell | 3/7 Played | [View Details](recommendations/2002.md) |
+| **2009** | • Batman: Arkham Asylum<br>• Dragon Age: Origins<br>• Borderlands<br>• The Saboteur<br>• Risen<br>• Prototype<br>• Divinity II<br>• Modern Warfare 2<br>• Plants vs. Zombies<br>• Empire/Torchlight/ArmA 2 | 0/10 Played | [View Details](recommendations/2009.md) |
 
 <p><em>More years shall be added to this chronicle as thy journey continues. Each era of gaming holds treasures waiting to be discovered.</em></p>
 
