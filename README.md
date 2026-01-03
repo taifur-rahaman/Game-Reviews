@@ -61,10 +61,10 @@
 
 | 🗝️ **Sacred Metric** | 💎 **Legendary Value** | 🔮 **Significance** |
 | :--- | :---: | :--- |
-| **📜 Scrolls Inscribed** | **22 Tomes** | *Worlds Documented* |
+| **📜 Scrolls Inscribed** | **23 Tomes** | *Worlds Documented* |
 | **⏳ Hours in Realms** | **4,870h 01m** | *Lifetimes Lived* |
 | **🎮 Realms Conquered** | **19 Kingdoms** | *Victories Eternal* |
-| **⚔️ Active Campaigns** | **3 Battlefronts** | *Wars Ongoing* |
+| **⚔️ Active Campaigns** | **4 Battlefronts** | *Wars Ongoing* |
 
 <pre>
 ═══════════════════════════════════════════════════════════════════════
@@ -80,6 +80,7 @@
 | **⚔️ MOBA - The Eternal Arena** | [DOTA 2](dota_2.md) | 🔥 **BURNING** | Steam | Not Available |
 | **♟️ Strategy - The War Council** | [Company of Heroes](company_of_heroes.md) | ⚔️ **DEPLOYED** | Steam | Not Available |
 | **♟️ Strategy - The Chess Dimension** | [Auto Brawl Chess](auto_brawl_chess.md) | 🎲 **STRATEGIZING** | Steam | 4/26 (15%) |
+| **🧩 Adventure - The Dreamlike Journey** | [Syberia](syberia.md) | 🦣 **EXPLORING** | Steam | 0/13 (0%) |
 
 <pre>
 ╔══════════════════════════════════════════════════════════════════════╗
@@ -161,6 +162,7 @@
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
+| [Syberia](syberia.md) | 2002 | TBD | TBD | **Active** | Steam | 0/13 (0%) |
 
 ### 🎭 Interactive Drama
 #### *The Playwright's Scripts*
