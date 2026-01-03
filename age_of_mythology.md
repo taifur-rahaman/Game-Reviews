@@ -1,8 +1,9 @@
-# Age of Mythology: Retold
+# Age of Mythology
 
 | |                             |
 |--------------------|-----------------------------| 
-| Release Date       | 4th September 2024          |
+| Release Date       | 2002 (Original)             |
+| Remastered Version | Age of Mythology: Retold (2024) |
 | Developer          | World's Edge, Forgotten Empires |
 | Publisher          | Xbox Game Studios           |
 | Genre              | Real-Time Strategy          |

@@ -143,7 +143,7 @@
 | [Company of Heroes](company_of_heroes.md) | 2006 | TBD | 10h 38m | **Active** | Steam | Not Available |
 | [Frostpunk](frostpunk.md) | 2018 | ★★★★☆ | 15h | Completed | Pirated | Pirated |
 | [Auto Brawl Chess](auto_brawl_chess.md) | 2023 | TBD | 9h 9m | **Active** | Steam | 4/26 (15%) |
-| [Age of Mythology: Retold](age_of_mythology_retold.md) | 2024 | ★★★⯪☆ | 20h 7m | Completed | Pirated | Pirated |
+| [Age of Mythology](age_of_mythology.md) | 2002 | ★★★⯪☆ | 20h 7m | Completed | Pirated | Pirated |
 
 ### 🏎️ Racing
 #### *Chariots of Iron*
@@ -201,7 +201,7 @@
 
 | 📅 **Year** | 🎮 **Must-Play Titles** | 📊 **Progress** | 🔗 **Guide** |
 |:---:|:---|:---:|:---:|
-| **2002** | ✅ [GTA Vice City](gta_vice_city.md)<br>✅ [GTA III](gta_3.md)<br>✅ [Age of Mythology](age_of_mythology_retold.md)<br>• Morrowind<br>• Mafia<br>• Syberia<br>• Splinter Cell | 3/7 Played | [View Details](recommendations/2002.md) |
+| **2002** | ✅ [GTA Vice City](gta_vice_city.md)<br>✅ [GTA III](gta_3.md)<br>✅ [Age of Mythology](age_of_mythology.md)<br>• Morrowind<br>• Mafia<br>• Syberia<br>• Splinter Cell | 3/7 Played | [View Details](recommendations/2002.md) |
 | **2009** | • Batman: Arkham Asylum<br>• Dragon Age: Origins<br>• Borderlands<br>• The Saboteur<br>• Risen<br>• Prototype<br>• Divinity II<br>• Modern Warfare 2<br>• Plants vs. Zombies<br>• Empire/Torchlight/ArmA 2 | 0/10 Played | [View Details](recommendations/2009.md) |
 
 <p><em>More years shall be added to this chronicle as thy journey continues. Each era of gaming holds treasures waiting to be discovered.</em></p>
