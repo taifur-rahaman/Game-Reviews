@@ -226,7 +226,7 @@
 
 | 🎮 **Game** | 🏆 **Achievements** | ⏱️ **Est. Time** | 📊 **Difficulty** | 📖 **Guide** |
 |:---|:---:|:---:|:---:|:---:|
-| **Trine: Enhanced Edition** | 33 | 7-15 hours | 4/10 | [View Guide](achievement-guides/trine.md) |
+| **Syberia** | 13 | 8-12 hours | 5/10 | [View Guide](achievement-guides/syberia.md) |
 | **Indigo Prophecy** | 17 | 8-10 hours | 3/10 | 📝 Coming Soon |
 | **Auto Brawl Chess** | 26 | 50-100+ hours | 7/10 | [View Guide](achievement-guides/auto_brawl_chess.md) |
 

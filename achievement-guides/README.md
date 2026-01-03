@@ -4,21 +4,6 @@ This directory contains comprehensive achievement walkthrough guides for games w
 
 ## Available Guides
 
-### 🎮 [Trine: Enhanced Edition](trine.md)
-**Platform:** Epic Games  
-**Total Achievements:** 33  
-**Estimated Time:** 7-15 hours  
-**Difficulty:** 4/10
-
-A complete guide to unlocking all 33 achievements in Trine, including:
-- Story & completion achievements
-- All 16 experience collection (Master) achievements
-- Challenge & skill-based achievements
-- Difficulty-specific achievements
-- Tips, strategies, and recommended playthrough order
-
----
-
 ### 🎮 [Auto Brawl Chess](auto_brawl_chess.md)
 **Platform:** Steam  
 **Total Achievements:** 26  
@@ -32,6 +17,22 @@ A comprehensive guide to achieving 100% completion in Auto Brawl Chess, includin
 - Leaderboard achievement strategies
 - Team composition and synergy tips
 - Complete roadmap to 100% completion
+
+---
+
+### 🎮 [Syberia](syberia.md)
+**Platform:** Steam  
+**Total Achievements:** 13  
+**Estimated Time:** 8-12 hours (single playthrough)  
+**Difficulty:** 5/10
+
+A complete guide to unlocking all 13 achievements in Syberia, including:
+- All story-related achievements
+- Missable achievements (Music Box, Gossip, Snoop, Old School)
+- Complete character and item checklists
+- Location-by-location walkthrough
+- Two-playthrough roadmap for 100% completion
+- Critical warnings for easily missed content
 
 ---
 
@@ -50,8 +51,8 @@ Each guide includes:
 
 | Game | Platform | Achievements | Guide Status |
 |:---|:---:|:---:|:---:|
-| [Trine: Enhanced Edition](trine.md) | Epic Games | 33 | ✅ Complete |
 | [Auto Brawl Chess](auto_brawl_chess.md) | Steam | 26 | ✅ Complete |
+| [Syberia](syberia.md) | Steam | 13 | ✅ Complete |
 | Indigo Prophecy | Steam | 17 | 📝 Planned |
 
 ---
