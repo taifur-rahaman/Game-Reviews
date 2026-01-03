@@ -2,7 +2,8 @@
 
 | |                             |
 |--------------------|-----------------------------|
-| Release Date       | 11th September 2006         |
+| Release Date       | 11th September 2006 (Base Game) |
+| Expansions         | Opposing Fronts (2007)<br>Tales of Valor (2009) |
 | Developer          | Relic Entertainment         |
 | Publisher          | THQ / Sega                  |
 | Genre              | RTS, World War II           |
@@ -11,6 +12,7 @@
 | Rating             | TBD                         |
 | Platform           | Steam                       |
 | Achievements       | Not Available               |
+| Steam Version      | Includes all content (Base + Opposing Fronts + Tales of Valor) |
 
 
 
@@ -18,7 +20,13 @@
 
 Company of Heroes is a real-time strategy game developed by Relic Entertainment that revolutionized the genre upon its release in 2006. Set during World War II, it moves away from traditional resource gathering, focusing instead on capturing control points and managing supply lines. The game is renowned for its cinematic presentation, destructible environments, and intense tactical combat.
 
-*Note: This review is in progress. I will update the playtime as I continue.*
+**Expansions:**
+- **Opposing Fronts (2007):** Added British and Panzer Elite factions with new campaigns
+- **Tales of Valor (2009):** Introduced new units, abilities, and game modes
+
+**Note:** The Steam version includes the base game and both expansions as one complete package.
+
+*This review is in progress. I will update the playtime as I continue.*
 
 ## Story & Atmosphere
 
