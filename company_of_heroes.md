@@ -8,7 +8,7 @@
 | Publisher          | THQ / Sega                  |
 | Genre              | RTS, World War II           |
 | Status             | Active                      |
-| Time Played        | 10h 38m                     |
+| Time Played        | 25h 56m                     |
 | Rating             | TBD                         |
 | Platform           | Steam                       |
 | Achievements       | Not Available               |
@@ -35,6 +35,21 @@ The campaign follows Able Company during the Battle of Normandy, starting with t
 ## Gameplay
 
 Company of Heroes focuses on squad-level tactics and cover mechanics. Units must use the terrain to survive, and the environment itself is dynamic; buildings can be destroyed, leaving behind rubble that offers new cover. Managing resources (Manpower, Munitions, and Fuel) requires controlling territory on the map, forcing aggressive play. At 10 hours and 38 minutes, I am deep into the campaign and learning the nuances of flanking maneuvers and combined arms warfare.
+
+## Walkthrough
+
+📖 **[View Complete Walkthrough Guide](walkthroughs/company_of_heroes.md)**
+
+A comprehensive guide covering all 41 missions across 6 campaigns:
+- **Part 1:** Invasion of Normandy (US) - 15 missions
+- **Part 2:** Operation Market Garden (Panzer Elite) - 8 missions
+- **Part 3:** Liberation of Caen (British) - 9 missions
+- **Part 4-6:** Tales of Valor (Tiger Ace, Causeway, Falaise Pocket) - 9 missions
+
+**Current Progress:**
+- ✅ Invasion of Normandy - COMPLETED (All medals earned! 🏅)
+- 🎮 Operation Market Garden - Mission 6/8 (All medals so far! 🏅)
+- **Overall:** 20/41 missions (49%)
 
 ## Verdict
 

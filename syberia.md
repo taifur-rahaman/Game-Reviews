@@ -6,7 +6,7 @@
 | Developer          | Benoît Sokal / Microïds     |
 | Publisher          | Microïds                    |
 | Genre              | Point-and-Click Adventure   |
-| Status             | In Progress                 |
+| Status             | Backlog                     |
 | Time Played        | TBD                         |
 | Rating             | TBD                         |
 | Platform           | Steam                       |
@@ -42,8 +42,19 @@ However, the gameplay has its limitations. The controls are clunky by modern sta
 
 ---
 
-## Walkthrough Guide
+## Walkthrough
 
-> [!NOTE]
-> **🗺️ Complete Walkthrough Available!** - Check out the [full playthrough guide](walkthroughs/syberia.md) for detailed chapter-by-chapter guidance, puzzle solutions, and tips for experiencing the entire story.
+📖 **[View Complete Walkthrough Guide](walkthroughs/syberia.md)**
 
+A comprehensive chapter-by-chapter guide covering all 4 locations:
+- **Chapter 1:** Valadilène - The journey begins
+- **Chapter 2:** Barrockstadt - University mysteries
+- **Chapter 3:** Komkolzgrad - Industrial puzzles
+- **Chapter 4:** Aralbad - The final destination
+
+**Current Progress:**
+- ⬜ Chapter 1: Valadilène - Not Started
+- ⬜ Chapter 2: Barrockstadt - Not Started
+- ⬜ Chapter 3: Komkolzgrad - Not Started
+- ⬜ Chapter 4: Aralbad - Not Started
+- **Overall:** 0/4 chapters (0%)
