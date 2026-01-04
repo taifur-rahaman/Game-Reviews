@@ -269,6 +269,7 @@ Comprehensive guides that help you savor the full richness of each game, includi
 
 **Available Guides:**
 - **[Syberia](walkthroughs/syberia.md)** - Complete chapter-by-chapter walkthrough covering all 4 locations (Valadilène, Barrockstadt, Komkolzgrad, Aralbad) with detailed puzzle solutions, item locations, and tips for experiencing Kate Walker's dreamlike journey.
+- **[Company of Heroes](walkthroughs/company_of_heroes.md)** - Comprehensive walkthrough covering all 38 missions across 5 campaigns (US Campaign, British Liberation of Caen, Panzer Elite Operation Market Garden, Tiger Ace, and Causeway) with mission-by-mission strategies, combat tactics, and detailed tips for mastering World War II RTS warfare.
 
 **[📂 Browse All Walkthrough Guides](walkthroughs/)**
 
