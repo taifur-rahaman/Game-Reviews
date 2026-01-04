@@ -13,11 +13,12 @@
 
 - [Overview](#overview)
 - [Getting Started](#getting-started)
-- [Part 1: Company of Heroes - US Campaign](#part-1-company-of-heroes---us-campaign)
-- [Part 2: Opposing Fronts - British Campaign](#part-2-opposing-fronts---british-campaign)
-- [Part 3: Opposing Fronts - Panzer Elite Campaign](#part-3-opposing-fronts---panzer-elite-campaign)
+- [Part 1: Company of Heroes - Invasion of Normandy](#part-1-company-of-heroes---invasion-of-normandy)
+- [Part 2: Opposing Fronts - Liberation of Caen](#part-2-opposing-fronts---liberation-of-caen)
+- [Part 3: Opposing Fronts - Operation Market Garden](#part-3-opposing-fronts---operation-market-garden)
 - [Part 4: Tales of Valor - Tiger Ace Campaign](#part-4-tales-of-valor---tiger-ace-campaign)
 - [Part 5: Tales of Valor - Causeway Campaign](#part-5-tales-of-valor---causeway-campaign)
+- [Part 6: Tales of Valor - Falaise Pocket Campaign](#part-6-tales-of-valor---falaise-pocket-campaign)
 - [General Tips & Strategies](#general-tips--strategies)
 - [Frequently Asked Questions](#frequently-asked-questions)
 
@@ -27,17 +28,17 @@
 
 **Game:** Company of Heroes (Complete Edition)  
 **Genre:** Real-Time Strategy, World War II  
-**Estimated Completion Time:** 40-60 hours (all campaigns)  
+**Estimated Completion Time:** 45-65 hours (all campaigns)  
 **Difficulty:** Medium to Hard  
 **Steam Version:** Includes Base Game + Opposing Fronts + Tales of Valor
 
-This walkthrough covers all five campaigns included in the Steam version of Company of Heroes:
-- **Company of Heroes (Base Game):** US Campaign - 15 missions
-- **Opposing Fronts Expansion:** British Campaign - 9 missions, Panzer Elite Campaign - 8 missions
-- **Tales of Valor Expansion:** Tiger Ace Campaign - 3 missions, Causeway Campaign - 3 missions
+This walkthrough covers all six campaigns included in the Steam version of Company of Heroes:
+- **Company of Heroes (Base Game):** Invasion of Normandy - 15 missions
+- **Opposing Fronts Expansion:** Liberation of Caen (British) - 9 missions, Operation Market Garden (Panzer Elite) - 8 missions
+- **Tales of Valor Expansion:** Tiger Ace - 3 missions, Causeway - 3 missions, Falaise Pocket - 3 missions
 
 > [!IMPORTANT]
-> **Total Content:** 38 missions across 5 distinct campaigns, each offering unique gameplay experiences and perspectives on World War II.
+> **Total Content:** 41 missions across 6 distinct campaigns, each offering unique gameplay experiences and perspectives on World War II.
 
 ---
 
@@ -84,9 +85,9 @@ This walkthrough covers all five campaigns included in the Steam version of Comp
 
 ---
 
-## Part 1: Company of Heroes - US Campaign
+## Part 1: Company of Heroes - Invasion of Normandy
 
-*The Invasion of Normandy - 15 Missions*
+*US Campaign - 15 Missions*
 
 This campaign follows Able Company from D-Day through the liberation of France, showcasing the American forces' push into occupied Europe.
 
@@ -408,9 +409,9 @@ This campaign follows Able Company from D-Day through the liberation of France, 
 
 ---
 
-## Part 2: Opposing Fronts - British Campaign
+## Part 2: Opposing Fronts - Liberation of Caen
 
-*Liberation of Caen - 9 Missions*
+*British Campaign - 9 Missions*
 
 This campaign follows British and Canadian forces as they advance from the D-Day beaches toward the strategic city of Caen.
 
@@ -615,9 +616,9 @@ This campaign follows British and Canadian forces as they advance from the D-Day
 
 ---
 
-## Part 3: Opposing Fronts - Panzer Elite Campaign
+## Part 3: Opposing Fronts - Operation Market Garden
 
-*Operation Market Garden - 8 Missions*
+*Panzer Elite Campaign - 8 Missions*
 
 This campaign puts you in command of German Panzer Elite forces defending against the Allied airborne invasion of the Netherlands.
 
@@ -975,6 +976,100 @@ This mini-campaign follows paratroopers from the 82nd Airborne Division as they 
 
 ---
 
+## Part 6: Tales of Valor - Falaise Pocket Campaign
+
+*The Desperate Defense of Trun - 3 Missions*
+
+This mini-campaign follows a mixed unit of Waffen-SS and Wehrmacht troops stationed in the town of Trun, fighting desperately to hold their positions and evacuate forces from the collapsing Falaise Pocket.
+
+### Falaise Pocket Mechanics
+
+**Unique Features:**
+- **Mixed Forces** - Command both Waffen-SS and Wehrmacht units
+- **Defensive Focus** - Hold against overwhelming Allied pressure
+- **Evacuation Objectives** - Protect retreating German forces
+- **Limited Resources** - Make every unit count
+- **Desperate Situation** - Historically accurate desperation
+
+---
+
+### Mission 1: Trun - Swatting Flies
+
+**Objectives:**
+- Report to the church
+- Set up defensive positions
+- Intercept Allied reconnaissance teams
+- Protect German tanks
+- Alarm garrisons (secondary objective)
+
+**Strategy:**
+- **Defensive mission** - prepare for Allied attacks
+- Set up strong defensive positions around key points
+- Use AT guns to protect German armor
+- Intercept Allied scouts before they can call in artillery
+- Build defensive structures quickly
+- Alarm nearby garrisons for reinforcements
+
+**Tips:**
+- Allied reconnaissance teams are dangerous - destroy them quickly
+- Position AT guns to cover tank positions
+- Use buildings for defensive positions
+- German tanks are valuable - protect them at all costs
+- Alarming garrisons provides crucial reinforcements
+
+---
+
+### Mission 2: Besieged City
+
+**Objectives:**
+- Defend Trun against Allied assault
+- Hold key positions
+- Survive the siege
+- Protect evacuation routes
+
+**Strategy:**
+- **Major defensive mission** - Trun is under siege
+- Build layered defenses throughout the city
+- Use urban terrain for defensive advantage
+- Position AT guns to counter Allied armor
+- Hold critical buildings and intersections
+- Protect routes for German forces to evacuate
+
+**Tips:**
+- Allied forces attack from multiple directions
+- Use buildings as strongpoints
+- Rotate damaged units to the rear
+- Save abilities for critical moments
+- The city must hold for evacuation to succeed
+
+---
+
+### Mission 3: The Exodus Begins (Final Mission)
+
+**Objectives:**
+- Evacuate German forces from Trun
+- Protect retreating columns
+- Hold the line against Allied pursuit
+- Complete the evacuation
+
+**Strategy:**
+- **Fighting retreat** - evacuate while holding Allies back
+- Establish defensive positions to cover the retreat
+- Use rearguard actions to delay Allied advance
+- Protect evacuation routes at all costs
+- Sacrifice positions strategically to buy time
+- Get as many forces out as possible
+
+**Tips:**
+- This is a desperate last stand - every minute counts
+- Use veteran units to hold key positions
+- Fall back in stages - don't collapse all at once
+- Allied forces are overwhelming - focus on evacuation, not victory
+- Some units may need to be sacrificed to save others
+- Victory here completes the Falaise Pocket Campaign!
+
+---
+
 ## General Tips & Strategies
 
 ### Resource Management
@@ -1112,12 +1207,13 @@ This mini-campaign follows paratroopers from the 82nd Airborne Division as they 
 
 ### Q: How long does each campaign take?
 **A:**
-- **US Campaign:** 12-15 hours
-- **British Campaign:** 8-10 hours
-- **Panzer Elite Campaign:** 7-9 hours
+- **US Campaign (Invasion of Normandy):** 12-15 hours
+- **British Campaign (Liberation of Caen):** 8-10 hours
+- **Panzer Elite Campaign (Operation Market Garden):** 7-9 hours
 - **Tiger Ace Campaign:** 2-3 hours
 - **Causeway Campaign:** 2-3 hours
-- **Total:** 40-60 hours for all campaigns
+- **Falaise Pocket Campaign:** 2-3 hours
+- **Total:** 45-65 hours for all 6 campaigns
 
 ### Q: Can I replay missions?
 **A:** Yes! You can replay any completed mission from the campaign menu to earn medals or improve your performance.

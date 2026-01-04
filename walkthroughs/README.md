@@ -48,7 +48,7 @@ These comprehensive guides help you experience the full richness of each game, i
 | 🎮 **Game** | ⏱️ **Est. Time** | 📊 **Completeness** | 📖 **Guide** |
 |:---|:---:|:---:|:---:|
 | **Syberia** | 8-12 hours | Full Story | [View Guide](syberia.md) |
-| **Company of Heroes** | 40-60 hours | All Campaigns | [View Guide](company_of_heroes.md) |
+| **Company of Heroes** | 45-65 hours | All 6 Campaigns | [View Guide](company_of_heroes.md) |
 
 ---
 
