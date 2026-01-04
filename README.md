@@ -113,7 +113,7 @@
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Grand Theft Auto III](gta_3.md) | 2001 | ★★★★☆ | 19h 56m | Completed | Pirated | Pirated |
 | [Grand Theft Auto: Vice City](gta_vice_city.md) | 2002 | ★★★★⯪ | 17h 39m | Completed | Pirated | Pirated |
-| [Grand Theft Auto: San Andreas](gta_san_andreas.md) | 2004 | ★★★★★ | 41h 48m | Completed | Pirated | Pirated |
+| [Grand Theft Auto: San Andreas](gta_san_andreas.md) | 2005 | ★★★★★ | 41h 48m | Completed | Pirated | Pirated |
 
 ### � Role-Playing Games (RPG)
 #### *Where Destiny Bends to the Will of Heroes*
@@ -208,7 +208,8 @@
 |:---:|:---|:---:|:---:|
 | **2002** | ✅ [GTA Vice City](gta_vice_city.md)<br>✅ [GTA III](gta_3.md)<br>✅ [Age of Mythology](age_of_mythology.md)<br>🎮 [Syberia](syberia.md)<br>• Morrowind<br>• Mafia<br>• Hitman 2<br>• Splinter Cell | 3/8 Complete<br>1/8 Active | [View Details](recommendations/2002.md) |
 | **2003** | • Max Payne 2<br>• Call of Duty<br>• Manhunt | 0/3 Complete<br>0/3 Active | [View Details](recommendations/2003.md) |
-| **2004** | • Half-Life 2<br>• Chronicles of Riddick<br>• Vampire: Bloodlines<br>• Far Cry<br>• Thief: Deadly Shadows<br>• Doom 3<br>• Rome: Total War | 0/7 Complete<br>0/7 Active | [View Details](recommendations/2004.md) |
+| **2004** | • Half-Life 2<br>• Vampire: Bloodlines<br>• Splinter Cell: Pandora Tomorrow<br>• Far Cry | 0/4 Complete<br>0/4 Active | [View Details](recommendations/2004.md) |
+| **2005** | ✅ [GTA San Andreas](gta_san_andreas.md)<br>✅ [NFS Most Wanted](nfs_most_wanted.md)<br>✅ [Indigo Prophecy](indigo_prophecy.md)<br>• Splinter Cell: Chaos Theory<br>• F.E.A.R.<br>• Civilization IV<br>• Psychonauts | 3/7 Complete<br>0/7 Active | [View Details](recommendations/2005.md) |
 | **2006** | 🎮 [Company of Heroes](company_of_heroes.md) (Base Game) | 0/1 Complete<br>1/1 Active | [View Details](recommendations/2006.md) |
 | **2007** | 🎮 [Company of Heroes: Opposing Fronts](company_of_heroes.md) | 0/1 Complete<br>1/1 Active | [View Details](recommendations/2007.md) |
 | **2009** | 🎮 [Company of Heroes: Tales of Valor](company_of_heroes.md)<br>• Batman: Arkham Asylum<br>• Dragon Age: Origins<br>• Borderlands<br>• The Saboteur<br>• Risen<br>• Prototype<br>• Divinity II<br>• Modern Warfare 2<br>• Plants vs. Zombies<br>• Empire/Torchlight/ArmA 2 | 0/11 Complete<br>1/11 Active | [View Details](recommendations/2009.md) |
