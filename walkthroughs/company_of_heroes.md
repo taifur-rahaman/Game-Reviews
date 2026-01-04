@@ -9,13 +9,31 @@
 
 ---
 
-## 📖 Table of Contents
+## � Your Progress Tracker
 
+**Campaign Status:**
+- ✅ **Part 1: Invasion of Normandy** - COMPLETED (All medals earned! 🏅)
+- 🎮 **Part 2: Operation Market Garden** - IN PROGRESS
+  - Current Mission: **Mission 6: Arnhem - The Last Bridge**
+  - Completed: Missions 1-5 (All medals earned! 🏅)
+  - Remaining: Missions 6-8
+- ⬜ **Part 3: Liberation of Caen** - Not Started
+- ⬜ **Part 4: Tiger Ace** - Not Started
+- ⬜ **Part 5: Causeway** - Not Started
+- ⬜ **Part 6: Falaise Pocket** - Not Started
+
+**Overall Progress:** 20/41 missions completed (49%)
+
+---
+
+## �📖 Table of Contents
+
+- [Your Progress Tracker](#-your-progress-tracker)
 - [Overview](#overview)
 - [Getting Started](#getting-started)
 - [Part 1: Company of Heroes - Invasion of Normandy](#part-1-company-of-heroes---invasion-of-normandy)
-- [Part 2: Opposing Fronts - Liberation of Caen](#part-2-opposing-fronts---liberation-of-caen)
-- [Part 3: Opposing Fronts - Operation Market Garden](#part-3-opposing-fronts---operation-market-garden)
+- [Part 2: Opposing Fronts - Operation Market Garden](#part-2-opposing-fronts---operation-market-garden)
+- [Part 3: Opposing Fronts - Liberation of Caen](#part-3-opposing-fronts---liberation-of-caen)
 - [Part 4: Tales of Valor - Tiger Ace Campaign](#part-4-tales-of-valor---tiger-ace-campaign)
 - [Part 5: Tales of Valor - Causeway Campaign](#part-5-tales-of-valor---causeway-campaign)
 - [Part 6: Tales of Valor - Falaise Pocket Campaign](#part-6-tales-of-valor---falaise-pocket-campaign)
@@ -33,12 +51,19 @@
 **Steam Version:** Includes Base Game + Opposing Fronts + Tales of Valor
 
 This walkthrough covers all six campaigns included in the Steam version of Company of Heroes:
-- **Company of Heroes (Base Game):** Invasion of Normandy - 15 missions
-- **Opposing Fronts Expansion:** Liberation of Caen (British) - 9 missions, Operation Market Garden (Panzer Elite) - 8 missions
-- **Tales of Valor Expansion:** Tiger Ace - 3 missions, Causeway - 3 missions, Falaise Pocket - 3 missions
+- **Part 1 - Company of Heroes (Base Game):** Invasion of Normandy (US) - 15 missions
+- **Part 2 - Opposing Fronts:** Operation Market Garden (Panzer Elite) - 8 missions
+- **Part 3 - Opposing Fronts:** Liberation of Caen (British) - 9 missions
+- **Part 4 - Tales of Valor:** Tiger Ace - 3 missions
+- **Part 5 - Tales of Valor:** Causeway - 3 missions
+- **Part 6 - Tales of Valor:** Falaise Pocket - 3 missions
 
 > [!IMPORTANT]
 > **Total Content:** 41 missions across 6 distinct campaigns, each offering unique gameplay experiences and perspectives on World War II.
+>
+> **Campaign Order Note:** The campaigns are numbered according to the order they appear in the game menu, which follows the chronological release order.
+>
+> **Mission Walkthroughs:** The detailed mission-by-mission walkthroughs below are organized by faction (US → British → Panzer Elite → Tales of Valor). Use the table of contents to jump to the campaign you're currently playing.
 
 ---
 
@@ -409,20 +434,20 @@ This campaign follows Able Company from D-Day through the liberation of France, 
 
 ---
 
-## Part 2: Opposing Fronts - Liberation of Caen
+## Part 2: Opposing Fronts - Operation Market Garden
 
-*British Campaign - 9 Missions*
+*Panzer Elite Campaign - 8 Missions*
 
-This campaign follows British and Canadian forces as they advance from the D-Day beaches toward the strategic city of Caen.
+This campaign puts you in command of German Panzer Elite forces defending against the Allied airborne invasion of the Netherlands.
 
-### British Faction Mechanics
+### Panzer Elite Faction Mechanics
 
 **Unique Features:**
-- **Emplacements** - Build static defensive positions
-- **Lieutenant abilities** - Command units provide buffs
-- **Bren carriers** - Fast, versatile light vehicles
-- **Churchill tanks** - Heavy, durable armor
-- **Artillery** - Powerful off-map support
+- **Tactical Movement** - Fast repositioning abilities
+- **Armored Cars** - Fast, deadly reconnaissance vehicles
+- **Panzer IV and Panther tanks** - Powerful German armor
+- **Defensive tactics** - Ambushes and prepared positions
+- **Veteran units** - Elite troops with special abilities
 
 ---
 
@@ -616,20 +641,20 @@ This campaign follows British and Canadian forces as they advance from the D-Day
 
 ---
 
-## Part 3: Opposing Fronts - Operation Market Garden
+## Part 3: Opposing Fronts - Liberation of Caen
 
-*Panzer Elite Campaign - 8 Missions*
+*British Campaign - 9 Missions*
 
-This campaign puts you in command of German Panzer Elite forces defending against the Allied airborne invasion of the Netherlands.
+This campaign follows British and Canadian forces as they advance from the D-Day beaches toward the strategic city of Caen.
 
-### Panzer Elite Faction Mechanics
+### British Faction Mechanics
 
 **Unique Features:**
-- **Tactical Movement** - Fast repositioning abilities
-- **Armored Cars** - Fast, deadly reconnaissance vehicles
-- **Panzer IV and Panther tanks** - Powerful German armor
-- **Defensive tactics** - Ambushes and prepared positions
-- **Veteran units** - Elite troops with special abilities
+- **Emplacements** - Build static defensive positions
+- **Lieutenant abilities** - Command units provide buffs
+- **Bren carriers** - Fast, versatile light vehicles
+- **Churchill tanks** - Heavy, durable armor
+- **Artillery** - Powerful off-map support
 
 ---
 

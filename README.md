@@ -79,7 +79,7 @@
 | 🏷️ **Realm Type** | 🏹 **Active Quests** | ⚡ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 | :--- | :--- | :---: | :---: | :---: |
 | **⚔️ MOBA - The Eternal Arena** | [DOTA 2](dota_2.md) | 🔥 **BURNING** | Steam | Not Available |
-| **♟️ Strategy - The War Council** | [Company of Heroes](company_of_heroes.md) | ⚔️ **DEPLOYED** | Steam | Not Available |
+| **♟️ Strategy - The War Council** | [Company of Heroes](company_of_heroes.md)<br>📊 **Progress:** 20/41 missions (49%)<br>✅ Invasion of Normandy (Complete)<br>🎮 Operation Market Garden (Mission 6/8) | ⚔️ **DEPLOYED** | Steam | Not Available |
 | **♟️ Strategy - The Chess Dimension** | [Auto Brawl Chess](auto_brawl_chess.md) | 🎲 **STRATEGIZING** | Steam | 4/26 (15%) |
 | **🧩 Adventure - The Dreamlike Journey** | [Syberia](syberia.md) | 🦣 **EXPLORING** | Steam | Not Available |
 
