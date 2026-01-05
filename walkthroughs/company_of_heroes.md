@@ -60,7 +60,7 @@ This walkthrough covers all six campaigns included in the Steam version of Compa
 >
 > **Campaign Order Note:** The campaigns are numbered according to the order they appear in the game menu, which follows the chronological release order.
 >
-> **Mission Walkthroughs:** The detailed mission-by-mission walkthroughs below are organized by faction (US → British → Panzer Elite → Tales of Valor). Use the table of contents to jump to the campaign you're currently playing.
+> **Mission Walkthroughs:** The detailed mission-by-mission walkthroughs below follow the in-game menu order (US → Panzer Elite → British → Tales of Valor). Use the table of contents to jump to the campaign you're currently playing.
 
 ---
 
