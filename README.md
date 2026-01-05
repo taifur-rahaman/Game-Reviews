@@ -62,8 +62,8 @@
 
 | 🗝️ **Sacred Metric** | 💎 **Legendary Value** | 🔮 **Significance** |
 | :--- | :---: | :--- |
-| **📜 Scrolls Inscribed** | **23 Tomes** | *Worlds Documented* |
-| **⏳ Hours in Realms** | **4,887h 22m** | *Lifetimes Lived* |
+| **📜 Scrolls Inscribed** | **22 Tomes** | *Worlds Documented* |
+| **⏳ Hours in Realms** | **4,877h 49m** | *Lifetimes Lived* |
 | **🎮 Realms Conquered** | **19 Kingdoms** | *Victories Eternal* |
 | **⚔️ Active Campaigns** | **3 Battlefronts** | *Wars Ongoing* |
 
@@ -164,14 +164,6 @@
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Syberia](syberia.md) | 2002 | TBD | TBD | **Active** | Steam | Not Available |
 
-### 🎭 Interactive Drama
-#### *The Playwright's Scripts*
-
-<p><em>Here, the boundary between player and protagonist dissolves into mist. These are not mere games, but living narratives—digital theater where your choices direct the performance and every decision rewrites the script. In this realm, story is sovereign, and the controller becomes a quill with which to author destiny itself.</em></p>
-
-| 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Indigo Prophecy (Fahrenheit)](indigo_prophecy.md) | 2005 | ★★★★⯪ | 9h 33m | Completed | Steam | 0/17 (0%) |
 
 ### 🍺 Casual & Family-Friendly
 #### *Tales from the Tavern*
@@ -208,7 +200,7 @@
 | **2002** | ✅ [GTA Vice City](gta_vice_city.md)<br>✅ [GTA III](gta_3.md)<br>✅ [Age of Mythology](age_of_mythology.md)<br>🎮 [Syberia](syberia.md)<br>• Morrowind<br>• Mafia<br>• Hitman 2<br>• Splinter Cell<br>• Nancy Drew: Secret of the Scarlet Hand<br>• Nancy Drew: Ghost Dogs of Moon Lake | 3/10 Complete<br>1/10 Active | [View Details](recommendations/2002.md) |
 | **2003** | • Max Payne 2<br>• Call of Duty<br>• Manhunt<br>• Nancy Drew: The Haunted Carousel<br>• Nancy Drew: Danger on Deception Island | 0/5 Complete<br>0/5 Active | [View Details](recommendations/2003.md) |
 | **2004** | • Half-Life 2<br>• Vampire: Bloodlines<br>• Splinter Cell: Pandora Tomorrow<br>• Far Cry<br>• Nancy Drew: Secret of Shadow Ranch<br>• Nancy Drew: Curse of Blackmoor Manor | 0/6 Complete<br>0/6 Active | [View Details](recommendations/2004.md) |
-| **2005** | ✅ [GTA San Andreas](gta_san_andreas.md)<br>✅ [NFS Most Wanted](nfs_most_wanted.md)<br>✅ [Indigo Prophecy](indigo_prophecy.md)<br>• Splinter Cell: Chaos Theory<br>• F.E.A.R.<br>• Civilization IV<br>• Psychonauts<br>• Nancy Drew: Secret of the Old Clock<br>• Nancy Drew: Last Train to Blue Moon Canyon | 3/9 Complete<br>0/9 Active | [View Details](recommendations/2005.md) |
+| **2005** | ✅ [GTA San Andreas](gta_san_andreas.md)<br>✅ [NFS Most Wanted](nfs_most_wanted.md)<br>• Indigo Prophecy<br>• Splinter Cell: Chaos Theory<br>• F.E.A.R.<br>• Civilization IV<br>• Psychonauts<br>• Nancy Drew: Secret of the Old Clock<br>• Nancy Drew: Last Train to Blue Moon Canyon | 2/9 Complete<br>0/9 Active | [View Details](recommendations/2005.md) |
 | **2006** | 🎮 [Company of Heroes](company_of_heroes.md) (Base Game) | 0/1 Complete<br>1/1 Active | [View Details](recommendations/2006.md) |
 | **2007** | 🎮 [Company of Heroes: Opposing Fronts](company_of_heroes.md) | 0/1 Complete<br>1/1 Active | [View Details](recommendations/2007.md) |
 | **2009** | 🎮 [Company of Heroes: Tales of Valor](company_of_heroes.md)<br>• Batman: Arkham Asylum<br>• Dragon Age: Origins<br>• Borderlands<br>• The Saboteur<br>• Risen<br>• Prototype<br>• Divinity II<br>• Modern Warfare 2<br>• Plants vs. Zombies<br>• Empire/Torchlight/ArmA 2 | 0/11 Complete<br>1/11 Active | [View Details](recommendations/2009.md) |
@@ -233,7 +225,6 @@
 
 | 🎮 **Game** | 🏆 **Achievements** | ⏱️ **Est. Time** | 📊 **Difficulty** | 📖 **Guide** |
 |:---|:---:|:---:|:---:|:---:|
-| **Indigo Prophecy** | 17 | 8-10 hours | 3/10 | 📝 Coming Soon |
 | **Auto Brawl Chess** | 26 | 50-100+ hours | 7/10 | [View Guide](achievement-guides/auto_brawl_chess.md) |
 
 <p><em>More guides shall be inscribed as the Keeper's journey continues. Each guide contains detailed strategies, tips, and a complete roadmap to achieve gaming perfection.</em></p>

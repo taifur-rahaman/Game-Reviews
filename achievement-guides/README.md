@@ -36,7 +36,6 @@ Each guide includes:
 | Game | Platform | Achievements | Guide Status |
 |:---|:---:|:---:|:---:|
 | [Auto Brawl Chess](auto_brawl_chess.md) | Steam | 26 | ✅ Complete |
-| Indigo Prophecy | Steam | 17 | 📝 Planned |
 
 ---
 
