@@ -14,15 +14,15 @@
 **Campaign Status:**
 - ✅ **Part 1: Invasion of Normandy** - COMPLETED (All medals earned! 🏅)
 - 🎮 **Part 2: Operation Market Garden** - IN PROGRESS
-  - Current Mission: **Mission 6: Arnhem - The Last Bridge**
-  - Completed: Missions 1-5 (All medals earned! 🏅)
-  - Remaining: Missions 6-8
+  - Current Mission: **Mission 7: Return to Valkenswaard**
+  - Completed: Missions 1-6 (All medals earned! 🏅)
+  - Remaining: Missions 7-8
 - ⬜ **Part 3: Liberation of Caen** - Not Started
 - ⬜ **Part 4: Tiger Ace** - Not Started
 - ⬜ **Part 5: Causeway** - Not Started
 - ⬜ **Part 6: Falaise Pocket** - Not Started
 
-**Overall Progress:** 20/41 missions completed (49%)
+**Overall Progress:** 21/41 missions completed (51%)
 
 ---
 
@@ -123,6 +123,9 @@ This campaign follows Able Company from D-Day through the liberation of France, 
 - Clear the beach defenses
 - Advance inland
 
+**Medal Reward:** 🏅 **Expert Infantryman Badge**
+- *Objective:* Clear the western approach (capture the AT/AA gun after the explosion cutscene and use it to clear the left beach exit)
+
 **Strategy:**
 - This is a tutorial mission introducing basic mechanics
 - Use engineers to clear obstacles and build cover
@@ -143,6 +146,9 @@ This campaign follows Able Company from D-Day through the liberation of France, 
 - Secure the town of Vierville
 - Eliminate German resistance
 - Establish a forward base
+
+**Medal Reward:** 🏅 **Parachutist Badge**
+- *Objective:* Ambush road patrols
 
 **Strategy:**
 - Capture resource points to build your economy
@@ -165,6 +171,9 @@ This campaign follows Able Company from D-Day through the liberation of France, 
 - Defend against German counterattacks
 - Secure key victory points
 
+**Medal Reward:** 🏅 **Sniper Badge**
+- *Objective:* Achieve 40 sniper kills (30 on Medium, 50 on Expert)
+
 **Strategy:**
 - This mission introduces the **victory point** system
 - Control the majority of victory points to drain enemy tickets
@@ -185,6 +194,9 @@ This campaign follows Able Company from D-Day through the liberation of France, 
 - Hold Carentan against German assault
 - Survive waves of enemy attacks
 - Maintain control of victory points
+
+**Medal Reward:** 🏅 **Bronze Star**
+- *Objective:* Inflict 350+ Axis casualties (use mines and snipers effectively)
 
 **Strategy:**
 - **Defensive mission** - prepare strong positions
@@ -208,6 +220,9 @@ This campaign follows Able Company from D-Day through the liberation of France, 
 - Destroy German defensive positions
 - Capture the town center
 
+**Medal Reward:** 🏅 **Combat Infantry Badge**
+- *Objective:* Complete secondary objectives efficiently
+
 **Strategy:**
 - Bring engineers to clear mines and wire
 - Use smoke to advance on fortified positions
@@ -228,6 +243,9 @@ This campaign follows Able Company from D-Day through the liberation of France, 
 - Capture the port of Cherbourg
 - Destroy coastal defenses
 - Secure the harbor
+
+**Medal Reward:** 🏅 **Distinguished Service Cross**
+- *Objective:* Destroy the Demolition Station within the time limit
 
 **Strategy:**
 - Large-scale assault mission
@@ -250,6 +268,9 @@ This campaign follows Able Company from D-Day through the liberation of France, 
 - Eliminate German armor
 - Hold strategic positions
 
+**Medal Reward:** 🏅 **Tank Destroyer Badge**
+- *Objective:* Destroy all German armor efficiently
+
 **Strategy:**
 - Expect heavy German armor presence
 - Build multiple AT guns and tank destroyers
@@ -270,6 +291,9 @@ This campaign follows Able Company from D-Day through the liberation of France, 
 - Cross the river
 - Establish a bridgehead
 - Repel German counterattacks
+
+**Medal Reward:** 🏅 **Combat Engineer Badge**
+- *Objective:* Establish bridgehead with minimal casualties
 
 **Strategy:**
 - Limited crossing points - choose carefully
@@ -292,6 +316,9 @@ This campaign follows Able Company from D-Day through the liberation of France, 
 - Destroy German artillery positions
 - Hold the hill against counterattacks
 
+**Medal Reward:** 🏅 **Meritorious Unit Citation**
+- *Objective:* Capture the hill and destroy all artillery positions
+
 **Strategy:**
 - Uphill assault is difficult - use smoke and suppression
 - Destroy German artillery to reduce incoming fire
@@ -312,6 +339,9 @@ This campaign follows Able Company from D-Day through the liberation of France, 
 - Liberate the town of St. Lo
 - Destroy German forces
 - Secure the town center
+
+**Medal Reward:** 🏅 **Croix de Guerre**
+- *Objective:* Liberate St. Lo with minimal collateral damage
 
 **Strategy:**
 - Urban combat mission - buildings are key
@@ -334,6 +364,9 @@ This campaign follows Able Company from D-Day through the liberation of France, 
 - Destroy enemy armor
 - Secure the breakthrough
 
+**Medal Reward:** 🏅 **Armor Assault Badge**
+- *Objective:* Breakthrough enemy lines quickly
+
 **Strategy:**
 - Offensive mission with heavy armor
 - Use combined arms - tanks and infantry together
@@ -354,6 +387,9 @@ This campaign follows Able Company from D-Day through the liberation of France, 
 - Defend against German offensive
 - Hold key positions
 - Survive the assault
+
+**Medal Reward:** 🏅 **Legion of Merit**
+- *Objective:* Hold all defensive positions throughout the assault
 
 **Strategy:**
 - **Major defensive mission** - prepare thoroughly
@@ -377,6 +413,9 @@ This campaign follows Able Company from D-Day through the liberation of France, 
 - Destroy retreating German forces
 - Capture strategic objectives
 
+**Medal Reward:** 🏅 **Silver Star**
+- *Objective:* Destroy all retreating German forces
+
 **Strategy:**
 - Aggressive pursuit mission
 - Use fast-moving armor to cut off retreating Germans
@@ -398,6 +437,9 @@ This campaign follows Able Company from D-Day through the liberation of France, 
 - Destroy fortifications
 - Secure the area
 
+**Medal Reward:** 🏅 **Army Commendation Medal**
+- *Objective:* Complete assault with combined arms excellence
+
 **Strategy:**
 - Combined arms assault
 - Use overwhelming firepower
@@ -418,6 +460,9 @@ This campaign follows Able Company from D-Day through the liberation of France, 
 - Close the Falaise Pocket
 - Destroy trapped German forces
 - Complete the campaign
+
+**Medal Reward:** 🏅 **Medal of Honor**
+- *Objective:* Inflict 300+ casualties, hold all 4 bridges, keep Pershing alive
 
 **Strategy:**
 - **Epic finale** - large-scale battle
@@ -458,6 +503,9 @@ This campaign puts you in command of German Panzer Elite forces defending agains
 - Secure Authie
 - Establish British presence
 
+**Medal Reward:** 🏅 **Anti-Aircraft Badge**
+- *Objective:* Complete all objectives efficiently
+
 **Strategy:**
 - Introduction to British forces
 - Use infantry sections as your main force
@@ -478,6 +526,9 @@ This campaign puts you in command of German Panzer Elite forces defending agains
 - Capture Hill 112
 - Hold against German counterattacks
 - Secure the high ground
+
+**Medal Reward:** 🏅 **Sniper's Badge**
+- *Objective:* Hold the hill with minimal casualties
 
 **Strategy:**
 - Difficult uphill assault
@@ -500,6 +551,9 @@ This campaign puts you in command of German Panzer Elite forces defending agains
 - Destroy German defenses
 - Secure the approach to the airfield
 
+**Medal Reward:** 🏅 **Tank Combat Badge**
+- *Objective:* Destroy all armor and capture village
+
 **Strategy:**
 - Urban and rural combat mix
 - Clear buildings with infantry
@@ -520,6 +574,9 @@ This campaign puts you in command of German Panzer Elite forces defending agains
 - Capture Carpiquet Airfield
 - Destroy German aircraft and facilities
 - Hold the airfield
+
+**Medal Reward:** 🏅 **Distinguished Service Order**
+- *Objective:* Capture all objectives with minimal losses
 
 **Strategy:**
 - Large, open battlefield
@@ -542,6 +599,9 @@ This campaign puts you in command of German Panzer Elite forces defending agains
 - Rescue trapped forces
 - Hold against German assault
 
+**Medal Reward:** 🏅 **Special Air Service Badge**
+- *Objective:* Rescue all trapped forces
+
 **Strategy:**
 - Defensive and rescue mission
 - Fight through German lines to reach friendlies
@@ -562,6 +622,9 @@ This campaign puts you in command of German Panzer Elite forces defending agains
 - Enter Caen
 - Fight through urban defenses
 - Secure initial foothold
+
+**Medal Reward:** 🏅 **Iron Cross**
+- *Objective:* Clear all sectors and establish strong foothold
 
 **Strategy:**
 - Urban warfare begins
@@ -584,6 +647,9 @@ This campaign puts you in command of German Panzer Elite forces defending agains
 - Destroy German strongpoints
 - Advance toward the city center
 
+**Medal Reward:** 🏅 **Knight's Cross**
+- *Objective:* Destroy all strongpoints with minimal losses
+
 **Strategy:**
 - Intense urban combat continues
 - German resistance is fanatical
@@ -605,6 +671,9 @@ This campaign puts you in command of German Panzer Elite forces defending agains
 - Destroy remaining German forces
 - Liberate the city
 
+**Medal Reward:** 🏅 **Victoria Cross**
+- *Objective:* Liberate Caen with excellence
+
 **Strategy:**
 - Climactic urban battle
 - Use all available units and abilities
@@ -625,6 +694,9 @@ This campaign puts you in command of German Panzer Elite forces defending agains
 - Break out from Caen
 - Destroy German armor
 - Complete the campaign
+
+**Medal Reward:** 🏅 **Campaign Completion Star**
+- *Objective:* Complete the breakout successfully
 
 **Strategy:**
 - **Tank battle finale**
@@ -665,6 +737,9 @@ This campaign follows British and Canadian forces as they advance from the D-Day
 - Destroy Allied paratroopers
 - Secure the area
 
+**Medal Reward:** 🏅 **Panzer Assault Badge**
+- *Objective:* Destroy all paratroopers rapidly
+
 **Strategy:**
 - Introduction to Panzer Elite forces
 - Use speed and mobility to your advantage
@@ -685,6 +760,9 @@ This campaign follows British and Canadian forces as they advance from the D-Day
 - Continue defensive operations
 - Destroy Allied forces
 - Hold key positions
+
+**Medal Reward:** 🏅 **Tank Destroyer Badge**
+- *Objective:* Destroy all Allied armor
 
 **Strategy:**
 - Allied forces are stronger now
@@ -707,6 +785,9 @@ This campaign follows British and Canadian forces as they advance from the D-Day
 - Destroy defensive perimeters
 - Push the Allies back
 
+**Medal Reward:** 🏅 **Knight's Cross with Oak Leaves**
+- *Objective:* Destroy all defenses swiftly
+
 **Strategy:**
 - Offensive mission
 - Use artillery to soften Allied defenses
@@ -727,6 +808,9 @@ This campaign follows British and Canadian forces as they advance from the D-Day
 - Control Highway 69
 - Destroy Allied convoys
 - Cut Allied supply lines
+
+**Medal Reward:** 🏅 **Anti-Tank Badge**
+- *Objective:* Destroy all convoys and cut supply lines
 
 **Strategy:**
 - Mobile warfare mission
@@ -749,6 +833,9 @@ This campaign follows British and Canadian forces as they advance from the D-Day
 - Repel Allied attacks
 - Hold strategic positions
 
+**Medal Reward:** 🏅 **Wound Badge in Gold**
+- *Objective:* Hold all positions with heavy enemy casualties
+
 **Strategy:**
 - Defensive mission
 - Build strong defensive positions
@@ -769,6 +856,9 @@ This campaign follows British and Canadian forces as they advance from the D-Day
 - Prevent Allies from capturing Arnhem bridge
 - Destroy Allied forces
 - Hold the bridge at all costs
+
+**Medal Reward:** 🏅 **Knight's Cross with Swords**
+- *Objective:* Hold the bridge and destroy all Allied crossing attempts
 
 **Strategy:**
 - **Critical defensive mission**
@@ -791,6 +881,9 @@ This campaign follows British and Canadian forces as they advance from the D-Day
 - Recapture lost territory
 - Destroy Allied forces
 
+**Medal Reward:** 🏅 **Panzer Badge in Gold**
+- *Objective:* Recapture all territory
+
 **Strategy:**
 - Offensive mission
 - Use combined arms assault
@@ -811,6 +904,9 @@ This campaign follows British and Canadian forces as they advance from the D-Day
 - Destroy surrounded Allied forces
 - Complete the encirclement
 - Win the battle
+
+**Medal Reward:** 🏅 **German Cross in Gold**
+- *Objective:* Total annihilation of the Allied pocket
 
 **Strategy:**
 - **Epic finale** - destroy the Allied pocket
@@ -852,6 +948,9 @@ This mini-campaign follows German tank ace Michael Wittmann and his Tiger I tank
 - Eliminate Sherman Fireflies
 - Destroy AT guns (medal objective)
 
+**Medal Reward:** 🏅 **Tiger Ace Badge**
+- *Objective:* Destroy all tanks and AT guns
+
 **Strategy:**
 - **Historic mission** - recreates Wittmann's famous ambush
 - Use the Tiger's superior armor and firepower
@@ -876,6 +975,9 @@ This mini-campaign follows German tank ace Michael Wittmann and his Tiger I tank
 - Destroy Allied armor
 - Complete mission objectives
 
+**Medal Reward:** 🏅 **Knight's Cross with Diamonds**
+- *Objective:* Destroy all Allied armor
+
 **Strategy:**
 - Build on lessons from first mission
 - Use Tiger's strengths - range and firepower
@@ -896,6 +998,9 @@ This mini-campaign follows German tank ace Michael Wittmann and his Tiger I tank
 - Final Tiger Ace mission
 - Destroy Allied forces
 - Complete the campaign
+
+**Medal Reward:** 🏅 **Legend of Wittmann**
+- *Objective:* Complete legendary performance
 
 **Strategy:**
 - Ultimate test of Tiger tank tactics
@@ -938,6 +1043,9 @@ This mini-campaign follows paratroopers from the 82nd Airborne Division as they 
 - Find lost paratroopers
 - Reach Cauquigny
 
+**Medal Reward:** 🏅 **Airborne Wings**
+- *Objective:* Link up all squads with zero casualties
+
 **Strategy:**
 - Start scattered and weak
 - Link up squads to increase strength
@@ -960,6 +1068,9 @@ This mini-campaign follows paratroopers from the 82nd Airborne Division as they 
 - Defend Cauquigny
 - Hold against German attacks
 - Survive until reinforcements arrive
+
+**Medal Reward:** 🏅 **Distinguished Unit Citation**
+- *Objective:* Hold all positions with heavy enemy losses
 
 **Strategy:**
 - **Defensive mission** - prepare positions
@@ -984,6 +1095,9 @@ This mini-campaign follows paratroopers from the 82nd Airborne Division as they 
 - Destroy the tank that killed Sgt. Wilson
 - Capture the castle complex
 - Secure the causeway
+
+**Medal Reward:** 🏅 **Medal of Honor**
+- *Objective:* Avenge Sgt. Wilson and capture the castle
 
 **Strategy:**
 - **Offensive finale** - avenge fallen comrades
@@ -1027,6 +1141,9 @@ This mini-campaign follows a mixed unit of Waffen-SS and Wehrmacht troops statio
 - Protect German tanks
 - Alarm garrisons (secondary objective)
 
+**Medal Reward:** 🏅 **War Merit Cross**
+- *Objective:* Complete all objectives with all tanks surviving
+
 **Strategy:**
 - **Defensive mission** - prepare for Allied attacks
 - Set up strong defensive positions around key points
@@ -1052,6 +1169,9 @@ This mini-campaign follows a mixed unit of Waffen-SS and Wehrmacht troops statio
 - Survive the siege
 - Protect evacuation routes
 
+**Medal Reward:** 🏅 **Honor Roll Clasp**
+- *Objective:* Hold all positions throughout the siege
+
 **Strategy:**
 - **Major defensive mission** - Trun is under siege
 - Build layered defenses throughout the city
@@ -1076,6 +1196,9 @@ This mini-campaign follows a mixed unit of Waffen-SS and Wehrmacht troops statio
 - Protect retreating columns
 - Hold the line against Allied pursuit
 - Complete the evacuation
+
+**Medal Reward:** 🏅 **Knight's Cross of the War Merit Cross**
+- *Objective:* Evacuate all German forces successfully
 
 **Strategy:**
 - **Fighting retreat** - evacuate while holding Allies back
