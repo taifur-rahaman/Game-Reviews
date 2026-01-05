@@ -63,7 +63,7 @@
 | 🗝️ **Sacred Metric** | 💎 **Legendary Value** | 🔮 **Significance** |
 | :--- | :---: | :--- |
 | **📜 Scrolls Inscribed** | **23 Tomes** | *Worlds Documented* |
-| **⏳ Hours in Realms** | **4,886h 19m** | *Lifetimes Lived* |
+| **⏳ Hours in Realms** | **4,887h 22m** | *Lifetimes Lived* |
 | **🎮 Realms Conquered** | **19 Kingdoms** | *Victories Eternal* |
 | **⚔️ Active Campaigns** | **3 Battlefronts** | *Wars Ongoing* |
 
