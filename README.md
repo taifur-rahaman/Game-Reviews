@@ -79,7 +79,7 @@
 | 🏷️ **Realm Type** | 🏹 **Active Quests** | ⚡ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 | :--- | :--- | :---: | :---: | :---: |
 | **⚔️ MOBA - The Eternal Arena** | [DOTA 2](dota_2.md) | 🔥 **BURNING** | Steam | Not Available |
-| **♟️ Strategy - The War Council** | [Company of Heroes](company_of_heroes.md)<br>📊 **Progress:** 23/41 missions (56%)<br>✅ Invasion of Normandy (Complete)<br>✅ Operation Market Garden (Complete)<br>🎮 Liberation of Caen (Up Next) | ⚔️ **DEPLOYED** | Steam | Not Available |
+| **♟️ Strategy - The War Council** | [Company of Heroes](company_of_heroes.md)<br>📊 **Progress:** 23/41 missions (56%)<br>✅ Invasion of Normandy (Complete)<br>✅ Operation Market Garden (Complete)<br>🎮 [Liberation of Caen - Mission 1](walkthroughs/company_of_heroes.md#mission-1-authie---boudicas-boys) | ⚔️ **DEPLOYED** | Steam | Not Available |
 | **♟️ Strategy - The Chess Dimension** | [Auto Brawl Chess](auto_brawl_chess.md) | 🎲 **STRATEGIZING** | Steam | 4/26 (15%) |
 
 <pre>
