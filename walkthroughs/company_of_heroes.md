@@ -14,15 +14,15 @@
 **Campaign Status:**
 - ✅ **Part 1: Invasion of Normandy** - COMPLETED (All medals earned! 🏅)
 - 🎮 **Part 2: Operation Market Garden** - IN PROGRESS
-  - Current Mission: **Mission 7: Return to Valkenswaard**
-  - Completed: Missions 1-6 (All medals earned! 🏅)
-  - Remaining: Missions 7-8
+  - Current Mission: **Mission 8: Oosterbeek - Der Hexenkessel**
+  - Completed: Missions 1-7 (All medals earned! 🏅)
+  - Remaining: Mission 8
 - ⬜ **Part 3: Liberation of Caen** - Not Started
 - ⬜ **Part 4: Tiger Ace** - Not Started
 - ⬜ **Part 5: Causeway** - Not Started
 - ⬜ **Part 6: Falaise Pocket** - Not Started
 
-**Overall Progress:** 21/41 missions completed (51%)
+**Overall Progress:** 22/41 missions completed (54%)
 
 ---
 
