@@ -9,7 +9,7 @@
 
 ---
 
-## � Your Progress Tracker
+## 📊 Your Progress Tracker
 
 **Campaign Status:**
 - ✅ **Part 1: Invasion of Normandy** - COMPLETED (All medals earned! 🏅)
@@ -26,7 +26,7 @@
 
 ---
 
-## �📖 Table of Contents
+## 📖 Table of Contents
 
 - [Your Progress Tracker](#-your-progress-tracker)
 - [Overview](#overview)
@@ -496,6 +496,216 @@ This campaign puts you in command of German Panzer Elite forces defending agains
 
 ---
 
+### Mission 1: Wolfheze
+
+**Objectives:**
+- Respond to Allied airborne landings
+- Destroy Allied paratroopers
+- Secure the area
+
+**Medal Reward:** 🏅 **Panzer Assault Badge**
+- *Objective:* Destroy all paratroopers rapidly
+
+**Strategy:**
+- Introduction to Panzer Elite forces
+- Use speed and mobility to your advantage
+- Armored cars are excellent for hunting paratroopers
+- Establish defensive positions
+- Prevent Allies from consolidating
+
+**Tips:**
+- Allied paratroopers are scattered - hit them before they organize
+- Use combined arms - infantry and armor together
+- Capture resources to build up your forces
+
+---
+
+### Mission 2: Wolfheze - September Snow
+
+**Objectives:**
+- Continue defensive operations
+- Destroy Allied forces
+- Hold key positions
+
+**Medal Reward:** 🏅 **Tank Destroyer Badge**
+- *Objective:* Destroy all Allied armor
+
+**Strategy:**
+- Allied forces are stronger now
+- Use defensive tactics and ambushes
+- AT guns counter Allied armor
+- Build defensive structures
+- Counterattack when opportunities arise
+
+**Tips:**
+- Allied forces have air support - use cover
+- German armor is superior - use it wisely
+- Hold the line and bleed the Allies
+
+---
+
+### Mission 3: Oosterbeek
+
+**Objectives:**
+- Assault Allied positions
+- Destroy defensive perimeters
+- Push the Allies back
+
+**Medal Reward:** 🏅 **Knight's Cross with Oak Leaves**
+- *Objective:* Destroy all defenses swiftly
+
+**Strategy:**
+- Offensive mission
+- Use artillery to soften Allied defenses
+- Coordinate infantry and armor assaults
+- Flank Allied positions when possible
+- Capture resources to sustain the offensive
+
+**Tips:**
+- Allied defenses are strong - use overwhelming force
+- Panthers are excellent against Allied armor
+- Use smoke to advance under fire
+
+---
+
+### Mission 4: Highway 69
+
+**Objectives:**
+- Control Highway 69
+- Destroy Allied convoys
+- Cut Allied supply lines
+
+**Medal Reward:** 🏅 **Anti-Tank Badge**
+- *Objective:* Destroy all convoys and cut supply lines
+
+**Strategy:**
+- Mobile warfare mission
+- Use fast units to intercept convoys
+- Set up ambushes along the highway
+- Destroy Allied vehicles and supplies
+- Prevent Allied reinforcements
+
+**Tips:**
+- Speed is essential - use armored cars and halftracks
+- AT guns in ambush positions are deadly
+- Hit and run tactics work well
+
+---
+
+### Mission 5: Best
+
+**Objectives:**
+- Defend the town of Best
+- Repel Allied attacks
+- Hold strategic positions
+
+**Medal Reward:** 🏅 **Wound Badge in Gold**
+- *Objective:* Hold all positions with heavy enemy casualties
+
+**Strategy:**
+- Defensive mission
+- Build strong defensive positions
+- Use terrain to your advantage
+- AT guns and tanks counter Allied armor
+- Counterattack to regain lost ground
+
+**Tips:**
+- Allied attacks come in waves - prepare between assaults
+- Use veteran units to anchor your defense
+- Artillery is crucial for breaking up Allied attacks
+
+---
+
+### Mission 6: Arnhem - The Last Bridge
+
+**Objectives:**
+- Prevent Allies from capturing Arnhem bridge
+- Destroy Allied forces
+- Hold the bridge at all costs
+
+**Medal Reward:** 🏅 **Knight's Cross with Swords**
+- *Objective:* Hold the bridge and destroy all Allied crossing attempts
+
+**Strategy:**
+- **Critical defensive mission**
+- The bridge is the key objective
+- Build extensive defenses around the bridge
+- Use all available forces
+- Destroy Allied attempts to cross
+
+**Tips:**
+- This is historically the turning point of Market Garden
+- Use demolitions to destroy Allied armor on the bridge
+- Hold the bridge and you win the battle
+
+---
+
+### Mission 7: Return to Valkenswaard
+
+**Objectives:**
+- Counterattack Allied positions
+- Recapture lost territory
+- Destroy Allied forces
+
+**Medal Reward:** 🏅 **Panzer Badge in Gold**
+- *Objective:* Recapture all territory
+
+**Strategy:**
+- Offensive mission
+- Use combined arms assault
+- Coordinate multiple attack routes
+- Destroy Allied strongpoints
+- Push aggressively
+
+**Tips:**
+- Allied forces are weakened - exploit this
+- Use your best units for the assault
+- Capture resources to replace losses
+
+---
+
+### Mission 8: Oosterbeek - Der Hexenkessel (Final Mission)
+
+**Objectives:**
+- Destroy surrounded Allied forces
+- Complete the encirclement
+- Win the battle
+
+**Medal Reward:** 🏅 **German Cross in Gold**
+- *Objective:* Total annihilation of the Allied pocket
+
+**Strategy:**
+- **Epic finale** - destroy the Allied pocket
+- Attack from multiple directions
+- Use artillery and armor to crush resistance
+- Prevent Allied breakout attempts
+- Complete the destruction of Allied forces
+
+**Tips:**
+- This is the culmination of Operation Market Garden
+- Allied forces are trapped but desperate
+- Use overwhelming force to finish them
+- Victory here completes the Panzer Elite Campaign!
+
+---
+
+## Part 3: Opposing Fronts - Liberation of Caen
+
+*British Campaign - 9 Missions*
+
+This campaign follows British and Canadian forces as they advance from the D-Day beaches toward the strategic city of Caen.
+
+### British Faction Mechanics
+
+**Unique Features:**
+- **Emplacements** - Build static defensive positions
+- **Lieutenant abilities** - Command units provide buffs
+- **Bren carriers** - Fast, versatile light vehicles
+- **Churchill tanks** - Heavy, durable armor
+- **Artillery** - Powerful off-map support
+
+---
+
 ### Mission 1: Authie - Boudica's Boys
 
 **Objectives:**
@@ -710,216 +920,6 @@ This campaign puts you in command of German Panzer Elite forces defending agains
 - Use terrain for cover and concealment
 - Coordinate all AT assets for maximum effectiveness
 - Victory here completes the British Campaign!
-
----
-
-## Part 3: Opposing Fronts - Liberation of Caen
-
-*British Campaign - 9 Missions*
-
-This campaign follows British and Canadian forces as they advance from the D-Day beaches toward the strategic city of Caen.
-
-### British Faction Mechanics
-
-**Unique Features:**
-- **Emplacements** - Build static defensive positions
-- **Lieutenant abilities** - Command units provide buffs
-- **Bren carriers** - Fast, versatile light vehicles
-- **Churchill tanks** - Heavy, durable armor
-- **Artillery** - Powerful off-map support
-
----
-
-### Mission 1: Wolfheze
-
-**Objectives:**
-- Respond to Allied airborne landings
-- Destroy Allied paratroopers
-- Secure the area
-
-**Medal Reward:** 🏅 **Panzer Assault Badge**
-- *Objective:* Destroy all paratroopers rapidly
-
-**Strategy:**
-- Introduction to Panzer Elite forces
-- Use speed and mobility to your advantage
-- Armored cars are excellent for hunting paratroopers
-- Establish defensive positions
-- Prevent Allies from consolidating
-
-**Tips:**
-- Allied paratroopers are scattered - hit them before they organize
-- Use combined arms - infantry and armor together
-- Capture resources to build up your forces
-
----
-
-### Mission 2: Wolfheze - September Snow
-
-**Objectives:**
-- Continue defensive operations
-- Destroy Allied forces
-- Hold key positions
-
-**Medal Reward:** 🏅 **Tank Destroyer Badge**
-- *Objective:* Destroy all Allied armor
-
-**Strategy:**
-- Allied forces are stronger now
-- Use defensive tactics and ambushes
-- AT guns counter Allied armor
-- Build defensive structures
-- Counterattack when opportunities arise
-
-**Tips:**
-- Allied forces have air support - use cover
-- German armor is superior - use it wisely
-- Hold the line and bleed the Allies
-
----
-
-### Mission 3: Oosterbeek
-
-**Objectives:**
-- Assault Allied positions
-- Destroy defensive perimeters
-- Push the Allies back
-
-**Medal Reward:** 🏅 **Knight's Cross with Oak Leaves**
-- *Objective:* Destroy all defenses swiftly
-
-**Strategy:**
-- Offensive mission
-- Use artillery to soften Allied defenses
-- Coordinate infantry and armor assaults
-- Flank Allied positions when possible
-- Capture resources to sustain the offensive
-
-**Tips:**
-- Allied defenses are strong - use overwhelming force
-- Panthers are excellent against Allied armor
-- Use smoke to advance under fire
-
----
-
-### Mission 4: Highway 69
-
-**Objectives:**
-- Control Highway 69
-- Destroy Allied convoys
-- Cut Allied supply lines
-
-**Medal Reward:** 🏅 **Anti-Tank Badge**
-- *Objective:* Destroy all convoys and cut supply lines
-
-**Strategy:**
-- Mobile warfare mission
-- Use fast units to intercept convoys
-- Set up ambushes along the highway
-- Destroy Allied vehicles and supplies
-- Prevent Allied reinforcements
-
-**Tips:**
-- Speed is essential - use armored cars and halftracks
-- AT guns in ambush positions are deadly
-- Hit and run tactics work well
-
----
-
-### Mission 5: Best
-
-**Objectives:**
-- Defend the town of Best
-- Repel Allied attacks
-- Hold strategic positions
-
-**Medal Reward:** 🏅 **Wound Badge in Gold**
-- *Objective:* Hold all positions with heavy enemy casualties
-
-**Strategy:**
-- Defensive mission
-- Build strong defensive positions
-- Use terrain to your advantage
-- AT guns and tanks counter Allied armor
-- Counterattack to regain lost ground
-
-**Tips:**
-- Allied attacks come in waves - prepare between assaults
-- Use veteran units to anchor your defense
-- Artillery is crucial for breaking up Allied attacks
-
----
-
-### Mission 6: Arnhem - The Last Bridge
-
-**Objectives:**
-- Prevent Allies from capturing Arnhem bridge
-- Destroy Allied forces
-- Hold the bridge at all costs
-
-**Medal Reward:** 🏅 **Knight's Cross with Swords**
-- *Objective:* Hold the bridge and destroy all Allied crossing attempts
-
-**Strategy:**
-- **Critical defensive mission**
-- The bridge is the key objective
-- Build extensive defenses around the bridge
-- Use all available forces
-- Destroy Allied attempts to cross
-
-**Tips:**
-- This is historically the turning point of Market Garden
-- Use demolitions to destroy Allied armor on the bridge
-- Hold the bridge and you win the battle
-
----
-
-### Mission 7: Return to Valkenswaard
-
-**Objectives:**
-- Counterattack Allied positions
-- Recapture lost territory
-- Destroy Allied forces
-
-**Medal Reward:** 🏅 **Panzer Badge in Gold**
-- *Objective:* Recapture all territory
-
-**Strategy:**
-- Offensive mission
-- Use combined arms assault
-- Coordinate multiple attack routes
-- Destroy Allied strongpoints
-- Push aggressively
-
-**Tips:**
-- Allied forces are weakened - exploit this
-- Use your best units for the assault
-- Capture resources to replace losses
-
----
-
-### Mission 8: Oosterbeek - Der Hexenkessel (Final Mission)
-
-**Objectives:**
-- Destroy surrounded Allied forces
-- Complete the encirclement
-- Win the battle
-
-**Medal Reward:** 🏅 **German Cross in Gold**
-- *Objective:* Total annihilation of the Allied pocket
-
-**Strategy:**
-- **Epic finale** - destroy the Allied pocket
-- Attack from multiple directions
-- Use artillery and armor to crush resistance
-- Prevent Allied breakout attempts
-- Complete the destruction of Allied forces
-
-**Tips:**
-- This is the culmination of Operation Market Garden
-- Allied forces are trapped but desperate
-- Use overwhelming force to finish them
-- Victory here completes the Panzer Elite Campaign!
 
 ---
 
