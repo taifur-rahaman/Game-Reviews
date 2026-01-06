@@ -14,12 +14,12 @@
 **Campaign Status:**
 - ✅ **Part 1: Invasion of Normandy** - COMPLETED (All medals earned! 🏅)
 - ✅ **Part 2: Operation Market Garden** - COMPLETED (All medals earned! 🏅)
-- 🎮 **Part 3: Liberation of Caen** - IN PROGRESS → [Mission 3: Carpiquet](#mission-3-carpiquet)
+- 🎮 **Part 3: Liberation of Caen** - IN PROGRESS → [Mission 5: Caen](#mission-5-caen)
 - ⬜ **Part 4: Tiger Ace** - Not Started
 - ⬜ **Part 5: Causeway** - Not Started
 - ⬜ **Part 6: Falaise Pocket** - Not Started
 
-**Overall Progress:** 25/41 missions completed (61%)
+**Overall Progress:** 27/41 missions completed (66%)
 
 ---
 
