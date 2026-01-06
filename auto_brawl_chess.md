@@ -7,7 +7,7 @@
 | Publisher          | Panoramik Games LTD         |
 | Genre              | Strategy, Auto Battler, RPG |
 | Status             | Active                      |
-| Time Played        | 9h 9m                       |
+| Time Played        | 10h 49m                     |
 | Rating             | TBD                         |
 | Platform           | Steam                       |
 | Achievements       | 4/26 (15%)                  |
@@ -39,7 +39,7 @@ Rating and Verdict is still on process. I don't know how much I like this game u
 > [!TIP]
 > **📖 [View Full Achievement Guide](achievement-guides/auto_brawl_chess.md)** - Complete walkthrough with detailed strategies, hero tips, synergies, and roadmap to 100% completion!
 
-**Progress: 4/26 (15%)** | **Last Updated:** 2026-01-02 | **Playtime:** 9h 9m
+**Progress: 4/26 (15%)** | **Last Updated:** 2026-01-06 | **Playtime:** 10h 49m
 
 ### Competitive & Leaderboards
 - [ ] **Legend of Pangea** - Reach 1st place in the Tournament of Legends

@@ -63,7 +63,7 @@
 | 🗝️ **Sacred Metric** | 💎 **Legendary Value** | 🔮 **Significance** |
 | :--- | :---: | :--- |
 | **📜 Scrolls Inscribed** | **22 Tomes** | *Worlds Documented* |
-| **⏳ Hours in Realms** | **4,878h 58m** | *Lifetimes Lived* |
+| **⏳ Hours in Realms** | **4,885h 33m** | *Lifetimes Lived* |
 | **🎮 Realms Conquered** | **19 Kingdoms** | *Victories Eternal* |
 | **⚔️ Active Campaigns** | **3 Battlefronts** | *Wars Ongoing* |
 
@@ -79,7 +79,7 @@
 | 🏷️ **Realm Type** | 🏹 **Active Quests** | ⚡ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 | :--- | :--- | :---: | :---: | :---: |
 | **⚔️ MOBA - The Eternal Arena** | [DOTA 2](dota_2.md) | 🔥 **BURNING** | Steam | Not Available |
-| **♟️ Strategy - The War Council** | [Company of Heroes](company_of_heroes.md)<br>📊 **Progress:** 23/41 missions (56%)<br>✅ Invasion of Normandy (Complete)<br>✅ Operation Market Garden (Complete)<br>🎮 [Liberation of Caen - Mission 1](walkthroughs/company_of_heroes.md#mission-1-authie---boudicas-boys) | ⚔️ **DEPLOYED** | Steam | Not Available |
+| **♟️ Strategy - The War Council** | [Company of Heroes](company_of_heroes.md)<br>📊 **Progress:** 24/41 missions (59%)<br>✅ Invasion of Normandy (Complete)<br>✅ Operation Market Garden (Complete)<br>🎮 [Liberation of Caen - Mission 2](walkthroughs/company_of_heroes.md#mission-2-hill-112) | ⚔️ **DEPLOYED** | Steam | Not Available |
 | **♟️ Strategy - The Chess Dimension** | [Auto Brawl Chess](auto_brawl_chess.md) | 🎲 **STRATEGIZING** | Steam | 4/26 (15%) |
 
 <pre>
@@ -131,7 +131,7 @@
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [DOTA 2](dota_2.md) | 2013 | ★★★★★ | 4192h 11m | **Active** | Steam | Not Available |
+| [DOTA 2](dota_2.md) | 2013 | ★★★★★ | 4196h 27m | **Active** | Steam | Not Available |
 
 ### ♟️ Strategy
 #### *The Tactician's War Room*
@@ -141,9 +141,9 @@
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Desperados: Wanted Dead or Alive](desperados_wanted_dead_or_alive.md) | 2001 | ★★★★☆ | 7h 10m | Completed | Pirated | Pirated |
-| [Company of Heroes](company_of_heroes.md) | 2006 | TBD | 29h 8m | **Active** | Steam | Not Available |
+| [Company of Heroes](company_of_heroes.md) | 2006 | TBD | 29h 47m | **Active** | Steam | Not Available |
 | [Frostpunk](frostpunk.md) | 2018 | ★★★★☆ | 15h | Completed | Pirated | Pirated |
-| [Auto Brawl Chess](auto_brawl_chess.md) | 2023 | TBD | 9h 9m | **Active** | Steam | 4/26 (15%) |
+| [Auto Brawl Chess](auto_brawl_chess.md) | 2023 | TBD | 10h 49m | **Active** | Steam | 4/26 (15%) |
 | [Age of Mythology](age_of_mythology.md) | 2002 | ★★★⯪☆ | 20h 7m | Completed | Pirated | Pirated |
 
 ### 🏎️ Racing

@@ -14,12 +14,12 @@
 **Campaign Status:**
 - ✅ **Part 1: Invasion of Normandy** - COMPLETED (All medals earned! 🏅)
 - ✅ **Part 2: Operation Market Garden** - COMPLETED (All medals earned! 🏅)
-- 🎮 **Part 3: Liberation of Caen** - UP NEXT → [Mission 1: Authie - Boudica's Boys](#mission-1-authie---boudicas-boys)
+- 🎮 **Part 3: Liberation of Caen** - IN PROGRESS → [Mission 2: Hill 112](#mission-2-hill-112)
 - ⬜ **Part 4: Tiger Ace** - Not Started
 - ⬜ **Part 5: Causeway** - Not Started
 - ⬜ **Part 6: Falaise Pocket** - Not Started
 
-**Overall Progress:** 23/41 missions completed (56%)
+**Overall Progress:** 24/41 missions completed (59%)
 
 ---
 

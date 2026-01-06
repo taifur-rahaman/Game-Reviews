@@ -8,7 +8,7 @@
 | Publisher          | THQ / Sega                  |
 | Genre              | RTS, World War II           |
 | Status             | Active                      |
-| Time Played        | 29h 8m                      |
+| Time Played        | 29h 47m                     |
 | Rating             | TBD                         |
 | Platform           | Steam                       |
 | Achievements       | Not Available               |
@@ -49,8 +49,8 @@ A comprehensive guide covering all 41 missions across 6 campaigns:
 **Current Progress:**
 - ✅ Invasion of Normandy - COMPLETED (All medals earned! 🏅)
 - ✅ Operation Market Garden - COMPLETED (All medals earned! 🏅)
-- 🎮 Liberation of Caen - UP NEXT
-- **Overall:** 23/41 missions (56%)
+- 🎮 Liberation of Caen - IN PROGRESS (1/9 missions)
+- **Overall:** 24/41 missions (59%)
 
 ## Verdict
 

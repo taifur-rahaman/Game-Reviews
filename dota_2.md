@@ -7,7 +7,7 @@
 | Publisher          | Valve                       |
 | Genre              | MOBA                        |
 | Status             | Active                      |
-| Time Played        | 4192 Hours 11 Minutes       |
+| Time Played        | 4196 Hours 27 Minutes       |
 | Rating             | ★ ★ ★ ★ ★                 |
 | Platform           | Steam                       |
 | Achievements       | Not Available               |
