@@ -217,8 +217,8 @@ This campaign follows Able Company from D-Day through the liberation of France, 
 - Destroy German defensive positions
 - Capture the town center
 
-**Medal Reward:** 🏅 **Combat Infantry Badge**
-- *Objective:* Complete secondary objectives efficiently
+**Medal Reward:** 🏅 **Distinguished Service Cross**
+- *Objective:* Destroy the Panzer Grouppen (German armor reinforcements)
 
 **Strategy:**
 - Bring engineers to clear mines and wire
@@ -241,8 +241,8 @@ This campaign follows Able Company from D-Day through the liberation of France, 
 - Destroy coastal defenses
 - Secure the harbor
 
-**Medal Reward:** 🏅 **Distinguished Service Cross**
-- *Objective:* Destroy the Demolition Station within the time limit
+**Medal Reward:** 🏅 **Soldier's Medal**
+- *Objective:* Destroy the Demolition Station (Enemy Ammunition Depot) within the time limit
 
 **Strategy:**
 - Large-scale assault mission
@@ -265,8 +265,8 @@ This campaign follows Able Company from D-Day through the liberation of France, 
 - Eliminate German armor
 - Hold strategic positions
 
-**Medal Reward:** 🏅 **Tank Destroyer Badge**
-- *Objective:* Destroy all German armor efficiently
+**Medal Reward:** 🏅 **Air Medal**
+- *Objective:* Eliminate the Base Komandant
 
 **Strategy:**
 - Expect heavy German armor presence
@@ -289,8 +289,8 @@ This campaign follows Able Company from D-Day through the liberation of France, 
 - Establish a bridgehead
 - Repel German counterattacks
 
-**Medal Reward:** 🏅 **Combat Engineer Badge**
-- *Objective:* Establish bridgehead with minimal casualties
+**Medal Reward:** 🏅 **Bronze Star**
+- *Objective:* Destroy the Axis Chateau HQ
 
 **Strategy:**
 - Limited crossing points - choose carefully
@@ -313,8 +313,8 @@ This campaign follows Able Company from D-Day through the liberation of France, 
 - Destroy German artillery positions
 - Hold the hill against counterattacks
 
-**Medal Reward:** 🏅 **Meritorious Unit Citation**
-- *Objective:* Capture the hill and destroy all artillery positions
+**Medal Reward:** 🏅 **Soldier's Medal**
+- *Objective:* Capture Hill 192 within 50 minutes (30 minutes on Expert difficulty)
 
 **Strategy:**
 - Uphill assault is difficult - use smoke and suppression
@@ -337,8 +337,8 @@ This campaign follows Able Company from D-Day through the liberation of France, 
 - Destroy German forces
 - Secure the town center
 
-**Medal Reward:** 🏅 **Croix de Guerre**
-- *Objective:* Liberate St. Lo with minimal collateral damage
+**Medal Reward:** 🏅 **Combat Infantryman Badge**
+- *Objective:* Promote at least one Ranger squad to 3 veteran chevrons
 
 **Strategy:**
 - Urban combat mission - buildings are key
@@ -361,8 +361,8 @@ This campaign follows Able Company from D-Day through the liberation of France, 
 - Destroy enemy armor
 - Secure the breakthrough
 
-**Medal Reward:** 🏅 **Armor Assault Badge**
-- *Objective:* Breakthrough enemy lines quickly
+**Medal Reward:** 🏅 **Distinguished Service Medal**
+- *Objective:* Minimize tank casualties while destroying all 7 Panther tanks
 
 **Strategy:**
 - Offensive mission with heavy armor
@@ -385,8 +385,8 @@ This campaign follows Able Company from D-Day through the liberation of France, 
 - Hold key positions
 - Survive the assault
 
-**Medal Reward:** 🏅 **Legion of Merit**
-- *Objective:* Hold all defensive positions throughout the assault
+**Medal Reward:** 🏅 **Army Expert Badge**
+- *Objective:* Rescue the Ranger Patrol besieged at the abbey by flanking German forces
 
 **Strategy:**
 - **Major defensive mission** - prepare thoroughly
@@ -411,7 +411,7 @@ This campaign follows Able Company from D-Day through the liberation of France, 
 - Capture strategic objectives
 
 **Medal Reward:** 🏅 **Silver Star**
-- *Objective:* Destroy all retreating German forces
+- *Objective:* Destroy all retreating German forces before they escape
 
 **Strategy:**
 - Aggressive pursuit mission
@@ -435,7 +435,7 @@ This campaign follows Able Company from D-Day through the liberation of France, 
 - Secure the area
 
 **Medal Reward:** 🏅 **Army Commendation Medal**
-- *Objective:* Complete assault with combined arms excellence
+- *Objective:* Complete assault with all secondary objectives
 
 **Strategy:**
 - Combined arms assault
@@ -459,7 +459,7 @@ This campaign follows Able Company from D-Day through the liberation of France, 
 - Complete the campaign
 
 **Medal Reward:** 🏅 **Medal of Honor**
-- *Objective:* Inflict 300+ casualties, hold all 4 bridges, keep Pershing alive
+- *Objective:* Inflict 300+ Axis casualties and hold all 4 bridges
 
 **Strategy:**
 - **Epic finale** - large-scale battle
@@ -548,8 +548,8 @@ This campaign puts you in command of German Panzer Elite forces defending agains
 - Destroy defensive perimeters
 - Push the Allies back
 
-**Medal Reward:** 🏅 **Knight's Cross with Oak Leaves**
-- *Objective:* Destroy all defenses swiftly
+**Medal Reward:** 🏅 **Luftwaffe Ground Assault Badge**
+- *Objective:* Capture all Allied supply drops before the enemy can retrieve them
 
 **Strategy:**
 - Offensive mission
