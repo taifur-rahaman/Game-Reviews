@@ -63,7 +63,7 @@
 | 🗝️ **Sacred Metric** | 💎 **Legendary Value** | 🔮 **Significance** |
 | :--- | :---: | :--- |
 | **📜 Scrolls Inscribed** | **22 Tomes** | *Worlds Documented* |
-| **⏳ Hours in Realms** | **4,888h 13m** | *Lifetimes Lived* |
+| **⏳ Hours in Realms** | **4,889h 10m** | *Lifetimes Lived* |
 | **🎮 Realms Conquered** | **19 Kingdoms** | *Victories Eternal* |
 | **⚔️ Active Campaigns** | **3 Battlefronts** | *Wars Ongoing* |
 
@@ -79,7 +79,7 @@
 | 🏷️ **Realm Type** | 🏹 **Active Quests** | ⚡ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 | :--- | :--- | :---: | :---: | :---: |
 | **⚔️ MOBA - The Eternal Arena** | [DOTA 2](dota_2.md) | 🔥 **BURNING** | Steam | Not Available |
-| **♟️ Strategy - The War Council** | [Company of Heroes](company_of_heroes.md)<br>📊 **Progress:** 27/41 missions (66%)<br>✅ Invasion of Normandy (Complete)<br>✅ Operation Market Garden (Complete)<br>🎮 [Liberation of Caen - Mission 5](walkthroughs/company_of_heroes.md#mission-5-caen) | ⚔️ **DEPLOYED** | Steam | Not Available |
+| **♟️ Strategy - The War Council** | [Company of Heroes](company_of_heroes.md)<br>📊 **Progress:** 28/41 missions (68%)<br>✅ Invasion of Normandy (Complete)<br>✅ Operation Market Garden (Complete)<br>🎮 [Liberation of Caen - Mission 6](walkthroughs/company_of_heroes.md#mission-6-caen---into-the-city) | ⚔️ **DEPLOYED** | Steam | Not Available |
 | **♟️ Strategy - The Chess Dimension** | [Auto Brawl Chess](auto_brawl_chess.md) | 🎲 **STRATEGIZING** | Steam | 4/26 (15%) |
 
 <pre>
@@ -141,7 +141,7 @@
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Desperados: Wanted Dead or Alive](desperados_wanted_dead_or_alive.md) | 2001 | ★★★★☆ | 7h 10m | Completed | Pirated | Pirated |
-| [Company of Heroes](company_of_heroes.md) | 2006 | TBD | 32h 27m | **Active** | Steam | Not Available |
+| [Company of Heroes](company_of_heroes.md) | 2006 | TBD | 33h 24m | **Active** | Steam | Not Available |
 | [Frostpunk](frostpunk.md) | 2018 | ★★★★☆ | 15h | Completed | Pirated | Pirated |
 | [Auto Brawl Chess](auto_brawl_chess.md) | 2023 | TBD | 10h 49m | **Active** | Steam | 4/26 (15%) |
 | [Age of Mythology](age_of_mythology.md) | 2002 | ★★★⯪☆ | 20h 7m | Completed | Pirated | Pirated |

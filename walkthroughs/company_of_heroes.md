@@ -14,12 +14,12 @@
 **Campaign Status:**
 - ✅ **Part 1: Invasion of Normandy** - COMPLETED (All medals earned! 🏅)
 - ✅ **Part 2: Operation Market Garden** - COMPLETED (All medals earned! 🏅)
-- 🎮 **Part 3: Liberation of Caen** - IN PROGRESS → [Mission 5: Caen](#mission-5-caen)
+- 🎮 **Part 3: Liberation of Caen** - IN PROGRESS → [Mission 6: Caen - Into the City](#mission-6-caen---into-the-city)
 - ⬜ **Part 4: Tiger Ace** - Not Started
 - ⬜ **Part 5: Causeway** - Not Started
 - ⬜ **Part 6: Falaise Pocket** - Not Started
 
-**Overall Progress:** 27/41 missions completed (66%)
+**Overall Progress:** 28/41 missions completed (68%)
 
 ---
 
@@ -710,8 +710,8 @@ This campaign follows British and Canadian forces as they advance from the D-Day
 - Secure Authie
 - Establish British presence
 
-**Medal Reward:** 🏅 **Anti-Aircraft Badge**
-- *Objective:* Complete all objectives efficiently
+**Medal Reward:** 🏅 **3rd Battalion Cap Badge**
+- *Objective:* Capture all territory sectors on the map
 
 **Strategy:**
 - Introduction to British forces
@@ -734,8 +734,8 @@ This campaign follows British and Canadian forces as they advance from the D-Day
 - Hold against German counterattacks
 - Secure the high ground
 
-**Medal Reward:** 🏅 **Sniper's Badge**
-- *Objective:* Hold the hill with minimal casualties
+**Medal Reward:** 🏅 **Distinguished Service Order**
+- *Objective:* Clear the village of Tourmauville (the alternate village objective)
 
 **Strategy:**
 - Difficult uphill assault
@@ -758,8 +758,8 @@ This campaign follows British and Canadian forces as they advance from the D-Day
 - Destroy German defenses
 - Secure the approach to the airfield
 
-**Medal Reward:** 🏅 **Tank Combat Badge**
-- *Objective:* Destroy all armor and capture village
+**Medal Reward:** 🏅 **Commando Operations Badge**
+- *Objective:* Destroy all German Garrison HQs using commando demolition charges (commandos deploy via gliders behind enemy lines)
 
 **Strategy:**
 - Urban and rural combat mix
@@ -782,8 +782,8 @@ This campaign follows British and Canadian forces as they advance from the D-Day
 - Destroy German aircraft and facilities
 - Hold the airfield
 
-**Medal Reward:** 🏅 **Distinguished Service Order**
-- *Objective:* Capture all objectives with minimal losses
+**Medal Reward:** 🏅 **Special Air Service Badge**
+- *Objective:* Insert glider troops behind enemy lines and rescue the commando squads from the previous mission
 
 **Strategy:**
 - Large, open battlefield
@@ -802,12 +802,12 @@ This campaign follows British and Canadian forces as they advance from the D-Day
 ### Mission 5: Hill 112 - Saving Sanity
 
 **Objectives:**
-- Return to Hill 112
-- Rescue trapped forces
-- Hold against German assault
+- Defend Hill 112 and the two bridge checkpoints
+- Hold against waves of German counterattacks
+- Secure the positions across the bridge
 
-**Medal Reward:** 🏅 **Special Air Service Badge**
-- *Objective:* Rescue all trapped forces
+**Medal Reward:** 🏅 **Bridgehead Defense Medal**
+- *Objective:* Capture and hold all four point markers on the other side of the bridge before mission end
 
 **Strategy:**
 - Defensive and rescue mission
@@ -830,8 +830,8 @@ This campaign follows British and Canadian forces as they advance from the D-Day
 - Fight through urban defenses
 - Secure initial foothold
 
-**Medal Reward:** 🏅 **Iron Cross**
-- *Objective:* Clear all sectors and establish strong foothold
+**Medal Reward:** 🏅 **Artillery Hunter Badge**
+- *Objective:* Find and destroy all Axis Nebelwerfer rocket artillery positions
 
 **Strategy:**
 - Urban warfare begins
@@ -879,7 +879,7 @@ This campaign follows British and Canadian forces as they advance from the D-Day
 - Liberate the city
 
 **Medal Reward:** 🏅 **Victoria Cross**
-- *Objective:* Liberate Caen with excellence
+- *Objective:* Eliminate the King Tiger tank by encircling it and concentrating anti-tank fire on its flanks and rear
 
 **Strategy:**
 - Climactic urban battle
