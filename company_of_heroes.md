@@ -14,7 +14,13 @@
 | Achievements       | Not Available               |
 | Steam Version      | Includes all content (Base + Opposing Fronts + Tales of Valor) |
 
+<div align="center">
 
+![My Company of Heroes Journey - 29/41 missions conquered across three campaigns](images/coh_tribute.png)
+
+*A tribute to my campaign through WWII's greatest battles. Two campaigns complete, four to go.*
+
+</div>
 
 ## Overview
 
