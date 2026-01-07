@@ -16,10 +16,10 @@
 - ✅ **Part 2: Operation Market Garden** - COMPLETED (All medals earned! 🏅)
 - ✅ **Part 3: Liberation of Caen** - COMPLETED (All medals earned! 🏅)
 - ✅ **Part 4: Tiger Ace** - COMPLETED (All medals earned! 🏅)
-- 🎮 **Part 5: Causeway** - IN PROGRESS → [Mission 1: Cauquigny - Drop on the Causeway](#mission-1-cauquigny---drop-on-the-causeway)
+- 🎮 **Part 5: Causeway** - IN PROGRESS → [Mission 3: Operation Grey Castle](#mission-3-operation-grey-castle-final-mission)
 - ⬜ **Part 6: Falaise Pocket** - Not Started
 
-**Overall Progress:** 35/41 missions completed (85%)
+**Overall Progress:** 37/41 missions completed (90%)
 
 ---
 
