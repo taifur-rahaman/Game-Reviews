@@ -15,11 +15,11 @@
 - ✅ **Part 1: Invasion of Normandy** - COMPLETED (All medals earned! 🏅)
 - ✅ **Part 2: Operation Market Garden** - COMPLETED (All medals earned! 🏅)
 - ✅ **Part 3: Liberation of Caen** - COMPLETED (All medals earned! 🏅)
-- 🎮 **Part 4: Tiger Ace** - IN PROGRESS → [Mission 1: Villers-Bocage - Birth of a Legend](#mission-1-villers-bocage---birth-of-a-legend)
-- ⬜ **Part 5: Causeway** - Not Started
+- ✅ **Part 4: Tiger Ace** - COMPLETED (All medals earned! 🏅)
+- 🎮 **Part 5: Causeway** - IN PROGRESS → [Mission 1: Cauquigny - Drop on the Causeway](#mission-1-cauquigny---drop-on-the-causeway)
 - ⬜ **Part 6: Falaise Pocket** - Not Started
 
-**Overall Progress:** 32/41 missions completed (78%)
+**Overall Progress:** 35/41 missions completed (85%)
 
 ---
 
