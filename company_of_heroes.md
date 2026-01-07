@@ -8,7 +8,7 @@
 | Publisher          | THQ / Sega                  |
 | Genre              | RTS, World War II           |
 | Status             | Active                      |
-| Time Played        | 34h 32m                     |
+| Time Played        | 36h 36m                     |
 | Rating             | TBD                         |
 | Platform           | Steam                       |
 | Achievements       | Not Available               |
@@ -16,9 +16,9 @@
 
 <div align="center">
 
-![My Company of Heroes Journey - 30/41 missions conquered across three campaigns](images/coh_tribute.png)
+![My Company of Heroes Journey - 32/41 missions conquered across six campaigns](images/coh_tribute.png)
 
-*A tribute to my campaign through WWII's greatest battles. Two campaigns complete, four to go.*
+*A tribute to my campaign through WWII's greatest battles. Three campaigns complete, three to go.*
 
 </div>
 
@@ -55,8 +55,9 @@ A comprehensive guide covering all 41 missions across 6 campaigns:
 **Current Progress:**
 - ✅ Invasion of Normandy - COMPLETED (All medals earned! 🏅)
 - ✅ Operation Market Garden - COMPLETED (All medals earned! 🏅)
-- 🎮 Liberation of Caen - IN PROGRESS (7/9 missions)
-- **Overall:** 30/41 missions (73%)
+- ✅ Liberation of Caen - COMPLETED (All medals earned! 🏅)
+- 🎮 Tiger Ace - IN PROGRESS (0/3 missions)
+- **Overall:** 32/41 missions (78%)
 
 ## Verdict
 

@@ -14,12 +14,12 @@
 **Campaign Status:**
 - ✅ **Part 1: Invasion of Normandy** - COMPLETED (All medals earned! 🏅)
 - ✅ **Part 2: Operation Market Garden** - COMPLETED (All medals earned! 🏅)
-- 🎮 **Part 3: Liberation of Caen** - IN PROGRESS → [Mission 8: Caen - Storm Front](#mission-8-caen---storm-front)
-- ⬜ **Part 4: Tiger Ace** - Not Started
+- ✅ **Part 3: Liberation of Caen** - COMPLETED (All medals earned! 🏅)
+- 🎮 **Part 4: Tiger Ace** - IN PROGRESS → [Mission 1: Villers-Bocage - Birth of a Legend](#mission-1-villers-bocage---birth-of-a-legend)
 - ⬜ **Part 5: Causeway** - Not Started
 - ⬜ **Part 6: Falaise Pocket** - Not Started
 
-**Overall Progress:** 30/41 missions completed (73%)
+**Overall Progress:** 32/41 missions completed (78%)
 
 ---
 

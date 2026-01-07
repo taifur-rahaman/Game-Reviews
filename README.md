@@ -63,7 +63,7 @@
 | 🗝️ **Sacred Metric** | 💎 **Legendary Value** | 🔮 **Significance** |
 | :--- | :---: | :--- |
 | **📜 Scrolls Inscribed** | **22 Tomes** | *Worlds Documented* |
-| **⏳ Hours in Realms** | **4,890h 18m** | *Lifetimes Lived* |
+| **⏳ Hours in Realms** | **4,892h 22m** | *Lifetimes Lived* |
 | **🎮 Realms Conquered** | **19 Kingdoms** | *Victories Eternal* |
 | **⚔️ Active Campaigns** | **3 Battlefronts** | *Wars Ongoing* |
 
@@ -79,7 +79,7 @@
 | 🏷️ **Realm Type** | 🏹 **Active Quests** | ⚡ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 | :--- | :--- | :---: | :---: | :---: |
 | **⚔️ MOBA - The Eternal Arena** | [DOTA 2](dota_2.md) | 🔥 **BURNING** | Steam | Not Available |
-| **♟️ Strategy - The War Council** | [Company of Heroes](company_of_heroes.md)<br>📊 **Progress:** 30/41 missions (73%)<br>✅ Invasion of Normandy (Complete)<br>✅ Operation Market Garden (Complete)<br>🎮 [Liberation of Caen - Mission 8](walkthroughs/company_of_heroes.md#mission-8-caen---storm-front) | ⚔️ **DEPLOYED** | Steam | Not Available |
+| **♟️ Strategy - The War Council** | [Company of Heroes](company_of_heroes.md)<br>📊 **Progress:** 32/41 missions (78%)<br>✅ Invasion of Normandy (Complete)<br>✅ Operation Market Garden (Complete)<br>✅ Liberation of Caen (Complete)<br>🎮 [Tiger Ace - Mission 1](walkthroughs/company_of_heroes.md#mission-1-villers-bocage---birth-of-a-legend) | ⚔️ **DEPLOYED** | Steam | Not Available |
 | **♟️ Strategy - The Chess Dimension** | [Auto Brawl Chess](auto_brawl_chess.md) | 🎲 **STRATEGIZING** | Steam | 4/26 (15%) |
 
 <pre>
@@ -141,7 +141,7 @@
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Desperados: Wanted Dead or Alive](desperados_wanted_dead_or_alive.md) | 2001 | ★★★★☆ | 7h 10m | Completed | Pirated | Pirated |
-| [Company of Heroes](company_of_heroes.md) | 2006 | TBD | 34h 32m | **Active** | Steam | Not Available |
+| [Company of Heroes](company_of_heroes.md) | 2006 | TBD | 36h 36m | **Active** | Steam | Not Available |
 | [Frostpunk](frostpunk.md) | 2018 | ★★★★☆ | 15h | Completed | Pirated | Pirated |
 | [Auto Brawl Chess](auto_brawl_chess.md) | 2023 | TBD | 10h 49m | **Active** | Steam | 4/26 (15%) |
 | [Age of Mythology](age_of_mythology.md) | 2002 | ★★★⯪☆ | 20h 7m | Completed | Pirated | Pirated |
@@ -201,8 +201,8 @@
 | **2003** | • Max Payne 2<br>• Call of Duty<br>• Manhunt<br>• Runaway: A Road Adventure<br>• Nancy Drew: The Haunted Carousel<br>• Nancy Drew: Danger on Deception Island | 0/6 Complete<br>0/6 Active | [View Details](recommendations/2003.md) |
 | **2004** | • Half-Life 2<br>• Vampire: Bloodlines<br>• Splinter Cell: Pandora Tomorrow<br>• Far Cry<br>• Nancy Drew: Secret of Shadow Ranch<br>• Nancy Drew: Curse of Blackmoor Manor | 0/6 Complete<br>0/6 Active | [View Details](recommendations/2004.md) |
 | **2005** | ✅ [GTA San Andreas](gta_san_andreas.md)<br>✅ [NFS Most Wanted](nfs_most_wanted.md)<br>• Indigo Prophecy<br>• Splinter Cell: Chaos Theory<br>• F.E.A.R.<br>• Civilization IV<br>• Psychonauts<br>• Nancy Drew: Secret of the Old Clock<br>• Nancy Drew: Last Train to Blue Moon Canyon | 2/9 Complete<br>0/9 Active | [View Details](recommendations/2005.md) |
-| **2006** | 🎮 [Company of Heroes](company_of_heroes.md) (Base Game) | 0/1 Complete<br>1/1 Active | [View Details](recommendations/2006.md) |
-| **2007** | 🎮 [Company of Heroes: Opposing Fronts](company_of_heroes.md) | 0/1 Complete<br>1/1 Active | [View Details](recommendations/2007.md) |
+| **2006** | ✅ [Company of Heroes](company_of_heroes.md) (Base Game) | 1/1 Complete<br>0/1 Active | [View Details](recommendations/2006.md) |
+| **2007** | ✅ [Company of Heroes: Opposing Fronts](company_of_heroes.md) | 1/1 Complete<br>0/1 Active | [View Details](recommendations/2007.md) |
 | **2009** | 🎮 [Company of Heroes: Tales of Valor](company_of_heroes.md)<br>• Batman: Arkham Asylum<br>• Dragon Age: Origins<br>• Borderlands<br>• The Saboteur<br>• Risen<br>• Prototype<br>• Divinity II<br>• Modern Warfare 2<br>• Plants vs. Zombies<br>• Empire/Torchlight/ArmA 2 | 0/11 Complete<br>1/11 Active | [View Details](recommendations/2009.md) |
 
 <p><em>More years shall be added to this chronicle as thy journey continues. Each era of gaming holds treasures waiting to be discovered.</em></p>
