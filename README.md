@@ -79,7 +79,7 @@
 | 🏷️ **Realm Type** | 🏹 **Active Quests** | ⏳ **Time** | ⚡ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | **⚔️ MOBA - The Eternal Arena** | [DOTA 2](dota_2.md) | 4196h 27m | 🔥 **BURNING** | Steam | Not Available |
-| **🎭 Adventure - The Clockwork Dream** | [Syberia](syberia.md) | 1h 22m | 🚂 **DEPARTING** | Steam | Not Available |
+| **🎭 Adventure - The Clockwork Dream** | [Syberia](syberia.md) | 2h 15m | 🚂 **DEPARTING** | Steam | Not Available |
 
 <pre>
 ╔══════════════════════════════════════════════════════════════════════╗
@@ -161,7 +161,7 @@
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Syberia](syberia.md) | 2002 | TBD | 1h 22m | **Active** | Steam | Not Available |
+| [Syberia](syberia.md) | 2002 | TBD | 2h 15m | **Active** | Steam | Not Available |
 
 
 ### 🍺 Casual & Family-Friendly

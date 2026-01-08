@@ -7,7 +7,7 @@
 | Publisher          | Microïds                    |
 | Genre              | Point-and-Click Adventure   |
 | Status             | Active                      |
-| Time Played        | 1h 22m                      |
+| Time Played        | 2h 15m                      |
 | Rating             | TBD                         |
 | Platform           | Steam                       |
 | Achievements       | Not Available               |
@@ -58,3 +58,13 @@ A comprehensive chapter-by-chapter guide covering all 4 locations:
 - ⬜ Chapter 3: Komkolzgrad - Not Started
 - ⬜ Chapter 4: Aralbad - Not Started
 - **Overall:** 0/4 chapters (0%)
+
+## Notes & Observations
+
+### 📓 Anna's Diary
+*   **Emotional Rollercoaster:** Man, reading this diary hit me hard. I was feeling everything—sadness, anger, then happy, then sad again. It's crazy how much emotion is packed into those pages.
+*   **The Dad & The 1930s:** I don't *totally* blame the dad. I mean, it's the 1930s—men were supposed to be these stoic "heads of the house." Showing weakness wasn't an option. But still... faking your own son's death because he's "different"? That's messed up. It's just tragic for everyone, especially Anna and Hans.
+
+### 🧩 Kate & Dan
+*   **Lovers or Coworkers?** Seriously, what is up with these two? Dan is supposed to be her fiancé, but every time they talk, it feels like a business negotiation.
+*   **The Vibe:** There's zero warmth. He feels more like a boss checking in on a project than a guy missing his partner. It's making me wonder if the relationship is just shallow or if he's just... like that. Definitely feels transactional.
