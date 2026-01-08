@@ -63,7 +63,7 @@
 | 🗝️ **Sacred Metric** | 💎 **Legendary Value** | 🔮 **Significance** |
 | :--- | :---: | :--- |
 | **📜 Scrolls Inscribed** | **22 Tomes** | *Worlds Documented* |
-| **⏳ Hours in Realms** | **4,894h 56m** | *Lifetimes Lived* |
+| **⏳ Hours in Realms** | **4,895h 19m** | *Lifetimes Lived* |
 | **🎮 Realms Conquered** | **19 Kingdoms** | *Victories Eternal* |
 | **⚔️ Active Campaigns** | **3 Battlefronts** | *Wars Ongoing* |
 
@@ -79,7 +79,7 @@
 | 🏷️ **Realm Type** | 🏹 **Active Quests** | ⚡ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 | :--- | :--- | :---: | :---: | :---: |
 | **⚔️ MOBA - The Eternal Arena** | [DOTA 2](dota_2.md) | 🔥 **BURNING** | Steam | Not Available |
-| **♟️ Strategy - The War Council** | [Company of Heroes](company_of_heroes.md)<br>📊 **Progress:** 37/41 missions (90%)<br>✅ Invasion of Normandy (Complete)<br>✅ Operation Market Garden (Complete)<br>✅ Liberation of Caen (Complete)<br>✅ Tiger Ace (Complete)<br>🎮 [Causeway - Mission 3](walkthroughs/company_of_heroes.md#mission-3-operation-grey-castle-final-mission) | ⚔️ **DEPLOYED** | Steam | Not Available |
+| **♟️ Strategy - The War Council** | [Company of Heroes](company_of_heroes.md)<br>📊 **Progress:** 38/41 missions (93%)<br>✅ Invasion of Normandy (Complete)<br>✅ Operation Market Garden (Complete)<br>✅ Liberation of Caen (Complete)<br>✅ Tiger Ace (Complete)<br>✅ Causeway (Complete)<br>🎮 Falaise Pocket - Mission 1 | ⚔️ **DEPLOYED** | Steam | Not Available |
 | **♟️ Strategy - The Chess Dimension** | [Auto Brawl Chess](auto_brawl_chess.md) | 🎲 **STRATEGIZING** | Steam | 4/26 (15%) |
 
 <pre>

@@ -8,7 +8,7 @@
 | Publisher          | THQ / Sega                  |
 | Genre              | RTS, World War II           |
 | Status             | Active                      |
-| Time Played        | 39h 10m                     |
+| Time Played        | 39h 33m                     |
 | Rating             | TBD                         |
 | Platform           | Steam                       |
 | Achievements       | Not Available               |
@@ -57,8 +57,9 @@ A comprehensive guide covering all 41 missions across 6 campaigns:
 - ✅ Operation Market Garden - COMPLETED (All medals earned! 🏅)
 - ✅ Liberation of Caen - COMPLETED (All medals earned! 🏅)
 - ✅ Tiger Ace - COMPLETED (All medals earned! 🏅)
-- 🎮 Causeway - IN PROGRESS (2/3 missions)
-- **Overall:** 37/41 missions (90%)
+- ✅ Causeway - COMPLETED (All medals earned! 🏅)
+- 🎮 Falaise Pocket - IN PROGRESS (Mission 1)
+- **Overall:** 38/41 missions (93%)
 
 ## Verdict
 
