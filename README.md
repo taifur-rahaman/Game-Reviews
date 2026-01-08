@@ -63,7 +63,7 @@
 | 🗝️ **Sacred Metric** | 💎 **Legendary Value** | 🔮 **Significance** |
 | :--- | :---: | :--- |
 | **📜 Scrolls Inscribed** | **22 Tomes** | *Worlds Documented* |
-| **⏳ Hours in Realms** | **4,896h 04m** | *Lifetimes Lived* |
+| **⏳ Hours in Realms** | **4,897h 26m** | *Lifetimes Lived* |
 | **🎮 Realms Conquered** | **20 Kingdoms** | *Victories Eternal* |
 | **⚔️ Active Campaigns** | **3 Battlefronts** | *Wars Ongoing* |
 
@@ -162,7 +162,7 @@
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Syberia](syberia.md) | 2002 | TBD | TBD | **Active** | Steam | Not Available |
+| [Syberia](syberia.md) | 2002 | TBD | 1h 22m | **Active** | Steam | Not Available |
 
 
 ### 🍺 Casual & Family-Friendly

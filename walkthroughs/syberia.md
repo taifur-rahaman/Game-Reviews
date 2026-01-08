@@ -316,8 +316,9 @@ This guide provides **extreme detail**, covering every item pickup, conversation
         *   Press #1 to close.
     *   **Execution:**
         *   Use **Lock Key** to open the panel cover.
-        *   Interact with the keypad. Enter **4**, then **2**, then **Star (*)** (to confirm/execute).
-    *   The locks open, and the barge moves through.
+        *   **Step 1 (Lower Water):** Enter **4**, **2**, **Star (*)**. The water lowers, and the barge enters the lock.
+        *   **Step 2 (Raise Water):** Once the barge is inside, enter **4**, **1**, **Star (*)**. The water rises, and the barge exits the lock.
+    *   Watch the barge move.
 
 ### Departure
 10. **The Wall & Captain:**
@@ -347,7 +348,7 @@ This guide provides **extreme detail**, covering every item pickup, conversation
     *   **Items:** Look at the shelf inside. Pick up the **Komkolzgrad Voice Cylinder**.
     *   Pick up the **Handle** (Control Lever).
     *   **Controls:** Insert the **Handle** into the slot.
-    *   **Action:** Push the handle **UP** (Forward). The giant moves over the train.
+    *   **Action:** Push the handle **UP** (Forward) **twice** to align the giant with the train.
     *   **Winding:** Press the **Red Button** on the console. The giant winds the train.
     *   **Return:** Pull the handle **DOWN** (Backward). The giant retracts.
     *   Exit the cockpit.
@@ -446,7 +447,10 @@ This guide provides **extreme detail**, covering every item pickup, conversation
     *   Enter the pool hall. The way is blocked by the robot James.
     *   **Keypad:** Go to the keypad. Enter **1270**.
     *   **Gas Mask:** Enter the locker room. Pick up the **Gas Mask** hanging on a hook.
-    *   **Outside:** Go back to the pool. Walk towards the large glass doors to the pier. Kate wears the mask.
+    *   **Access Card:** Look for a **Temporary Access Card** in the locker room (on the floor/bench). Note the code on it: **0968**.
+    *   **Outside:** Go back to the pool. Walk towards the large glass doors to the pier.
+    *   **Door Code:** Use the keypad near the door. Enter **0968**.
+    *   (Kate wears mask).
 4.  **The Pier:**
     *   Walk all the way to the gazebo.
     *   Talk to **Helena Romanski**. She wants her voice back.

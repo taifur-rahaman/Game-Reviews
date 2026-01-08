@@ -7,7 +7,7 @@
 | Publisher          | Microïds                    |
 | Genre              | Point-and-Click Adventure   |
 | Status             | Active                      |
-| Time Played        | 0h 0m                       |
+| Time Played        | 1h 22m                      |
 | Rating             | TBD                         |
 | Platform           | Steam                       |
 | Achievements       | Not Available               |
