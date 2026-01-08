@@ -60,12 +60,12 @@
 
 <p><em>These mystical metrics are etched upon enchanted parchment, updated by arcane ritual as each new chapter of the journey unfolds. Behold the magnitude of the quest!</em></p>
 
-| 🗝️ **Sacred Metric** | 💎 **Legendary Value** | 🔮 **Significance** |
+| **🗝️ Sacred Metric** | 💎 **Legendary Value** | 🔮 **Significance** |
 | :--- | :---: | :--- |
-| **📜 Scrolls Inscribed** | **22 Tomes** | *Worlds Documented* |
+| **📜 Scrolls Inscribed** | **21 Tomes** | *Worlds Documented* |
 | **⏳ Hours in Realms** | **4,897h 26m** | *Lifetimes Lived* |
 | **🎮 Realms Conquered** | **20 Kingdoms** | *Victories Eternal* |
-| **⚔️ Active Campaigns** | **3 Battlefronts** | *Wars Ongoing* |
+| **⚔️ Active Campaigns** | **2 Battlefronts** | *Wars Ongoing* |
 
 <pre>
 ═══════════════════════════════════════════════════════════════════════
@@ -79,7 +79,6 @@
 | 🏷️ **Realm Type** | 🏹 **Active Quests** | ⚡ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 | :--- | :--- | :---: | :---: | :---: |
 | **⚔️ MOBA - The Eternal Arena** | [DOTA 2](dota_2.md) | 🔥 **BURNING** | Steam | Not Available |
-| **♟️ Strategy - The Chess Dimension** | [Auto Brawl Chess](auto_brawl_chess.md) | 🎲 **STRATEGIZING** | Steam | 4/26 (15%) |
 | **🎭 Adventure - The Clockwork Dream** | [Syberia](syberia.md) | 🚂 **DEPARTING** | Steam | Not Available |
 
 <pre>
@@ -225,7 +224,7 @@
 
 | 🎮 **Game** | 🏆 **Achievements** | ⏱️ **Est. Time** | 📊 **Difficulty** | 📖 **Guide** |
 |:---|:---:|:---:|:---:|:---:|
-| **Auto Brawl Chess** | 26 | 50-100+ hours | 7/10 | [View Guide](achievement-guides/auto_brawl_chess.md) |
+
 
 <p><em>More guides shall be inscribed as the Keeper's journey continues. Each guide contains detailed strategies, tips, and a complete roadmap to achieve gaming perfection.</em></p>
 
