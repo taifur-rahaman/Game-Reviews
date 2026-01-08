@@ -6,8 +6,8 @@
 | Developer          | Benoît Sokal / Microïds     |
 | Publisher          | Microïds                    |
 | Genre              | Point-and-Click Adventure   |
-| Status             | Backlog                     |
-| Time Played        | TBD                         |
+| Status             | Active                      |
+| Time Played        | 0h 0m                       |
 | Rating             | TBD                         |
 | Platform           | Steam                       |
 | Achievements       | Not Available               |
