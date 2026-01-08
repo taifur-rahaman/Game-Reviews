@@ -76,10 +76,10 @@
 
 <p><em>Even now, as you read these words, the Keeper wages war across multiple dimensions. These are the living chronicles—the battles yet unfinished, the stories still being written in blood and glory.</em></p>
 
-| 🏷️ **Realm Type** | 🏹 **Active Quests** | ⚡ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
-| :--- | :--- | :---: | :---: | :---: |
-| **⚔️ MOBA - The Eternal Arena** | [DOTA 2](dota_2.md) | 🔥 **BURNING** | Steam | Not Available |
-| **🎭 Adventure - The Clockwork Dream** | [Syberia](syberia.md) | 🚂 **DEPARTING** | Steam | Not Available |
+| 🏷️ **Realm Type** | 🏹 **Active Quests** | ⏳ **Time** | ⚡ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
+| :--- | :--- | :---: | :---: | :---: | :---: |
+| **⚔️ MOBA - The Eternal Arena** | [DOTA 2](dota_2.md) | 4196h 27m | 🔥 **BURNING** | Steam | Not Available |
+| **🎭 Adventure - The Clockwork Dream** | [Syberia](syberia.md) | 1h 22m | 🚂 **DEPARTING** | Steam | Not Available |
 
 <pre>
 ╔══════════════════════════════════════════════════════════════════════╗
