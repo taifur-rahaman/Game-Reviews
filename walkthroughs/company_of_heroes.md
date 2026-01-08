@@ -17,8 +17,8 @@
 - ✅ **Part 3: Liberation of Caen** - COMPLETED (All medals earned! 🏅)
 - ✅ **Part 4: Tiger Ace** - COMPLETED (All medals earned! 🏅)
 - ✅ **Part 5: Causeway** - COMPLETED (All medals earned! 🏅)
-- 🎮 **Part 6: Falaise Pocket** - IN PROGRESS → [Mission 1: Chambois](#mission-15-chambois-final-mission)
-- **Overall Progress:** 38/41 missions completed (93%)
+- ✅ **Part 6: Falaise Pocket** - COMPLETED (All medals earned! 🏅)
+- **Overall Progress:** 41/41 missions completed (100%)
 
 ---
 

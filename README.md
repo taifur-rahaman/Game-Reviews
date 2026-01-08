@@ -63,9 +63,9 @@
 | 🗝️ **Sacred Metric** | 💎 **Legendary Value** | 🔮 **Significance** |
 | :--- | :---: | :--- |
 | **📜 Scrolls Inscribed** | **22 Tomes** | *Worlds Documented* |
-| **⏳ Hours in Realms** | **4,895h 19m** | *Lifetimes Lived* |
-| **🎮 Realms Conquered** | **19 Kingdoms** | *Victories Eternal* |
-| **⚔️ Active Campaigns** | **3 Battlefronts** | *Wars Ongoing* |
+| **⏳ Hours in Realms** | **4,896h 04m** | *Lifetimes Lived* |
+| **🎮 Realms Conquered** | **20 Kingdoms** | *Victories Eternal* |
+| **⚔️ Active Campaigns** | **2 Battlefronts** | *Wars Ongoing* |
 
 <pre>
 ═══════════════════════════════════════════════════════════════════════
@@ -79,7 +79,6 @@
 | 🏷️ **Realm Type** | 🏹 **Active Quests** | ⚡ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 | :--- | :--- | :---: | :---: | :---: |
 | **⚔️ MOBA - The Eternal Arena** | [DOTA 2](dota_2.md) | 🔥 **BURNING** | Steam | Not Available |
-| **♟️ Strategy - The War Council** | [Company of Heroes](company_of_heroes.md)<br>📊 **Progress:** 38/41 missions (93%)<br>✅ Invasion of Normandy (Complete)<br>✅ Operation Market Garden (Complete)<br>✅ Liberation of Caen (Complete)<br>✅ Tiger Ace (Complete)<br>✅ Causeway (Complete)<br>🎮 Falaise Pocket - Mission 1 | ⚔️ **DEPLOYED** | Steam | Not Available |
 | **♟️ Strategy - The Chess Dimension** | [Auto Brawl Chess](auto_brawl_chess.md) | 🎲 **STRATEGIZING** | Steam | 4/26 (15%) |
 
 <pre>
@@ -141,7 +140,7 @@
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Desperados: Wanted Dead or Alive](desperados_wanted_dead_or_alive.md) | 2001 | ★★★★☆ | 7h 10m | Completed | Pirated | Pirated |
-| [Company of Heroes](company_of_heroes.md) | 2006 | TBD | 39h 10m | **Active** | Steam | Not Available |
+| [Company of Heroes](company_of_heroes.md) | 2006 | ★★★★★ | 40h 18m | Completed | Steam | Not Available |
 | [Frostpunk](frostpunk.md) | 2018 | ★★★★☆ | 15h | Completed | Pirated | Pirated |
 | [Auto Brawl Chess](auto_brawl_chess.md) | 2023 | TBD | 10h 49m | **Active** | Steam | 4/26 (15%) |
 | [Age of Mythology](age_of_mythology.md) | 2002 | ★★★⯪☆ | 20h 7m | Completed | Pirated | Pirated |
