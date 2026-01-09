@@ -59,8 +59,8 @@
     *   Zoom in on the automaton.
     *   **Puzzle (Door):**
         1.  Place **Fax #2** in the automaton's hand.
-        2.  Pull the **center lever**.
-        3.  Pull the **right lever**.
+        2.  Pull the **lever on the chest** (center).
+        3.  Pull the **lever on the right**.
     ![Notary door automaton puzzle](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-I/syberia-partI016.jpg)
     *   Enter the house.
 3.  **Notary's Office:**
@@ -139,10 +139,14 @@
     *   Pick up the **Mammoth Doll**.
 
 ### Factory Operations
-1.  **Power Up:**
+1.  **Bringing in Materials:**
+    *   In the plaza (fountain area), take the upper-left path.
+    *   Pull the lever on the wooden beam to activate the materials line. A crate moves into the factory.
     *   Enter the factory (Left path from fountain).
+    *   Go to the forklift automaton (on the track). Click on it to move the crate to the assembly line.
+2.  **Power Up:**
     *   Go to the Power Room (far back right).
-    *   Pull the chain lever to engage the water wheel.
+    *   Pull the chain lever to engage the water wheel. (Watch for the "hamster" automaton!).
 2.  **Anna's Office:**
     *   Go up the metal stairs to the office.
     *   Look at the bookshelf. Pull the specific book (usually distinctive spine) to rotate the cabinet.
@@ -188,7 +192,8 @@
 
 ### The University
 1.  **Arrival:**
-    *   Exit train left. Talk to the Station Master about "Hook".
+    *   Exit train left. Walk right (towards the wall) until you see the winding machine. Kate notes it needs the train closer.
+    *   Go back to the train/station. Talk to the Station Master about "Hook".
     *   Pick up the **Hook** from the ground near the water.
     *   Exit station right to the University.
 2.  **Library:**
@@ -204,7 +209,10 @@
         *   Get **Barrockstadt Voice Cylinder** (Cabinet).
         *   Get **Yangala-Cola Powder** and **Test Tube Holder** (Lab bench).
 4.  **The Secret Garden:**
-    *   Ask the Station Master about "Sauvignon" repeatedly until he breaks.
+    *   Ask the Station Master about "Sauvignon". He avoids the question.
+    *   Go to the University. Ask Professor Pons about "Sauvignon". He refers you to the Station Master.
+    *   Ask the Rectors about "Sauvignon". They slip up and mention the garden/wine.
+    *   Return to the Station Master. Ask about "Sauvignon" again. He finally breaks and agrees to open the garden.
     *   He opens the Garden gate (cross the bridge over the tracks).
     *   Enter Garden. Pick up **Sauvignon Grapes**.
     ![Sauvignon grapes in the garden](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-2/part-two-syberia015.jpg)
@@ -226,14 +234,23 @@
     *   Pay the Bargemen (couple on the boat) the **Money**.
     *   Pick up the **Lock Key** they throw.
     *   Go to the Lock Control Panel (Canal path).
-    *   **Code:** Use the phone number on the sign: **27-66-67-42**.
+    *   **Code:** Use the phone number on the sign (**27-66-67-42**) to get the codes. Call it.
+    *   **Codes:**
+        *   **#42\*** (Lowers water).
+        *   **#41\*** (Raises water).
     *   **Sequence:**
         *   Use **Lock Key** to open panel.
         *   Enter **4**, **2**, **\*** (Lowers water).
         *   Enter **4**, **1**, **\*** (Raises water).
     *   Use the **Hook** to attach the barge chain to the train.
     ![Entering lock codes](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-2/part-two-syberia023.jpg)
-4.  **The Wall:**
+    *   The train moves forward.
+4.  **The Lecture & Winding:**
+    *   Professor Pons calls you. The lecture is starting.
+    *   **Winding:** Walk to the front of the train (now near the winding machine). Wind the train (Wheel, Lever, Wheel).
+    *   Go to the University Lecture Hall (Mammoth Skeleton area). Listen to the lecture.
+    *   Go to Pons' Lab. Retrieve **Mammoth Doll** and **Paleontology Notes**.
+5.  **The Wall:**
     *   Go to the train exit (The Wall). Talk to Captain Malatesta.
     *   **Curing the Captain:**
         *   Look at his telescope.
@@ -255,13 +272,14 @@
     *   Push **Down twice** to return.
     ![Giant automaton controls](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-3/syberia-part-three009.jpg)
 2.  **Oscar's Hands:**
-    *   Oscar is tied up. Pick up **Metal Shears** (Pliers) from the floor/shelf in the giant's cockpit.
-    *   Use **Shears** on the metal panel window of the factory to enter.
-    *   find the **Spark Plug** on the shelf in the room you break into.
+    *   **Oscar:** He is tied up. Pick up **Metal Shears** (Pliers) from the floor/shelf next to him. Untie him.
+    *   **Secret Room:** Go back to the Giant. Move it forward once (Lever forward). Exit and use **Shears** on the flimsy metal panel to enter the secret room.
+    *   Find the **Spark Plug** on the shelf.
 3.  **The Mines (Power):**
     *   Locate the elevator to the mines. Go down.
     *   It's dark. Find the generator.
-    *   Insert **Spark Plug**. Pull lever. Lights on!
+    *   **Dan called:** You receive a static call from Dan.
+    *   **Generator:** Insert **Spark Plug**. Push the small lever. Lights on!
     ![Generator spark plug](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-3/syberia-part-three011.jpg)
     *   Go to the other end of the mine to the elevator. Ascend.
 4.  **The Factory Floor:**
@@ -271,20 +289,23 @@
     *   **Serguei's Room:**
         *   Talk to Serguei. He wants Helena.
         *   Check the drawer: Get **Scrapbook** and **Letters**.
+        *   Check the drawer: Get **Scrapbook** and **Letters**.
         *   **Call your Mother** on the cell phone (triggers plot progress).
+        *   Go back and talk to Serguei about "Mission".
+    *   **Monorail:** Ride the monorail to the Space Station.
 5.  **The Cosmonaut:**
     *   Go to the Space Capsule area.
     *   Pick up **Vodka** near the drunk cosmonaut.
     *   **Cabinet:** Check the medicine cabinet. Get **Key** and **Letters**.
     *   **Crane Puzzle:**
-        *   Use **Key** on the console.
+        *   Used the **Key** on the panel.
         *   Move **Left**, then **Up**.
-        *   Pull the lever (water/steam) to wake him.
+        *   Push the **Middle Lever** (Steam/Water) to wake him.
     ![Crane controls to wake Boris](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-3/syberia-part-three022.jpg)
     *   **Blood Test:**
         *   Ask Cosmonaut for airship. He needs a blood test.
         *   Go to the control room. Get the **Voralberg Key**.
-        *   Use key on console. Connect the loose wires.
+        *   Use key on console. Open the bottom right compartment and **connect the loose wires**.
         *   Insert **Blood Testing Apparatus**.
         *   Press buttons. It fails (alcohol).
         *   Kate uses her own blood (Click the apparatus again).
@@ -292,8 +313,9 @@
     ![Blood testing machine](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-3/syberia-part-three027.jpg)
 6.  **Departure:**
     *   Go to the Airship area.
-    *   **Bird:** Use **Crank Handle** (dropped by Cosmonaut) on the bird cage to release the eagle.
-    *   The eagle scares away the birds/clears the path? Actually, it just distracts Serguei later.
+    *   **Bird:** Pick up the **Crank Handle** from the ground (dropped by Cosmonaut).
+    *   Use **Crank Handle** on the bird cage / blow horn mechanism to release the eagle.
+    *   The eagle scares away the birds.
     *   Use **Airship Key** to enter the airship. Depart for Aralbad.
 
 ---
@@ -304,8 +326,9 @@
 1.  **Infiltration:**
     *   Hotel Lobby. Get **Detergent** from closet.
     *   Pour **Detergent** in fountain outside.
-    *   Ring bell inside. Manager leaves.
-    *   Get **Brochure** behind desk. Note code **1270**.
+    *   Go back inside and **open the curtains**.
+    *   Ring bell. Manager leaves to clean up.
+    *   Get **Brochure** behind desk. Note code **1270** (or **0968**?). (Actually, 1270 is for the door, 0968 is for the pier).
     *   Manually open the door with the **Red Button**.
     ![Aralbad hotel lobby](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-3/syberia-part-three031.jpg)
 2.  **Pools:**
@@ -314,25 +337,25 @@
     *   Find **Code Card** (0968) in the mailroom/floor.
     *   Use **0968** on the door to the sea.
     *   **Helena:** Talk to her at the Gazebo.
-    *   Take the **Bell** from the post. Place it near the door. Ring it. James comes.
+    *   **James:** Take the **Bell** from the post near the Gazebo. Run back down the dock. Place the bell on the post closer to the inn. Ring it. James comes out.
 3.  **The Blue Helena:**
     *   **Recipe:** Call the number on the brochure (**46433943**).
     *   **Ingredients:**
         *   **Vodka** (Bar shelf).
         *   **Lemon** (Under bar).
         *   **Crystallized Honey** (Under bar).
-        *   **Liquid Honey**: Heat the crystallized honey in the hot tub.
+        *   **Liquid Honey**: Go to the pool area (Chess players). Turn the wheel at the hot tub. Place **Crystallized Honey** in the tub to melt it.
     ![Melting the honey](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-3/syberia-part-three041.jpg)
     *   **Mixing:**
         *   Get the **Crystal Dish** from the serving cart in the hallway. Place it on the bar.
         *   **Console:**
-            1.  **Power (I/O)**.
+            1.  **Power (I/O) / Left Lever**.
             2.  **Vodka** (2nd key).
             3.  **Blue Curacao** (3rd key).
             4.  **Honey** (Honeycomb button).
             5.  **Lemon** (Lemon button).
             6.  **Ice** (Snowflake button).
-            7.  **Shake** (Waiter icon).
+            7.  **Right Lever** (Finish/Shake).
     ![Mixing the Blue Helena cocktail](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-3/syberia-part-three042.jpg)
     *   Helena drinks. She is cured.
 
@@ -347,12 +370,16 @@
     *   Recover **Oscar's Hands** from the pianist automaton (use Screwdriver if needed, or just take them).
 2.  **The Bomb:**
     *   Go to the elevator. Ensure Helena is with you.
-    *   Take the elevator halfway/down to the mine vent interaction point.
-    *   **Dynamite:** Look in the crate near the elevator/vent. Pick up **Dynamite**.
-    *   Run to the train. The Giant blocks you.
-    *   Place **Dynamite** on the Giant's leg.
+    *   **Vent Escape:**
+        *   Take the elevator down to the mine shaft.
+        *   Head to the elevator on the other side. Press the button to call it. It crashes down, blowing the ventilation grate off.
+        *   Crawl through the ventilation duct.
+    *   **The Bomb:**
+        *   Open the crate to the left of the vent exit. Pick up the **Dynamite**.
+        *   Head to the train. The Giant blocks your path.
+        *   Place **Dynamite** on the Giant's foot/leg.
     ![Placing dynamite on the giant](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-3/syberia-part-three048.jpg)
-    *   BOOM.
+    *   **BOOM.** The path is clear.
     *   Give **Hands** to Oscar. Depart.
 
 ---
@@ -360,10 +387,14 @@
 ## Part 6: Return to Aralbad
 
 1.  **Hans Voralberg:**
-    *   Arrive in snow.
-    *   Go to the front of the train.
-    *   Pick up the package at the hotel desk: The **Mammoth Automaton**.
-    *   Go to the pier. Meet **Hans Voralberg**.
-    *   Final cutscene.
+    *   Exit the train to the right.
+    *   **Winding:** Walk to the front and wind the train (Wheel, Lever, Wheel) one last time.
+    *   Talk to Oscar about "Mission".
+    *   **The Package:** The Hotel Manager calls to you about a package. Go to the Hotel Lobby.
+    *   Inspect the package on the counter (left). Pick up the **Mammoth Automaton**.
+    *   **Helena:** Go to the bar/dining room. Talk to Helena.
+    *   **Hans:** Go outside to the pier. Walk to the end.
+    *   Talk to **Hans Voralberg**.
+    *   Enjoy the final cutscene.
 
 *(Walkthrough adapted from the esteemed guides of 'Estoy Loco' and the Syberia community)*
