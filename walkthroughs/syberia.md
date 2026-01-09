@@ -38,6 +38,7 @@
     *   Walk to the reception desk. Try to talk to the innkeeper; he ignores you.
     *   Pick up the **Reception Bell Key** on the corner of the desk.
     *   **Puzzle (Bell):** Use the **Reception Bell Key** on the small bell automaton holding a hammer. Push the red button. The bell rings.
+    ![Use the key on the bell automaton](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-I/syberia-partI004.jpg)
     *   Talk to the innkeeper. Select "Help". He shows you to your room.
 2.  **Room #6:**
     *   Open the nightstand drawer. Pick up **Fax #1** (Letter from Boss).
@@ -46,6 +47,7 @@
 3.  **Lobby (Again):**
     *   Talk to the innkeeper. Select "Mission". He gives you **Fax #2** (Notification of Settlement).
     *   Go to the table where the boy (Momo) was sitting.
+    ![Momo's table with gears](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-I/syberia-partI011.jpg)
     *   Pick up **2 Cogs** from the table and **2 Cogs** from the floor (4 total).
     *   Exit the hotel.
 
@@ -59,6 +61,7 @@
         1.  Place **Fax #2** in the automaton's hand.
         2.  Pull the **center lever**.
         3.  Pull the **right lever**.
+    ![Notary door automaton puzzle](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-I/syberia-partI016.jpg)
     *   Enter the house.
 3.  **Notary's Office:**
     *   Enter the office on the left. Sit down.
@@ -82,6 +85,7 @@
         *   Open the third drawer. It seems empty.
         *   Turn the handle on the side of the dresser firmly. The drawer extends further.
         *   Pick up the **Voralberg Key** and the **Confession Letter**.
+    ![Priest's dresser secret drawer](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-I/syberia-partI055.jpg)
 3.  **The Mausoleum:**
     *   Exit the room. Go to the Voralberg Mausoleum (the crypt nearby).
     *   Use the **Voralberg Key** on the hat of the automaton guard.
@@ -93,6 +97,7 @@
     *   **Puzzle (Gears):**
         *   Place the **4 Cogs** you found at the hotel on the mechanism.
         *   Pull the lever. Ride the elevator up.
+    ![Elevator gear puzzle](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-I/syberia-partI056.jpg)
     *   **Automaton:** Examine the automaton at the window. Insert the **Purple Punch Card**.
     *   He plays music, and the crypt (if not opened) or the secret compartment reveals itself? Actually, this sequence usually triggers the Mourner automaton or simply completes the funeral vibe lore. (Note: In some versions, this is optional, but do it for completeness).
 
@@ -103,18 +108,21 @@
         1.  Use **Telescopic Key** on the upper lock.
         2.  Turn the winding key below.
         3.  Pull the lever.
+    ![Factory gate lock puzzle](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-I/syberia-partI020.jpg)
     *   Enter.
 2.  **The House & Attic:**
     *   Go right at the fountain (towards the house).
     *   Go around the back of the house to the garden maze.
     *   Find the fountain in the maze. Use **Voralberg Key** to open it. Get the **Attic Key** (often called Voralberg Key in-game, but distinct use).
+    ![Fountain key puzzle](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-I/syberia-partI023.jpg)
     *   Go to the ladder mechanism at the back of the house.
     *   Use the Key to lower the ladder. Climb to the attic.
     *   **Attic Loot:**
         *   Open the desk: Get **Anna's Diary** and **Ink Bottle**.
         *   Turn on the light in the corner. Meet Momo.
         *   **Mammoth Tracing:** Momo gives you **Pencil and Paper**. Use it on the mammoth etching on the wooden beam.
-        *   Give the **Tracing** to Momo. He runs off. Follow him.
+    ![Tracing the mammoth](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-I/syberia-partI026.jpg)
+    *   Give the **Tracing** to Momo. He runs off. Follow him.
 
 ### The Cave & Dam
 1.  **The Chase:**
@@ -125,6 +133,7 @@
     *   Pick up the **Broken Lever** near the ground.
     *   Use the **Broken Lever** to pull the floating **Oar** closer to the bank. Pick up the **Oar**.
     *   Ask Momo for "Help" (or use Oar on Momo). He pushes the dam open.
+    ![Momo opening the dam](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-I/syberia-partI028.jpg)
 3.  **The Cave:**
     *   Go down to the dry riverbed. Enter the cave.
     *   Pick up the **Mammoth Doll**.
@@ -138,12 +147,14 @@
     *   Go up the metal stairs to the office.
     *   Look at the bookshelf. Pull the specific book (usually distinctive spine) to rotate the cabinet.
     *   Get the **Music Cylinder**.
+    ![Secret cabinet book switch](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-I/syberia-partI060.jpg)
     *   From the desk: Get **Factory Prints**, **Train Prints**, **Letter to Hans**, and the **Hans-Anna Toy**.
 3.  **Assembly:**
     *   Go to the control console (main floor).
     *   Insert **Factory Prints**.
     *   Set controls to: **Left Switch (Red/Wood)**, **Dial to 'Legs'**.
     *   Press the button.
+    ![Factory leg assembly controls](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-I/syberia-partI041.jpg)
     *   Retrieve **Wooden Legs** from the conveyor belt availability area.
 4.  **Oscar:**
     *   Go to the small workshop room (Start of conveyor).
@@ -157,14 +168,17 @@
         *   Use **Ink Bottle** on the stamping automaton.
         *   Place **Permit** on the pad. Press button.
         *   Get **Approved Permit**.
+    ![Stamping the permit](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-I/syberia-partI050.jpg)
 2.  **The Train Archives:**
     *   Board train. Go to the center room.
     *   Place **Hans-Anna Toy** on the pedestal.
     *   Place **Mammoth Doll** on the table/shelf.
     *   Place **Valadilène Voice Cylinder** and **Music Cylinder** on the shelves.
+    ![Train cabinet puzzle](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-I/syberia-partI061.jpg)
 3.  **Winding:**
     *   Exit train. Walk across the tracks to the winding machine mechanism.
     *   Turn wheel (extend key), Pull lever (wind), Turn wheel (retract key).
+    ![Winding the train](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-I/syberia-partI063.jpg)
     *   Board train. Give Oscar the **Permit** and **Ticket**.
     *   Depart.
 
@@ -180,6 +194,7 @@
 2.  **Library:**
     *   Enter University. Turn left to the Library.
     *   Climb the ladder. Get the **Amerzone Book** (Blue).
+    ![Library ladder and Amerzone book](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-2/part-two-syberia010.jpg)
     *   Check the tables on the lower floor. Pick up the **Mushroom Guide**.
 3.  **Rectors & Pons:**
     *   Talk to the Rectors (Central Hall). Ask about "Money" and "Sauvignon".
@@ -192,6 +207,7 @@
     *   Ask the Station Master about "Sauvignon" repeatedly until he breaks.
     *   He opens the Garden gate (cross the bridge over the tracks).
     *   Enter Garden. Pick up **Sauvignon Grapes**.
+    ![Sauvignon grapes in the garden](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-2/part-two-syberia015.jpg)
     *   *Tip:* On your way back, the Station Master might give you a **Bottle of Wine** if you talk to him (or check the bridge area). You need this!
 
 ### Departure Puzzles
@@ -199,10 +215,12 @@
     *   Go to the ladder near the train (blocked by birds).
     *   Give **Sauvignon Grapes** to the birds.
     *   Climb up. Use **Test Tube Holder** to get the **Cuckoo Egg**.
+    ![Getting the Cuckoo Egg](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-2/part-two-syberia017.jpg)
 2.  **The Bandstand:**
     *   Go to the Bandstand (Courtyard).
     *   Place **Cuckoo Egg** in the scale. Turn wheel.
     *   Balance is restored. The door opens. Pull the lever inside.
+    ![Bandstand egg puzzle](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-2/part-two-syberia018.jpg)
     *   Go to Rectors. Get **Money**.
 3.  **The Locks:**
     *   Pay the Bargemen (couple on the boat) the **Money**.
@@ -214,6 +232,7 @@
         *   Enter **4**, **2**, **\*** (Lowers water).
         *   Enter **4**, **1**, **\*** (Raises water).
     *   Use the **Hook** to attach the barge chain to the train.
+    ![Entering lock codes](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-2/part-two-syberia023.jpg)
 4.  **The Wall:**
     *   Go to the train exit (The Wall). Talk to Captain Malatesta.
     *   **Curing the Captain:**
@@ -233,8 +252,8 @@
 1.  **The Giant:**
     *   Go to the Giant Automaton (Ladder).
     *   Get **Komkolzgrad Voice Cylinder**, **Hans' Designs**, and **Handle**.
-    *   Insert **Handle**. Push **Up twice**. Press **Red Button**.
     *   Push **Down twice** to return.
+    ![Giant automaton controls](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-3/syberia-part-three009.jpg)
 2.  **Oscar's Hands:**
     *   Oscar is tied up. Pick up **Metal Shears** (Pliers) from the floor/shelf in the giant's cockpit.
     *   Use **Shears** on the metal panel window of the factory to enter.
@@ -243,10 +262,12 @@
     *   Locate the elevator to the mines. Go down.
     *   It's dark. Find the generator.
     *   Insert **Spark Plug**. Pull lever. Lights on!
+    ![Generator spark plug](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-3/syberia-part-three011.jpg)
     *   Go to the other end of the mine to the elevator. Ascend.
 4.  **The Factory Floor:**
     *   **Organist:** Inspect the automaton at the organ. Pick up **Screwdriver**.
     *   **Ladder:** Remove the screws from the ladder plate with the **Screwdriver**. Climb up.
+    ![Organist screwdriver location](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-3/syberia-part-three015.jpg)
     *   **Serguei's Room:**
         *   Talk to Serguei. He wants Helena.
         *   Check the drawer: Get **Scrapbook** and **Letters**.
@@ -259,6 +280,7 @@
         *   Use **Key** on the console.
         *   Move **Left**, then **Up**.
         *   Pull the lever (water/steam) to wake him.
+    ![Crane controls to wake Boris](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-3/syberia-part-three022.jpg)
     *   **Blood Test:**
         *   Ask Cosmonaut for airship. He needs a blood test.
         *   Go to the control room. Get the **Voralberg Key**.
@@ -267,6 +289,7 @@
         *   Press buttons. It fails (alcohol).
         *   Kate uses her own blood (Click the apparatus again).
         *   He is cleared for launch. He gives you his **Airship Key**.
+    ![Blood testing machine](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-3/syberia-part-three027.jpg)
 6.  **Departure:**
     *   Go to the Airship area.
     *   **Bird:** Use **Crank Handle** (dropped by Cosmonaut) on the bird cage to release the eagle.
@@ -284,6 +307,7 @@
     *   Ring bell inside. Manager leaves.
     *   Get **Brochure** behind desk. Note code **1270**.
     *   Manually open the door with the **Red Button**.
+    ![Aralbad hotel lobby](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-3/syberia-part-three031.jpg)
 2.  **Pools:**
     *   Enter Code **1270** on the keypad to enter the pool.
     *   Get **Gas Mask** (Locker room).
@@ -298,6 +322,7 @@
         *   **Lemon** (Under bar).
         *   **Crystallized Honey** (Under bar).
         *   **Liquid Honey**: Heat the crystallized honey in the hot tub.
+    ![Melting the honey](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-3/syberia-part-three041.jpg)
     *   **Mixing:**
         *   Get the **Crystal Dish** from the serving cart in the hallway. Place it on the bar.
         *   **Console:**
@@ -308,6 +333,7 @@
             5.  **Lemon** (Lemon button).
             6.  **Ice** (Snowflake button).
             7.  **Shake** (Waiter icon).
+    ![Mixing the Blue Helena cocktail](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-3/syberia-part-three042.jpg)
     *   Helena drinks. She is cured.
 
 ---
@@ -325,6 +351,7 @@
     *   **Dynamite:** Look in the crate near the elevator/vent. Pick up **Dynamite**.
     *   Run to the train. The Giant blocks you.
     *   Place **Dynamite** on the Giant's leg.
+    ![Placing dynamite on the giant](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-3/syberia-part-three048.jpg)
     *   BOOM.
     *   Give **Hands** to Oscar. Depart.
 
