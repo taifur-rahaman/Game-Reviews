@@ -7,7 +7,7 @@
 | Publisher          | Microïds                    |
 | Genre              | Point-and-Click Adventure   |
 | Status             | Active                      |
-| Time Played        | 6h 0m                       |
+| Time Played        | 6h 59m                       |
 | Rating             | TBD                         |
 | Platform           | Steam                       |
 | Achievements       | Not Available               |
@@ -65,6 +65,18 @@ A comprehensive chapter-by-chapter guide covering all 4 locations:
 *   **Emotional Rollercoaster:** Man, reading this diary hit me hard. I was feeling everything—sadness, anger, then happy, then sad again. It's crazy how much emotion is packed into those pages.
 *   **The Dad & The 1930s:** I don't *totally* blame the dad. I mean, it's the 1930s—men were supposed to be these stoic "heads of the house." Showing weakness wasn't an option. But still... faking your own son's death because he's "different"? That's messed up. It's just tragic for everyone, especially Anna and Hans.
 
-### 🧩 Kate & Dan
-*   **Lovers or Coworkers?** Seriously, what is up with these two? Dan is supposed to be her fiancé, but every time they talk, it feels like a business negotiation.
-*   **The Vibe:** There's zero warmth. He feels more like a boss checking in on a project than a guy missing his partner. It's making me wonder if the relationship is just shallow or if he's just... like that. Definitely feels transactional.
+### 🌿 Amerzone Echoes
+*   **Yangala-Cola:** I stumbled upon this fascinating mushroom powder called Yangala-Cola. Apparently, it's native to Amerzone and is known for its incredible boosting properties—it enhances your eyesight and physical strength. It's wild to think such a potent thing is just lying around here!
+*   **Red Amerzone Cuckoo:** These birds are a huge deal in Barrockstadt. They have this obsessive love for the Sauvignon grapes (the "forest berries") that the monks grow. The whole ecosystem here seems tied to them—the birds spread the seeds, and the university tries to keep the grapes a secret to manage the bird population (and their wine supply!). It adds so much life to the station to see these rare creatures fluttering about.
+
+### 🏙️ The "Support" System (Back Home)
+*   **The Mother:** My god, Kate's mother is such a self-centered bitch. Every time she calls, it's all about *her* drama. She doesn't give a damn about what Kate is going through; she cares only for herself. It's infuriating to listen to her.
+*   **Dan (The Fiancé):** This guy is an absolute opportunistic bastard. He's supposed to be her partner, but he treats their relationship like a business transaction. There's zero warmth—just annoyance in his voice whenever things don't go his way. He feels less like a fiancé and more like a demanding manager.
+*   **Marson (The Boss):** Marson is the definition of a cut-throat lawyer who only thinks of profit. The way he handled the news of Anna Voralberg's death was ice cold. He didn't care that a person died; he just wrote a letter to the accountant saying it was "unfortunate" because it complicated the factory sale. Zero empathy, just business.
+
+### 🎭 The Eccentrics
+*   **Oscar:** Oscar is actually pretty funny in his own robotic way, but he is a FREAKING stickler for the rules. You can't get him to do *anything* unless the paperwork is stamped, signed, and approved exactly how he wants it.
+*   **The Rectors:** These guys are freaking annoying. They behave like they're living in the Dark Ages or something. They act like the Wall of Barrockstadt is the only thing protecting them from a world filled with monsters, and that going over it would be disastrous. They are completely out of touch.
+
+### 👱‍♀️ Kate Walker
+*   **Sass Master:** Kate is surprisingly spicy! She isn't just a polite lawyer; she can be **rudely sarcastic** when people push her buttons. I love that she has that edge to her.
