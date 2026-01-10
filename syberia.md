@@ -8,6 +8,9 @@
 | Genre              | Point-and-Click Adventure   |
 | Status             | Active                      |
 | Time Played        | 6h 59m                       |
+| Start Date         | 3rd January 2026            |
+| End Date           | TBD                         |
+| Duration           | 7 Days (Ongoing)            |
 | Rating             | TBD                         |
 | Platform           | Steam                       |
 | Achievements       | Not Available               |
