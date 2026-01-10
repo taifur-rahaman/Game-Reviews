@@ -7,7 +7,7 @@
 | Publisher          | Microïds                    |
 | Genre              | Point-and-Click Adventure   |
 | Status             | Active                      |
-| Time Played        | 9h 40m                       |
+| Time Played        | 10h 16m                      |
 | Start Date         | 3rd January 2026            |
 | End Date           | TBD                         |
 | Duration           | 7 Days (Ongoing)            |
@@ -79,11 +79,12 @@ A comprehensive chapter-by-chapter guide covering all 4 locations:
 
 ### 🎭 The Eccentrics & Locals
 *   **Oscar:** Oscar is actually pretty funny in his own robotic way, but he is a FREAKING stickler for the rules. You can't get him to do *anything* unless the paperwork is stamped, signed, and approved exactly how he wants it.
-*   **The Rectors:** These guys are freaking annoying. They behave like they're living in the Dark Ages or something. They act like the Wall of Barrockstadt is the only thing protecting them from a world filled with monsters, and that going over it would be disastrous. They are completely out of touch.
+*   **The Rectors:** These guys are freaking annoying. They behave like they're living in the Dark Ages or something. They act like the Wall of Barrockstadt is the only thing protecting them from a world filled with monsters. **Turns out, the only reason they were so afraid is because their Wall Captain has been feeding them false intel for years!** They are completely out of touch.
+*   **Captain Malatesta (The Wall Captain):** This is actually hilarious. The "enemy spy" he's been watching for years? **It's a dead tree.** His eyesight is EXTREMELY poor, and he's just been staring at a branch silhouette thinking it's a threat. I managed to fix him up by mixing some **Yangala-Cola** with the local **Sauvignon Wine**. One sip and—boom—he can see again. No spies, just shrubbery.
 *   **The Stationmaster:** This guy is a terrible liar. Just terrible. Watching him try to cover things up is painful (and kind of hilarious). You can see the panic in his eyes; he's definitely hiding something about the station's "management."
 *   **The Students:** The student body here is a weird mix. You've got the ones who are **extremely serious** about their studies—heads down, dead silence in the library, acting like fun is a crime. Then you've got the others who seem like total **perverts**, just hanging around and staring. It's a very strange, uncomfortable vibe on campus.
 *   **Professor Pons:** Now this guy is a breath of fresh air. A true academic through and through. He's incredibly passionate about his work, and his lecture on the **Youkol Tribe** was genuinely fascinating. He even revealed that **he and Hans were good friends** when Hans was at the university, which must have been over 50 years ago. He's helpful, respectful, and easily the best character in Barrockstadt so far.
-*   **Hans Voralberg:** It is wildly impressive. Even though his accident left him "mentally impaired" (as everyone keeps saying), he became one of the geniuses of the century. His automatons are masterpieces, and his vision is beyond anything normal people can comprehend. It really makes you wonder about the nature of intelligence.
+*   **Hans Voralberg:** It is wildly impressive. Even though his accident left him "mentally impaired" (as everyone keeps saying), he became one of the geniuses of the century. His automatons are masterpieces, and his vision is beyond anything normal people can comprehend. I was amazed to learn that **he created the huge mechanical wall** that protects Barrockstadt, AND the **University's Automaton Musical Ball** outside. Amazing!!! It really makes you wonder about the nature of intelligence.
 
 ### 👱‍♀️ Kate Walker
 *   **Sass Master:** Kate is surprisingly spicy! She isn't just a polite lawyer; she can be **rudely sarcastic** when people push her buttons. I love that she has that edge to her.

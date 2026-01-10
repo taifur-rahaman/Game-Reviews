@@ -63,7 +63,7 @@
 | **🗝️ Sacred Metric** | 💎 **Legendary Value** | 🔮 **Significance** |
 | :--- | :---: | :--- |
 | **📜 Scrolls Inscribed** | **21 Tomes** | *Worlds Documented* |
-| **⏳ Hours in Realms** | **4,894h 2m** | *Lifetimes Lived* |
+| **⏳ Hours in Realms** | **4,894h 38m** | *Lifetimes Lived* |
 | **🎮 Realms Conquered** | **20 Kingdoms** | *Victories Eternal* |
 | **⚔️ Active Campaigns** | **2 Battlefronts** | *Wars Ongoing* |
 
@@ -79,7 +79,7 @@
 | 🏷️ **Realm Type** | 🏹 **Active Quests** | ⏳ **Time** | ⚡ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | **⚔️ MOBA - The Eternal Arena** | [DOTA 2](dota_2.md) | 4196h 27m | 🔥 **BURNING** | Steam | Not Available |
-| **🎭 Adventure - The Clockwork Dream** | [Syberia](syberia.md) | 9h 40m | 🚂 **DEPARTING** | Steam | Not Available |
+| **🎭 Adventure - The Clockwork Dream** | [Syberia](syberia.md) | 10h 16m | 🚂 **DEPARTING** | Steam | Not Available |
 
 <pre>
 ╔══════════════════════════════════════════════════════════════════════╗
@@ -161,7 +161,7 @@
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Syberia](syberia.md) | 2002 | TBD | 9h 40m | **Active** | Steam | Not Available |
+| [Syberia](syberia.md) | 2002 | TBD | 10h 16m | **Active** | Steam | Not Available |
 
 
 ### 🍺 Casual & Family-Friendly
