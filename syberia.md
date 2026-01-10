@@ -7,7 +7,7 @@
 | Publisher          | Microïds                    |
 | Genre              | Point-and-Click Adventure   |
 | Status             | Active                      |
-| Time Played        | 11h 14m                      |
+| Time Played        | 13h 17m                      |
 | Start Date         | 3rd January 2026            |
 | End Date           | TBD                         |
 | Duration           | 7 Days (Ongoing)            |
@@ -74,7 +74,8 @@ A comprehensive chapter-by-chapter guide covering all 4 locations:
 
 ### 🏙️ The "Support" System (Back Home)
 *   **The Mother:** My god, Kate's mother is such a self-centered bitch. Every time she calls, it's all about *her* drama. She doesn't give a damn about what Kate is going through; she cares only for herself. It's infuriating to listen to her.
-*   **Dan (The Fiancé):** This guy is an absolute opportunistic bastard. He just called, and it turned into an **intense fight**. He is as self-centered as always, causing Kate serious **emotional distress**. He treats their relationship like a business transaction, with zero warmth—just annoyance in his voice whenever things don't go his way. He feels less like a fiancé and more like a demanding manager.
+*   **Dan (The Fiancé):** This guy... I have no words. After all his whining, turns out he is **cheating on Kate** with her own best friend, **Olivia**. How could they? He's opportunistic, cold, and now a cheater. He feels less like a fiancé and more like a demanding manager—and a terrible human being.
+*   **Olivia:** Supposedly Kate's "best friend" (or sister? It's hard to tell with how close they acted), but she's snake. Hooking up with your friend's fiancé while she's halfway across the world? That is low.
 *   **Marson (The Boss):** Marson is the definition of a cut-throat lawyer who only thinks of profit. The way he handled the news of Anna Voralberg's death was ice cold. He didn't care that a person died; he just wrote a letter to the accountant saying it was "unfortunate" because it complicated the factory sale. Zero empathy, just business.
 
 ### 🎭 The Eccentrics & Locals
@@ -84,7 +85,9 @@ A comprehensive chapter-by-chapter guide covering all 4 locations:
 *   **The Stationmaster:** This guy is a terrible liar. Just terrible. Watching him try to cover things up is painful (and kind of hilarious). You can see the panic in his eyes; he's definitely hiding something about the station's "management."
 *   **The Students:** The student body here is a weird mix. You've got the ones who are **extremely serious** about their studies—heads down, dead silence in the library, acting like fun is a crime. Then you've got the others who seem like total **perverts**, just hanging around and staring. It's a very strange, uncomfortable vibe on campus.
 *   **Professor Pons:** Now this guy is a breath of fresh air. A true academic through and through. He's incredibly passionate about his work, and his lecture on the **Youkol Tribe** was genuinely fascinating. He even revealed that **he and Hans were good friends** when Hans was at the university, which must have been over 50 years ago. He's helpful, respectful, and easily the best character in Barrockstadt so far.
-*   **Hans Voralberg:** It is wildly impressive. Even though his accident left him "mentally impaired" (as everyone keeps saying), he became one of the geniuses of the century. His automatons are masterpieces, and his vision is beyond anything normal people can comprehend. I was amazed to learn that **he created the huge mechanical wall** that protects Barrockstadt, AND the **University's Automaton Musical Ball** outside. Amazing!!! It really makes you wonder about the nature of intelligence.
+*   **Hans Voralberg:** It is wildly impressive. Even though his accident left him "mentally impaired" (as everyone keeps saying), he became one of the geniuses of the century. I was amazed to learn that **he created the huge mechanical wall** that protects Barrockstadt, AND the **University's Automaton Musical Ball** outside.
+    *   **Noble Soul:** Turns out he used to be a leading **aerospace engineer** for the Soviet Union! But when the military wanted to weaponize his spaceship designs, he just... quit. He refused to let his genius be used for war. That is incredibly noble.
+*   **Serguei:** This guy is a straight-up **psychopath**. An *actual* psychopath. He's obsessed with the opera singer Helena Romanski—wants to kidnap her, force her to live with him, and sing only for him. It's not admiration; it's a terrifying, delusional ownership. Creepy as hell.
 
 ### 👱‍♀️ Kate Walker
 *   **Sass Master:** Kate is surprisingly spicy! She isn't just a polite lawyer; she can be **rudely sarcastic** when people push her buttons. I love that she has that edge to her.
