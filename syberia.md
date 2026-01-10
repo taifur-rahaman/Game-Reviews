@@ -7,7 +7,7 @@
 | Publisher          | Microïds                    |
 | Genre              | Point-and-Click Adventure   |
 | Status             | Active                      |
-| Time Played        | 6h 59m                       |
+| Time Played        | 7h 36m                       |
 | Start Date         | 3rd January 2026            |
 | End Date           | TBD                         |
 | Duration           | 7 Days (Ongoing)            |
@@ -77,9 +77,12 @@ A comprehensive chapter-by-chapter guide covering all 4 locations:
 *   **Dan (The Fiancé):** This guy is an absolute opportunistic bastard. He's supposed to be her partner, but he treats their relationship like a business transaction. There's zero warmth—just annoyance in his voice whenever things don't go his way. He feels less like a fiancé and more like a demanding manager.
 *   **Marson (The Boss):** Marson is the definition of a cut-throat lawyer who only thinks of profit. The way he handled the news of Anna Voralberg's death was ice cold. He didn't care that a person died; he just wrote a letter to the accountant saying it was "unfortunate" because it complicated the factory sale. Zero empathy, just business.
 
-### 🎭 The Eccentrics
+### 🎭 The Eccentrics & Locals
 *   **Oscar:** Oscar is actually pretty funny in his own robotic way, but he is a FREAKING stickler for the rules. You can't get him to do *anything* unless the paperwork is stamped, signed, and approved exactly how he wants it.
 *   **The Rectors:** These guys are freaking annoying. They behave like they're living in the Dark Ages or something. They act like the Wall of Barrockstadt is the only thing protecting them from a world filled with monsters, and that going over it would be disastrous. They are completely out of touch.
+*   **The Stationmaster:** This guy is a terrible liar. Just terrible. Watching him try to cover things up is painful (and kind of hilarious). You can see the panic in his eyes; he's definitely hiding something about the station's "management."
+*   **The Students:** The student body here is a weird mix. You've got the ones who are **extremely serious** about their studies—heads down, dead silence in the library, acting like fun is a crime. Then you've got the others who seem like total **perverts**, just hanging around and staring. It's a very strange, uncomfortable vibe on campus.
+*   **Professor Pons:** Now this guy is a breath of fresh air. A true academic through and through. He's incredibly passionate about his work, and his lecture on the **Youkol Tribe** was genuinely fascinating. The way he described their culture and their legendary co-existence with the domesticated mammoths... it actually made me want to learn more. He's helpful, respectful, and easily the best character in Barrockstadt so far.
 
 ### 👱‍♀️ Kate Walker
 *   **Sass Master:** Kate is surprisingly spicy! She isn't just a polite lawyer; she can be **rudely sarcastic** when people push her buttons. I love that she has that edge to her.
