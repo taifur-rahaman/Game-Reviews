@@ -328,34 +328,36 @@
     *   Pour **Detergent** in fountain outside.
     *   Go back inside and **open the curtains**.
     *   Ring bell. Manager leaves to clean up.
-    *   Get **Brochure** behind desk. Note code **1270** (or **0968**?). (Actually, 1270 is for the door, 0968 is for the pier).
-    *   Manually open the door with the **Red Button**.
+    *   Get **Brochure** behind desk. Note the number for the Hotel Meuritz.
+    *   **Code for Pool:** Check the guest register for Helena Romanski. Her code is **1270**.
+    *   Manually open the supply room door with the **Red Button** to get the **Detergent**.
     ![Aralbad hotel lobby](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-3/syberia-part-three031.jpg)
 2.  **Pools:**
-    *   Enter Code **1270** on the keypad to enter the pool.
-    *   Get **Gas Mask** (Locker room).
-    *   Find **Code Card** (0968) in the mailroom/floor.
-    *   Use **0968** on the door to the sea.
-    *   **Helena:** Talk to her at the Gazebo.
-    *   **James:** Take the **Bell** from the post near the Gazebo. Run back down the dock. Place the bell on the post closer to the inn. Ring it. James comes out.
+    *   Enter Code **1270** on the keypad (metal door) to enter the pool area.
+    *   **Locker Room:** Go into the locker room (right). Pick up the **Access Card** (Code **0968**) from the floor.
+    *   **Gas Mask:** Pick up the **Gas Mask** hanging nearby. You must wear this to go outside.
+    *   **The Pier Door:** Use the keypad near the double doors to the sea. Enter code **0968**.
+    *   **Helena:** Go outside. Talk to her at the Gazebo. She asks for a cocktail.
+    *   **James:** Take the **Bell** from the post near the Gazebo. Run back down the dock. Place the bell on the post closer to the inn. Ring it to call James.
 3.  **The Blue Helena:**
-    *   **Recipe:** Call the number on the brochure (**46433943**).
+    *   **Recipe:** Call the number on the brochure (**46433643**) (found on the counter or in the guestbook).
     *   **Ingredients:**
         *   **Vodka** (Bar shelf).
         *   **Lemon** (Under bar).
         *   **Crystallized Honey** (Under bar).
         *   **Liquid Honey**: Go to the pool area (Chess players). Turn the wheel at the hot tub. Place **Crystallized Honey** in the tub to melt it.
     ![Melting the honey](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-3/syberia-part-three041.jpg)
-    *   **Mixing:**
+    *   **Mixing the Blue Helena:**
         *   Get the **Crystal Dish** from the serving cart in the hallway. Place it on the bar.
-        *   **Console:**
-            1.  **Power (I/O) / Left Lever**.
-            2.  **Vodka** (2nd key).
-            3.  **Blue Curacao** (3rd key).
-            4.  **Honey** (Honeycomb button).
-            5.  **Lemon** (Lemon button).
-            6.  **Ice** (Snowflake button).
-            7.  **Right Lever** (Finish/Shake).
+        *   Look at the music scroll from the Hotel Meuritz (Vodka = Bass, Blue Curacao = Treble).
+        *   **Console Controls:**
+            1.  **Power On (I/O)** (Left switch).
+            2.  **Vodka:** Press the **2nd piano key** from the left (Bass clef).
+            3.  **Blue Curacao:** Flip the small treble clef switch. Press the **3rd piano key** from the left.
+            4.  **Honey:** Press the **Honeycomb** button.
+            5.  **Lemon:** Press the **Lemon** button.
+            6.  **Ice:** Press the **Snowflake** button.
+            7.  **Shake:** Press the **Rightmost figure/shaker** button.
     ![Mixing the Blue Helena cocktail](https://cdn-content.bigfishgames.com/prodstatic/bfgblog/Walkthroughs/Syberia-Part-3/syberia-part-three042.jpg)
     *   Helena drinks. She is cured.
 

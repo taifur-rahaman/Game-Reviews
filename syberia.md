@@ -7,7 +7,7 @@
 | Publisher          | Microïds                    |
 | Genre              | Point-and-Click Adventure   |
 | Status             | Active                      |
-| Time Played        | 13h 17m                      |
+| Time Played        | 14h 29m                      |
 | Start Date         | 3rd January 2026            |
 | End Date           | TBD                         |
 | Duration           | 7 Days (Ongoing)            |
