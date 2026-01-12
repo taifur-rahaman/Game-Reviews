@@ -89,11 +89,11 @@
 </pre>
 
 ### ⚔️ Action-Adventure
-#### *Legends of Stealth, Combat & Exploration*
+*Legends of Stealth, Combat & Exploration*
 
 <p><em>These are the chronicles of heroes who blend cunning with combat, stealth with strength. From the rooftops of Renaissance Italy to the shadow-haunted lands of Mordor, from the streets of 1940s New York to ancient kingdoms—these warriors carve their legends through blade and shadow, honor and vengeance. Each leap of faith, each silent assassination, each epic duel writes another verse in the eternal saga of action and adventure.</em></p>
 
-##### 🗡️ Assassin's Creed Series
+#### 🗡️ Assassin's Creed Series
 
 <p><em>Nothing is true, everything is permitted. This is the creed that binds the Brotherhood across centuries. From Altaïr's humble beginnings in the Holy Land during the Third Crusade to Ezio's legendary rise in Renaissance Italy, these games blend historical tourism with stabby parkour in a way that's genuinely addictive. The whole Assassins vs. Templars conflict spanning millennia? It's basically the ultimate conspiracy theory turned into gameplay. Scaling cathedrals, blending into crowds, and leaping into haystacks from impossible heights never gets old.</em></p>
 
@@ -103,7 +103,7 @@
 | [Assassin's Creed II](assassin's_creed_2.md) | 2009 | ★★★★⯪ | 56h 53m | Completed | Pirated | Pirated |
 | [Assassin's Creed: Brotherhood](assassin's_creed_brotherhood.md) | 2010 | ★★★★☆ | 60h 17m | Completed | Pirated | Pirated |
 
-##### 🌋 Middle-Earth Series
+#### 🌋 Middle-Earth Series
 
 <p><em>Ever wanted to be a Ranger who literally cannot die and has a ghostly Elf lord stuck in his head? Welcome to the Shadow of Mordor games. These are power fantasy at its finest—you run around Sauron's backyard, dominating Orcs, building your own army, and exploiting the brilliant Nemesis System where every enemy remembers how you killed them (or how they killed you). It's Lord of the Rings if Tolkien was really into revenge fantasies and decapitations.</em></p>
 
@@ -112,7 +112,7 @@
 | [Middle-Earth: Shadow of Mordor](shadow_of_mordor.md) | 2014 | ★★★★★ | 39h 26m | Completed | Pirated | Pirated |
 | [Middle-Earth: Shadow of War](shadow_of_war.md) | 2017 | ★★★★☆ | 46h 42m | Completed | Pirated | Pirated |
 
-##### 🎯 Hitman Series
+#### 🎯 Hitman Series
 
 <p><em>Agent 47 is the bald, barcode-tattooed assassin who can disguise himself as literally anyone—a waiter, a clown, a flamingo mascot. The beauty of Hitman is that every level is a puzzle box: you can poison the soup, drop a chandelier, push someone off a balcony, or just walk in with a disguise and strangle your target in a bathroom. Or, if you're like me, you try to be stealthy, mess up, and turn it into a chaotic bloodbath. Either way, it's incredibly satisfying.</em></p>
 
@@ -120,18 +120,18 @@
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Hitman 2: Silent Assassin](hitman_2_silent_assassin.md) | 2002 | - | 2h 28m | Playing | Steam | Not Available |
 
-##### 📖 Standalone Titles
+#### 📖 Standalone Titles
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | [The Godfather](the_godfather.md) | 2006 | ★★★★★ | 17h 6m | Completed | Pirated | Pirated |
 
 ### 🌆 Open-World Action
-#### *Urban Chaos & Criminal Empires*
+*Urban Chaos & Criminal Empires*
 
 <p><em>From the neon-lit streets of Vice to the sun-scorched highways of San Andreas, these are the ballads of the lawless—modern myths forged in concrete and steel. Here, loyalty is currency, betrayal is commonplace, and ambition knows no bounds. The asphalt jungle becomes a battlefield where only the ruthless survive and legends are born in blood and chrome.</em></p>
 
-##### 🎮 Grand Theft Auto Series
+#### 🎮 Grand Theft Auto Series
 
 <p><em>The kings of open-world chaos. GTA invented the "do whatever you want in a city" genre and perfected it multiple times. From the gritty, rain-soaked streets of Liberty City to the neon-drenched 80s fantasy of Vice City to the gangsta rap odyssey of San Andreas—each game is a satirical love letter to American excess. Steal cars, run from cops, build criminal empires, and occasionally do story missions between your rampage sessions. It's the ultimate sandbox for your inner chaos gremlin.</em></p>
 
@@ -142,11 +142,11 @@
 | [Grand Theft Auto: San Andreas](gta_san_andreas.md) | 2005 | ★★★★★ | 41h 48m | Completed | Pirated | Pirated |
 
 ### � Role-Playing Games (RPG)
-#### *Where Destiny Bends to the Will of Heroes*
+*Where Destiny Bends to the Will of Heroes*
 
 <p><em>These are the grandest of tales—odysseys that span galaxies and epochs, where every choice ripples through the fabric of reality itself. From the mythic shores of ancient Greece to the star-spanning civilizations of the Milky Way, heroes rise to shape the very fate of existence. Here, the pen is mightier than the sword, and dialogue can save—or doom—entire worlds.</em></p>
 
-##### 🌌 Mass Effect Series
+#### 🌌 Mass Effect Series
 
 <p><em>Commander Shepard's legendary saga across the galaxy. The Legendary Edition bundles Mass Effect 1, 2, and 3 into one remastered package—and honestly, it's one of the greatest sci-fi RPG experiences ever made. You assemble a crew of aliens and humans, make impossible choices (that actually matter across all three games!), and try to stop an ancient machine race from wiping out all organic life. The relationships you build, the characters you save or lose—it all hits different. This is 200 hours of space opera perfection.</em></p>
 
@@ -154,14 +154,14 @@
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Mass Effect Legendary Edition](mass_effect_legendary_edition.md) | 2021 | ★★★★★ | 196h 35m | Completed | Pirated | Pirated |
 
-##### 📖 Standalone Titles
+#### 📖 Standalone Titles
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Rise of the Argonauts](rise_of_the_argonauts.md) | 2008 | ★★★⯪☆ | 26h 52m | Completed | Pirated | Pirated |
 
 ### ⚔️ MOBA (Multiplayer Online Battle Arena)
-#### *The Eternal Battlefields*
+*The Eternal Battlefields*
 
 <p><em>Behold the Arena Eternal, where time holds no meaning and death is but a temporary inconvenience. In this realm of perpetual conflict, champions from across the multiverse clash in an endless cycle of glory and defeat. Four thousand hours have been consecrated to this sacred battleground—a testament to dedication that transcends mortal comprehension. The Ancient falls, only to rise again. The battle never ends.</em></p>
 
@@ -170,11 +170,11 @@
 | [DOTA 2](dota_2.md) | 2013 | ★★★★★ | 4196h 27m | **Active** | Steam | Not Available |
 
 ### ♟️ Strategy
-#### *The Tactician's War Room*
+*The Tactician's War Room*
 
 <p><em>In these hallowed halls of strategic mastery, victory belongs not to the strongest arm, but to the keenest mind. From the frozen wastelands of Frostpunk to the war-torn battlefields of World War II, from the Wild West to the mystical realms of ancient mythology—these are the chronicles of commanders who shaped history through cunning, foresight, and tactical brilliance. Every unit placed, every resource managed, every decision made echoes through the annals of strategic warfare.</em></p>
 
-##### 🎖️ Company of Heroes Series
+#### 🎖️ Company of Heroes Series
 
 <p><em>The definitive World War II RTS experience. CoH threw out the base-building formula and said "just capture territory and hold it." The result? Intense, tactical combat where every squad matters, every piece of cover is life or death, and tanks feel like actual tanks. Watching a well-placed machine gun mow down an advance, or flanking a Panzer with sticky bombs—it's chef's kiss. The destructible environments mean every battle literally reshapes the map.</em></p>
 
@@ -182,7 +182,7 @@
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Company of Heroes](company_of_heroes.md) | 2006 | ★★★★★ | 40h 18m | Completed | Steam | Not Available |
 
-##### 🤠 Desperados Series
+#### 🤠 Desperados Series
 
 <p><em>Commandos but make it cowboys. Desperados is all about controlling a ragtag gang of Wild West misfits, sneaking through enemy camps, and executing perfectly timed synchronized takedowns. You've got the gunslinger, the knife-throwing lady, the explosives expert—each with unique skills. The satisfaction of planning the perfect heist or ambush, watching it play out in slow-mo? Unmatched.</em></p>
 
@@ -190,7 +190,7 @@
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Desperados: Wanted Dead or Alive](desperados_wanted_dead_or_alive.md) | 2001 | ★★★★☆ | 7h 10m | Completed | Pirated | Pirated |
 
-##### ❄️ Frostpunk Series
+#### ❄️ Frostpunk Series
 
 <p><em>What if the world froze over and you had to keep a city of survivors alive around the last heat source on Earth? Frostpunk is brutal, depressing, and absolutely gripping. You'll pass laws allowing child labor, you'll work people to death, you'll make impossible choices—and you'll feel terrible about all of it. But hey, at least the city didn't freeze. It's city-building meets moral philosophy meets survival horror, and it's brilliant.</em></p>
 
@@ -198,14 +198,14 @@
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Frostpunk](frostpunk.md) | 2018 | ★★★★☆ | 15h | Completed | Pirated | Pirated |
 
-##### 📖 Standalone Titles
+#### 📖 Standalone Titles
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Age of Mythology](age_of_mythology.md) | 2002 | ★★★⯪☆ | 20h 7m | Completed | Pirated | Pirated |
 
 ### 🏎️ Racing
-#### *Chariots of Iron*
+*Chariots of Iron*
 
 <p><em>In the realm of asphalt and nitrous oxide, where the scream of turbocharged engines drowns out all reason, speed becomes religion and the finish line becomes salvation. These are the ballads of the street racer—modern gladiators who stake their honor on quarter-mile sprints and midnight runs through neon-drenched cities. The Most Wanted stands eternal, a six-star masterpiece of automotive perfection.</em></p>
 
@@ -214,11 +214,11 @@
 | [Need for Speed: Most Wanted](nfs_most_wanted.md) | 2005 | ★★★★★★ | 26h 52m | Completed | Pirated | Pirated |
 
 ### 🧩 Puzzle-Platformer
-#### *Realms of Wonder & Wit*
+*Realms of Wonder & Wit*
 
 <p><em>Where physics bends to magic and every obstacle becomes a canvas for creativity. These enchanted realms challenge not just reflexes, but the mind itself. Through mystical forests and ancient ruins, heroes must think as much as they leap, conjure as much as they climb. Here, the greatest weapon is not a sword, but imagination—and the path forward is paved with cleverness and wonder.</em></p>
 
-##### 🚂 Syberia Series
+#### 🚂 Syberia Series
 
 <p><em>Kate Walker is just a lawyer from New York who went to a small French village to close a factory deal. What she found instead was a dying old woman's legacy, a missing heir chasing mammoths, and a wind-up train waiting to take her somewhere far away. The first Syberia is melancholic, beautiful, and dreamlike—the kind of game where you stop to admire the hand-painted backgrounds and let the haunting music wash over you. The puzzles are classic point-and-click, but the atmosphere? Unforgettable. I'm excited to see where Kate's journey takes her next.</em></p>
 
@@ -228,11 +228,11 @@
 
 
 ### 🍺 Casual & Family-Friendly
-#### *Tales from the Tavern*
+*Tales from the Tavern*
 
 <p><em>Not every adventure need be a world-ending crisis. Sometimes, a weary hero simply seeks the comfort of simpler pleasures—a mug of ale, a warm hearth, and tales that bring smiles rather than scars. These are the lighter chronicles: nostalgic journeys to childhood, pastoral adventures on sun-dappled farms, and whimsical quests that remind us why we fell in love with gaming in the first place.</em></p>
 
-##### 🐄 Farm Frenzy Series
+#### 🐄 Farm Frenzy Series
 
 <p><em>Sometimes you just want to tend to chickens, make cakes, and chase bears off your property. Farm Frenzy is casual gaming comfort food—colorful, clicky, and weirdly addictive. You run a farm, process goods, and try to hit gold medals on every level. It's the kind of game you play while listening to podcasts, and before you know it, three hours have vanished. Don't judge; farming is serious business.</em></p>
 
@@ -241,7 +241,7 @@
 | [Farm Frenzy](farm_frenzy.md) | 2007 | ★★⯪☆☆ | 9h 38m | Completed | Pirated | Pirated |
 | [Farm Frenzy 2](farm_frenzy_2.md) | 2008 | ★★★☆☆ | 16h 56m | Completed | Pirated | Pirated |
 
-##### 📖 Standalone Titles
+#### 📖 Standalone Titles
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
