@@ -7,7 +7,7 @@
 | Publisher          | Eidos Interactive           |
 | Genre              | Stealth / Action            |
 | Status             | Playing                     |
-| Time Played        | 0h 0m                       |
+| Time Played        | 1h 35m                      |
 | Start Date         | 12th January 2026           |
 | End Date           | -                           |
 | Duration           | -                           |
@@ -25,13 +25,13 @@ Hitman 2: Silent Assassin is the sequel to Codename 47. You play as Agent 47, a 
 
 *(To be updated as I play)*
 
-The game starts with 47 gardening at a church in Sicily. It's a peaceful contrast to his usual life. The atmosphere feels more refined than the first game, with a focus on travel across different locations like Italy, Russia, Japan, Malaysia, and India.
+The game kicks off with 47 trying to live the vivid "quiet life"—he's literally gardening at a church in Sicily. It's a peaceful contrast to his usual violent work. But of course, it doesn't last. The local Don, Giuliani, decides it's a good idea to kidnap 47's mentor, Father Vittorio, and demand a $500,000 ransom. Big mistake. You never wake a sleeping dragon with ill intentions. Now 47 has to dig up his old gear and get back to work.
 
 ## Gameplay
 
 *(To be updated as I play)*
 
-Classic stealth gameplay. The disguise system is key here.
+It's classic, high-tension stealth. The game clearly wants you to be a ghost. My first mission was a textbook example: I managed to infiltrate the villa, take out the target, and escape without harming a single guard or civilian. The game rewards that kind of precision with better rankings. The disguise system is key—blending in is often safer than sneaking around in the shadows.
 
 ## Verdict
 
@@ -43,8 +43,8 @@ Classic stealth gameplay. The disguise system is key here.
 
 *(Tracking my journey through the game)*
 
-- [ ] **Gontranno Sanctuary (Sicily)**
-- [ ] **Anathema (Sicily)**
+- [x] **Gontranno Sanctuary (Sicily)**
+- [x] **Anathema (Sicily)**
 - [ ] **St. Petersburg Stakeout (Russia)**
 - [ ] **Kirov Park Meeting (Russia)**
 - [ ] **Tubeway Torpedo (Russia)**
@@ -70,5 +70,9 @@ Classic stealth gameplay. The disguise system is key here.
 *(These are my raw notes from while I was playing—some spoilers involved!)*
 
 ### 🇮🇹 Sicily
-*   **The Garden:** It's weird seeing 47 doing regular gardening work. The contrast between his violent past and this peaceful life is striking.
+*   **The Sleeping Dragon:** It's honestly kind of wild seeing Agent 47, the world's most dangerous assassin, just chilling in a garden tending to plants. He really tried to leave it all behind. But this Don Giuliani guy... talk about picking the wrong target to extort. Kidnapping the priest (47's only friend!) for ransom? It's like he *wanted* to die.
+*   **Anathema (Mission 1):** Started strong. I decided to play this strictly by the book—**Silent Assassin style**.
+    *   **The Hit:** I slipped into the compound, found the Don, and took him out. Clean, professional. Didn't touch a hair on anyone else's head.
+    *   **Ranking:** Got the **Professional** rating with the stealth bar maxed out. Felt satisfying to be a ghost.
+    *   **The Twist:** High off the perfect kill, I rushed to the basement cells to save Father Vittorio... and he wasn't there. Just an empty chair. The intercom cracked straight away—Russian goons had dragged him off just moments before I got there. So much for a quick rescue. Looks like I'm traveling.
 

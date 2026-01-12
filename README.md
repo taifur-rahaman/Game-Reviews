@@ -63,7 +63,7 @@
 | **🗝️ Sacred Metric** | 💎 **Legendary Value** | 🔮 **Significance** |
 | :--- | :---: | :--- |
 | **📜 Scrolls Inscribed** | **21 Tomes** | *Worlds Documented* |
-| **⏳ Hours in Realms** | **4,899h 44m** | *Lifetimes Lived* |
+| **⏳ Hours in Realms** | **4,901h 19m** | *Lifetimes Lived* |
 | **🎮 Realms Conquered** | **21 Kingdoms** | *Victories Eternal* |
 | **⚔️ Active Campaigns** | **2 Battlefronts** | *Wars Ongoing* |
 
@@ -79,7 +79,7 @@
 | 🏷️ **Realm Type** | 🏹 **Active Quests** | ⏳ **Time** | ⚡ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | **⚔️ MOBA - The Eternal Arena** | [DOTA 2](dota_2.md) | 4196h 27m | 🔥 **BURNING** | Steam | Not Available |
-| **🗡️ Stealth Action** | [Hitman 2: Silent Assassin](hitman_2_silent_assassin.md) | 0h 0m | 🕵️ **INFILTRATING** | Steam | Not Available |
+| **🗡️ Stealth Action** | [Hitman 2: Silent Assassin](hitman_2_silent_assassin.md) | 1h 35m | 🕵️ **INFILTRATING** | Steam | Not Available |
 
 <pre>
 ╔══════════════════════════════════════════════════════════════════════╗
@@ -93,20 +93,43 @@
 
 <p><em>These are the chronicles of heroes who blend cunning with combat, stealth with strength. From the rooftops of Renaissance Italy to the shadow-haunted lands of Mordor, from the streets of 1940s New York to ancient kingdoms—these warriors carve their legends through blade and shadow, honor and vengeance. Each leap of faith, each silent assassination, each epic duel writes another verse in the eternal saga of action and adventure.</em></p>
 
+##### 🗡️ Assassin's Creed Series
+*The Brotherhood's eternal struggle against the Templars*
+
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Assassin's Creed I](assassin's_creed_1.md) | 2007 | ★★★★☆ | 29h 15m | Completed | Pirated | Pirated |
 | [Assassin's Creed II](assassin's_creed_2.md) | 2009 | ★★★★⯪ | 56h 53m | Completed | Pirated | Pirated |
 | [Assassin's Creed: Brotherhood](assassin's_creed_brotherhood.md) | 2010 | ★★★★☆ | 60h 17m | Completed | Pirated | Pirated |
+
+##### 🌋 Middle-Earth Series
+*The Shadow's war against Sauron's forces*
+
+| 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Middle-Earth: Shadow of Mordor](shadow_of_mordor.md) | 2014 | ★★★★★ | 39h 26m | Completed | Pirated | Pirated |
 | [Middle-Earth: Shadow of War](shadow_of_war.md) | 2017 | ★★★★☆ | 46h 42m | Completed | Pirated | Pirated |
-| [Hitman 2: Silent Assassin](hitman_2_silent_assassin.md) | 2002 | - | 0h 0m | Playing | Steam | Not Available |
+
+##### 🎯 Hitman Series
+*The art of silent assassination*
+
+| 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+| [Hitman 2: Silent Assassin](hitman_2_silent_assassin.md) | 2002 | - | 1h 35m | Playing | Steam | Not Available |
+
+##### 📖 Standalone Titles
+
+| 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | [The Godfather](the_godfather.md) | 2006 | ★★★★★ | 17h 6m | Completed | Pirated | Pirated |
 
 ### 🌆 Open-World Action
 #### *Urban Chaos & Criminal Empires*
 
 <p><em>From the neon-lit streets of Vice to the sun-scorched highways of San Andreas, these are the ballads of the lawless—modern myths forged in concrete and steel. Here, loyalty is currency, betrayal is commonplace, and ambition knows no bounds. The asphalt jungle becomes a battlefield where only the ruthless survive and legends are born in blood and chrome.</em></p>
+
+##### 🎮 Grand Theft Auto Series
+*From Liberty City to Los Santos*
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -138,12 +161,31 @@
 
 <p><em>In these hallowed halls of strategic mastery, victory belongs not to the strongest arm, but to the keenest mind. From the frozen wastelands of Frostpunk to the war-torn battlefields of World War II, from the Wild West to the mystical realms of ancient mythology—these are the chronicles of commanders who shaped history through cunning, foresight, and tactical brilliance. Every unit placed, every resource managed, every decision made echoes through the annals of strategic warfare.</em></p>
 
+##### 🎖️ Company of Heroes Series
+*World War II’s greatest battles*
+
+| 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+| [Company of Heroes](company_of_heroes.md) | 2006 | ★★★★★ | 40h 18m | Completed | Steam | Not Available |
+
+##### 🤠 Desperados Series
+*Tactical stealth in the Wild West*
+
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Desperados: Wanted Dead or Alive](desperados_wanted_dead_or_alive.md) | 2001 | ★★★★☆ | 7h 10m | Completed | Pirated | Pirated |
-| [Company of Heroes](company_of_heroes.md) | 2006 | ★★★★★ | 40h 18m | Completed | Steam | Not Available |
+
+##### ❄️ Frostpunk Series
+*Survival in a frozen apocalypse*
+
+| 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Frostpunk](frostpunk.md) | 2018 | ★★★★☆ | 15h | Completed | Pirated | Pirated |
 
+##### 📖 Standalone Titles
+
+| 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Age of Mythology](age_of_mythology.md) | 2002 | ★★★⯪☆ | 20h 7m | Completed | Pirated | Pirated |
 
 ### 🏎️ Racing
@@ -160,6 +202,9 @@
 
 <p><em>Where physics bends to magic and every obstacle becomes a canvas for creativity. These enchanted realms challenge not just reflexes, but the mind itself. Through mystical forests and ancient ruins, heroes must think as much as they leap, conjure as much as they climb. Here, the greatest weapon is not a sword, but imagination—and the path forward is paved with cleverness and wonder.</em></p>
 
+##### 🚂 Syberia Series
+*Kate Walker's dreamlike journey to the East*
+
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Syberia](syberia.md) | 2002 | ★★★★⯪ | 15h 22m | Completed | Steam | Not Available |
@@ -170,11 +215,19 @@
 
 <p><em>Not every adventure need be a world-ending crisis. Sometimes, a weary hero simply seeks the comfort of simpler pleasures—a mug of ale, a warm hearth, and tales that bring smiles rather than scars. These are the lighter chronicles: nostalgic journeys to childhood, pastoral adventures on sun-dappled farms, and whimsical quests that remind us why we fell in love with gaming in the first place.</em></p>
 
+##### 🐄 Farm Frenzy Series
+*Pastoral adventures on sun-drenched farms*
+
+| 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+| [Farm Frenzy](farm_frenzy.md) | 2007 | ★★⯪☆☆ | 9h 38m | Completed | Pirated | Pirated |
+| [Farm Frenzy 2](farm_frenzy_2.md) | 2008 | ★★★☆☆ | 16h 56m | Completed | Pirated | Pirated |
+
+##### 📖 Standalone Titles
+
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Disney's Hercules Action Game](disneys_hercules_action_game.md) | 1997 | ★★★★⯪ | 1h 56m | Completed | Pirated | Pirated |
-| [Farm Frenzy](farm_frenzy.md) | 2007 | ★★⯪☆☆ | 9h 38m | Completed | Pirated | Pirated |
-| [Farm Frenzy 2](farm_frenzy_2.md) | 2008 | ★★★☆☆ | 16h 56m | Completed | Pirated | Pirated |
 
 
 <pre>
