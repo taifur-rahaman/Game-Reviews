@@ -6,12 +6,12 @@
 | Developer          | Benoît Sokal / Microïds     |
 | Publisher          | Microïds                    |
 | Genre              | Point-and-Click Adventure   |
-| Status             | Active                      |
-| Time Played        | 14h 29m                      |
+| Status             | Completed                   |
+| Time Played        | 15h 22m                      |
 | Start Date         | 3rd January 2026            |
-| End Date           | TBD                         |
-| Duration           | 7 Days (Ongoing)            |
-| Rating             | TBD                         |
+| End Date           | 12th January 2026           |
+| Duration           | 9 Days                      |
+| Rating             | ★★★★⯪                       |
 | Platform           | Steam                       |
 | Achievements       | Not Available               |
 
@@ -19,29 +19,35 @@
 
 ## Overview
 
-Syberia is a hauntingly beautiful point-and-click adventure that transcends the limitations of its genre to deliver a deeply atmospheric journey through a surreal, dreamlike Europe. Released in 2002 by artist and designer Benoît Sokal, it's a game that prioritizes storytelling, exploration, and visual artistry over traditional puzzle complexity. Following Kate Walker, a New York lawyer sent to a remote French village to finalize a factory sale, the game unfolds into an unexpected odyssey across forgotten lands in search of the eccentric inventor Hans Voralberg and his obsession with the mythical island of Syberia.
+Syberia is one of those games that just sticks with you. It's not about fast reflexes or blowing things up; it's about the vibe. Honestly, it's a bit of a trip. Released back in 2002, it looks like a painting come to life. You play as Kate Walker, a lawyer from New York who thinks she's just there to sign some papers, but ends up chasing a crazy old man named Hans Voralberg across Europe just to find some mammoths. It sounds weird, but it totally works.
 
 ## Story & Atmosphere
 
-The narrative begins simply: Kate arrives in Valadilène to complete a routine business transaction for the Voralberg automaton factory. But when she discovers that the factory's heir, Hans Voralberg, is still alive and has embarked on a quest to find the last living mammoths in Syberia, her mission transforms into something far more profound. What starts as a legal obligation becomes a personal journey of self-discovery as Kate ventures deeper into a world of mechanical wonders, forgotten dreams, and the ghosts of a bygone era.
+The story starts simple enough. Kate just needs to buy this automaton factory in Valadilène. But then she finds out the owner just died and her heir, Hans, is actually alive and somewhere in the middle of nowhere. So, instead of going home, she hops on this wind-up train (yes, you have to wind it up) and follows him.
 
-The story is melancholic and contemplative, unfolding at a deliberate pace that mirrors the rhythm of the wind-up train Kate travels on. It's a tale about obsession, legacy, and the conflict between duty and desire. Kate's character arc — from a pragmatic lawyer bound by corporate expectations to someone willing to abandon everything for the unknown — is beautifully realized through her interactions with the eccentric characters she meets and the haunting environments she explores.
+What really got me was the *feel* of the game. It's sad, but in a good way. Like, everything feels lonely and forgotten. You go to these massive, empty places like the Barrockstadt University or the creepy industrial complex in Komkolzgrad, and you're basically the only normal person there. The music? Incredible. It swells up just when you need it to and makes everything feel so emotional.
 
-The atmosphere is Syberia's greatest triumph. Each location — from the clockwork-filled streets of Valadilène to the decaying grandeur of Barrockstadt University, the industrial bleakness of Komkolzgrad, and the mystical hot springs of Aralbad — feels like a painting brought to life. The art direction is stunning, blending steampunk aesthetics with Eastern European architecture and a touch of magical realism. The world feels lived-in yet abandoned, as if time has stopped and Kate is the only one moving through the ruins of forgotten ambitions.
-
-The soundtrack, composed by Dimitri Artemenko, is ethereal and evocative, perfectly complementing the game's dreamlike quality. The music swells during moments of discovery and fades into silence during introspective scenes, creating an emotional rhythm that enhances the storytelling. The voice acting is strong, with Sharon Mann delivering a nuanced performance as Kate, capturing her transformation from skepticism to wonder.
+Kate's journey is pretty cool too. She starts off as this uptight lawyer, but by the end, she's completely done with her old life. And honestly, looking at the people she left behind (her mom, her cheating fiancé Dan, and her "best friend" Olivia), I don't blame her for dipping on them.
 
 ## Gameplay
 
-Syberia is a traditional point-and-click adventure. You explore pre-rendered environments, collect items, solve puzzles, and engage in dialogue with characters. The puzzles are generally logical and well-integrated into the world — repairing automatons, unlocking mechanisms, and navigating the train's systems all feel purposeful rather than arbitrary. The game avoids the obtuse, moon-logic puzzles that plagued earlier adventure games, favoring instead puzzles that make sense within the context of the story.
+Okay, so the gameplay is your standard point-and-click stuff. You find items, talk to people, and solve puzzles. Most of the puzzles make sense—fixing detailed machines, mixing drinks, that kind of thing. It rarely feels random.
 
-The pacing is slow and methodical, which will appeal to players who enjoy exploration and atmosphere but may frustrate those seeking constant action. There's a lot of backtracking, and some puzzles require careful observation of the environment and dialogue. The game rewards patience and attention to detail, encouraging players to soak in the world rather than rush through it.
-
-However, the gameplay has its limitations. The controls are clunky by modern standards — movement is slow, and the fixed camera angles can make navigation awkward. The interface, while functional, feels dated, and some puzzles involve repetitive tasks that test patience more than ingenuity. The game also lacks a hint system, so players may occasionally find themselves stuck without clear direction.
+But man, is it slow. Like, really slow. Kate jogs like she's underwater sometimes, and there's a LOT of running back and forth. The camera angles are fixed, which looks pretty but can be annoying when you just want to walk down a hall. And don't get me started on the stair climbing animations. You really have to have patience for this one.
 
 ## Verdict
 
-*To be added after completion*
+Syberia is one of those games that leaves a mark on you long after you're done. It's a total masterpiece when it comes to atmosphere. Even though the gameplay shows its age—yeah, the controls are clunky and there's a ton of backtracking—the world is just so dreamlike and beautiful that I didn't even care half the time.
+
+The characters are what really make it stick. **Hans Voralberg** is such a tragic, cool figure. The dude is a genius who refused to build weapons for the military and just wanted to find his mammoths. That's serious respect. And **Professor Pons** at the university? Loved him. He was actually passionate about his work, unlike the other stuffy old guys there.
+
+But man, the villains (and "friends") are the worst, in a way that makes you love hating them. **Serguei** in Komkolzgrad is a literal psychopath. He put Helena Romanski in a cage like a bird! Who does that? And don't get me started on Kate's crew back home. Her mom is all drama, her fiancé **Dan** is a whiny cheater, and **Olivia** is a snake for hooking up with him. Watching Kate realize she didn't need any of them and just hopping on that train at the end felt so satisfying.
+
+There are so many little details I loved, too. The **Red Amerzone Cuckoos** scaring the monks because they eat their wine grapes was hilarious. And fixing the blind Wall Captain's eyes with some **Yangala-Cola** so he realized his "enemy spy" was just a dead tree? Classic.
+
+At the end of the day, Syberia isn't just a puzzle game. It's an experience about dropping everything to chase a dream, even a crazy one. If you can get past the old-school jank, it's absolutely worth it.
+
+**Rating: ★★★★⯪ (4.5/5)**
 
 ---
 
@@ -56,13 +62,15 @@ A comprehensive chapter-by-chapter guide covering all 4 locations:
 - **Chapter 4:** Aralbad - The final destination
 
 **Current Progress:**
-- ⬜ Chapter 1: Valadilène - Not Started
-- ⬜ Chapter 2: Barrockstadt - Not Started
-- ⬜ Chapter 3: Komkolzgrad - Not Started
-- ⬜ Chapter 4: Aralbad - Not Started
-- **Overall:** 0/4 chapters (0%)
+- ✅ Chapter 1: Valadilène - Completed
+- ✅ Chapter 2: Barrockstadt - Completed
+- ✅ Chapter 3: Komkolzgrad - Completed
+- ✅ Chapter 4: Aralbad - Completed
+- **Overall:** 4/4 chapters (100%)
 
 ## Notes & Observations
+
+*(These are my raw notes from while I was playing—some spoilers involved!)*
 
 ### 📓 Anna's Diary
 *   **Emotional Rollercoaster:** Man, reading this diary hit me hard. I was feeling everything—sadness, anger, then happy, then sad again. It's crazy how much emotion is packed into those pages.
@@ -87,7 +95,7 @@ A comprehensive chapter-by-chapter guide covering all 4 locations:
 *   **Professor Pons:** Now this guy is a breath of fresh air. A true academic through and through. He's incredibly passionate about his work, and his lecture on the **Youkol Tribe** was genuinely fascinating. He even revealed that **he and Hans were good friends** when Hans was at the university, which must have been over 50 years ago. He's helpful, respectful, and easily the best character in Barrockstadt so far.
 *   **Hans Voralberg:** It is wildly impressive. Even though his accident left him "mentally impaired" (as everyone keeps saying), he became one of the geniuses of the century. I was amazed to learn that **he created the huge mechanical wall** that protects Barrockstadt, AND the **University's Automaton Musical Ball** outside.
     *   **Noble Soul:** Turns out he used to be a leading **aerospace engineer** for the Soviet Union! But when the military wanted to weaponize his spaceship designs, he just... quit. He refused to let his genius be used for war. That is incredibly noble.
-*   **Serguei:** This guy is a straight-up **psychopath**. An *actual* psychopath. He's obsessed with the opera singer Helena Romanski—wants to kidnap her, force her to live with him, and sing only for him. It's not admiration; it's a terrifying, delusional ownership. Creepy as hell.
+*   **Serguei:** This guy is a straight-up **psychopath**. An *actual* psychopath. He's obsessed with the opera singer Helena Romanski—wants to kidnap her, force her to live with him, and sing only for him. It's not admiration; it's a terrifying, delusional ownership. When I brought Helena to him, he **ACTUALLY put a cage over her**, like a bird, making her sing for his automaton. Absolute worst. What a twisted bastard.
 
 ### 👱‍♀️ Kate Walker
 *   **Sass Master:** Kate is surprisingly spicy! She isn't just a polite lawyer; she can be **rudely sarcastic** when people push her buttons. I love that she has that edge to her.

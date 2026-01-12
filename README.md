@@ -63,9 +63,9 @@
 | **🗝️ Sacred Metric** | 💎 **Legendary Value** | 🔮 **Significance** |
 | :--- | :---: | :--- |
 | **📜 Scrolls Inscribed** | **21 Tomes** | *Worlds Documented* |
-| **⏳ Hours in Realms** | **4,898h 51m** | *Lifetimes Lived* |
-| **🎮 Realms Conquered** | **20 Kingdoms** | *Victories Eternal* |
-| **⚔️ Active Campaigns** | **2 Battlefronts** | *Wars Ongoing* |
+| **⏳ Hours in Realms** | **4,899h 44m** | *Lifetimes Lived* |
+| **🎮 Realms Conquered** | **21 Kingdoms** | *Victories Eternal* |
+| **⚔️ Active Campaigns** | **1 Battlefront** | *Wars Ongoing* |
 
 <pre>
 ═══════════════════════════════════════════════════════════════════════
@@ -79,7 +79,6 @@
 | 🏷️ **Realm Type** | 🏹 **Active Quests** | ⏳ **Time** | ⚡ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | **⚔️ MOBA - The Eternal Arena** | [DOTA 2](dota_2.md) | 4196h 27m | 🔥 **BURNING** | Steam | Not Available |
-| **🎭 Adventure - The Clockwork Dream** | [Syberia](syberia.md) | 14h 29m | 🚂 **DEPARTING** | Steam | Not Available |
 
 <pre>
 ╔══════════════════════════════════════════════════════════════════════╗
@@ -161,7 +160,7 @@
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Syberia](syberia.md) | 2002 | TBD | 14h 29m | **Active** | Steam | Not Available |
+| [Syberia](syberia.md) | 2002 | ★★★★⯪ | 15h 22m | Completed | Steam | Not Available |
 
 
 ### 🍺 Casual & Family-Friendly
@@ -196,7 +195,7 @@
 
 | 📅 **Year** | 🎮 **Must-Play Titles** | 📊 **Progress** | 🔗 **Guide** |
 |:---:|:---|:---:|:---:|
-| **2002** | ✅ [GTA Vice City](gta_vice_city.md)<br>✅ [GTA III](gta_3.md)<br>✅ [Age of Mythology](age_of_mythology.md)<br>🎮 [Syberia](syberia.md)<br>• Morrowind<br>• Mafia<br>• Hitman 2<br>• Splinter Cell<br>• Robin Hood: Legend of Sherwood<br>• Nancy Drew: Secret of the Scarlet Hand<br>• Nancy Drew: Ghost Dogs of Moon Lake | 3/11 Complete<br>1/11 Active | [View Details](recommendations/2002.md) |
+| **2002** | ✅ [GTA Vice City](gta_vice_city.md)<br>✅ [GTA III](gta_3.md)<br>✅ [Age of Mythology](age_of_mythology.md)<br>✅ [Syberia](syberia.md)<br>• Morrowind<br>• Mafia<br>• Hitman 2<br>• Splinter Cell<br>• Robin Hood: Legend of Sherwood<br>• Nancy Drew: Secret of the Scarlet Hand<br>• Nancy Drew: Ghost Dogs of Moon Lake | 4/11 Complete<br>0/11 Active | [View Details](recommendations/2002.md) |
 | **2003** | • Max Payne 2<br>• Call of Duty<br>• Manhunt<br>• Runaway: A Road Adventure<br>• Nancy Drew: The Haunted Carousel<br>• Nancy Drew: Danger on Deception Island | 0/6 Complete<br>0/6 Active | [View Details](recommendations/2003.md) |
 | **2004** | • Half-Life 2<br>• Vampire: Bloodlines<br>• Splinter Cell: Pandora Tomorrow<br>• Far Cry<br>• Nancy Drew: Secret of Shadow Ranch<br>• Nancy Drew: Curse of Blackmoor Manor | 0/6 Complete<br>0/6 Active | [View Details](recommendations/2004.md) |
 | **2005** | ✅ [GTA San Andreas](gta_san_andreas.md)<br>✅ [NFS Most Wanted](nfs_most_wanted.md)<br>• Indigo Prophecy<br>• Splinter Cell: Chaos Theory<br>• F.E.A.R.<br>• Psychonauts<br>• Nancy Drew: Secret of the Old Clock<br>• Nancy Drew: Last Train to Blue Moon Canyon | 2/8 Complete<br>0/8 Active | [View Details](recommendations/2005.md) |
