@@ -6,8 +6,8 @@
 | Developer          | Valve                       |
 | Publisher          | Valve                       |
 | Genre              | MOBA                        |
-| Status             | Active                      |
-| Time Played        | 4196 Hours 27 Minutes       |
+| Status             | Retired                     |
+| Time Played        | 4197 Hours 49 Minutes       |
 | Rating             | ★ ★ ★ ★ ★                 |
 | Platform           | Steam                       |
 | Achievements       | Not Available               |
@@ -36,8 +36,16 @@ It’s a game that demands everything from you: mechanical skill, strategic thin
 
 ## Verdict
 
-My playtime speaks for itself: 4192 hours and counting. You don't complete DOTA. You just play until you retire. It is a masterpiece of balance and design that has ruined other games for me because nothing else feels as deep or significant.
+My playtime speaks for itself: 4197 hours and counting. You don't complete DOTA. You just play until you retire. It is a masterpiece of balance and design that has ruined other games for me because nothing else feels as deep or significant.
 
 If you value your free time, stay away. If you want the most intellectually stimulating competitive experience of your life, welcome to the trench. See you in the next match.
 
-**Rating: 5/5 (Ask me again after a lose streak)**
+**Rating: 5/5 (Retired)**
+
+## The Retirement Verdict
+
+After 4,197 hours and 49 minutes, I am hanging up the mouse. Dota 2 is not just a game; it was a chapter of my life. It taught me about teamwork, patience, leadership, and how to handle the most profound tilt known to man. But every hero must eventually return to the fountain for the last time.
+
+I leave the Ancients to a new generation. The map will change, the meta will shift, and new heroes will rise, but my watch has ended. It was the best of times, it was the worst of times, and I wouldn't trade a solitary second of it. 
+
+*GG WP. Disconnecting...*

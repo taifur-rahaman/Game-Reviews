@@ -63,9 +63,9 @@
 | **🗝️ Sacred Metric** | 💎 **Legendary Value** | 🔮 **Significance** |
 | :--- | :---: | :--- |
 | **📜 Scrolls Inscribed** | **21 Tomes** | *Worlds Documented* |
-| **⏳ Hours in Realms** | **4,902h 12m** | *Lifetimes Lived* |
+| **⏳ Hours in Realms** | **4,903h 34m** | *Lifetimes Lived* |
 | **🎮 Realms Conquered** | **21 Kingdoms** | *Victories Eternal* |
-| **⚔️ Active Campaigns** | **2 Battlefronts** | *Wars Ongoing* |
+| **⚔️ Active Campaigns** | **1 Battlefronts** | *Wars Ongoing* |
 
 <pre>
 ═══════════════════════════════════════════════════════════════════════
@@ -78,7 +78,6 @@
 
 | 🏷️ **Realm Type** | 🏹 **Active Quests** | ⏳ **Time** | ⚡ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| **⚔️ MOBA - The Eternal Arena** | [DOTA 2](dota_2.md) | 4196h 27m | 🔥 **BURNING** | Steam | Not Available |
 | **🗡️ Stealth Action** | [Hitman 2: Silent Assassin](hitman_2_silent_assassin.md) | 2h 28m | 🕵️ **INFILTRATING** | Steam | Not Available |
 
 <pre>
@@ -170,7 +169,7 @@
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [DOTA 2](dota_2.md) | 2013 | ★★★★★ | 4196h 27m | **Active** | Steam | Not Available |
+| [DOTA 2](dota_2.md) | 2013 | ★★★★★ | 4197h 49m | **Retired** | Steam | Not Available |
 
 ### ♟️ Strategy
 *The Tactician's War Room*
@@ -271,13 +270,13 @@
 
 | 📅 **Year** | 🎮 **Must-Play Titles** | 📊 **Progress** | 🔗 **Guide** |
 |:---:|:---|:---:|:---:|
-| **2002** | ✅ [GTA Vice City](gta_vice_city.md)<br>✅ [GTA III](gta_3.md)<br>✅ [Age of Mythology](age_of_mythology.md)<br>✅ [Syberia](syberia.md)<br>• Morrowind<br>• Mafia<br>🎮 [Hitman 2: Silent Assassin](hitman_2_silent_assassin.md)<br>• Splinter Cell<br>• Robin Hood: Legend of Sherwood<br>• Nancy Drew: Secret of the Scarlet Hand<br>• Nancy Drew: Ghost Dogs of Moon Lake | 4/11 Complete<br>1/11 Active | [View Details](recommendations/2002.md) |
-| **2003** | • Max Payne 2<br>• Call of Duty<br>• Manhunt<br>• Runaway: A Road Adventure<br>• Nancy Drew: The Haunted Carousel<br>• Nancy Drew: Danger on Deception Island | 0/6 Complete<br>0/6 Active | [View Details](recommendations/2003.md) |
-| **2004** | • Half-Life 2<br>• Vampire: Bloodlines<br>• Splinter Cell: Pandora Tomorrow<br>• Far Cry<br>• Nancy Drew: Secret of Shadow Ranch<br>• Nancy Drew: Curse of Blackmoor Manor | 0/6 Complete<br>0/6 Active | [View Details](recommendations/2004.md) |
+| **2002** | ✅ [GTA Vice City](gta_vice_city.md)<br>✅ [GTA III](gta_3.md)<br>✅ [Syberia](syberia.md)<br>✅ [Age of Mythology](age_of_mythology.md)<br>🎮 [Hitman 2: Silent Assassin](hitman_2_silent_assassin.md)<br>• Splinter Cell<br>• Mafia: The City of Lost Heaven<br>• The Elder Scrolls III: Morrowind<br>• Nancy Drew: Secret of the Scarlet Hand<br>• Nancy Drew: Ghost Dogs of Moon Lake<br>• Robin Hood: Legend of Sherwood | 4/11 Complete<br>1/11 Active | [View Details](recommendations/2002.md) |
+| **2003** | • Max Payne 2: The Fall of Max Payne<br>• Call of Duty<br>• Manhunt<br>• Runaway: A Road Adventure<br>• Nancy Drew: The Haunted Carousel<br>• Nancy Drew: Danger on Deception Island | 0/6 Complete<br>0/6 Active | [View Details](recommendations/2003.md) |
+| **2004** | • Half-Life 2<br>• Vampire: The Masquerade - Bloodlines<br>• Splinter Cell: Pandora Tomorrow<br>• Far Cry<br>• Nancy Drew: Secret of Shadow Ranch<br>• Nancy Drew: Curse of Blackmoor Manor | 0/6 Complete<br>0/6 Active | [View Details](recommendations/2004.md) |
 | **2005** | ✅ [GTA San Andreas](gta_san_andreas.md)<br>✅ [NFS Most Wanted](nfs_most_wanted.md)<br>• Indigo Prophecy<br>• Splinter Cell: Chaos Theory<br>• F.E.A.R.<br>• Psychonauts<br>• Nancy Drew: Secret of the Old Clock<br>• Nancy Drew: Last Train to Blue Moon Canyon | 2/8 Complete<br>0/8 Active | [View Details](recommendations/2005.md) |
-| **2006** | ✅ [Company of Heroes](company_of_heroes.md) (Base Game)<br>✅ [The Godfather](the_godfather.md)<br>• Elder Scrolls IV: Oblivion<br>• Hitman: Blood Money<br>• FlatOut 2<br>• Dark Messiah of Might & Magic<br>• Scarface: The World Is Yours<br>• Call of Juarez | 2/9 Complete<br>0/9 Active | [View Details](recommendations/2006.md) |
+| **2006** | ✅ [Company of Heroes](company_of_heroes.md) (Base Game)<br>✅ [The Godfather](the_godfather.md)<br>• The Elder Scrolls IV: Oblivion<br>• FlatOut 2<br>• Hitman: Blood Money<br>• Dark Messiah of Might & Magic<br>• Scarface: The World Is Yours<br>• Call of Juarez | 2/8 Complete<br>0/8 Active | [View Details](recommendations/2006.md) |
 | **2007** | ✅ [Company of Heroes: Opposing Fronts](company_of_heroes.md) | 1/1 Complete<br>0/1 Active | [View Details](recommendations/2007.md) |
-| **2009** | 🎮 [Company of Heroes: Tales of Valor](company_of_heroes.md)<br>• Batman: Arkham Asylum<br>• Dragon Age: Origins<br>• Borderlands<br>• The Saboteur<br>• Risen<br>• Prototype<br>• Divinity II<br>• Modern Warfare 2<br>• Plants vs. Zombies<br>• Empire/Torchlight/ArmA 2 | 0/11 Complete<br>1/11 Active | [View Details](recommendations/2009.md) |
+| **2009** | 🎮 [Company of Heroes: Tales of Valor](company_of_heroes.md)<br>• Dragon Age: Origins<br>• Batman: Arkham Asylum<br>• Borderlands<br>• The Saboteur<br>• Risen<br>• Trine<br>• Prototype<br>• Divinity II | 0/9 Complete<br>1/9 Active | [View Details](recommendations/2009.md) |
 
 <p><em>More years shall be added to this chronicle as thy journey continues. Each era of gaming holds treasures waiting to be discovered.</em></p>
 
