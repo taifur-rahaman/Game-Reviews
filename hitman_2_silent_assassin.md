@@ -7,7 +7,7 @@
 | Publisher          | Eidos Interactive           |
 | Genre              | Stealth / Action            |
 | Status             | Playing                     |
-| Time Played        | 1h 35m                      |
+| Time Played        | 2h 28m                      |
 | Start Date         | 12th January 2026           |
 | End Date           | -                           |
 | Duration           | -                           |
@@ -45,7 +45,7 @@ It's classic, high-tension stealth. The game clearly wants you to be a ghost. My
 
 - [x] **Gontranno Sanctuary (Sicily)**
 - [x] **Anathema (Sicily)**
-- [ ] **St. Petersburg Stakeout (Russia)**
+- [x] **St. Petersburg Stakeout (Russia)**
 - [ ] **Kirov Park Meeting (Russia)**
 - [ ] **Tubeway Torpedo (Russia)**
 - [ ] **Invitation to a Party (Russia)**
@@ -75,4 +75,11 @@ It's classic, high-tension stealth. The game clearly wants you to be a ghost. My
     *   **The Hit:** I slipped into the compound, found the Don, and took him out. Clean, professional. Didn't touch a hair on anyone else's head.
     *   **Ranking:** Got the **Professional** rating with the stealth bar maxed out. Felt satisfying to be a ghost.
     *   **The Twist:** High off the perfect kill, I rushed to the basement cells to save Father Vittorio... and he wasn't there. Just an empty chair. The intercom cracked straight away—Russian goons had dragged him off just moments before I got there. So much for a quick rescue. Looks like I'm traveling.
+
+### 🇷🇺 St. Petersburg
+*   **St. Petersburg Stakeout (Mission 2):** Okay, this mission was *peak* Hitman.
+    *   **The Vibe:** I hop off the train in St. Petersburg and immediately realized I needed a vantage point. Found a sniper rifle in a locker (classic setup) and decided the streets were too hot. So, into the sewers I went. Gross, but effective.
+    *   **The Hit:** Pure tension. I spent 80% of the mission wading through muck to get into the perfect position. Popped up from a manhole, lined up the shot while the generals were meeting, and—*boom*—General down. Clean.
+    *   **The Getaway:** This was the best part. I didn't stick around to watch the panic. I slipped right back into the sewers before a single guard even twitched. Made it back to the station and caught the next train out of town. **In like a Spirit, out like a Ghost.** Nobody knows who did it, why they did it, or if I was ever even there. 10/10 stealth satisfaction.
+
 
