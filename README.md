@@ -120,11 +120,6 @@
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Hitman 2: Silent Assassin](hitman_2_silent_assassin.md) | 2002 | - | 2h 28m | Playing | Steam | Not Available |
 
-#### 📖 Standalone Titles
-
-| 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [The Godfather](the_godfather.md) | 2006 | ★★★★★ | 17h 6m | Completed | Pirated | Pirated |
 
 ### 🌆 Open-World Action
 *Urban Chaos & Criminal Empires*
@@ -141,6 +136,14 @@
 | [Grand Theft Auto: Vice City](gta_vice_city.md) | 2002 | ★★★★⯪ | 17h 39m | Completed | Pirated | Pirated |
 | [Grand Theft Auto: San Andreas](gta_san_andreas.md) | 2005 | ★★★★★ | 41h 48m | Completed | Pirated | Pirated |
 
+#### 🔫 Mafia Crime Sagas
+
+<p><em>Leave the gun, take the cannoli. This isn't just about shooting; it's about the family, the omertà, and rising through the ranks of organized crime. We're talking sharp suits, tommy guns, and offers you can't refuse. I've already conquered New York in The Godfather, living the ultimate mobster fantasy. Now, in 2002, all eyes are on the city of Lost Heaven in Mafia. It promises a narrative-driven look at the life of a made man. I'm ready to pay my respects.</em></p>
+
+| 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+| [The Godfather](the_godfather.md) | 2006 | ★★★★★ | 17h 6m | Completed | Pirated | Pirated |
+
 ### � Role-Playing Games (RPG)
 *Where Destiny Bends to the Will of Heroes*
 
@@ -154,7 +157,7 @@
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Mass Effect Legendary Edition](mass_effect_legendary_edition.md) | 2021 | ★★★★★ | 196h 35m | Completed | Pirated | Pirated |
 
-#### 📖 Standalone Titles
+#### � Mythological RPGs
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -198,7 +201,7 @@
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Frostpunk](frostpunk.md) | 2018 | ★★★★☆ | 15h | Completed | Pirated | Pirated |
 
-#### 📖 Standalone Titles
+#### ⚡ Legends of Antiquity
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -241,7 +244,7 @@
 | [Farm Frenzy](farm_frenzy.md) | 2007 | ★★⯪☆☆ | 9h 38m | Completed | Pirated | Pirated |
 | [Farm Frenzy 2](farm_frenzy_2.md) | 2008 | ★★★☆☆ | 16h 56m | Completed | Pirated | Pirated |
 
-#### 📖 Standalone Titles
+#### 🏺 Retro Platformers
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
