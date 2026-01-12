@@ -2,7 +2,7 @@
 
 | |                             |
 |--------------------|-----------------------------| 
-| Release Date       | 1st October 2002            |
+| Release Date       | 1st Oct 2002                |
 | Developer          | IO Interactive              |
 | Publisher          | Eidos Interactive           |
 | Genre              | Stealth / Action            |

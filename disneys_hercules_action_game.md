@@ -2,7 +2,7 @@
 
 | |                             |
 |--------------------|-----------------------------| 
-| Release Date       | 30th June 1997              |
+| Release Date       | 20th Jun 1997               |
 | Developer          | Eurocom Entertainment       |
 | Publisher          | Disney Interactive          |
 | Genre              | Action, Platformer          |

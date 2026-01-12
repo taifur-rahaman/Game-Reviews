@@ -2,7 +2,7 @@
 
 | |                             |
 |--------------------|-----------------------------| 
-| Release Date       | 22nd October 2001           |
+| Release Date       | 20th May 2002               |
 | Developer          | DMA Design (Rockstar North) |
 | Publisher          | Rockstar Games              |
 | Genre              | Action-Adventure, Open World |

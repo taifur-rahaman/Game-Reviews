@@ -104,9 +104,9 @@
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Assassin's Creed I](assassin's_creed_1.md) | 2007 | ★★★★☆ | 29h 15m | Completed | Pirated | Pirated |
-| [Assassin's Creed II](assassin's_creed_2.md) | 2009 | ★★★★⯪ | 56h 53m | Completed | Pirated | Pirated |
-| [Assassin's Creed: Brotherhood](assassin's_creed_brotherhood.md) | 2010 | ★★★★☆ | 60h 17m | Completed | Pirated | Pirated |
+| [Assassin's Creed I](assassin's_creed_1.md) | 2008 | ★★★★☆ | 29h 15m | Completed | Pirated | Pirated |
+| [Assassin's Creed II](assassin's_creed_2.md) | 2010 | ★★★★⯪ | 56h 53m | Completed | Pirated | Pirated |
+| [Assassin's Creed: Brotherhood](assassin's_creed_brotherhood.md) | 2011 | ★★★★☆ | 60h 17m | Completed | Pirated | Pirated |
 
 #### 🌋 Middle-Earth Series
 
@@ -137,8 +137,8 @@
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Grand Theft Auto III](gta_3.md) | 2001 | ★★★★☆ | 19h 56m | Completed | Pirated | Pirated |
-| [Grand Theft Auto: Vice City](gta_vice_city.md) | 2002 | ★★★★⯪ | 17h 39m | Completed | Pirated | Pirated |
+| [Grand Theft Auto III](gta_3.md) | 2002 | ★★★★☆ | 19h 56m | Completed | Pirated | Pirated |
+| [Grand Theft Auto: Vice City](gta_vice_city.md) | 2003 | ★★★★⯪ | 17h 39m | Completed | Pirated | Pirated |
 | [Grand Theft Auto: San Andreas](gta_san_andreas.md) | 2005 | ★★★★★ | 41h 48m | Completed | Pirated | Pirated |
 
 #### 🔫 Mafia Crime Sagas
@@ -276,8 +276,8 @@
 
 | 📅 **Year** | 🎮 **Must-Play Titles** | 📊 **Progress** | 🔗 **Guide** |
 |:---:|:---|:---:|:---:|
-| **2002** | ✅ [GTA Vice City](gta_vice_city.md)<br>✅ [GTA III](gta_3.md)<br>✅ [Syberia](syberia.md)<br>✅ [Age of Mythology](age_of_mythology.md)<br>🎮 [Hitman 2: Silent Assassin](hitman_2_silent_assassin.md)<br>• Splinter Cell<br>• Mafia: The City of Lost Heaven<br>• The Elder Scrolls III: Morrowind<br>• Nancy Drew: Secret of the Scarlet Hand<br>• Nancy Drew: Ghost Dogs of Moon Lake<br>• Robin Hood: Legend of Sherwood | 4/11 Complete<br>1/11 Active | [View Details](recommendations/2002.md) |
-| **2003** | • Max Payne 2: The Fall of Max Payne<br>• Call of Duty<br>• Manhunt<br>• Runaway: A Road Adventure<br>• Nancy Drew: The Haunted Carousel<br>• Nancy Drew: Danger on Deception Island | 0/6 Complete<br>0/6 Active | [View Details](recommendations/2003.md) |
+| **2002** | ✅ [GTA III](gta_3.md)<br>✅ [Syberia](syberia.md)<br>✅ [Age of Mythology](age_of_mythology.md)<br>🎮 [Hitman 2: Silent Assassin](hitman_2_silent_assassin.md)<br>• Splinter Cell<br>• Mafia: The City of Lost Heaven<br>• The Elder Scrolls III: Morrowind<br>• Nancy Drew: Secret of the Scarlet Hand<br>• Nancy Drew: Ghost Dogs of Moon Lake<br>• Robin Hood: Legend of Sherwood | 3/10 Complete<br>1/10 Active | [View Details](recommendations/2002.md) |
+| **2003** | ✅ [GTA Vice City](gta_vice_city.md)<br>• Max Payne 2: The Fall of Max Payne<br>• Call of Duty<br>• Manhunt<br>• Runaway: A Road Adventure<br>• Nancy Drew: The Haunted Carousel<br>• Nancy Drew: Danger on Deception Island | 1/7 Complete<br>0/7 Active | [View Details](recommendations/2003.md) |
 | **2004** | • Half-Life 2<br>• Vampire: The Masquerade - Bloodlines<br>• Splinter Cell: Pandora Tomorrow<br>• Far Cry<br>• Nancy Drew: Secret of Shadow Ranch<br>• Nancy Drew: Curse of Blackmoor Manor | 0/6 Complete<br>0/6 Active | [View Details](recommendations/2004.md) |
 | **2005** | ✅ [GTA San Andreas](gta_san_andreas.md)<br>✅ [NFS Most Wanted](nfs_most_wanted.md)<br>• Indigo Prophecy<br>• Splinter Cell: Chaos Theory<br>• F.E.A.R.<br>• Psychonauts<br>• Nancy Drew: Secret of the Old Clock<br>• Nancy Drew: Last Train to Blue Moon Canyon | 2/8 Complete<br>0/8 Active | [View Details](recommendations/2005.md) |
 | **2006** | ✅ [Company of Heroes](company_of_heroes.md) (Base Game)<br>✅ [The Godfather](the_godfather.md)<br>• The Elder Scrolls IV: Oblivion<br>• FlatOut 2<br>• Hitman: Blood Money<br>• Dark Messiah of Might & Magic<br>• Scarface: The World Is Yours<br>• Call of Juarez | 2/8 Complete<br>0/8 Active | [View Details](recommendations/2006.md) |

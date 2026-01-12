@@ -2,7 +2,7 @@
 
 | |                             |
 |--------------------|-----------------------------| 
-| Release Date       | 11th November 2005          |
+| Release Date       | 15th Nov 2005               |
 | Developer          | EA Black Box                |
 | Publisher          | Electronic Arts             |
 | Genre              | Racing, Open World          |

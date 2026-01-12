@@ -2,7 +2,7 @@
 
 | |                             |
 |--------------------|-----------------------------| 
-| Release Date       | 15th October 2008           |
+| Release Date       | 27th Aug 2008               |
 | Developer          | Melesta Games               |
 | Publisher          | Alawar Entertainment        |
 | Genre              | Time Management, Casual     |

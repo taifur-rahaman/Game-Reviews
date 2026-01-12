@@ -2,7 +2,7 @@
 
 | |                             |
 |--------------------|-----------------------------|
-| Release Date       | 11th September 2006 (Base Game) |
+| Release Date       | 11th Sep 2006               |
 | Expansions         | Opposing Fronts (2007)<br>Tales of Valor (2009) |
 | Developer          | Relic Entertainment         |
 | Publisher          | THQ / Sega                  |

@@ -2,7 +2,7 @@
 
 | |                             |
 |--------------------|-----------------------------| 
-| Release Date       | 16th November 2010          |
+| Release Date       | 17th Mar 2011               |
 | Developer          | Ubisoft Montreal            |
 | Publisher          | Ubisoft Entertainment       |
 | Genre              | Adventure, Action, Stealth  |

@@ -2,7 +2,7 @@
 
 | |                             |
 |--------------------|-----------------------------| 
-| Release Date       | 24th April 2018             |
+| Release Date       | 24th Apr 2018             |
 | Developer          | 11 bit studios              |
 | Publisher          | 11 bit studios              |
 | Genre              | City-Building, Survival, Strategy |

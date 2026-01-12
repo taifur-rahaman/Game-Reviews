@@ -2,7 +2,7 @@
 
 | |                             |
 |--------------------|-----------------------------| 
-| Release Date       | 30th September 2014         |
+| Release Date       | 30th Sep 2014         |
 | Developer          | Monolith Productions        |
 | Publisher          | Warner Bros. Interactive    |
 | Genre              | Action-Adventure, Open World |

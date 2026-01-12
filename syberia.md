@@ -2,7 +2,7 @@
 
 | |                             |
 |--------------------|-----------------------------| 
-| Release Date       | 9th January 2002            |
+| Release Date       | 1st Sep 2002                |
 | Developer          | Benoît Sokal / Microïds     |
 | Publisher          | Microïds                    |
 | Genre              | Point-and-Click Adventure   |

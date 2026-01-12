@@ -2,7 +2,7 @@
 
 | |                             |
 |--------------------|-----------------------------| 
-| Release Date       | 2nd July 2009               |
+| Release Date       | 3rd Jul 2009                |
 | Developer          | Frozenbyte                  |
 | Publisher          | Frozenbyte                  |
 | Genre              | Puzzle-Platformer, Fantasy  |

@@ -2,7 +2,7 @@
 
 | |                             |
 |--------------------|-----------------------------| 
-| Release Date       | 16th December 2008          |
+| Release Date       | 12th Dec 2008               |
 | Developer          | Liquid Entertainment        |
 | Publisher          | Codemasters                 |
 | Genre              | Action RPG                  |

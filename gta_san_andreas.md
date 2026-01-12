@@ -2,7 +2,7 @@
 
 | |                             |
 |--------------------|-----------------------------| 
-| Release Date       | 26th October 2004           |
+| Release Date       | 7th Jun 2005                |
 | Developer          | Rockstar North              |
 | Publisher          | Rockstar Games              |
 | Genre              | Action-Adventure, Open World |

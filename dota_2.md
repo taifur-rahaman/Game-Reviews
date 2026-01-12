@@ -2,7 +2,7 @@
 
 | |                             |
 |--------------------|-----------------------------| 
-| Release Date       | 9th July 2013               |
+| Release Date       | 9th Jul 2013                |
 | Developer          | Valve                       |
 | Publisher          | Valve                       |
 | Genre              | MOBA                        |

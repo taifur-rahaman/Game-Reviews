@@ -2,7 +2,7 @@
 
 | |                             |
 |--------------------|-----------------------------| 
-| Release Date       | 24th March 2001             |
+| Release Date       | 23rd Jul 2001               |
 | Developer          | Spellbound Entertainment    |
 | Publisher          | Infogrames                  |
 | Genre              | Real-Time Tactics, Stealth  |

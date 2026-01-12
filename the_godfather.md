@@ -2,7 +2,7 @@
 
 | |                             |
 |--------------------|-----------------------------| 
-| Release Date       | 21st March 2006             |
+| Release Date       | 21st Mar 2006             |
 | Developer          | EA Redwood Shores           |
 | Publisher          | Electronic Arts             |
 | Genre              | Action-Adventure, Open World |

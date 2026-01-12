@@ -2,7 +2,7 @@
 
 | |                             |
 |--------------------|-----------------------------| 
-| Release Date       | 10th October 2017           |
+| Release Date       | 10th Oct 2017           |
 | Developer          | Monolith Productions        |
 | Publisher          | Warner Bros. Interactive    |
 | Genre              | Action RPG, Open World      |

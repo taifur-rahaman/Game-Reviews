@@ -2,7 +2,7 @@
 
 | |                             |
 |--------------------|-----------------------------| 
-| Release Date       | 2002 (Original)             |
+| Release Date       | 31st Oct 2002               |
 | Remastered Version | Age of Mythology: Retold (2024) |
 | Developer          | World's Edge, Forgotten Empires |
 | Publisher          | Xbox Game Studios           |
