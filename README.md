@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 # ⚔️ 𝕿𝖍𝖊 𝕲𝖗𝖆𝖓𝖉 𝕬𝖗𝖈𝖍𝖎𝖛𝖊𝖘 ⚔️
 ## *Chronicles of the Digital Realm Keeper*
@@ -175,7 +175,8 @@
 <p><em>In these hallowed halls of strategic mastery, victory belongs not to the strongest arm, but to the keenest mind. From the frozen wastelands of Frostpunk to the war-torn battlefields of World War II, from the Wild West to the mystical realms of ancient mythology—these are the chronicles of commanders who shaped history through cunning, foresight, and tactical brilliance. Every unit placed, every resource managed, every decision made echoes through the annals of strategic warfare.</em></p>
 
 ##### 🎖️ Company of Heroes Series
-*World War II’s greatest battles*
+
+<p><em>The definitive World War II RTS experience. CoH threw out the base-building formula and said "just capture territory and hold it." The result? Intense, tactical combat where every squad matters, every piece of cover is life or death, and tanks feel like actual tanks. Watching a well-placed machine gun mow down an advance, or flanking a Panzer with sticky bombs—it's chef's kiss. The destructible environments mean every battle literally reshapes the map.</em></p>
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -219,7 +220,7 @@
 
 ##### 🚂 Syberia Series
 
-<p><em>Kate Walker is just a lawyer from New York who went to a small French village to close a factory deal. Three games later, she's chasing mammoths across Siberia with a clockwork automaton companion. Syberia is about the journey, not the destination. It's melancholic, beautiful, and dreamlike—the kind of game where you stop to admire the hand-painted backgrounds and let the haunting music wash over you. The puzzles are classic point-and-click, but the atmosphere? Unforgettable.</em></p>
+<p><em>Kate Walker is just a lawyer from New York who went to a small French village to close a factory deal. What she found instead was a dying old woman's legacy, a missing heir chasing mammoths, and a wind-up train waiting to take her somewhere far away. The first Syberia is melancholic, beautiful, and dreamlike—the kind of game where you stop to admire the hand-painted backgrounds and let the haunting music wash over you. The puzzles are classic point-and-click, but the atmosphere? Unforgettable. I'm excited to see where Kate's journey takes her next.</em></p>
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
