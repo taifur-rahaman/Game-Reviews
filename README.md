@@ -63,9 +63,15 @@
 | **🗝️ Sacred Metric** | 💎 **Legendary Value** | 🔮 **Significance** |
 | :--- | :---: | :--- |
 | **📜 Scrolls Inscribed** | **21 Tomes** | *Worlds Documented* |
-| **⏳ Hours in Realms** | **4,903h 34m** | *Lifetimes Lived* |
+| **⏳ Hours in Realms** | **4,906h 05m** | *Lifetimes Lived* |
 | **🎮 Realms Conquered** | **21 Kingdoms** | *Victories Eternal* |
 | **⚔️ Active Campaigns** | **1 Battlefronts** | *Wars Ongoing* |
+
+<pre>
+═══════════════════════════════════════════════════════════════════════
+</pre>
+
+[⏳ View Detailed Temporal Distribution](utils/temporal_distribution.md)
 
 <pre>
 ═══════════════════════════════════════════════════════════════════════

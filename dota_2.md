@@ -8,6 +8,9 @@
 | Genre              | MOBA                        |
 | Status             | Retired                     |
 | Time Played        | 4197 Hours 49 Minutes       |
+| Start Date         | 21st June 2018              |
+| End Date           | 12th January 2026           |
+| Duration           | 7 Years, 205 Days           |
 | Rating             | ★ ★ ★ ★ ★                 |
 | Platform           | Steam                       |
 | Achievements       | Not Available               |
