@@ -7,7 +7,7 @@
 | Publisher          | Eidos Interactive           |
 | Genre              | Stealth / Action            |
 | Status             | Playing                     |
-| Time Played        | 2h 28m                      |
+| Time Played        | 3h 12m                      |
 | Start Date         | 12th January 2026           |
 | End Date           | -                           |
 | Duration           | -                           |
@@ -27,11 +27,15 @@ Hitman 2: Silent Assassin is the sequel to Codename 47. You play as Agent 47, a 
 
 The game kicks off with 47 trying to live the vivid "quiet life"—he's literally gardening at a church in Sicily. It's a peaceful contrast to his usual violent work. But of course, it doesn't last. The local Don, Giuliani, decides it's a good idea to kidnap 47's mentor, Father Vittorio, and demand a $500,000 ransom. Big mistake. You never wake a sleeping dragon with ill intentions. Now 47 has to dig up his old gear and get back to work.
 
+The search for Vittorio leads 47 to St. Petersburg, Russia. The atmosphere shifts from the sunny, open villas of Sicily to the cold, oppressive, and industrial streets of the post-Soviet era. There's a real sense of being back in the thick of a global conspiracy, with the ICA's Diana Burnwood providing Intel on high-ranking generals who seem to have a hand in Vittorio's disappearance.
+
 ## Gameplay
 
 *(To be updated as I play)*
 
 It's classic, high-tension stealth. The game clearly wants you to be a ghost. My first mission was a textbook example: I managed to infiltrate the villa, take out the target, and escape without harming a single guard or civilian. The game rewards that kind of precision with better rankings. The disguise system is key—blending in is often safer than sneaking around in the shadows.
+
+St. Petersburg introduces a more complex tactical layer: the sewer system. It's not just about sneaking past guards; it's about navigating the underworld to find vantage points or bypass checkpoints entirely. The variety of tools is also expanding—from the precision of a sniper rifle to the raw, calculated destruction of car bombs. Seeing the "Silent Assassin" rating after a complex setup like planting dual car bombs is incredibly rewarding.
 
 ## Verdict
 
@@ -46,7 +50,7 @@ It's classic, high-tension stealth. The game clearly wants you to be a ghost. My
 - [x] **Gontranno Sanctuary (Sicily)**
 - [x] **Anathema (Sicily)**
 - [x] **St. Petersburg Stakeout (Russia)**
-- [ ] **Kirov Park Meeting (Russia)**
+- [x] **Kirov Park Meeting (Russia)**
 - [ ] **Tubeway Torpedo (Russia)**
 - [ ] **Invitation to a Party (Russia)**
 - [ ] **Tracking Hayamoto (Japan)**
@@ -81,5 +85,11 @@ It's classic, high-tension stealth. The game clearly wants you to be a ghost. My
     *   **The Vibe:** I hop off the train in St. Petersburg and immediately realized I needed a vantage point. Found a sniper rifle in a locker (classic setup) and decided the streets were too hot. So, into the sewers I went. Gross, but effective.
     *   **The Hit:** Pure tension. I spent 80% of the mission wading through muck to get into the perfect position. Popped up from a manhole, lined up the shot while the generals were meeting, and—*boom*—General down. Clean.
     *   **The Getaway:** This was the best part. I didn't stick around to watch the panic. I slipped right back into the sewers before a single guard even twitched. Made it back to the station and caught the next train out of town. **In like a Spirit, out like a Ghost.** Nobody knows who did it, why they did it, or if I was ever even there. 10/10 stealth satisfaction.
+
+*   **Kirov Park Meeting (Mission 3):** This mission was all about precision and timing. 
+    *   **The Strategy:** Finished this mission with excellence. I hopped off the boat and immediately descended into the sewerage system to avoid the street-level patrols. 
+    *   **The Hit:** Found the two target cars and carefully planted Car Bombs in both. It's a high-stakes move—one slip-up and the whole park would be swarming with guards.
+    *   **The Escape:** Ascended back to the surface once the bombs were set, returned to the boat, and fled before the fireworks even started. 
+    *   **Ranking:** Another **Silent Assassin** rating. The "ghost" strikes again.
 
 
