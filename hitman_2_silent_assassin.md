@@ -7,7 +7,7 @@
 | Publisher          | Eidos Interactive           |
 | Genre              | Stealth / Action            |
 | Status             | Playing                     |
-| Time Played        | 4h 43m                      |
+| Time Played        | 5h 26m                      |
 | Start Date         | 12th January 2026           |
 | End Date           | -                           |
 | Duration           | -                           |
@@ -52,7 +52,7 @@ St. Petersburg introduces a more complex tactical layer: the sewer system. It's 
 - [x] **St. Petersburg Stakeout (Russia)**
 - [x] **Kirov Park Meeting (Russia)**
 - [x] **Tubeway Torpedo (Russia)**
-- [ ] **Invitation to a Party (Russia)**
+- [x] **Invitation to a Party (Russia)**
 - [ ] **Tracking Hayamoto (Japan)**
 - [ ] **Hidden Valley (Japan)**
 - [ ] **At the Gates (Japan)**
@@ -96,5 +96,12 @@ St. Petersburg introduces a more complex tactical layer: the sewer system. It's 
     *   **The Mission:** Infiltrate the Russian military HQ and extract a prisoner. Absolute BADASS move.
     *   **The Rescue:** When I reached the prisoner, it seemed like 47 knew him. There was some history there, but 47 being 47, he didn't say a word.
     *   **The Exit:** We made it to the sewerage exit. The prisoner, probably grateful to be alive, tried to shake 47's hand. 47 looked at him. Looked at the hand. Then just... walked away. **Stone. Cold.** That's Agent 47 for you—he's not here to make friends. He's here to do the job.
+
+*   **Invitation to a Party (Mission 5):** Time to crash a high-society gathering.
+    *   **The Setup:** Infiltrate a party, kill the General, and steal vital information before the opposition agency does the same. Classic spy thriller stuff.
+    *   **The Disguise:** I went in as a waiter. Perfect cover—nobody looks twice at the help.
+    *   **Double Trouble:** Not only did I take out the General, but I also eliminated the opposition's assassin. LOL. Two birds, one stone. They never saw it coming.
+    *   **The Escape:** Slipped out of the party before anyone even noticed anything was wrong. Just another night of catering, right?
+    *   **Ranking:** **Professional** rating. Clean work, no unnecessary casualties.
 
 
