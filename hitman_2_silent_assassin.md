@@ -7,7 +7,7 @@
 | Publisher          | Eidos Interactive           |
 | Genre              | Stealth / Action            |
 | Status             | Playing                     |
-| Time Played        | 3h 12m                      |
+| Time Played        | 4h 43m                      |
 | Start Date         | 12th January 2026           |
 | End Date           | -                           |
 | Duration           | -                           |
@@ -51,7 +51,7 @@ St. Petersburg introduces a more complex tactical layer: the sewer system. It's 
 - [x] **Anathema (Sicily)**
 - [x] **St. Petersburg Stakeout (Russia)**
 - [x] **Kirov Park Meeting (Russia)**
-- [ ] **Tubeway Torpedo (Russia)**
+- [x] **Tubeway Torpedo (Russia)**
 - [ ] **Invitation to a Party (Russia)**
 - [ ] **Tracking Hayamoto (Japan)**
 - [ ] **Hidden Valley (Japan)**
@@ -91,5 +91,10 @@ St. Petersburg introduces a more complex tactical layer: the sewer system. It's 
     *   **The Hit:** Found the two target cars and carefully planted Car Bombs in both. It's a high-stakes move—one slip-up and the whole park would be swarming with guards.
     *   **The Escape:** Ascended back to the surface once the bombs were set, returned to the boat, and fled before the fireworks even started. 
     *   **Ranking:** Another **Silent Assassin** rating. The "ghost" strikes again.
+
+*   **Tubeway Torpedo (Mission 4):** This one was different—a rescue mission deep in enemy territory.
+    *   **The Mission:** Infiltrate the Russian military HQ and extract a prisoner. Absolute BADASS move.
+    *   **The Rescue:** When I reached the prisoner, it seemed like 47 knew him. There was some history there, but 47 being 47, he didn't say a word.
+    *   **The Exit:** We made it to the sewerage exit. The prisoner, probably grateful to be alive, tried to shake 47's hand. 47 looked at him. Looked at the hand. Then just... walked away. **Stone. Cold.** That's Agent 47 for you—he's not here to make friends. He's here to do the job.
 
 
