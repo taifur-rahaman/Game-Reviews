@@ -63,7 +63,7 @@
 | **🗝️ Sacred Metric** | 💎 **Legendary Value** | 🔮 **Significance** |
 | :--- | :---: | :--- |
 | **📜 Scrolls Inscribed** | **21 Tomes** | *Worlds Documented* |
-| **⏳ Hours in Realms** | **4,909h 03m** | *Lifetimes Lived* |
+| **⏳ Hours in Realms** | **4,909h 38m** | *Lifetimes Lived* |
 | **🎮 Realms Conquered** | **21 Kingdoms** | *Victories Eternal* |
 | **⚔️ Active Campaigns** | **1 Battlefronts** | *Wars Ongoing* |
 
@@ -84,7 +84,7 @@
 
 | 🏷️ **Realm Type** | 🏹 **Active Quests** | ⏳ **Time** | ⚡ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| **🗡️ Stealth Action** | [Hitman 2: Silent Assassin](hitman_2_silent_assassin.md) | 5h 26m | 🕵️ **INFILTRATING** | Steam | Not Available |
+| **🗡️ Stealth Action** | [Hitman 2: Silent Assassin](hitman_2_silent_assassin.md) | 6h 1m | 🕵️ **INFILTRATING** | Steam | Not Available |
 
 <pre>
 ╔══════════════════════════════════════════════════════════════════════╗
@@ -123,7 +123,7 @@
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Hitman 2: Silent Assassin](hitman_2_silent_assassin.md) | 2002 | - | 5h 26m | Playing | Steam | Not Available |
+| [Hitman 2: Silent Assassin](hitman_2_silent_assassin.md) | 2002 | - | 6h 1m | Playing | Steam | Not Available |
 
 
 ### 🌆 Open-World Action

@@ -7,7 +7,7 @@
 | Publisher          | Eidos Interactive           |
 | Genre              | Stealth / Action            |
 | Status             | Playing                     |
-| Time Played        | 5h 26m                      |
+| Time Played        | 6h 1m                       |
 | Start Date         | 12th January 2026           |
 | End Date           | -                           |
 | Duration           | -                           |
@@ -53,7 +53,7 @@ St. Petersburg introduces a more complex tactical layer: the sewer system. It's 
 - [x] **Kirov Park Meeting (Russia)**
 - [x] **Tubeway Torpedo (Russia)**
 - [x] **Invitation to a Party (Russia)**
-- [ ] **Tracking Hayamoto (Japan)**
+- [x] **Tracking Hayamoto (Japan)**
 - [ ] **Hidden Valley (Japan)**
 - [ ] **At the Gates (Japan)**
 - [ ] **Shogun Showdown (Japan)**
@@ -103,5 +103,15 @@ St. Petersburg introduces a more complex tactical layer: the sewer system. It's 
     *   **Double Trouble:** Not only did I take out the General, but I also eliminated the opposition's assassin. LOL. Two birds, one stone. They never saw it coming.
     *   **The Escape:** Slipped out of the party before anyone even noticed anything was wrong. Just another night of catering, right?
     *   **Ranking:** **Professional** rating. Clean work, no unnecessary casualties.
+
+### 🇯🇵 Japan
+*   **Tracking Hayamoto (Mission 6):** This mission was EPIC. Absolutely legendary.
+    *   **The Setup:** Track down Hayamoto Jr. and eliminate him. The twist? Do it without anyone knowing an assassin was even involved.
+    *   **The Infiltration:** I silently entered the cottage—no alarms, no witnesses, pure stealth. Found Hayamoto Jr.'s sushi dish waiting to be served.
+    *   **The Poison:** Here's where it gets beautiful. I added poisonous blowfish (fugu) to his sushi. But I didn't stop there—I also planted the tracking transmitter inside the sushi. Two objectives, one dish. Efficiency at its finest.
+    *   **The Exit:** Slipped out of the cottage just as silently as I entered. No one saw me. No one suspected anything.
+    *   **The Death:** Then I just... waited. Hayamoto Jr. ate the sushi. The poison did its work. He died right there at the table. **Like the Fourth Horseman came to take his life away.** No gunshots. No struggle. No evidence of foul play. Just a tragic case of bad sushi.
+    *   **The Perfect Crime:** This is what Silent Assassin is all about. No one even knew there was an assassin involved. The target still died. That's the best kind of assassination, isn't it? When death arrives like a whisper, and the world never knows you were there.
+    *   **Ranking:** **Silent Assassin** rating. Absolute perfection. Ghost-tier execution.
 
 
