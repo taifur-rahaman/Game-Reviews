@@ -7,7 +7,7 @@
 | Publisher          | Eidos Interactive           |
 | Genre              | Stealth / Action            |
 | Status             | Playing                     |
-| Time Played        | 6h 1m                       |
+| Time Played        | 6h 43m                      |
 | Start Date         | 12th January 2026           |
 | End Date           | -                           |
 | Duration           | -                           |
@@ -54,7 +54,7 @@ St. Petersburg introduces a more complex tactical layer: the sewer system. It's 
 - [x] **Tubeway Torpedo (Russia)**
 - [x] **Invitation to a Party (Russia)**
 - [x] **Tracking Hayamoto (Japan)**
-- [ ] **Hidden Valley (Japan)**
+- [x] **Hidden Valley (Japan)**
 - [ ] **At the Gates (Japan)**
 - [ ] **Shogun Showdown (Japan)**
 - [ ] **Basement Killing (Malaysia)**
@@ -113,5 +113,13 @@ St. Petersburg introduces a more complex tactical layer: the sewer system. It's 
     *   **The Death:** Then I just... waited. Hayamoto Jr. ate the sushi. The poison did its work. He died right there at the table. **Like the Fourth Horseman came to take his life away.** No gunshots. No struggle. No evidence of foul play. Just a tragic case of bad sushi.
     *   **The Perfect Crime:** This is what Silent Assassin is all about. No one even knew there was an assassin involved. The target still died. That's the best kind of assassination, isn't it? When death arrives like a whisper, and the world never knows you were there.
     *   **Ranking:** **Silent Assassin** rating. Absolute perfection. Ghost-tier execution.
+
+*   **Hidden Valley (Mission 7):** A change of tactics. Time to embrace the shadows.
+    *   **The Approach:** After the pure ghost execution of Tracking Hayamoto, I decided to try something different. Not the silent ghost who leaves no trace, but not the guns-blazing Rambo either. Something in between.
+    *   **Shadow Assassin:** I became a shadow—lurking, waiting, striking when the opportunity presented itself. If a guard turned his back, he didn't turn around again. If someone wandered into a dark corner alone, they didn't walk out.
+    *   **The Philosophy:** This wasn't about being invisible. This was about being inevitable. They might find the bodies, they might know someone was there, but by the time they realized it, it was already too late.
+    *   **The Execution:** I moved through Hidden Valley like a predator. Patient. Opportunistic. Every kill was calculated, every move deliberate. Not reckless, but not invisible either.
+    *   **The Result:** Bodies were left behind. Guards knew something was wrong. But I was always one step ahead, always in the shadows, always just out of reach.
+    *   **Ranking:** **Shadow** rating. A different kind of perfection—the art of killing when given the chance.
 
 
