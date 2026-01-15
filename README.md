@@ -62,7 +62,7 @@
 
 | **🗝️ Sacred Metric** | 💎 **Legendary Value** | 🔮 **Significance** |
 | :--- | :---: | :--- |
-| **📜 Scrolls Inscribed** | **22 Tomes** | *Worlds Documented* |
+| **📜 Scrolls Inscribed** | **23 Tomes** | *Worlds Documented* |
 | **⏳ Hours in Realms** | **4,911h 54m** | *Lifetimes Lived* |
 | **🎮 Realms Conquered** | **21 Kingdoms** | *Victories Eternal* |
 | **⚔️ Active Campaigns** | **2 Battlefronts** | *Wars Ongoing* |
@@ -291,7 +291,7 @@
 
 | 📅 **Year** | 🎮 **Must-Play Titles** | 📊 **Progress** | 🔗 **Guide** |
 |:---:|:---|:---:|:---:|
-| **2002** | ✅ [GTA III](gta_3.md)<br>✅ [Syberia](syberia.md)<br>✅ [Age of Mythology](age_of_mythology.md)<br>🎮 [Hitman 2: Silent Assassin](hitman_2_silent_assassin.md)<br>• Splinter Cell<br>• Mafia: The City of Lost Heaven<br>• The Elder Scrolls III: Morrowind<br>• Nancy Drew: Secret of the Scarlet Hand<br>• Nancy Drew: Ghost Dogs of Moon Lake<br>• Robin Hood: Legend of Sherwood | 3/10 Complete<br>1/10 Active | [View Details](recommendations/2002.md) |
+| **2002** | ✅ [GTA III](gta_3.md)<br>✅ [Syberia](syberia.md)<br>✅ [Age of Mythology](age_of_mythology.md)<br>🎮 [Hitman 2: Silent Assassin](hitman_2_silent_assassin.md)<br>• Splinter Cell<br>• Mafia: The City of Lost Heaven<br>• The Elder Scrolls III: Morrowind<br>🎮 [Nancy Drew: Secret of the Scarlet Hand](nancy_drew_secret_of_the_scarlet_hand.md)<br>• Nancy Drew: Ghost Dogs of Moon Lake<br>• Robin Hood: Legend of Sherwood | 3/10 Complete<br>2/10 Active | [View Details](recommendations/2002.md) |
 | **2003** | ✅ [GTA Vice City](gta_vice_city.md)<br>• Max Payne 2: The Fall of Max Payne<br>• Call of Duty<br>• Manhunt<br>• Runaway: A Road Adventure<br>• Nancy Drew: The Haunted Carousel<br>• Nancy Drew: Danger on Deception Island | 1/7 Complete<br>0/7 Active | [View Details](recommendations/2003.md) |
 | **2004** | • Half-Life 2<br>• Vampire: The Masquerade - Bloodlines<br>• Splinter Cell: Pandora Tomorrow<br>• Far Cry<br>• Nancy Drew: Secret of Shadow Ranch<br>• Nancy Drew: Curse of Blackmoor Manor | 0/6 Complete<br>0/6 Active | [View Details](recommendations/2004.md) |
 | **2005** | ✅ [GTA San Andreas](gta_san_andreas.md)<br>✅ [NFS Most Wanted](nfs_most_wanted.md)<br>• Indigo Prophecy<br>• Splinter Cell: Chaos Theory<br>• F.E.A.R.<br>• Psychonauts<br>• Nancy Drew: Secret of the Old Clock<br>• Nancy Drew: Last Train to Blue Moon Canyon | 2/8 Complete<br>0/8 Active | [View Details](recommendations/2005.md) |
@@ -354,6 +354,7 @@ Comprehensive guides that help you savor the full richness of each game, includi
 **Available Guides:**
 - **[Syberia](walkthroughs/syberia.md)** - Complete chapter-by-chapter walkthrough covering all 4 locations (Valadilène, Barrockstadt, Komkolzgrad, Aralbad) with detailed puzzle solutions, item locations, and tips for experiencing Kate Walker's dreamlike journey.
 - **[Company of Heroes](walkthroughs/company_of_heroes.md)** - Comprehensive walkthrough covering all 41 missions across 6 campaigns (Invasion of Normandy, Liberation of Caen, Operation Market Garden, Tiger Ace, Causeway, and Falaise Pocket) with mission-by-mission strategies, combat tactics, and detailed tips for mastering World War II RTS warfare.
+- **[Nancy Drew: Secret of the Scarlet Hand](walkthroughs/nancy_drew_secret_of_the_scarlet_hand.md)** - Step-by-step detective guide with solutions for all Mayan puzzles, specific passwords (Sonny's disk, Temple maze), HAM radio frequencies, and monlith codes.
 
 **[📂 Browse All Walkthrough Guides](walkthroughs/)**
 
@@ -460,7 +461,7 @@ Comprehensive guides that help you savor the full richness of each game, includi
 
 *The Grand Archives are maintained by the Eternal Keeper*  
 *A Proud Member of the **PC Master Race***  
-*Last Updated: In the Year of Our Gaming, 2025*  
+*Last Updated: 15th January 2026*  
 *Version: ∞.∞.∞*
 
 <pre>
