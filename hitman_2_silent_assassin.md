@@ -7,7 +7,7 @@
 | Publisher          | Eidos Interactive           |
 | Genre              | Stealth / Action            |
 | Status             | Playing                     |
-| Time Played        | 7h 20m                      |
+| Time Played        | 8h 17m                      |
 | Start Date         | 12th January 2026           |
 | End Date           | -                           |
 | Duration           | -                           |
@@ -56,7 +56,7 @@ St. Petersburg introduces a more complex tactical layer: the sewer system. It's 
 - [x] **Tracking Hayamoto (Japan)**
 - [x] **Hidden Valley (Japan)**
 - [x] **At the Gates (Japan)**
-- [ ] **Shogun Showdown (Japan)**
+- [x] **Shogun Showdown (Japan)**
 - [ ] **Basement Killing (Malaysia)**
 - [ ] **The Graveyard Shift (Malaysia)**
 - [ ] **The Jacuzzi Job (Malaysia)**
@@ -128,5 +128,12 @@ St. Petersburg introduces a more complex tactical layer: the sewer system. It's 
     *   **The Objective:** Casually strolled through the compound, shut down the security system like I owned the place, and walked straight into the castle. No alarms. No suspicion. No resistance.
     *   **The Philosophy:** Sometimes the best way to infiltrate isn't to sneak in the shadows—it's to walk through the front door like you belong there. Confidence is the ultimate disguise.
     *   **The Result:** Mission accomplished without anyone stopping me. They never knew an assassin was among them until it was too late.
+
+*   **Shogun Showdown (Mission 9):** The ghost returns. **Silent Assassin** achieved.
+    *   **The Method:** Same playbook, flawless execution. Eliminated an insider guard, took his uniform, and acquired the access keycard.
+    *   **The Kill:** Infiltrated Hayamoto's private chambers and strangled him with fiber wire. Clean. Silent. Personal. The target never saw it coming.
+    *   **The Escape:** Walked out of the castle like nothing happened. No bodies discovered. No alarms raised. No witnesses.
+    *   **The Identity:** I'm not just an assassin—I'm a modern-day ninja. Better yet, a ghost who leaves no presence. They'll find Hayamoto dead, but they'll never know who did it or how.
+    *   **Ranking:** **Silent Assassin** rating. The Japan arc concludes with perfection. The Hayamoto family is no more, and Agent 47 vanishes like smoke.
 
 
