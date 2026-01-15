@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 # ⚔️ 𝕿𝖍𝖊 𝕲𝖗𝖆𝖓𝖉 𝕬𝖗𝖈𝖍𝖎𝖛𝖊𝖘 ⚔️
 ## *Chronicles of the Digital Realm Keeper*
@@ -62,10 +62,10 @@
 
 | **🗝️ Sacred Metric** | 💎 **Legendary Value** | 🔮 **Significance** |
 | :--- | :---: | :--- |
-| **📜 Scrolls Inscribed** | **21 Tomes** | *Worlds Documented* |
+| **📜 Scrolls Inscribed** | **22 Tomes** | *Worlds Documented* |
 | **⏳ Hours in Realms** | **4,911h 54m** | *Lifetimes Lived* |
 | **🎮 Realms Conquered** | **21 Kingdoms** | *Victories Eternal* |
-| **⚔️ Active Campaigns** | **1 Battlefronts** | *Wars Ongoing* |
+| **⚔️ Active Campaigns** | **2 Battlefronts** | *Wars Ongoing* |
 
 <pre>
 ═══════════════════════════════════════════════════════════════════════
@@ -85,6 +85,7 @@
 | 🏷️ **Realm Type** | 🏹 **Active Quests** | ⏳ **Time** | ⚡ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | **🗡️ Stealth Action** | [Hitman 2: Silent Assassin](hitman_2_silent_assassin.md) | 8h 17m | 🕵️ **INFILTRATING** | Steam | Not Available |
+| **🔍 Mystery Adventure** | [Nancy Drew: Secret of the Scarlet Hand](nancy_drew_secret_of_the_scarlet_hand.md) | 0h 0m | 🔎 **INVESTIGATING** | PC | Not Available |
 
 <pre>
 ╔══════════════════════════════════════════════════════════════════════╗
@@ -220,6 +221,20 @@
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Need for Speed: Most Wanted](nfs_most_wanted.md) | 2005 | ★★★★★★ | 26h 52m | Completed | Pirated | Pirated |
+
+
+### 🔍 Mystery Adventure
+*Detective Chronicles & Puzzle Mysteries*
+
+<p><em>Step into the shoes of legendary detectives and unravel intricate mysteries that challenge both wit and intuition. These are tales of deduction, investigation, and puzzle-solving—where every clue matters, every conversation reveals secrets, and the truth lies hidden beneath layers of deception. From museum heists to ancient conspiracies, these adventures reward the curious mind and the patient investigator.</em></p>
+
+#### 🔎 Nancy Drew Series
+
+<p><em>Nancy Drew, the iconic teenage detective, has been solving mysteries since 1930 in books, and Her Interactive brought her to life in PC games starting in 1998. These first-person point-and-click adventures put you directly in Nancy's shoes as she investigates everything from museum thefts to haunted carousels. The games are known for their challenging puzzles, rich environments, and the ability to call Bess and George for hints when you're stuck. Each game is a self-contained mystery with its own unique setting and cast of suspects. Perfect for anyone who loves a good whodunit with brain-teasing puzzles.</em></p>
+
+| 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+| [Nancy Drew: Secret of the Scarlet Hand](nancy_drew_secret_of_the_scarlet_hand.md) | 2002 | - | 0h 0m | Playing | PC | Not Available |
 
 ### 🧩 Puzzle-Platformer
 *Realms of Wonder & Wit*

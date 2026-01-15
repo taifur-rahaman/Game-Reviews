@@ -13,6 +13,7 @@
 | **2002** | **Grand Theft Auto** | 79h 23m | 3 |
 | **2002** | **Age of Mythology** | 20h 07m | 1 |
 | **2002** | **Syberia** | 15h 22m | 1 |
+| **2002** | **Nancy Drew** | 0h 0m | 1 |
 | **2002** | **Hitman** | 8h 17m | 1 |
 | **2005** | **Need for Speed** | 26h 52m | 1 |
 | **2006** | **Company of Heroes** | 40h 18m | 1 |
@@ -34,6 +35,7 @@
 | **2001** | **Desperados: Wanted Dead or Alive** | 7h 10m | #20 |
 | **2002** | **Grand Theft Auto III** | 19h 56m | #13 |
 | **2002** | **Syberia** | 15h 22m | #17 |
+| **2002** | **Nancy Drew: Secret of the Scarlet Hand** | 0h 0m | #23 |
 | **2002** | **Age of Mythology** | 20h 07m | #12 |
 | **2002** | **Hitman 2: Silent Assassin** | 8h 17m | #21 |
 | **2003** | **Grand Theft Auto: Vice City** | 17h 39m | #14 |
