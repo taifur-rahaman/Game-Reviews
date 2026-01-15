@@ -7,7 +7,7 @@
 | Publisher          | Eidos Interactive           |
 | Genre              | Stealth / Action            |
 | Status             | Playing                     |
-| Time Played        | 6h 43m                      |
+| Time Played        | 7h 20m                      |
 | Start Date         | 12th January 2026           |
 | End Date           | -                           |
 | Duration           | -                           |
@@ -55,7 +55,7 @@ St. Petersburg introduces a more complex tactical layer: the sewer system. It's 
 - [x] **Invitation to a Party (Russia)**
 - [x] **Tracking Hayamoto (Japan)**
 - [x] **Hidden Valley (Japan)**
-- [ ] **At the Gates (Japan)**
+- [x] **At the Gates (Japan)**
 - [ ] **Shogun Showdown (Japan)**
 - [ ] **Basement Killing (Malaysia)**
 - [ ] **The Graveyard Shift (Malaysia)**
@@ -121,5 +121,12 @@ St. Petersburg introduces a more complex tactical layer: the sewer system. It's 
     *   **The Execution:** I moved through Hidden Valley like a predator. Patient. Opportunistic. Every kill was calculated, every move deliberate. Not reckless, but not invisible either.
     *   **The Result:** Bodies were left behind. Guards knew something was wrong. But I was always one step ahead, always in the shadows, always just out of reach.
     *   **Ranking:** **Shadow** rating. A different kind of perfection—the art of killing when given the chance.
+
+*   **At the Gates (Mission 8):** The art of hiding in plain sight.
+    *   **The Infiltration:** This mission was a masterclass in disguise work. I took down one guard, stole his uniform, and just... walked right into enemy territory.
+    *   **The Deception:** The best part? They thought I was one of them. I walked right past guards, stood next to them, and they didn't suspect a thing. The disguise system at its finest.
+    *   **The Objective:** Casually strolled through the compound, shut down the security system like I owned the place, and walked straight into the castle. No alarms. No suspicion. No resistance.
+    *   **The Philosophy:** Sometimes the best way to infiltrate isn't to sneak in the shadows—it's to walk through the front door like you belong there. Confidence is the ultimate disguise.
+    *   **The Result:** Mission accomplished without anyone stopping me. They never knew an assassin was among them until it was too late.
 
 
