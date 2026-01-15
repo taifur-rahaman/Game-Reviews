@@ -63,7 +63,7 @@
 | **🗝️ Sacred Metric** | 💎 **Legendary Value** | 🔮 **Significance** |
 | :--- | :---: | :--- |
 | **📜 Scrolls Inscribed** | **23 Tomes** | *Worlds Documented* |
-| **⏳ Hours in Realms** | **4,911h 54m** | *Lifetimes Lived* |
+| **⏳ Hours in Realms** | **4,912h 26m** | *Lifetimes Lived* |
 | **🎮 Realms Conquered** | **21 Kingdoms** | *Victories Eternal* |
 | **⚔️ Active Campaigns** | **2 Battlefronts** | *Wars Ongoing* |
 
@@ -85,7 +85,7 @@
 | 🏷️ **Realm Type** | 🏹 **Active Quests** | ⏳ **Time** | ⚡ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | **🗡️ Stealth Action** | [Hitman 2: Silent Assassin](hitman_2_silent_assassin.md) | 8h 17m | 🕵️ **INFILTRATING** | Steam | Not Available |
-| **🔍 Mystery Adventure** | [Nancy Drew: Secret of the Scarlet Hand](nancy_drew_secret_of_the_scarlet_hand.md) | 0h 0m | 🔎 **INVESTIGATING** | PC | Not Available |
+| **🔍 Mystery Adventure** | [Nancy Drew: Secret of the Scarlet Hand](nancy_drew_secret_of_the_scarlet_hand.md) | 0h 32m | 🔎 **INVESTIGATING** | PC | Not Available |
 
 <pre>
 ╔══════════════════════════════════════════════════════════════════════╗
@@ -354,7 +354,7 @@ Comprehensive guides that help you savor the full richness of each game, includi
 **Available Guides:**
 - **[Syberia](walkthroughs/syberia.md)** - Complete chapter-by-chapter walkthrough covering all 4 locations (Valadilène, Barrockstadt, Komkolzgrad, Aralbad) with detailed puzzle solutions, item locations, and tips for experiencing Kate Walker's dreamlike journey.
 - **[Company of Heroes](walkthroughs/company_of_heroes.md)** - Comprehensive walkthrough covering all 41 missions across 6 campaigns (Invasion of Normandy, Liberation of Caen, Operation Market Garden, Tiger Ace, Causeway, and Falaise Pocket) with mission-by-mission strategies, combat tactics, and detailed tips for mastering World War II RTS warfare.
-- **[Nancy Drew: Secret of the Scarlet Hand](walkthroughs/nancy_drew_secret_of_the_scarlet_hand.md)** - Step-by-step detective guide with solutions for all Mayan puzzles, specific passwords (Sonny's disk, Temple maze), HAM radio frequencies, and monlith codes.
+
 
 **[📂 Browse All Walkthrough Guides](walkthroughs/)**
 

@@ -7,7 +7,7 @@
 | Publisher          | Her Interactive             |
 | Genre              | Adventure / Mystery         |
 | Status             | Playing                     |
-| Time Played        | 0h 0m                       |
+| Time Played        | 0h 32m                      |
 | Start Date         | 15th January 2026           |
 | End Date           | -                           |
 | Duration           | -                           |
@@ -55,3 +55,7 @@ Nancy's to-do list at her desk in the lab serves as the main quest tracker. Key 
 
 *(These are my raw notes from while I was playing—some spoilers involved!)*
 
+### 🖥️ Technical & Visual Impressions
+*   **Graphics & Age:** The game definitely shows its age (2002). The graphics are a bit "horrible" by modern standards, but that's the charm of retro gaming.
+*   **Resolution Struggles:** I managed to forcefully enhance the resolution from 600x400 to 1920x1080 using **DGVoodoo2**. It worked... sort of. The game just became a wide-screen stretch, and the in-game text is highly distorted and tough to read.
+*   **Nostalgic Drive:** Despite the technical headaches and visual roughness, I'm pushing forward. I grew up watching my brother play this, and I never had the chance to play it myself until now. That nostalgia is a powerful motivator to see this through.
