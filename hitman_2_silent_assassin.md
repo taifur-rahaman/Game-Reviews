@@ -7,7 +7,7 @@
 | Publisher          | Eidos Interactive           |
 | Genre              | Stealth / Action            |
 | Status             | Playing                     |
-| Time Played        | 8h 17m                      |
+| Time Played        | 9h 10m                      |
 | Start Date         | 12th January 2026           |
 | End Date           | -                           |
 | Duration           | -                           |
@@ -57,7 +57,7 @@ St. Petersburg introduces a more complex tactical layer: the sewer system. It's 
 - [x] **Hidden Valley (Japan)**
 - [x] **At the Gates (Japan)**
 - [x] **Shogun Showdown (Japan)**
-- [ ] **Basement Killing (Malaysia)**
+- [x] **Basement Killing (Malaysia)**
 - [ ] **The Graveyard Shift (Malaysia)**
 - [ ] **The Jacuzzi Job (Malaysia)**
 - [ ] **Murder at the Bazaar (Afghanistan)**
@@ -135,5 +135,15 @@ St. Petersburg introduces a more complex tactical layer: the sewer system. It's 
     *   **The Escape:** Walked out of the castle like nothing happened. No bodies discovered. No alarms raised. No witnesses.
     *   **The Identity:** I'm not just an assassin—I'm a modern-day ninja. Better yet, a ghost who leaves no presence. They'll find Hayamoto dead, but they'll never know who did it or how.
     *   **Ranking:** **Silent Assassin** rating. The Japan arc concludes with perfection. The Hayamoto family is no more, and Agent 47 vanishes like smoke.
+
+### 🇲🇾 Malaysia
+*   **Basement Killing (Mission 10):** This mission was something else.
+    *   **The Setup:** Completed the mission with just a fiber wire and a smoke bomb. Found out the hacker I was killing ordered a pizza.
+    *   **The Infiltration:** Disguised myself as the pizza boy and went through security without any problem.
+    *   **The Hit:** Went down to the basement and eliminated him with fiber wire. Clean. No one knows if he is dead or alive.
+    *   **The Distraction:** The problem arose when accessing the elevator which was heavily guarded and I didn't have access. So, I threw the smoke bomb at the fire alarm and caused a distraction for a minute.
+    *   **The Escape:** In that minute, I destroyed the camera to the elevator and accessed the elevator.
+    *   **Ranking:** **Professional** rating.
+
 
 
