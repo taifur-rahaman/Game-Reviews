@@ -7,7 +7,7 @@
 | Publisher          | Eidos Interactive           |
 | Genre              | Stealth / Action            |
 | Status             | Playing                     |
-| Time Played        | 9h 40m                      |
+| Time Played        | 9h 45m                      |
 | Start Date         | 12th January 2026           |
 | End Date           | -                           |
 | Duration           | -                           |
@@ -59,7 +59,7 @@ St. Petersburg introduces a more complex tactical layer: the sewer system. It's 
 - [x] **Shogun Showdown (Japan)**
 - [x] **Basement Killing (Malaysia)**
 - [x] **The Graveyard Shift (Malaysia)**
-- [ ] **The Jacuzzi Job (Malaysia)**
+- [x] **The Jacuzzi Job (Malaysia)**
 - [ ] **Murder at the Bazaar (Afghanistan)**
 - [ ] **The Motorcade Interception (Afghanistan)**
 - [ ] **Tunnel Rat (Afghanistan)**
@@ -145,6 +145,13 @@ St. Petersburg introduces a more complex tactical layer: the sewer system. It's 
     *   **The Heist:** Stole his uniform and the keycard. Walked right past the guards like I owned the place.
     *   **The Plant & Exit:** Sauntered into the server room, planted the device, and walked out. Supervisor wakes up with a headache and no card; I walk away with a win.
     *   **Ranking:** **Professional** (Wait, how did I not get Silent Assassin? Maybe the body was found? Still, zero deaths is a win in my book). **Ghost status confirmed.**
+
+*   **The Jacuzzi Job (Mission 12):** Chaos. Absolute chaos.
+    *   **The Plan:** There was no plan. I was tired of sneaking.
+    *   **The Execution:** Walked straight up to the penthouse and just started blasting. No stealth, no disguises, just hot lead.
+    *   **The Body Count:** Everyone. The guards, the target, anyone who looked at me funny.
+    *   **The Loot:** Grabbed the statue, grabbed the money, and ran.
+    *   **Ranking:** **Slayer**. Honestly? It felt good to let loose after all that crawling around in sewers. Sometimes you just need to clear the room.
 
 
 
