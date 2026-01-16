@@ -85,7 +85,7 @@
 | 🏷️ **Realm Type** | 🏹 **Active Quests** | ⏳ **Time** | ⚡ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | **🗡️ Stealth Action** | [Hitman 2: Silent Assassin](hitman_2_silent_assassin.md) | 9h 10m | 🕵️ **INFILTRATING** | Steam | Not Available |
-| **🔍 Mystery Adventure** | [Nancy Drew: Secret of the Scarlet Hand](nancy_drew_secret_of_the_scarlet_hand.md) | 1h 7m | 🔎 **INVESTIGATING** | PC | Not Available |
+| **🔍 Mystery Adventure** | [Nancy Drew: Secret of the Scarlet Hand](nancy_drew_secret_of_the_scarlet_hand.md) | 1h 7m | 🔎 **INVESTIGATING** | Steam | Not Available |
 
 <pre>
 ╔══════════════════════════════════════════════════════════════════════╗
@@ -234,7 +234,7 @@
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Nancy Drew: Secret of the Scarlet Hand](nancy_drew_secret_of_the_scarlet_hand.md) | 2002 | - | 1h 7m | Playing | PC | Not Available |
+| [Nancy Drew: Secret of the Scarlet Hand](nancy_drew_secret_of_the_scarlet_hand.md) | 2002 | - | 1h 7m | Playing | Steam | Not Available |
 
 ### 🧩 Puzzle-Platformer
 *Realms of Wonder & Wit*

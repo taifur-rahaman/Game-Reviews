@@ -12,7 +12,7 @@
 | End Date           | -                           |
 | Duration           | -                           |
 | Rating             | -                           |
-| Platform           | PC                          |
+| Platform           | Steam                       |
 | Achievements       | Not Available               |
 
 
