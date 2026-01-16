@@ -7,7 +7,7 @@
 | Publisher          | Her Interactive             |
 | Genre              | Adventure / Mystery         |
 | Status             | Playing                     |
-| Time Played        | 1h 7m                       |
+| Time Played        | 1h 43m                      |
 | Start Date         | 15th January 2026           |
 | End Date           | -                           |
 | Duration           | -                           |
@@ -61,17 +61,29 @@ Nancy's to-do list at her desk in the lab serves as the main quest tracker. Key 
 *   **Nostalgic Drive:** Despite the technical headaches and visual roughness, I'm pushing forward. I grew up watching my brother play this, and I never had the chance to play it myself until now. That nostalgia is a powerful motivator to see this through.
 
 ### 🏛️ The Museum & The Maya
-*   **Meeting the Boss:** Finally met **Joanna Riggs**, the museum curator and Nancy's supervisor. She gives off serious "rigid academic" vibes. Honestly, she seems like she cares about her research and literally nothing else. Her office is impressive though—she has this massive, stunning photograph of the **Great Plaza of Tikal, Guatemala** hanging up. It really sets the mood. Her shelves are cluttered with Maya artifacts; it's like a mini-museum inside the museum.
-*   **The Connection:** There's also **Franklin Rose**, the guy who actually got Nancy this internship (friend of her dad). Haven't run into him yet, but he's the reason I'm stuck in this dusty (but cool) basement.
-*   **Crash Course in Mythology:** I'm learning *so much* about the Maya pantheon just by poking around. The god roster is fascinating:
-    *   **Itzamna:** The big boss, the **Supreme God**. Apparently, he's the one who "chooses" the kings.
-    *   **Ahau Kin:** The **Sun God**. Classic.
-    *   **Ekahau:** The **God of Travelers**. Keep him in mind for all the backtracking I'm doing.
-    *   **Yum Kaax:** The **Corn God**. Yes, a god for corn. Vital stuff.
-    *   **Balac:** The **War God**. Scary dude.
-    *   **Xbalanque:** The **Jaguar God**. Probably the coolest name of the bunch.
-*   **Artifact Sleuthing:** Found a fascinating **Offering Bowl** dating back to the Post-Classic period (ca. 850 CE). It’s specifically an offering vessel for the War God (Balac). I felt pretty smart deciphering the logograph on the base—it represents **"Ek,"** which translates to **"Black."**
+*   **Meeting the Boss:** Finally met **Joanna Riggs**, the curator. She’s giving major "rigid academic" energy—cares more about her reputation than breathing. Her office is a flex, though: massive photo of the **Great Plaza of Tikal** and shelves overflowing with artifacts.
+*   **The Workspace:** I’ve inherited the desk from the previous intern, **Sonny Joon**. Found some of his notes... this guy was "wacky" to say the least. Obsessed with aliens and doodles. He’s like a legend in the intern world.
+*   **The Mystery:** The museum is a crime scene. A priceless jade carving of King Pacal was stolen, and the thief left a **red handprint**. It turns out the "blood" is actually **Cinnabar** (mercury sulfide). The Maya used it to highlight lines in their carvings. It's toxic, symbolic, and very dramatic.
+*   **Crash Course in Mythology:** The game is basically a Maya history lesson in disguise, and I’m here for it. The god roster is stacked:
+    *   **Itzamna (The Big Boss):** Supreme God, Lord of the Heavens. Name literally means "Lizard House" (weird flex, but okay). He invented writing and the calendar. Also, apparently the husband of Ixchel.
+    *   **Ixchel (Moon Goddess):** Major duality vibes here. She’s the goddess of the moon, medicine, and weaving, but can also bring storms and destruction. She’s often depicted with a snake in her hair.
+    *   **Ahau Kin (Sun God):** "Sun-faced Lord." He travels the sky by day and turns into a JAGUAR at night to prowl the underworld. That is objectively the coolest commute ever.
+    *   **Chac (Rain God):** The storm bringer. Vital for crops, but scary if you’re caught in his weather.
+    *   **Ekahau (Traveler’s God):** Also the god of **Cacao** (Chocolate!). Merchants loved him. He’s often shown with a black face or stripes. Guide me through this museum, cocoa king.
+    *   **Yum Kaax (Lord of the Forest):** Guardian of wild plants and animals. Hunters had to ask his permission before taking game. Respect nature, or else.
+    *   **Balac (War God):** The scary one. Found an **Offering Bowl** dedicated to him (dating to ca. 850 CE). Deciphered the glyph "Ek" (Black) on it.
+    *   **Xbalanque (Jaguar God):** One of the "Hero Twins" from the *Popol Vuh*. He defeated the lords of the underworld in a ball game. Absolute legend.
 *   **Time & Power:** The lore goes deep.
     *   **The Calendar:** The famous **Tzolkin calendar** isn't just a calendar; it's a sacred count computing a **260-day ceremonial year**.
     *   **Divine Right:** Maya Kings weren't just political or military leaders; they were essentially religious icons, believed to be handpicked by Itzamna himself.
     *   **Girl Power:** Here's a cool detail—the Supreme God didn't *only* pick dudes. There were female rulers too! The most famous one was **Lady Kanal Ikal**, who held the throne for a solid 20 years. Respect.
+
+### 📜 Pacal the Great (The King of Kings)
+I went down a massive rabbit hole on **K'Inich Janahb' Pacal**, aka **Lord Shield**. This guy is the main character of Maya history.
+*   **The Prodigy:** He took the throne at **age 12** (615 CE). I was playing with toys at 12; he was ruling a civilization.
+*   **The Reign:** Ruled for **68 years** (until 683 CE). That’s Queen Elizabeth II levels of longevity.
+*   **The Nepo-Baby (Kind of):** His mom, **Lady Zac Kuk**, was the ruler before him. She passed the throne to him and then "ascended to deityhood." Power move.
+*   **The Renaissance Man:** He wasn’t just a king; he was a **Priest-King** and a military commander. He rebuilt Palenque into the architectural masterpiece it is today.
+*   **The Sarcophagus:** His tomb in the **Temple of the Inscriptions** is legendary.
+    *   **The Lid:** The carving on his sarcophagus lid is famous. Some people think it looks like he’s piloting a spaceship ("Ancient Aliens," anyone?), but it’s actually depicting his descent into the underworld and rebirth as the Maize God.
+    *   **The Jade Mask:** He was buried with a death mask made of over **300 fragments of jade**. It was meant to preserve his identity in the afterlife so the gods would recognize his royalty. Talk about an eternal flex.
