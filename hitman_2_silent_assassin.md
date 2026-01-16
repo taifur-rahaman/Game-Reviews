@@ -7,7 +7,7 @@
 | Publisher          | Eidos Interactive           |
 | Genre              | Stealth / Action            |
 | Status             | Playing                     |
-| Time Played        | 9h 10m                      |
+| Time Played        | 9h 40m                      |
 | Start Date         | 12th January 2026           |
 | End Date           | -                           |
 | Duration           | -                           |
@@ -25,17 +25,17 @@ Hitman 2: Silent Assassin is the sequel to Codename 47. You play as Agent 47, a 
 
 *(To be updated as I play)*
 
-The game kicks off with 47 trying to live the vivid "quiet life"—he's literally gardening at a church in Sicily. It's a peaceful contrast to his usual violent work. But of course, it doesn't last. The local Don, Giuliani, decides it's a good idea to kidnap 47's mentor, Father Vittorio, and demand a $500,000 ransom. Big mistake. You never wake a sleeping dragon with ill intentions. Now 47 has to dig up his old gear and get back to work.
+The game kicks off with 47 trying to live the vivid "quiet life"—he's literally gardening at a church in Sicily, confessing his sins, and trying to be a normal human being. It's a peaceful, almost jarring contrast to his usual violent work. But of course, peace was never an option. The local Don, Giuliani, decides it's a brilliant idea to kidnap 47's mentor, Father Vittorio, and demand a $500,000 ransom. Big mistake. You never wake a sleeping dragon, especially one with a barcode on the back of his head. Now 47 has to dig up his old gear from the garden shed (literally) and get back to work.
 
-The search for Vittorio leads 47 to St. Petersburg, Russia. The atmosphere shifts from the sunny, open villas of Sicily to the cold, oppressive, and industrial streets of the post-Soviet era. There's a real sense of being back in the thick of a global conspiracy, with the ICA's Diana Burnwood providing Intel on high-ranking generals who seem to have a hand in Vittorio's disappearance.
+The search for Vittorio takes a sharp turn from the sunny villas of Sicily to the cold, oppressive streets of St. Petersburg, Russia. The atmosphere shift is intense—from golden hour lighting to grey, industrial post-Soviet gloom. There's a real sense of being back in the thick of a global conspiracy, with the ICA's Diana Burnwood feeding 47 intel on high-ranking generals who seem involved in Vittorio's disappearance. It feels less like a simple rescue mission and more like unraveling a massive spiderweb.
 
 ## Gameplay
 
 *(To be updated as I play)*
 
-It's classic, high-tension stealth. The game clearly wants you to be a ghost. My first mission was a textbook example: I managed to infiltrate the villa, take out the target, and escape without harming a single guard or civilian. The game rewards that kind of precision with better rankings. The disguise system is key—blending in is often safer than sneaking around in the shadows.
+It's classic, high-tension stealth, but refined. The game clearly wants you to be a ghost, not a rambo. My first mission was a textbook example: I managed to infiltrate the villa, take out the target, and escape without harming a single guard or civilian. The rush you get from walking past a guard who has no idea you're there to kill his boss? Unmatched. The disguise system is the MVP here—blending in is often safer (and cooler) than sneaking around in the shadows.
 
-St. Petersburg introduces a more complex tactical layer: the sewer system. It's not just about sneaking past guards; it's about navigating the underworld to find vantage points or bypass checkpoints entirely. The variety of tools is also expanding—from the precision of a sniper rifle to the raw, calculated destruction of car bombs. Seeing the "Silent Assassin" rating after a complex setup like planting dual car bombs is incredibly rewarding.
+St. Petersburg introduces a more complex tactical layer: the sewer system. It's not just about sneaking past guards; it's about navigating the literal underworld to find vantage points or bypass checkpoints entirely. The variety of tools is also expanding—from the surgical precision of a sniper rifle to the raw, calculated destruction of car bombs. Seeing that "Silent Assassin" rating pop up after a complex setup involving dual car bombs and zero witnesses is arguably one of the most satisfying feelings in gaming.
 
 ## Verdict
 
@@ -58,7 +58,7 @@ St. Petersburg introduces a more complex tactical layer: the sewer system. It's 
 - [x] **At the Gates (Japan)**
 - [x] **Shogun Showdown (Japan)**
 - [x] **Basement Killing (Malaysia)**
-- [ ] **The Graveyard Shift (Malaysia)**
+- [x] **The Graveyard Shift (Malaysia)**
 - [ ] **The Jacuzzi Job (Malaysia)**
 - [ ] **Murder at the Bazaar (Afghanistan)**
 - [ ] **The Motorcade Interception (Afghanistan)**
@@ -74,76 +74,77 @@ St. Petersburg introduces a more complex tactical layer: the sewer system. It's 
 *(These are my raw notes from while I was playing—some spoilers involved!)*
 
 ### 🇮🇹 Sicily
-*   **The Sleeping Dragon:** It's honestly kind of wild seeing Agent 47, the world's most dangerous assassin, just chilling in a garden tending to plants. He really tried to leave it all behind. But this Don Giuliani guy... talk about picking the wrong target to extort. Kidnapping the priest (47's only friend!) for ransom? It's like he *wanted* to die.
-*   **Anathema (Mission 1):** Started strong. I decided to play this strictly by the book—**Silent Assassin style**.
-    *   **The Hit:** I slipped into the compound, found the Don, and took him out. Clean, professional. Didn't touch a hair on anyone else's head.
-    *   **Ranking:** Got the **Professional** rating with the stealth bar maxed out. Felt satisfying to be a ghost.
-    *   **The Twist:** High off the perfect kill, I rushed to the basement cells to save Father Vittorio... and he wasn't there. Just an empty chair. The intercom cracked straight away—Russian goons had dragged him off just moments before I got there. So much for a quick rescue. Looks like I'm traveling.
+*   **The Sleeping Dragon:** It’s wild seeing Agent 47, a literal engineered killing machine, just lovingly tending to his garden. He really thought he could just retire. But Don Giuliani had a death wish, I guess. Kidnapping Father Vittorio (47's only friend and spiritual anchor) for a $500k ransom? That's not a business move; that's suicide by assassin.
+*   **Anathema (Mission 1):** Started strong. I promised myself I’d play this by the book—**Silent Assassin or bust**.
+    *   **The Approach:** Slipped into the compound like a shadow. avoided the mailman, dodged the guards. Found the Don on his balcony.
+    *   **The Hit:** Took him out quickly. No drama, no noise. Didn't touch a hair on anyone else's head. Professionalism at its finest.
+    *   **The Ranking:** Bagged the **Professional** rating with a maxed-out stealth bar. Felt good to be back in the suit.
+    *   **The Twist:** High off the perfect kill, I rushed to the basement cells to save Vittorio... and he was gone. Just an empty chair and a mocking Russian voice on the intercom. The pros took him. Looks like my retirement is officially over.
 
 ### 🇷🇺 St. Petersburg
-*   **St. Petersburg Stakeout (Mission 2):** Okay, this mission was *peak* Hitman.
-    *   **The Vibe:** I hop off the train in St. Petersburg and immediately realized I needed a vantage point. Found a sniper rifle in a locker (classic setup) and decided the streets were too hot. So, into the sewers I went. Gross, but effective.
-    *   **The Hit:** Pure tension. I spent 80% of the mission wading through muck to get into the perfect position. Popped up from a manhole, lined up the shot while the generals were meeting, and—*boom*—General down. Clean.
-    *   **The Getaway:** This was the best part. I didn't stick around to watch the panic. I slipped right back into the sewers before a single guard even twitched. Made it back to the station and caught the next train out of town. **In like a Spirit, out like a Ghost.** Nobody knows who did it, why they did it, or if I was ever even there. 10/10 stealth satisfaction.
+*   **St. Petersburg Stakeout (Mission 2):** Okay, this mission was *peak* Hitman atmosphere.
+    *   **The Vibe:** Stepped off the train into the freezing Russian cold. The shift from Sicily is jarring. I immediately realized the streets were a death trap, so I did what any self-respecting assassin would do: I went to the sewers.
+    *   **The Wait:** Spent solid 20 minutes just wading through muck to get the perfect angle. Found a sniper rifle in a locker (classic setup).
+    *   **The Hit:** Popped up from a manhole, heart racing. The generals were meeting in a glass-walled room. Identified the target, exhaled, squeezed trigger. *Pink mist.* General down.
+    *   **The Getaway:** Slipped back into the sewers before the glass even hit the floor. Caught the train out of town while the guards were still running in circles. **In like a Spirit, out like a Ghost.** 10/10 satisfaction.
 
-*   **Kirov Park Meeting (Mission 3):** This mission was all about precision and timing. 
-    *   **The Strategy:** Finished this mission with excellence. I hopped off the boat and immediately descended into the sewerage system to avoid the street-level patrols. 
-    *   **The Hit:** Found the two target cars and carefully planted Car Bombs in both. It's a high-stakes move—one slip-up and the whole park would be swarming with guards.
-    *   **The Escape:** Ascended back to the surface once the bombs were set, returned to the boat, and fled before the fireworks even started. 
-    *   **Ranking:** Another **Silent Assassin** rating. The "ghost" strikes again.
+*   **Kirov Park Meeting (Mission 3):** All about timing and explosives.
+    *   **The Strategy:** Why shoot someone when you can just blow up their fancy cars? I avoided the street patrols by hugging the shadows.
+    *   **The Setup:** Placed car bombs on both targets' limos. It’s risky—if a guard spots you fiddling with the chassis, it’s game over.
+    *   **The Boom:** I was already halfway back to my boat when the fireworks started. Two explosions, two targets down.
+    *   **The Ranking:** Another **Silent Assassin**. They never even saw me coming.
 
-*   **Tubeway Torpedo (Mission 4):** This one was different—a rescue mission deep in enemy territory.
-    *   **The Mission:** Infiltrate the Russian military HQ and extract a prisoner. Absolute BADASS move.
-    *   **The Rescue:** When I reached the prisoner, it seemed like 47 knew him. There was some history there, but 47 being 47, he didn't say a word.
-    *   **The Exit:** We made it to the sewerage exit. The prisoner, probably grateful to be alive, tried to shake 47's hand. 47 looked at him. Looked at the hand. Then just... walked away. **Stone. Cold.** That's Agent 47 for you—he's not here to make friends. He's here to do the job.
+*   **Tubeway Torpedo (Mission 4):** A rescue op deep in enemy territory.
+    *   **The Infiltration:** Had to break into a Russian military HQ to extract a prisoner. Felt like I was in a Bond movie, but with less talking and more strangling.
+    *   **The Reunion:** Reached the prisoner. 47 clearly knew him—there was some heavy history there—but he didn't say a word. Just business.
+    *   **The Coldness:** We made it to the sewer exit. The guy tries to thank 47, maybe shake his hand. 47 just looks at him, dead-eyed, and walks away. **Ice cold.** That’s my boy. He’s not here for friends; he’s here for the job.
 
-*   **Invitation to a Party (Mission 5):** Time to crash a high-society gathering.
-    *   **The Setup:** Infiltrate a party, kill the General, and steal vital information before the opposition agency does the same. Classic spy thriller stuff.
-    *   **The Disguise:** I went in as a waiter. Perfect cover—nobody looks twice at the help.
-    *   **Double Trouble:** Not only did I take out the General, but I also eliminated the opposition's assassin. LOL. Two birds, one stone. They never saw it coming.
-    *   **The Escape:** Slipped out of the party before anyone even noticed anything was wrong. Just another night of catering, right?
-    *   **Ranking:** **Professional** rating. Clean work, no unnecessary casualties.
+*   **Invitation to a Party (Mission 5):** Time to crash high society.
+    *   **The Disguise:** Infiltrated a lavish embassy party as a waiter. The best disguise is one where people are *supposed* to ignore you.
+    *   **The Double Tap:** The objective was to kill the General and secure a suitcase. But twist: an enemy assassin was also there to kill the General. I waited for *him* to make a move, then took them *both* out. Two birds, one stone, zero witnesses.
+    *   **The Escape:** Slipped out the back door with the suitcase while the guests were still sipping champagne.
+    *   **The Ranking:** **Professional**. Smooth as silk.
 
 ### 🇯🇵 Japan
-*   **Tracking Hayamoto (Mission 6):** This mission was EPIC. Absolutely legendary.
-    *   **The Setup:** Track down Hayamoto Jr. and eliminate him. The twist? Do it without anyone knowing an assassin was even involved.
-    *   **The Infiltration:** I silently entered the cottage—no alarms, no witnesses, pure stealth. Found Hayamoto Jr.'s sushi dish waiting to be served.
-    *   **The Poison:** Here's where it gets beautiful. I added poisonous blowfish (fugu) to his sushi. But I didn't stop there—I also planted the tracking transmitter inside the sushi. Two objectives, one dish. Efficiency at its finest.
-    *   **The Exit:** Slipped out of the cottage just as silently as I entered. No one saw me. No one suspected anything.
-    *   **The Death:** Then I just... waited. Hayamoto Jr. ate the sushi. The poison did its work. He died right there at the table. **Like the Fourth Horseman came to take his life away.** No gunshots. No struggle. No evidence of foul play. Just a tragic case of bad sushi.
-    *   **The Perfect Crime:** This is what Silent Assassin is all about. No one even knew there was an assassin involved. The target still died. That's the best kind of assassination, isn't it? When death arrives like a whisper, and the world never knows you were there.
-    *   **Ranking:** **Silent Assassin** rating. Absolute perfection. Ghost-tier execution.
+*   **Tracking Hayamoto (Mission 6):** This mission was legendary. Absolute ninja fantasy.
+    *   **The Setup:** Need to kill Hayamoto Jr. to get to his dad. The catch? Do it without *anyone* knowing.
+    *   **The Dish:** Sneaked into the kitchen and found the fugu (blowfish) being prepped. Added just a *tiny* bit of poison. Oh, and slipped a tracking transmitter into the sushi roll. Multitasking!
+    *   **The Wait:** I hid outside and just waited. Hayamoto Jr. sits down, eats his sushi, and... *thud*.
+    *   **The Result:** He died right there at the table. To the guards, it just looked like a tragic case of bad fish. No suspicion, no alarm. **Silent Assassin** rating achieved.
 
-*   **Hidden Valley (Mission 7):** A change of tactics. Time to embrace the shadows.
-    *   **The Approach:** After the pure ghost execution of Tracking Hayamoto, I decided to try something different. Not the silent ghost who leaves no trace, but not the guns-blazing Rambo either. Something in between.
-    *   **Shadow Assassin:** I became a shadow—lurking, waiting, striking when the opportunity presented itself. If a guard turned his back, he didn't turn around again. If someone wandered into a dark corner alone, they didn't walk out.
-    *   **The Philosophy:** This wasn't about being invisible. This was about being inevitable. They might find the bodies, they might know someone was there, but by the time they realized it, it was already too late.
-    *   **The Execution:** I moved through Hidden Valley like a predator. Patient. Opportunistic. Every kill was calculated, every move deliberate. Not reckless, but not invisible either.
-    *   **The Result:** Bodies were left behind. Guards knew something was wrong. But I was always one step ahead, always in the shadows, always just out of reach.
-    *   **Ranking:** **Shadow** rating. A different kind of perfection—the art of killing when given the chance.
+*   **Hidden Valley (Mission 7):** A change of pace. The snow was blinding.
+    *   **The Approach:** I tried to be a ghost, but the snipers in the towers made it impossible. So I switched gears.
+    *   **Shadow Warrior:** Instead of pure avoidance, I became a predator. Lurking in the snowy trenches. If a guard walked into the dark alone, he didn't walk out.
+    *   **The Philosophy:** It wasn't clean, but it was effective. They knew *something* was out there, but they couldn't see me until it was too late.
+    *   **The Ranking:** **Shadow**. Fitting. I wasn't invisible, but I was terrifying.
 
-*   **At the Gates (Mission 8):** The art of hiding in plain sight.
-    *   **The Infiltration:** This mission was a masterclass in disguise work. I took down one guard, stole his uniform, and just... walked right into enemy territory.
-    *   **The Deception:** The best part? They thought I was one of them. I walked right past guards, stood next to them, and they didn't suspect a thing. The disguise system at its finest.
-    *   **The Objective:** Casually strolled through the compound, shut down the security system like I owned the place, and walked straight into the castle. No alarms. No suspicion. No resistance.
-    *   **The Philosophy:** Sometimes the best way to infiltrate isn't to sneak in the shadows—it's to walk through the front door like you belong there. Confidence is the ultimate disguise.
-    *   **The Result:** Mission accomplished without anyone stopping me. They never knew an assassin was among them until it was too late.
+*   **At the Gates (Mission 8):** Infiltration 101: Act like you belong.
+    *   **The Move:** Took down a guard, stole his uniform, and just... walked in.
+    *   **The Deception:** The tension of walking right past a guard, wondering if he'll see through the disguise... incredible. But I kept my cool.
+    *   **The Objective:** Shut down the security grid from the inside. strolled through the castle grounds, flipped the switch, and walked into the inner sanctum. No alarms.
+    *   **The Lesson:** Confidence is the ultimate disguise.
 
-*   **Shogun Showdown (Mission 9):** The ghost returns. **Silent Assassin** achieved.
-    *   **The Method:** Same playbook, flawless execution. Eliminated an insider guard, took his uniform, and acquired the access keycard.
-    *   **The Kill:** Infiltrated Hayamoto's private chambers and strangled him with fiber wire. Clean. Silent. Personal. The target never saw it coming.
-    *   **The Escape:** Walked out of the castle like nothing happened. No bodies discovered. No alarms raised. No witnesses.
-    *   **The Identity:** I'm not just an assassin—I'm a modern-day ninja. Better yet, a ghost who leaves no presence. They'll find Hayamoto dead, but they'll never know who did it or how.
-    *   **Ranking:** **Silent Assassin** rating. The Japan arc concludes with perfection. The Hayamoto family is no more, and Agent 47 vanishes like smoke.
+*   **Shogun Showdown (Mission 9):** The finale of the Japan arc.
+    *   **The Method:** Back to perfect form. Infiltrated the castle proper.
+    *   **The Kill:** Made it to Hayamoto's private quarters. He was an old man, paranoid and surrounded by guards, but he wasn't safe. Fiber wire. Personal. Silent.
+    *   **The Escape:** Walked out the front gate. The guards bowed to me (in disguise). If only they knew their master was already cooling on the floor upstairs.
+    *   **The Ranking:** **Silent Assassin**. The Hayamoto family is history, and 47 disappears like smoke. Perfect arc.
 
 ### 🇲🇾 Malaysia
-*   **Basement Killing (Mission 10):** This mission was something else.
-    *   **The Setup:** Completed the mission with just a fiber wire and a smoke bomb. Found out the hacker I was killing ordered a pizza.
-    *   **The Infiltration:** Disguised myself as the pizza boy and went through security without any problem.
-    *   **The Hit:** Went down to the basement and eliminated him with fiber wire. Clean. No one knows if he is dead or alive.
-    *   **The Distraction:** The problem arose when accessing the elevator which was heavily guarded and I didn't have access. So, I threw the smoke bomb at the fire alarm and caused a distraction for a minute.
-    *   **The Escape:** In that minute, I destroyed the camera to the elevator and accessed the elevator.
-    *   **Ranking:** **Professional** rating.
+*   **Basement Killing (Mission 10):** This mission was a rollercoaster of improv.
+    *   **The Pizza Setup:** I went in with just a fiber wire and a smoke bomb. Sparse loadout, high confidence. Found out my target (the hacker) had ordered a pizza. Classic nerd move.
+    *   **The Infiltration:** Disguised myself as the pizza boy. Nobody questions a guy with a pepperoni pie. Breezed through security.
+    *   **The Hit:** Made my way to the basement. It was just him and me. Fiber wire out, problem solved. Clean. He’s gone, and nobody even knows he’s missing yet.
+    *   **The Chaos:** The problem was the elevator—heavily guarded, and I was fresh out of access cards. So, I got creative. I chucked a smoke bomb at the fire alarm.
+    *   **The Escape:** In the minute of confusion that followed, I shot out the security camera (no witnesses, right?) and slipped into the elevator. Efficient? Maybe not. Effective? Absolutely.
+    *   **Ranking:** **Professional**. A bit messy with the alarm, but the job got done.
+
+*   **The Graveyard Shift (Mission 11):** Now *this* was the perfect ghost run. Zero kills. Zero trace.
+    *   **The Objective:** Simple on paper: plant a hacking device on the server. The catch? I needed a high-security keycard to even get close.
+    *   **The Sleeper:** Spotted a supervisor. Instead of killing him, I used anesthetic. He slumped over, looking like he just had one too many beers at lunch.
+    *   **The Heist:** Stole his uniform and the keycard. Walked right past the guards like I owned the place.
+    *   **The Plant & Exit:** Sauntered into the server room, planted the device, and walked out. Supervisor wakes up with a headache and no card; I walk away with a win.
+    *   **Ranking:** **Professional** (Wait, how did I not get Silent Assassin? Maybe the body was found? Still, zero deaths is a win in my book). **Ghost status confirmed.**
 
 
 
