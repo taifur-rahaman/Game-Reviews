@@ -354,6 +354,7 @@ Comprehensive guides that help you savor the full richness of each game, includi
 **Available Guides:**
 - **[Syberia](walkthroughs/syberia.md)** - Complete chapter-by-chapter walkthrough covering all 4 locations (Valadilène, Barrockstadt, Komkolzgrad, Aralbad) with detailed puzzle solutions, item locations, and tips for experiencing Kate Walker's dreamlike journey.
 - **[Company of Heroes](walkthroughs/company_of_heroes.md)** - Comprehensive walkthrough covering all 41 missions across 6 campaigns (Invasion of Normandy, Liberation of Caen, Operation Market Garden, Tiger Ace, Causeway, and Falaise Pocket) with mission-by-mission strategies, combat tactics, and detailed tips for mastering World War II RTS warfare.
+- **[Nancy Drew: Secret of the Scarlet Hand](walkthroughs/nancy_drew_secret_of_the_scarlet_hand.md)** - Complete mystery walkthrough covering the Beech Hill Museum investigation, Mayan artifact puzzles, character interactions, and tips for solving the case of the legendary Scarlet Hand.
 
 
 **[📂 Browse All Walkthrough Guides](walkthroughs/)**
@@ -461,7 +462,7 @@ Comprehensive guides that help you savor the full richness of each game, includi
 
 *The Grand Archives are maintained by the Eternal Keeper*  
 *A Proud Member of the **PC Master Race***  
-*Last Updated: 15th January 2026*  
+*Last Updated: 17th January 2026*  
 *Version: ∞.∞.∞*
 
 <pre>
