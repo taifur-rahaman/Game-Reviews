@@ -49,6 +49,7 @@ These comprehensive guides help you experience the full richness of each game, i
 |:---|:---:|:---:|:---:|
 | **Syberia** | 8-12 hours | Full Story | [View Guide](syberia.md) |
 | **Company of Heroes** | 45-65 hours | All 6 Campaigns | [View Guide](company_of_heroes.md) |
+| **Nancy Drew: Secret of the Scarlet Hand** | 6-10 hours | Full Mystery | [View Guide](nancy_drew_secret_of_the_scarlet_hand.md) |
 
 ---
 
