@@ -68,7 +68,7 @@
 2.  **Desk Exploration:**
     *   Approach Nancy's desk (the one on the right).
     *   Click on the **To-Do List** to see your current tasks.
-    ![Nancy's To-Do List](images/nancy_drew/nancy6_4.jpg)
+    ![Nancy's To-Do List](images/nancy_drew/nancy6_5.jpg)
     *   Open the desk drawer to find:
         *   **Sonny Joon's Notes** (read them - he's obsessed with aliens!)
         *   **Museum Map**
@@ -130,7 +130,7 @@
 2.  **The Vase Puzzle:**
     *   Click on the table in the storage room.
     *   You'll see broken pottery pieces.
-    ![Pottery Reassembly Puzzle](images/nancy_drew/nancy6_7.jpg)
+    ![Pottery Reassembly Puzzle](images/nancy_drew/nancy6_9.jpg)
     *   **Puzzle Solution:**
         *   This is a jigsaw puzzle. Rotate and place pieces to form a complete vase.
         *   Start with corner and edge pieces.
@@ -215,7 +215,7 @@
 2.  **Analyzing the Handprint:**
     *   Go to the lab and use the **Microscope**.
     *   Examine the sample of the red substance.
-    ![Spectro X Archeo-analyze Device](images/nancy_drew/nancy6_16.jpg)
+    ![Spectro X Archeo-analyze Device](images/nancy_drew/nancy6_18.jpg)
     *   **Discovery:** It's not blood - it's **Cinnabar** (mercury sulfide).
     *   The Maya used cinnabar to highlight carvings.
 
@@ -287,7 +287,7 @@
 3.  **Translation Process:**
     *   Click on each glyph on the monolith.
     *   Match it with the correct meaning from your research.
-    ![Temple Key Card with Glyphs](images/nancy_drew/nancy6_3.jpg)
+    ![Temple Key Card with Glyphs](images/nancy_drew/nancy6_4.jpg)
     *   **Solution Pattern:**
         *   Top row: Gods (Itzamna, Ixchel, Ahau Kin)
         *   Middle row: Elements (Rain, Sun, Moon)
@@ -329,7 +329,7 @@
     *   Exit the museum through the main entrance.
     *   Go to the **Metro Station** (follow the street signs).
     *   Use the metro map to navigate.
-    ![Washington DC Metro Map](images/nancy_drew/nancy6_5.jpg)
+    ![Washington DC Metro Map](images/nancy_drew/nancy6_7.jpg)
 
 3.  **The Consulate:**
     *   Take the metro to the consulate stop.
@@ -456,8 +456,9 @@
     *   Shell = 0
     *   Numbers are written vertically
 
-![Mayan Number System Puzzle - Unsolved](images/nancy_drew/nancy6_14.jpg)
-![Mayan Number System Puzzle - Solved](images/nancy_drew/nancy6_15.jpg)
+![Mayan Number Puzzle Grid](images/nancy_drew/nancy6_14.jpg)
+![Mayan Number Face Descriptions](images/nancy_drew/nancy6_15.jpg)
+![Mayan Numbers 0-19 Chart](images/nancy_drew/nancy6_16.jpg)
 
 *   **Common Puzzles:**
     *   Converting modern numbers to Mayan glyphs
