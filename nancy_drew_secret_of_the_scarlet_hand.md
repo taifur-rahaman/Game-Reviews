@@ -23,15 +23,26 @@ Nancy Drew: Secret of the Scarlet Hand is the sixth installment in the Nancy Dre
 
 ## Story & Atmosphere
 
-*(To be updated as I play)*
+The game opens with Nancy Drew arriving at the prestigious **Beech Hill Museum** in Washington D.C. for what should be a straightforward internship. Instead, she walks into a crime scene: a priceless jade carving of **King Pacal** has been stolen, and the thief left behind a dramatic calling card—a **red handprint** made from **Cinnabar** (mercury sulfide), the same toxic pigment the ancient Maya used to highlight their sacred carvings.
+
+The atmosphere is steeped in Maya history and mythology. The museum itself feels like a crash course in ancient Mesoamerican culture, with artifacts, glyphs, and references to gods like **Itzamna** (the supreme creator), **Ixchel** (the dual-natured moon goddess), **Ahau Kin** (the sun god who transforms into a jaguar at night), and **Xbalanque** (the legendary Hero Twin). The game doesn't just use Maya culture as window dressing—it weaves it into the mystery itself, making you feel like you're uncovering layers of both ancient and modern secrets.
+
+You'll work under **Joanna Riggs**, the museum curator who radiates "rigid academic" energy and cares deeply about the museum's reputation. Your workspace once belonged to **Sonny Joon**, a previous intern with a reputation for being "wacky" and obsessed with aliens—his doodles and notes are scattered around, adding a quirky layer to the mystery. The game balances educational content with engaging detective work, turning the museum into both a classroom and a crime scene.
 
 ## Gameplay
 
-*(To be updated as I play)*
+**Secret of the Scarlet Hand** is a classic first-person point-and-click adventure. You navigate the museum by clicking on hotspots, examining artifacts, solving puzzles, and talking to NPCs. The game has a **non-linear structure**, meaning you can tackle many tasks in whatever order you prefer, though some puzzles naturally gate your progress.
 
-The game features a non-linear structure, allowing you to tackle puzzles and tasks in various orders. You'll interact with NPCs like Joanna Riggs (museum curator), Henrik Van Der Hune (Mayan expert), Alejandro del Rio (museum employee), and Taylor Sinclair (intern coordinator). The game offers two difficulty modes: Junior Detective (more hints, easier puzzles) and Senior Detective (fewer hints, harder challenges).
+The puzzles are varied and often educational. You'll decipher **Maya glyphs**, solve **number puzzles** based on the ancient Maya counting system, assemble a **broken vase** (a surprisingly meditative task), and investigate clues left behind by the mysterious thief. The game does an excellent job of integrating its puzzles with the Maya theme—you're not just solving arbitrary riddles; you're learning about the **Tzolkin calendar**, the significance of gods like **Balac** (the war god) and **Ekahau** (the traveler and cacao god), and the divine right of Maya kings.
+
+You'll interact with several NPCs, including **Joanna Riggs** (the curator), **Henrik Van Der Hune** (a Mayan expert), **Alejandro del Rio** (a museum employee), and **Taylor Sinclair** (the intern coordinator). Nancy's desk in the lab serves as your main quest tracker, with a to-do list that updates as you progress.
+
+The game offers two difficulty modes: **Junior Detective** (more hints, easier puzzles) and **Senior Detective** (fewer hints, harder challenges). 
+
+**Technical Note:** The game shows its age—it was released in 2002, and the graphics are rough by modern standards. Using **DGVoodoo2** to force a resolution bump from 640x480 to 1920x1080 results in a stretched widescreen image with distorted, hard-to-read text. It's playable, but not pretty. That said, the nostalgic charm and engaging mystery make it worth pushing through the visual roughness.
 
 ## Verdict
+
 
 *(To be written upon completion)*
 
