@@ -7,7 +7,7 @@
 | Publisher          | Eidos Interactive           |
 | Genre              | Stealth / Action            |
 | Status             | Playing                     |
-| Time Played        | 9h 45m                      |
+| Time Played        | 10h 8m                      |
 | Start Date         | 12th January 2026           |
 | End Date           | -                           |
 | Duration           | -                           |
@@ -60,7 +60,7 @@ St. Petersburg introduces a more complex tactical layer: the sewer system. It's 
 - [x] **Basement Killing (Malaysia)**
 - [x] **The Graveyard Shift (Malaysia)**
 - [x] **The Jacuzzi Job (Malaysia)**
-- [ ] **Murder at the Bazaar (Afghanistan)**
+- [x] **Murder at the Bazaar (Afghanistan)**
 - [ ] **The Motorcade Interception (Afghanistan)**
 - [ ] **Tunnel Rat (Afghanistan)**
 - [ ] **Temple City Ambush (India)**
@@ -152,6 +152,14 @@ St. Petersburg introduces a more complex tactical layer: the sewer system. It's 
     *   **The Body Count:** Everyone. The guards, the target, anyone who looked at me funny.
     *   **The Loot:** Grabbed the statue, grabbed the money, and ran.
     *   **Ranking:** **Slayer**. Honestly? It felt good to let loose after all that crawling around in sewers. Sometimes you just need to clear the room.
+
+### 🇦🇫 Afghanistan
+*   **Murder at the Bazaar (Mission 13):** Time is of the essence.
+    *   **The Pressure:** This mission was fun, but it's a race against the clock. From the moment you start, the window of opportunity is ticking. If you don't move fast, the targets disappear for a while, and you're stuck waiting.
+    *   **The Strategy:** I learned quickly that hesitation is the enemy here. Had to sprint from the start, navigate the bazaar, and get into position before the opportunity closed.
+    *   **The Hit:** Once I got the timing down and positioned myself properly, taking out the targets was surprisingly easy. The hard part was the setup, not the execution.
+    *   **The Lesson:** Speed matters. No time for overthinking or scouting. You need to know your route and commit immediately.
+    *   **Ranking:** **Professional**. Clean work once I figured out the timing puzzle.
 
 
 
