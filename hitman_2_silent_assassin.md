@@ -7,7 +7,7 @@
 | Publisher          | Eidos Interactive           |
 | Genre              | Stealth / Action            |
 | Status             | Playing                     |
-| Time Played        | 10h 8m                      |
+| Time Played        | 10h 46m                     |
 | Start Date         | 12th January 2026           |
 | End Date           | -                           |
 | Duration           | -                           |
@@ -61,7 +61,7 @@ St. Petersburg introduces a more complex tactical layer: the sewer system. It's 
 - [x] **The Graveyard Shift (Malaysia)**
 - [x] **The Jacuzzi Job (Malaysia)**
 - [x] **Murder at the Bazaar (Afghanistan)**
-- [ ] **The Motorcade Interception (Afghanistan)**
+- [x] **The Motorcade Interception (Afghanistan)**
 - [ ] **Tunnel Rat (Afghanistan)**
 - [ ] **Temple City Ambush (India)**
 - [ ] **The Death of Hannelore (India)**
@@ -160,6 +160,14 @@ St. Petersburg introduces a more complex tactical layer: the sewer system. It's 
     *   **The Hit:** Once I got the timing down and positioned myself properly, taking out the targets was surprisingly easy. The hard part was the setup, not the execution.
     *   **The Lesson:** Speed matters. No time for overthinking or scouting. You need to know your route and commit immediately.
     *   **Ranking:** **Professional**. Clean work once I figured out the timing puzzle.
+
+*   **The Motorcade Interception (Mission 14):** Textbook sniper mission.
+    *   **The Setup:** The agency had already done the heavy lifting—smuggled a sniper rifle into the city for me. My job? Find it, find the vantage point, wait for the target, and take the shot.
+    *   **The Execution:** Straight-cut simplicity. No elaborate disguises, no complex infiltration. Just pure marksmanship. Located the rifle, set up position, waited for the motorcade to roll through.
+    *   **The Shot:** Target in sight. One clean shot. Target down.
+    *   **The Escape:** Packed up and disappeared before anyone could even process what happened.
+    *   **The Vibe:** Sometimes the best missions are the simple ones. No overthinking, no complications. Just professional work.
+    *   **Ranking:** **Silent Assassin**. In and out like a ghost.
 
 
 
