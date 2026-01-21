@@ -7,7 +7,7 @@
 | Publisher          | Eidos Interactive           |
 | Genre              | Stealth / Action            |
 | Status             | Playing                     |
-| Time Played        | 11h 2m                      |
+| Time Played        | 12h 29m                     |
 | Start Date         | 12th January 2026           |
 | End Date           | -                           |
 | Duration           | -                           |
@@ -63,7 +63,7 @@ St. Petersburg introduces a more complex tactical layer: the sewer system. It's 
 - [x] **Murder at the Bazaar (Afghanistan)**
 - [x] **The Motorcade Interception (Afghanistan)**
 - [x] **Tunnel Rat (Afghanistan)**
-- [ ] **Temple City Ambush (India)**
+- [x] **Temple City Ambush (India)**
 - [ ] **The Death of Hannelore (India)**
 - [ ] **Terminal Hospitality (India)**
 - [ ] **St. Petersburg Revisited (Russia)**
@@ -175,6 +175,14 @@ St. Petersburg introduces a more complex tactical layer: the sewer system. It's 
     *   **The Efficiency:** No alarms were triggered, but not because I was hiding—because everyone died before they could suspect anything was wrong. They didn't know what hit them until the moment they died.
     *   **The Result:** Clean kills, zero suspicion. By the time anyone could've raised an alarm, there was no one left to raise it.
     *   **Ranking:** **Cleaner**. Not invisible, but effective. The job got done.
+
+### 🇮🇳 India
+*   **Temple City Ambush (Mission 16):** I don't know what came over me.
+    *   **The Snap:** Something just... broke. Grabbed the SMG and decided today wasn't about precision or professionalism.
+    *   **The Rampage:** Started shooting and didn't stop. Civilians, guards, targets—everyone. No one was spared. No mercy, no hesitation.
+    *   **The Carnage:** Bodies everywhere. The temple became a massacre site. This wasn't an assassination; this was pure chaos.
+    *   **The Aftermath:** When the smoke cleared, there was nothing left but silence and corpses. The targets? Dead. Everyone else? Also dead.
+    *   **Ranking:** **Psychopath**. Yeah, that tracks. Sometimes you just need to let the demons out.
 
 
 
