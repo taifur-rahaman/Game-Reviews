@@ -7,7 +7,7 @@
 | Publisher          | Eidos Interactive           |
 | Genre              | Stealth / Action            |
 | Status             | Playing                     |
-| Time Played        | 10h 46m                     |
+| Time Played        | 11h 2m                      |
 | Start Date         | 12th January 2026           |
 | End Date           | -                           |
 | Duration           | -                           |
@@ -62,7 +62,7 @@ St. Petersburg introduces a more complex tactical layer: the sewer system. It's 
 - [x] **The Jacuzzi Job (Malaysia)**
 - [x] **Murder at the Bazaar (Afghanistan)**
 - [x] **The Motorcade Interception (Afghanistan)**
-- [ ] **Tunnel Rat (Afghanistan)**
+- [x] **Tunnel Rat (Afghanistan)**
 - [ ] **Temple City Ambush (India)**
 - [ ] **The Death of Hannelore (India)**
 - [ ] **Terminal Hospitality (India)**
@@ -168,6 +168,13 @@ St. Petersburg introduces a more complex tactical layer: the sewer system. It's 
     *   **The Escape:** Packed up and disappeared before anyone could even process what happened.
     *   **The Vibe:** Sometimes the best missions are the simple ones. No overthinking, no complications. Just professional work.
     *   **Ranking:** **Silent Assassin**. In and out like a ghost.
+
+*   **Tunnel Rat (Mission 15):** Straight forward, no frills.
+    *   **The Approach:** Didn't bother with the typical stealth mode this time. No sneaking around, no elaborate disguises.
+    *   **The Method:** Just went in and did the job. Silent, but direct. Every single one went down with a headshot.
+    *   **The Efficiency:** No alarms were triggered, but not because I was hiding—because everyone died before they could suspect anything was wrong. They didn't know what hit them until the moment they died.
+    *   **The Result:** Clean kills, zero suspicion. By the time anyone could've raised an alarm, there was no one left to raise it.
+    *   **Ranking:** **Cleaner**. Not invisible, but effective. The job got done.
 
 
 

@@ -84,7 +84,7 @@
 
 | 🏷️ **Realm Type** | 🏹 **Active Quests** | ⏳ **Time** | ⚡ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| **🗡️ Stealth Action** | [Hitman 2: Silent Assassin](hitman_2_silent_assassin.md) | 10h 46m | 🕵️ **INFILTRATING** | Steam | Not Available |
+| **🗡️ Stealth Action** | [Hitman 2: Silent Assassin](hitman_2_silent_assassin.md) | 11h 2m | 🕵️ **INFILTRATING** | Steam | Not Available |
 | **🔍 Mystery Adventure** | [Nancy Drew: Secret of the Scarlet Hand](nancy_drew_secret_of_the_scarlet_hand.md) | 1h 43m | 🔎 **INVESTIGATING** | Steam | Not Available |
 
 <pre>
@@ -124,7 +124,7 @@
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Hitman 2: Silent Assassin](hitman_2_silent_assassin.md) | 2002 | - | 10h 46m | Playing | Steam | Not Available |
+| [Hitman 2: Silent Assassin](hitman_2_silent_assassin.md) | 2002 | - | 11h 2m | Playing | Steam | Not Available |
 
 
 ### 🌆 Open-World Action
