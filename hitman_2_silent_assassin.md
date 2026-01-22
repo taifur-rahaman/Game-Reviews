@@ -7,7 +7,7 @@
 | Publisher          | Eidos Interactive           |
 | Genre              | Stealth / Action            |
 | Status             | Playing                     |
-| Time Played        | 12h 29m                     |
+| Time Played        | 12h 56m                     |
 | Start Date         | 12th January 2026           |
 | End Date           | -                           |
 | Duration           | -                           |
@@ -64,7 +64,7 @@ St. Petersburg introduces a more complex tactical layer: the sewer system. It's 
 - [x] **The Motorcade Interception (Afghanistan)**
 - [x] **Tunnel Rat (Afghanistan)**
 - [x] **Temple City Ambush (India)**
-- [ ] **The Death of Hannelore (India)**
+- [x] **The Death of Hannelore (India)**
 - [ ] **Terminal Hospitality (India)**
 - [ ] **St. Petersburg Revisited (Russia)**
 - [ ] **Redemption at Gontranno (Sicily)**
@@ -183,6 +183,14 @@ St. Petersburg introduces a more complex tactical layer: the sewer system. It's 
     *   **The Carnage:** Bodies everywhere. The temple became a massacre site. This wasn't an assassination; this was pure chaos.
     *   **The Aftermath:** When the smoke cleared, there was nothing left but silence and corpses. The targets? Dead. Everyone else? Also dead.
     *   **Ranking:** **Psychopath**. Yeah, that tracks. Sometimes you just need to let the demons out.
+
+*   **The Death of Hannelore (Mission 17):** Back to form. Pure professionalism.
+    *   **The Disguise:** Wore the clothing of the patients. Blended right in. Nobody questions someone in a hospital gown shuffling around.
+    *   **The Method:** Found the doctor's tea. Added poison. Ironic, isn't it? A doctor, killed by something she was about to consume. Poetic justice.
+    *   **The Execution:** She drank it. She died. Simple as that.
+    *   **The Escape:** Walked out. No bloodshed. Absolutely none. Not a single drop. Just a quiet, clinical elimination.
+    *   **The Cleanse:** After the chaos of Temple City, this felt like redemption. Proof that I can still do this the right way.
+    *   **Ranking:** **Silent Assassin**. Clean, precise, professional. This is who 47 really is.
 
 
 
