@@ -7,7 +7,7 @@
 | Publisher          | Eidos Interactive           |
 | Genre              | Stealth / Action            |
 | Status             | Playing                     |
-| Time Played        | 12h 56m                     |
+| Time Played        | 13h 19m                     |
 | Start Date         | 12th January 2026           |
 | End Date           | -                           |
 | Duration           | -                           |
@@ -65,7 +65,7 @@ St. Petersburg introduces a more complex tactical layer: the sewer system. It's 
 - [x] **Tunnel Rat (Afghanistan)**
 - [x] **Temple City Ambush (India)**
 - [x] **The Death of Hannelore (India)**
-- [ ] **Terminal Hospitality (India)**
+- [x] **Terminal Hospitality (India)**
 - [ ] **St. Petersburg Revisited (Russia)**
 - [ ] **Redemption at Gontranno (Sicily)**
 
@@ -191,6 +191,15 @@ St. Petersburg introduces a more complex tactical layer: the sewer system. It's 
     *   **The Escape:** Walked out. No bloodshed. Absolutely none. Not a single drop. Just a quiet, clinical elimination.
     *   **The Cleanse:** After the chaos of Temple City, this felt like redemption. Proof that I can still do this the right way.
     *   **Ranking:** **Silent Assassin**. Clean, precise, professional. This is who 47 really is.
+
+*   **Terminal Hospitality (Mission 18):** And we're back to chaos. LOL.
+    *   **The Snap (Again):** I don't know what it is about these India missions, but something just flips a switch in my brain.
+    *   **The Arsenal:** Picked up an AK47 and decided that subtlety was overrated. Again.
+    *   **The Rampage:** Started with the target, but why stop there? The entire medical island became a war zone. Guards, staff, patients—everyone.
+    *   **The Justification:** Here's the thing though—they all deserved it. The whole hospital was just a front for the Cult Leader who stole a warhead to destroy civilians. So really, I was doing the world a favor.
+    *   **The Carnage:** No survivors. Not a single one. The entire island was cleared. If you were there, you're not anymore.
+    *   **The Aftermath:** When the dust settled, there was just silence. And bodies. So many bodies.
+    *   **Ranking:** **Mass Murderer**. Yeah, that's a new one. But honestly? No regrets. They were all complicit.
 
 
 
