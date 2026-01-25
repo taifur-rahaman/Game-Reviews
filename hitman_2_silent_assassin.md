@@ -7,7 +7,7 @@
 | Publisher          | Eidos Interactive           |
 | Genre              | Stealth / Action            |
 | Status             | Playing                     |
-| Time Played        | 13h 19m                     |
+| Time Played        | 14h 9m                      |
 | Start Date         | 12th January 2026           |
 | End Date           | -                           |
 | Duration           | -                           |
@@ -66,7 +66,7 @@ St. Petersburg introduces a more complex tactical layer: the sewer system. It's 
 - [x] **Temple City Ambush (India)**
 - [x] **The Death of Hannelore (India)**
 - [x] **Terminal Hospitality (India)**
-- [ ] **St. Petersburg Revisited (Russia)**
+- [x] **St. Petersburg Revisited (Russia)**
 - [ ] **Redemption at Gontranno (Sicily)**
 
 ## Notes & Observations
@@ -200,6 +200,19 @@ St. Petersburg introduces a more complex tactical layer: the sewer system. It's 
     *   **The Carnage:** No survivors. Not a single one. The entire island was cleared. If you were there, you're not anymore.
     *   **The Aftermath:** When the dust settled, there was just silence. And bodies. So many bodies.
     *   **Ranking:** **Mass Murderer**. Yeah, that's a new one. But honestly? No regrets. They were all complicit.
+
+### 🇷🇺 St. Petersburg (Return)
+*   **St. Petersburg Revisited (Mission 19):** The most tricky mission so far. Full circle back to Russia.
+    *   **The Setup:** Got the sniper rifle from the station. But here's the kicker—the ammo was in a completely different location. WHY? Who does that? It's like hiding your car keys in a different building.
+    *   **The Decoy:** After sneaking around to collect both the rifle AND the ammo, I finally made it to the sniping position. Lined up the shot. Pulled the trigger. Target didn't die. What the hell?
+    *   **The Twist:** Went to the room to investigate. The "target" was a fucking cardboard cutout. A CARDBOARD. I've been played.
+    *   **The Restart:** Had to restart the entire mission. This time, I scouted the perimeter more carefully and found an agent positioned at a window with a sniper rifle. The real threat.
+    *   **The Real Hit:** This time I went to the main building quietly. Found the agent. Fiber wire. Personal and silent. He never saw it coming.
+    *   **The Reveal:** A cutscene triggered. It was Agent 17—hired specifically to protect Sergei and kill ME. So this whole mission was a trap. They knew I was coming.
+    *   **The Objective Shift:** After killing Agent 17, the objective changed from "eliminate target" to "escape." Classic bait-and-switch.
+    *   **The Escape:** Took Agent 17's disguise and walked out in the open. Blended right into the crowd and escaped via metro. They were looking for Agent 47, not Agent 17.
+    *   **The Irony:** Escaped wearing the disguise of the man sent to kill me. Poetic.
+    *   **Ranking:** **Expert**. This mission tested everything—patience, adaptability, and the ability to pivot when the plan falls apart.
 
 
 
