@@ -6,12 +6,12 @@
 | Developer          | IO Interactive              |
 | Publisher          | Eidos Interactive           |
 | Genre              | Stealth / Action            |
-| Status             | Playing                     |
-| Time Played        | 14h 9m                      |
+| Status             | Completed                   |
+| Time Played        | 14h 42m                     |
 | Start Date         | 12th January 2026           |
-| End Date           | -                           |
-| Duration           | -                           |
-| Rating             | -                           |
+| End Date           | 25th January 2026           |
+| Duration           | 14 days                     |
+| Rating             | ★★★★⯪                      |
 | Platform           | Steam                       |
 | Achievements       | Not Available               |
 
@@ -39,7 +39,25 @@ St. Petersburg introduces a more complex tactical layer: the sewer system. It's 
 
 ## Verdict
 
-*(To be written upon completion)*
+Hitman 2: Silent Assassin is a masterclass in player agency and emotional storytelling through gameplay. What starts as a simple redemption tale—a genetically engineered killer trying to find peace in a Sicilian church—becomes a globe-trotting odyssey that tests not just your skills, but your philosophy on how to approach violence.
+
+The game's greatest strength is its flexibility. Every mission is a sandbox where you can be a ghost (Silent Assassin ratings, zero traces), a professional (clean kills, minimal collateral), or an absolute force of nature (Mass Murderer, Psychopath, Slayer). The fact that the game *allows* all these playstyles without judgment is brilliant. Some missions I was surgical—poisoned sushi with a transmitter, walking out while the target dies "naturally." Other times, especially when the mission felt personal (looking at you, Terminal Hospitality and Redemption at Gontranno), I became the storm.
+
+The emotional arc is surprisingly powerful for a 2002 stealth game. Agent 47 starts the game gardening, confessing sins, trying to be human. By the end, when Sergei invades his sanctuary and takes Father Vittorio hostage, the mask comes off. That final mission isn't about ratings or professionalism—it's about *rage*. The SP12 shotgun rampage through the church wasn't just gameplay; it was catharsis. They violated his home, and he made sure none of them left.
+
+The mission variety is excellent. From the atmospheric sniper work in freezing St. Petersburg sewers to the ninja-like poisoning in Japan, from time-sensitive bazaar hits in Afghanistan to the tense disguise work in Russian embassies—each location feels distinct. The game constantly forces you to adapt: sometimes stealth is king, sometimes you need to improvise (looking at you, Basement Killing smoke bomb chaos), and sometimes you just need to accept that today is a bad day for everyone involved.
+
+The disguise system is the MVP. There's genuine tension in walking past a guard in a stolen uniform, wondering if he'll see through it. The satisfaction of infiltrating a heavily guarded compound by just *acting like you belong* never gets old.
+
+That said, the game shows its age. The controls can be clunky, the AI is exploitable if you know the patterns, and some missions feel trial-and-error heavy (St. Petersburg Revisited with the cardboard cutout twist was brilliant but frustrating). The lack of mid-mission saves means one mistake can cost you 20 minutes of progress.
+
+But here's the thing: despite the rough edges, Hitman 2 *respects* you. It doesn't hold your hand. It doesn't force a playstyle. It gives you tools, objectives, and consequences, then steps back and says "show me who you are." And over 20 missions spanning Sicily, Russia, Japan, Malaysia, Afghanistan, and India, I showed the game exactly who Agent 47 is: a professional when the job demands it, a ghost when stealth is required, and an unstoppable force when you threaten what's his.
+
+The journey from peaceful gardener to vengeful protector, with stops at "surgical assassin" and "absolute psychopath" along the way, is one I won't forget. This is a game that understands that sometimes the best stories aren't told through cutscenes—they're told through the choices you make when no one's watching.
+
+**Final Thought:** You came to my home. You took my mentor. You made the worst mistake of your life. And I made sure you never made another one. That's Hitman 2 in a nutshell: consequences, agency, and a bald man with a barcode who just wanted to tend his garden in peace.
+
+**Rating: ★★★★⯪ (Epic Loot)** - Excellent stealth sandbox with memorable moments and genuine player freedom, held back only by dated controls and occasional trial-and-error design.
 
 ---
 
@@ -67,7 +85,7 @@ St. Petersburg introduces a more complex tactical layer: the sewer system. It's 
 - [x] **The Death of Hannelore (India)**
 - [x] **Terminal Hospitality (India)**
 - [x] **St. Petersburg Revisited (Russia)**
-- [ ] **Redemption at Gontranno (Sicily)**
+- [x] **Redemption at Gontranno (Sicily)**
 
 ## Notes & Observations
 
@@ -213,6 +231,16 @@ St. Petersburg introduces a more complex tactical layer: the sewer system. It's 
     *   **The Escape:** Took Agent 17's disguise and walked out in the open. Blended right into the crowd and escaped via metro. They were looking for Agent 47, not Agent 17.
     *   **The Irony:** Escaped wearing the disguise of the man sent to kill me. Poetic.
     *   **Ranking:** **Expert**. This mission tested everything—patience, adaptability, and the ability to pivot when the plan falls apart.
+
+### 🇮🇹 Sicily (Return)
+*   **Redemption at Gontranno (Mission 20):** YOU CAME TO MY HOME? YOU MADE THE WORST MISTAKE OF YOUR LIFE.
+    *   **The Violation:** Sergei and his goons had the AUDACITY to come to my sanctuary. MY HOME. The church in Sicily where I found peace. They took Father Vittorio hostage. In MY house.
+    *   **The Awakening:** This wasn't a mission. This was personal. I grabbed my trusty old SP12 shotgun—the one I thought I'd never need again—and became the storm.
+    *   **The Rampage:** There were no civilians here. Just me, my mentor, and the enemies who dared to violate my sanctuary. I blazed through them like Rambo. Every. Single. One.
+    *   **The Philosophy:** I spared NO ONE. Not a single soul. You don't come to a man's home, threaten his family, and expect mercy. This is what happens when you wake a sleeping dragon.
+    *   **The Message:** They came to take. I made sure none of them left. This is MY home. MY sanctuary. And they learned that lesson the hard way.
+    *   **The Aftermath:** When the smoke cleared, Father Vittorio was safe. The church was painted red, but it was MY red. Justice served with a shotgun.
+    *   **Ranking:** TBD. But honestly? I don't care about the rating. This was about sending a message: Never. Touch. What's. Mine.
 
 
 

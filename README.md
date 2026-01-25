@@ -63,9 +63,9 @@
 | **🗝️ Sacred Metric** | 💎 **Legendary Value** | 🔮 **Significance** |
 | :--- | :---: | :--- |
 | **📜 Scrolls Inscribed** | **23 Tomes** | *Worlds Documented* |
-| **⏳ Hours in Realms** | **4,916h 56m** | *Lifetimes Lived* |
-| **🎮 Realms Conquered** | **21 Kingdoms** | *Victories Eternal* |
-| **⚔️ Active Campaigns** | **2 Battlefronts** | *Wars Ongoing* |
+| **⏳ Hours in Realms** | **4,917h 29m** | *Lifetimes Lived* |
+| **🎮 Realms Conquered** | **22 Kingdoms** | *Victories Eternal* |
+| **⚔️ Active Campaigns** | **1 Battlefront** | *Wars Ongoing* |
 
 <pre>
 ═══════════════════════════════════════════════════════════════════════
@@ -84,7 +84,6 @@
 
 | 🏷️ **Realm Type** | 🏹 **Active Quests** | ⏳ **Time** | ⚡ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| **🗡️ Stealth Action** | [Hitman 2: Silent Assassin](hitman_2_silent_assassin.md) | 14h 9m | 🕵️ **INFILTRATING** | Steam | Not Available |
 | **🔍 Mystery Adventure** | [Nancy Drew: Secret of the Scarlet Hand](nancy_drew_secret_of_the_scarlet_hand.md) | 1h 43m | 🔎 **INVESTIGATING** | Steam | Not Available |
 
 <pre>
@@ -124,7 +123,7 @@
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Hitman 2: Silent Assassin](hitman_2_silent_assassin.md) | 2002 | - | 14h 9m | Playing | Steam | Not Available |
+| [Hitman 2: Silent Assassin](hitman_2_silent_assassin.md) | 2002 | ★★★★⯪ | 14h 42m | Completed | Steam | Not Available |
 
 
 ### 🌆 Open-World Action
@@ -291,7 +290,7 @@
 
 | 📅 **Year** | 🎮 **Must-Play Titles** | 📊 **Progress** | 🔗 **Guide** |
 |:---:|:---|:---:|:---:|
-| **2002** | ✅ [GTA III](gta_3.md)<br>✅ [Syberia](syberia.md)<br>✅ [Age of Mythology](age_of_mythology.md)<br>🎮 [Hitman 2: Silent Assassin](hitman_2_silent_assassin.md)<br>• Splinter Cell<br>• Mafia: The City of Lost Heaven<br>• The Elder Scrolls III: Morrowind<br>🎮 [Nancy Drew: Secret of the Scarlet Hand](nancy_drew_secret_of_the_scarlet_hand.md)<br>• Nancy Drew: Ghost Dogs of Moon Lake<br>• Robin Hood: Legend of Sherwood | 3/10 Complete<br>2/10 Active | [View Details](recommendations/2002.md) |
+| **2002** | ✅ [GTA III](gta_3.md)<br>✅ [Syberia](syberia.md)<br>✅ [Age of Mythology](age_of_mythology.md)<br>✅ [Hitman 2: Silent Assassin](hitman_2_silent_assassin.md)<br>• Splinter Cell<br>• Mafia: The City of Lost Heaven<br>• The Elder Scrolls III: Morrowind<br>🎮 [Nancy Drew: Secret of the Scarlet Hand](nancy_drew_secret_of_the_scarlet_hand.md)<br>• Nancy Drew: Ghost Dogs of Moon Lake<br>• Robin Hood: Legend of Sherwood | 4/10 Complete<br>1/10 Active | [View Details](recommendations/2002.md) |
 | **2003** | ✅ [GTA Vice City](gta_vice_city.md)<br>• Max Payne 2: The Fall of Max Payne<br>• Call of Duty<br>• Manhunt<br>• Runaway: A Road Adventure<br>• Nancy Drew: The Haunted Carousel<br>• Nancy Drew: Danger on Deception Island | 1/7 Complete<br>0/7 Active | [View Details](recommendations/2003.md) |
 | **2004** | • Half-Life 2<br>• Vampire: The Masquerade - Bloodlines<br>• Splinter Cell: Pandora Tomorrow<br>• Far Cry<br>• Nancy Drew: Secret of Shadow Ranch<br>• Nancy Drew: Curse of Blackmoor Manor | 0/6 Complete<br>0/6 Active | [View Details](recommendations/2004.md) |
 | **2005** | ✅ [GTA San Andreas](gta_san_andreas.md)<br>✅ [NFS Most Wanted](nfs_most_wanted.md)<br>• Indigo Prophecy<br>• Splinter Cell: Chaos Theory<br>• F.E.A.R.<br>• Psychonauts<br>• Nancy Drew: Secret of the Old Clock<br>• Nancy Drew: Last Train to Blue Moon Canyon | 2/8 Complete<br>0/8 Active | [View Details](recommendations/2005.md) |
@@ -429,7 +428,7 @@ Comprehensive guides that help you savor the full richness of each game, includi
 ║    │                     ✨  881162132  ✨                   │      ║
 ║    │                                                          │      ║
 ║    │             "Together, we conquer worlds unknown"        │      ║
-║    │                                                          │     ║ 
+║    │                                                          │      ║ 
 ║    └──────────────────────────────────────────────────────────┘      ║
 ║                                                                      ║
 ║  🔥 Send a friend request and join the eternal campaign! 🔥         ║
