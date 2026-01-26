@@ -15,6 +15,7 @@
 | **2002** | **Syberia** | 15h 22m | 1 |
 | **2002** | **Nancy Drew** | 1h 43m | 1 |
 | **2002** | **Hitman** | 14h 42m | 1 |
+| **2002** | **Splinter Cell** | 0h 0m | 1 |
 | **2005** | **Need for Speed** | 26h 52m | 1 |
 | **2006** | **Company of Heroes** | 40h 18m | 1 |
 | **2006** | **The Godfather** | 17h 06m | 1 |
@@ -38,6 +39,7 @@
 | **2002** | **Nancy Drew: Secret of the Scarlet Hand** | 1h 43m | #23 |
 | **2002** | **Age of Mythology** | 20h 07m | #12 |
 | **2002** | **Hitman 2: Silent Assassin** | 14h 42m | #18 |
+| **2002** | **Tom Clancy's Splinter Cell** | 0h 0m | #24 |
 | **2003** | **Grand Theft Auto: Vice City** | 17h 39m | #14 |
 | **2005** | **Grand Theft Auto: San Andreas** | 41h 48m | #6 |
 | **2005** | **Need for Speed: Most Wanted** | 26h 52m | #10 |

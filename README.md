@@ -62,10 +62,10 @@
 
 | **🗝️ Sacred Metric** | 💎 **Legendary Value** | 🔮 **Significance** |
 | :--- | :---: | :--- |
-| **📜 Scrolls Inscribed** | **23 Tomes** | *Worlds Documented* |
+| **📜 Scrolls Inscribed** | **24 Tomes** | *Worlds Documented* |
 | **⏳ Hours in Realms** | **4,917h 29m** | *Lifetimes Lived* |
 | **🎮 Realms Conquered** | **22 Kingdoms** | *Victories Eternal* |
-| **⚔️ Active Campaigns** | **1 Battlefront** | *Wars Ongoing* |
+| **⚔️ Active Campaigns** | **2 Battlefronts** | *Wars Ongoing* |
 
 <pre>
 ═══════════════════════════════════════════════════════════════════════
@@ -84,6 +84,7 @@
 
 | 🏷️ **Realm Type** | 🏹 **Active Quests** | ⏳ **Time** | ⚡ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 | :--- | :--- | :---: | :---: | :---: | :---: |
+| **🕵️ Stealth Action** | [Tom Clancy's Splinter Cell](splinter_cell.md) | 0h 0m | 🎯 **INFILTRATING** | Steam | Not Available |
 | **🔍 Mystery Adventure** | [Nancy Drew: Secret of the Scarlet Hand](nancy_drew_secret_of_the_scarlet_hand.md) | 1h 43m | 🔎 **INVESTIGATING** | Steam | Not Available |
 
 <pre>
@@ -124,6 +125,14 @@
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Hitman 2: Silent Assassin](hitman_2_silent_assassin.md) | 2002 | ★★★★⯪ | 14h 42m | Completed | Steam | Not Available |
+
+#### 🕵️ Splinter Cell Series
+
+<p><em>Sam Fisher is the ultimate shadow operative—a Splinter Cell agent for Third Echelon who doesn't exist on any official record. Armed with night vision goggles, a silenced pistol, and an arsenal of high-tech gadgets, Fisher operates where governments can't. The genius of Splinter Cell is its revolutionary light and shadow mechanics: staying in darkness isn't just a strategy, it's survival. Every light source becomes a tactical puzzle. Do you shoot it out and risk alerting guards? Avoid it entirely? Or use darkness as a weapon? It's stealth perfection where patience and precision are rewarded, and one wrong move in the light means mission failure.</em></p>
+
+| 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+| [Tom Clancy's Splinter Cell](splinter_cell.md) | 2002 | - | 0h 0m | Playing | Steam | Not Available |
 
 
 ### 🌆 Open-World Action
@@ -290,7 +299,7 @@
 
 | 📅 **Year** | 🎮 **Must-Play Titles** | 📊 **Progress** | 🔗 **Guide** |
 |:---:|:---|:---:|:---:|
-| **2002** | ✅ [GTA III](gta_3.md)<br>✅ [Syberia](syberia.md)<br>✅ [Age of Mythology](age_of_mythology.md)<br>✅ [Hitman 2: Silent Assassin](hitman_2_silent_assassin.md)<br>• Splinter Cell<br>• Mafia: The City of Lost Heaven<br>• The Elder Scrolls III: Morrowind<br>🎮 [Nancy Drew: Secret of the Scarlet Hand](nancy_drew_secret_of_the_scarlet_hand.md)<br>• Nancy Drew: Ghost Dogs of Moon Lake<br>• Robin Hood: Legend of Sherwood | 4/10 Complete<br>1/10 Active | [View Details](recommendations/2002.md) |
+| **2002** | ✅ [GTA III](gta_3.md)<br>✅ [Syberia](syberia.md)<br>✅ [Age of Mythology](age_of_mythology.md)<br>✅ [Hitman 2: Silent Assassin](hitman_2_silent_assassin.md)<br>🎮 [Tom Clancy's Splinter Cell](splinter_cell.md)<br>• Mafia: The City of Lost Heaven<br>• The Elder Scrolls III: Morrowind<br>🎮 [Nancy Drew: Secret of the Scarlet Hand](nancy_drew_secret_of_the_scarlet_hand.md)<br>• Nancy Drew: Ghost Dogs of Moon Lake<br>• Robin Hood: Legend of Sherwood | 4/10 Complete<br>2/10 Active | [View Details](recommendations/2002.md) |
 | **2003** | ✅ [GTA Vice City](gta_vice_city.md)<br>• Max Payne 2: The Fall of Max Payne<br>• Call of Duty<br>• Manhunt<br>• Runaway: A Road Adventure<br>• Nancy Drew: The Haunted Carousel<br>• Nancy Drew: Danger on Deception Island | 1/7 Complete<br>0/7 Active | [View Details](recommendations/2003.md) |
 | **2004** | • Half-Life 2<br>• Vampire: The Masquerade - Bloodlines<br>• Splinter Cell: Pandora Tomorrow<br>• Far Cry<br>• Nancy Drew: Secret of Shadow Ranch<br>• Nancy Drew: Curse of Blackmoor Manor | 0/6 Complete<br>0/6 Active | [View Details](recommendations/2004.md) |
 | **2005** | ✅ [GTA San Andreas](gta_san_andreas.md)<br>✅ [NFS Most Wanted](nfs_most_wanted.md)<br>• Indigo Prophecy<br>• Splinter Cell: Chaos Theory<br>• F.E.A.R.<br>• Psychonauts<br>• Nancy Drew: Secret of the Old Clock<br>• Nancy Drew: Last Train to Blue Moon Canyon | 2/8 Complete<br>0/8 Active | [View Details](recommendations/2005.md) |
