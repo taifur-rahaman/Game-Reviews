@@ -84,7 +84,7 @@
 
 | 🏷️ **Realm Type** | 🏹 **Active Quests** | ⏳ **Time** | ⚡ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| **🕵️ Stealth Action** | [Tom Clancy's Splinter Cell](splinter_cell.md) | 0h 0m | 🎯 **INFILTRATING** | Steam | Not Available |
+| **🕵️ Stealth Action** | [Tom Clancy's Splinter Cell](splinter_cell.md) | 0h 35m | 🎯 **INFILTRATING** | Steam | Not Available |
 | **🔍 Mystery Adventure** | [Nancy Drew: Secret of the Scarlet Hand](nancy_drew_secret_of_the_scarlet_hand.md) | 1h 43m | 🔎 **INVESTIGATING** | Steam | Not Available |
 
 <pre>

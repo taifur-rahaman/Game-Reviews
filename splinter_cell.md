@@ -7,7 +7,7 @@
 | Publisher          | Ubisoft                     |
 | Genre              | Stealth / Action            |
 | Status             | Playing                     |
-| Time Played        | 0h 0m                       |
+| Time Played        | 0h 35m                      |
 | Start Date         | 26th January 2026           |
 | End Date           | -                           |
 | Duration           | -                           |
@@ -39,7 +39,7 @@ Tom Clancy's Splinter Cell introduces Sam Fisher, a highly trained operative wor
 
 *(Tracking my journey through the game)*
 
-- [ ] **Training**
+- [x] **Training**
 - [ ] **Mission 1: Georgian Military Base (Georgia)**
 - [ ] **Mission 2: Oil Refinery (Georgia)**
 - [ ] **Mission 3: Police Station (Georgia)**
@@ -60,3 +60,9 @@ Tom Clancy's Splinter Cell introduces Sam Fisher, a highly trained operative wor
 ## Notes & Observations
 
 *(These are my raw notes from while I was playing—some spoilers involved!)*
+
+### Training Mission
+*   **The Future Setting:** Interesting that the story is set in 2004 while the game released in 2002—they're showing us a near-future scenario. Sets up the high-tech gadget vibe perfectly.
+*   **Movement Freedom:** Sam Fisher feels SO much more mobile than Agent 47. The movement system is incredibly fluid. I can already imagine all the stealthy approaches I'll be using. Climbing, hanging, split jumps—this is next-level infiltration.
+*   **Mechanics Comparison (2002 vs 2002):** Both Hitman 2 and Splinter Cell released in 2002, but the game mechanics here are **much, much superior**. The control responsiveness, the movement options, the environmental interaction—it's a huge leap forward. Of course, I'll reserve final judgment on story, plot, and level design until I finish the game, but mechanically? Splinter Cell wins hands down.
+*   **Graphics Issues:** The graphics are trash and immutable. DGVoodoo2 worked wonders for Hitman 2, but it's completely incompatible with Splinter Cell. The best fix I found is manually stretching the game window, but that cuts off information at the edges of the screen sometimes. Annoying, but playable.
