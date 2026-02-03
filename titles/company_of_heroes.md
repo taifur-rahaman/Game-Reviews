@@ -42,7 +42,7 @@ Company of Heroes focuses on squad-level tactics and cover mechanics. Units must
 
 ## Walkthrough
 
-📖 **[View Complete Walkthrough Guide](walkthroughs/company_of_heroes.md)**
+📖 **[View Complete Walkthrough Guide](../walkthroughs/company_of_heroes.md)**
 
 A comprehensive guide covering all 41 missions across 6 campaigns:
 - **Part 1:** Invasion of Normandy (US) - 15 missions

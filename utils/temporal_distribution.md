@@ -32,30 +32,30 @@
 
 | 📅 **PC Year** | 🎮 **Game** | ⏳ **Time** | 🥇 **Time Rank** |
 |:---:|:---|:---:|:---:|
-| **1997** | **Disney's Hercules Action Game** | 1h 56m | #22 |
-| **2001** | **Desperados: Wanted Dead or Alive** | 7h 10m | #20 |
-| **2002** | **Grand Theft Auto III** | 19h 56m | #13 |
-| **2002** | **Syberia** | 15h 22m | #17 |
-| **2002** | **Nancy Drew: Secret of the Scarlet Hand** | 1h 43m | #23 |
-| **2002** | **Age of Mythology** | 20h 07m | #12 |
-| **2002** | **Hitman 2: Silent Assassin** | 14h 42m | #18 |
-| **2002** | **Tom Clancy's Splinter Cell** | 0h 35m | #24 |
-| **2003** | **Grand Theft Auto: Vice City** | 17h 39m | #14 |
-| **2005** | **Grand Theft Auto: San Andreas** | 41h 48m | #6 |
-| **2005** | **Need for Speed: Most Wanted** | 26h 52m | #10 |
-| **2006** | **Company of Heroes** | 40h 18m | #7 |
-| **2006** | **The Godfather** | 17h 06m | #15 |
-| **2007** | **Farm Frenzy** | 9h 38m | #19 |
-| **2008** | **Assassin's Creed I** | 29h 15m | #9 |
-| **2008** | **Rise of the Argonauts** | 26h 52m | #11 |
-| **2008** | **Farm Frenzy 2** | 16h 56m | #16 |
-| **2010** | **Assassin's Creed II** | 56h 53m | #4 |
-| **2011** | **Assassin's Creed: Brotherhood** | 60h 17m | #3 |
-| **2013** | **DOTA 2** | 4197h 49m | #1 |
-| **2014** | **Middle-Earth: Shadow of Mordor** | 39h 26m | #8 |
-| **2017** | **Middle-Earth: Shadow of War** | 46h 42m | #5 |
-| **2018** | **Frostpunk** | 15h 00m | #18 |
-| **2021** | **Mass Effect Legendary Edition** | 196h 35m | #2 |
+| **1997** | **[Disney's Hercules Action Game](../titles/disneys_hercules_action_game.md)** | 1h 56m | #22 |
+| **2001** | **[Desperados: Wanted Dead or Alive](../titles/desperados_wanted_dead_or_alive.md)** | 7h 10m | #20 |
+| **2002** | **[Grand Theft Auto III](../titles/gta_3.md)** | 19h 56m | #13 |
+| **2002** | **[Syberia](../titles/syberia.md)** | 15h 22m | #17 |
+| **2002** | **[Nancy Drew: Secret of the Scarlet Hand](../titles/nancy_drew_secret_of_the_scarlet_hand.md)** | 1h 43m | #23 |
+| **2002** | **[Age of Mythology](../titles/age_of_mythology.md)** | 20h 07m | #12 |
+| **2002** | **[Hitman 2: Silent Assassin](../titles/hitman_2_silent_assassin.md)** | 14h 42m | #18 |
+| **2002** | **[Tom Clancy's Splinter Cell](../titles/splinter_cell.md)** | 0h 35m | #24 |
+| **2003** | **[Grand Theft Auto: Vice City](../titles/gta_vice_city.md)** | 17h 39m | #14 |
+| **2005** | **[Grand Theft Auto: San Andreas](../titles/gta_san_andreas.md)** | 41h 48m | #6 |
+| **2005** | **[Need for Speed: Most Wanted](../titles/nfs_most_wanted.md)** | 26h 52m | #10 |
+| **2006** | **[Company of Heroes](../titles/company_of_heroes.md)** | 40h 18m | #7 |
+| **2006** | **[The Godfather](../titles/the_godfather.md)** | 17h 06m | #15 |
+| **2007** | **[Farm Frenzy](../titles/farm_frenzy.md)** | 9h 38m | #19 |
+| **2008** | **[Assassin's Creed I](../titles/assassin's_creed_1.md)** | 29h 15m | #9 |
+| **2008** | **[Rise of the Argonauts](../titles/rise_of_the_argonauts.md)** | 26h 52m | #11 |
+| **2008** | **[Farm Frenzy 2](../titles/farm_frenzy_2.md)** | 16h 56m | #16 |
+| **2010** | **[Assassin's Creed II](../titles/assassin's_creed_2.md)** | 56h 53m | #4 |
+| **2011** | **[Assassin's Creed: Brotherhood](../titles/assassin's_creed_brotherhood.md)** | 60h 17m | #3 |
+| **2013** | **[DOTA 2](../titles/dota_2.md)** | 4197h 49m | #1 |
+| **2014** | **[Middle-Earth: Shadow of Mordor](../titles/shadow_of_mordor.md)** | 39h 26m | #8 |
+| **2017** | **[Middle-Earth: Shadow of War](../titles/shadow_of_war.md)** | 46h 42m | #5 |
+| **2018** | **[Frostpunk](../titles/frostpunk.md)** | 15h 00m | #18 |
+| **2021** | **[Mass Effect Legendary Edition](../titles/mass_effect_legendary_edition.md)** | 196h 35m | #2 |
 
 <pre>
 ═══════════════════════════════════════════════════════════════════════

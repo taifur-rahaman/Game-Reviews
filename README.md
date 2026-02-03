@@ -84,8 +84,8 @@
 
 | 🏷️ **Realm Type** | 🏹 **Active Quests** | ⏳ **Time** | ⚡ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| **🕵️ Stealth Action** | [Tom Clancy's Splinter Cell](splinter_cell.md) | 0h 35m | 🎯 **INFILTRATING** | Steam | Not Available |
-| **🔍 Mystery Adventure** | [Nancy Drew: Secret of the Scarlet Hand](nancy_drew_secret_of_the_scarlet_hand.md) | 1h 43m | 🔎 **INVESTIGATING** | Steam | Not Available |
+| **🕵️ Stealth Action** | [Tom Clancy's Splinter Cell](titles/splinter_cell.md) | 0h 35m | 🎯 **INFILTRATING** | Steam | Not Available |
+| **🔍 Mystery Adventure** | [Nancy Drew: Secret of the Scarlet Hand](titles/nancy_drew_secret_of_the_scarlet_hand.md) | 1h 43m | 🔎 **INVESTIGATING** | Steam | Not Available |
 
 <pre>
 ╔══════════════════════════════════════════════════════════════════════╗
@@ -105,9 +105,9 @@
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Assassin's Creed I](assassin's_creed_1.md) | 2008 | ★★★★☆ | 29h 15m | Completed | Pirated | Pirated |
-| [Assassin's Creed II](assassin's_creed_2.md) | 2010 | ★★★★⯪ | 56h 53m | Completed | Pirated | Pirated |
-| [Assassin's Creed: Brotherhood](assassin's_creed_brotherhood.md) | 2011 | ★★★★☆ | 60h 17m | Completed | Pirated | Pirated |
+| [Assassin's Creed I](titles/assassin's_creed_1.md) | 2008 | ★★★★☆ | 29h 15m | Completed | Pirated | Pirated |
+| [Assassin's Creed II](titles/assassin's_creed_2.md) | 2010 | ★★★★⯪ | 56h 53m | Completed | Pirated | Pirated |
+| [Assassin's Creed: Brotherhood](titles/assassin's_creed_brotherhood.md) | 2011 | ★★★★☆ | 60h 17m | Completed | Pirated | Pirated |
 
 #### 🌋 Middle-Earth Series
 
@@ -115,8 +115,8 @@
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Middle-Earth: Shadow of Mordor](shadow_of_mordor.md) | 2014 | ★★★★★ | 39h 26m | Completed | Pirated | Pirated |
-| [Middle-Earth: Shadow of War](shadow_of_war.md) | 2017 | ★★★★☆ | 46h 42m | Completed | Pirated | Pirated |
+| [Middle-Earth: Shadow of Mordor](titles/shadow_of_mordor.md) | 2014 | ★★★★★ | 39h 26m | Completed | Pirated | Pirated |
+| [Middle-Earth: Shadow of War](titles/shadow_of_war.md) | 2017 | ★★★★☆ | 46h 42m | Completed | Pirated | Pirated |
 
 #### 🎯 Hitman Series
 
@@ -124,7 +124,7 @@
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Hitman 2: Silent Assassin](hitman_2_silent_assassin.md) | 2002 | ★★★★⯪ | 14h 42m | Completed | Steam | Not Available |
+| [Hitman 2: Silent Assassin](titles/hitman_2_silent_assassin.md) | 2002 | ★★★★⯪ | 14h 42m | Completed | Steam | Not Available |
 
 #### 🕵️ Splinter Cell Series
 
@@ -132,7 +132,7 @@
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Tom Clancy's Splinter Cell](splinter_cell.md) | 2002 | - | 0h 0m | Playing | Steam | Not Available |
+| [Tom Clancy's Splinter Cell](titles/splinter_cell.md) | 2002 | - | 0h 0m | Playing | Steam | Not Available |
 
 
 ### 🌆 Open-World Action
@@ -146,9 +146,9 @@
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Grand Theft Auto III](gta_3.md) | 2002 | ★★★★☆ | 19h 56m | Completed | Pirated | Pirated |
-| [Grand Theft Auto: Vice City](gta_vice_city.md) | 2003 | ★★★★⯪ | 17h 39m | Completed | Pirated | Pirated |
-| [Grand Theft Auto: San Andreas](gta_san_andreas.md) | 2005 | ★★★★★ | 41h 48m | Completed | Pirated | Pirated |
+| [Grand Theft Auto III](titles/gta_3.md) | 2002 | ★★★★☆ | 19h 56m | Completed | Pirated | Pirated |
+| [Grand Theft Auto: Vice City](titles/gta_vice_city.md) | 2003 | ★★★★⯪ | 17h 39m | Completed | Pirated | Pirated |
+| [Grand Theft Auto: San Andreas](titles/gta_san_andreas.md) | 2005 | ★★★★★ | 41h 48m | Completed | Pirated | Pirated |
 
 #### 🔫 Mafia Crime Sagas
 
@@ -156,7 +156,7 @@
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [The Godfather](the_godfather.md) | 2006 | ★★★★★ | 17h 6m | Completed | Pirated | Pirated |
+| [The Godfather](titles/the_godfather.md) | 2006 | ★★★★★ | 17h 6m | Completed | Pirated | Pirated |
 
 ### � Role-Playing Games (RPG)
 *Where Destiny Bends to the Will of Heroes*
@@ -169,13 +169,13 @@
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Mass Effect Legendary Edition](mass_effect_legendary_edition.md) | 2021 | ★★★★★ | 196h 35m | Completed | Pirated | Pirated |
+| [Mass Effect Legendary Edition](titles/mass_effect_legendary_edition.md) | 2021 | ★★★★★ | 196h 35m | Completed | Pirated | Pirated |
 
 #### � Mythological RPGs
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Rise of the Argonauts](rise_of_the_argonauts.md) | 2008 | ★★★⯪☆ | 26h 52m | Completed | Pirated | Pirated |
+| [Rise of the Argonauts](titles/rise_of_the_argonauts.md) | 2008 | ★★★⯪☆ | 26h 52m | Completed | Pirated | Pirated |
 
 ### ⚔️ MOBA (Multiplayer Online Battle Arena)
 *The Eternal Battlefields*
@@ -184,7 +184,7 @@
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [DOTA 2](dota_2.md) | 2013 | ★★★★★ | 4197h 49m | **Retired** | Steam | Not Available |
+| [DOTA 2](titles/dota_2.md) | 2013 | ★★★★★ | 4197h 49m | **Retired** | Steam | Not Available |
 
 ### ♟️ Strategy
 *The Tactician's War Room*
@@ -197,7 +197,7 @@
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Company of Heroes](company_of_heroes.md) | 2006 | ★★★★★ | 40h 18m | Completed | Steam | Not Available |
+| [Company of Heroes](titles/company_of_heroes.md) | 2006 | ★★★★★ | 40h 18m | Completed | Steam | Not Available |
 
 #### 🤠 Desperados Series
 
@@ -205,7 +205,7 @@
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Desperados: Wanted Dead or Alive](desperados_wanted_dead_or_alive.md) | 2001 | ★★★★☆ | 7h 10m | Completed | Pirated | Pirated |
+| [Desperados: Wanted Dead or Alive](titles/desperados_wanted_dead_or_alive.md) | 2001 | ★★★★☆ | 7h 10m | Completed | Pirated | Pirated |
 
 #### ❄️ Frostpunk Series
 
@@ -213,13 +213,13 @@
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Frostpunk](frostpunk.md) | 2018 | ★★★★☆ | 15h | Completed | Pirated | Pirated |
+| [Frostpunk](titles/frostpunk.md) | 2018 | ★★★★☆ | 15h | Completed | Pirated | Pirated |
 
 #### ⚡ Legends of Antiquity
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Age of Mythology](age_of_mythology.md) | 2002 | ★★★⯪☆ | 20h 7m | Completed | Pirated | Pirated |
+| [Age of Mythology](titles/age_of_mythology.md) | 2002 | ★★★⯪☆ | 20h 7m | Completed | Pirated | Pirated |
 
 ### 🏎️ Racing
 *Chariots of Iron*
@@ -228,7 +228,7 @@
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Need for Speed: Most Wanted](nfs_most_wanted.md) | 2005 | ★★★★★★ | 26h 52m | Completed | Pirated | Pirated |
+| [Need for Speed: Most Wanted](titles/nfs_most_wanted.md) | 2005 | ★★★★★★ | 26h 52m | Completed | Pirated | Pirated |
 
 
 ### 🔍 Mystery Adventure
@@ -242,7 +242,7 @@
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Nancy Drew: Secret of the Scarlet Hand](nancy_drew_secret_of_the_scarlet_hand.md) | 2002 | - | 1h 43m | Playing | Steam | Not Available |
+| [Nancy Drew: Secret of the Scarlet Hand](titles/nancy_drew_secret_of_the_scarlet_hand.md) | 2002 | - | 1h 43m | Playing | Steam | Not Available |
 
 ### 🧩 Puzzle-Platformer
 *Realms of Wonder & Wit*
@@ -255,7 +255,7 @@
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Syberia](syberia.md) | 2002 | ★★★★⯪ | 15h 22m | Completed | Steam | Not Available |
+| [Syberia](titles/syberia.md) | 2002 | ★★★★⯪ | 15h 22m | Completed | Steam | Not Available |
 
 
 ### 🍺 Casual & Family-Friendly
@@ -269,14 +269,14 @@
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Farm Frenzy](farm_frenzy.md) | 2007 | ★★⯪☆☆ | 9h 38m | Completed | Pirated | Pirated |
-| [Farm Frenzy 2](farm_frenzy_2.md) | 2008 | ★★★☆☆ | 16h 56m | Completed | Pirated | Pirated |
+| [Farm Frenzy](titles/farm_frenzy.md) | 2007 | ★★⯪☆☆ | 9h 38m | Completed | Pirated | Pirated |
+| [Farm Frenzy 2](titles/farm_frenzy_2.md) | 2008 | ★★★☆☆ | 16h 56m | Completed | Pirated | Pirated |
 
 #### 🏺 Retro Platformers
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Disney's Hercules Action Game](disneys_hercules_action_game.md) | 1997 | ★★★★⯪ | 1h 56m | Completed | Pirated | Pirated |
+| [Disney's Hercules Action Game](titles/disneys_hercules_action_game.md) | 1997 | ★★★★⯪ | 1h 56m | Completed | Pirated | Pirated |
 
 
 <pre>
@@ -299,13 +299,13 @@
 
 | 📅 **Year** | 🎮 **Must-Play Titles** | 📊 **Progress** | 🔗 **Guide** |
 |:---:|:---|:---:|:---:|
-| **2002** | ✅ [GTA III](gta_3.md)<br>✅ [Syberia](syberia.md)<br>✅ [Age of Mythology](age_of_mythology.md)<br>✅ [Hitman 2: Silent Assassin](hitman_2_silent_assassin.md)<br>🎮 [Tom Clancy's Splinter Cell](splinter_cell.md)<br>• Mafia: The City of Lost Heaven<br>• The Elder Scrolls III: Morrowind<br>🎮 [Nancy Drew: Secret of the Scarlet Hand](nancy_drew_secret_of_the_scarlet_hand.md)<br>• Nancy Drew: Ghost Dogs of Moon Lake<br>• Robin Hood: Legend of Sherwood | 4/10 Complete<br>2/10 Active | [View Details](recommendations/2002.md) |
-| **2003** | ✅ [GTA Vice City](gta_vice_city.md)<br>• Max Payne 2: The Fall of Max Payne<br>• Call of Duty<br>• Manhunt<br>• Runaway: A Road Adventure<br>• Nancy Drew: The Haunted Carousel<br>• Nancy Drew: Danger on Deception Island | 1/7 Complete<br>0/7 Active | [View Details](recommendations/2003.md) |
+| **2002** | ✅ [GTA III](titles/gta_3.md)<br>✅ [Syberia](titles/syberia.md)<br>✅ [Age of Mythology](titles/age_of_mythology.md)<br>✅ [Hitman 2: Silent Assassin](titles/hitman_2_silent_assassin.md)<br>🎮 [Tom Clancy's Splinter Cell](titles/splinter_cell.md)<br>• Mafia: The City of Lost Heaven<br>• The Elder Scrolls III: Morrowind<br>🎮 [Nancy Drew: Secret of the Scarlet Hand](titles/nancy_drew_secret_of_the_scarlet_hand.md)<br>• Nancy Drew: Ghost Dogs of Moon Lake<br>• Robin Hood: Legend of Sherwood | 4/10 Complete<br>2/10 Active | [View Details](recommendations/2002.md) |
+| **2003** | ✅ [GTA Vice City](titles/gta_vice_city.md)<br>• Max Payne 2: The Fall of Max Payne<br>• Call of Duty<br>• Manhunt<br>• Runaway: A Road Adventure<br>• Nancy Drew: The Haunted Carousel<br>• Nancy Drew: Danger on Deception Island | 1/7 Complete<br>0/7 Active | [View Details](recommendations/2003.md) |
 | **2004** | • Half-Life 2<br>• Vampire: The Masquerade - Bloodlines<br>• Splinter Cell: Pandora Tomorrow<br>• Far Cry<br>• Nancy Drew: Secret of Shadow Ranch<br>• Nancy Drew: Curse of Blackmoor Manor | 0/6 Complete<br>0/6 Active | [View Details](recommendations/2004.md) |
-| **2005** | ✅ [GTA San Andreas](gta_san_andreas.md)<br>✅ [NFS Most Wanted](nfs_most_wanted.md)<br>• Indigo Prophecy<br>• Splinter Cell: Chaos Theory<br>• F.E.A.R.<br>• Psychonauts<br>• Nancy Drew: Secret of the Old Clock<br>• Nancy Drew: Last Train to Blue Moon Canyon | 2/8 Complete<br>0/8 Active | [View Details](recommendations/2005.md) |
-| **2006** | ✅ [Company of Heroes](company_of_heroes.md) (Base Game)<br>✅ [The Godfather](the_godfather.md)<br>• The Elder Scrolls IV: Oblivion<br>• FlatOut 2<br>• Hitman: Blood Money<br>• Dark Messiah of Might & Magic<br>• Scarface: The World Is Yours<br>• Call of Juarez | 2/8 Complete<br>0/8 Active | [View Details](recommendations/2006.md) |
-| **2007** | ✅ [Company of Heroes: Opposing Fronts](company_of_heroes.md) | 1/1 Complete<br>0/1 Active | [View Details](recommendations/2007.md) |
-| **2009** | 🎮 [Company of Heroes: Tales of Valor](company_of_heroes.md)<br>• Dragon Age: Origins<br>• Batman: Arkham Asylum<br>• Borderlands<br>• The Saboteur<br>• Risen<br>• Trine<br>• Prototype<br>• Divinity II | 0/9 Complete<br>1/9 Active | [View Details](recommendations/2009.md) |
+| **2005** | ✅ [GTA San Andreas](titles/gta_san_andreas.md)<br>✅ [NFS Most Wanted](titles/nfs_most_wanted.md)<br>• Indigo Prophecy<br>• Splinter Cell: Chaos Theory<br>• F.E.A.R.<br>• Psychonauts<br>• Nancy Drew: Secret of the Old Clock<br>• Nancy Drew: Last Train to Blue Moon Canyon | 2/8 Complete<br>0/8 Active | [View Details](recommendations/2005.md) |
+| **2006** | ✅ [Company of Heroes](titles/company_of_heroes.md) (Base Game)<br>✅ [The Godfather](titles/the_godfather.md)<br>• The Elder Scrolls IV: Oblivion<br>• FlatOut 2<br>• Hitman: Blood Money<br>• Dark Messiah of Might & Magic<br>• Scarface: The World Is Yours<br>• Call of Juarez | 2/8 Complete<br>0/8 Active | [View Details](recommendations/2006.md) |
+| **2007** | ✅ [Company of Heroes: Opposing Fronts](titles/company_of_heroes.md) | 1/1 Complete<br>0/1 Active | [View Details](recommendations/2007.md) |
+| **2009** | 🎮 [Company of Heroes: Tales of Valor](titles/company_of_heroes.md)<br>• Dragon Age: Origins<br>• Batman: Arkham Asylum<br>• Borderlands<br>• The Saboteur<br>• Risen<br>• Trine<br>• Prototype<br>• Divinity II | 0/9 Complete<br>1/9 Active | [View Details](recommendations/2009.md) |
 
 <p><em>More years shall be added to this chronicle as thy journey continues. Each era of gaming holds treasures waiting to be discovered.</em></p>
 

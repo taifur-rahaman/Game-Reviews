@@ -53,7 +53,7 @@ At the end of the day, Syberia isn't just a puzzle game. It's an experience abou
 
 ## Walkthrough
 
-📖 **[View Complete Walkthrough Guide](walkthroughs/syberia.md)**
+📖 **[View Complete Walkthrough Guide](../walkthroughs/syberia.md)**
 
 A comprehensive chapter-by-chapter guide covering all 4 locations:
 - **Chapter 1:** Valadilène - The journey begins
