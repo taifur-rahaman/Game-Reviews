@@ -1,5 +1,7 @@
 # Middle-Earth: Shadow of War
 
+![Shadow of War Cover](../images/shadow_of_war_cover.png)
+
 | |                             |
 |--------------------|-----------------------------| 
 | Release Date       | 10th Oct 2017           |

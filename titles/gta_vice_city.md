@@ -1,5 +1,7 @@
 # Grand Theft Auto: Vice City
 
+![GTA Vice City Cover](../images/gta_vice_city_cover.png)
+
 | |                             |
 |--------------------|-----------------------------| 
 | Release Date       | 12th May 2003               |

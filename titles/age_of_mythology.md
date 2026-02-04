@@ -1,5 +1,7 @@
 # Age of Mythology
 
+![Age of Mythology Cover](../images/age_of_mythology_cover.png)
+
 | |                             |
 |--------------------|-----------------------------| 
 | Release Date       | 31st Oct 2002               |

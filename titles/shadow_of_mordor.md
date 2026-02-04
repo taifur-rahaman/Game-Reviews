@@ -1,5 +1,7 @@
 # Middle-Earth: Shadow of Mordor
 
+![Shadow of Mordor Cover](../images/shadow_of_mordor_cover.png)
+
 | |                             |
 |--------------------|-----------------------------| 
 | Release Date       | 30th Sep 2014         |

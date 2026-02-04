@@ -1,5 +1,7 @@
 # Assassin's Creed - Brotherhood
 
+![Assassin's Creed Brotherhood Cover](../images/assassins_creed_brotherhood_cover.png)
+
 | |                             |
 |--------------------|-----------------------------| 
 | Release Date       | 17th Mar 2011               |

@@ -1,5 +1,7 @@
 # Assassin's Creed II
 
+![Assassin's Creed II Cover](../images/assassins_creed_2_cover.png)
+
 | |                             |
 |--------------------|-----------------------------| 
 | Release Date       | 9th Mar 2010                |

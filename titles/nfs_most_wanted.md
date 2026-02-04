@@ -1,5 +1,7 @@
 # Need for Speed: Most Wanted
 
+![NFS Most Wanted Cover](../images/nfs_most_wanted_cover.png)
+
 | |                             |
 |--------------------|-----------------------------| 
 | Release Date       | 15th Nov 2005               |

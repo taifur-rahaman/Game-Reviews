@@ -1,5 +1,7 @@
 # DOTA 2
 
+![DOTA 2 Cover](../images/dota_2_cover.png)
+
 | |                             |
 |--------------------|-----------------------------| 
 | Release Date       | 9th Jul 2013                |

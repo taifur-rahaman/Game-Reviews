@@ -1,5 +1,7 @@
 # Grand Theft Auto III
 
+![GTA III Cover](../images/gta_3_cover.png)
+
 | |                             |
 |--------------------|-----------------------------| 
 | Release Date       | 20th May 2002               |

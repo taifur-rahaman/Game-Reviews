@@ -1,5 +1,7 @@
 # Farm Frenzy 2
 
+![Farm Frenzy 2 Cover](../images/farm_frenzy_2_cover.png)
+
 | |                             |
 |--------------------|-----------------------------| 
 | Release Date       | 27th Aug 2008               |

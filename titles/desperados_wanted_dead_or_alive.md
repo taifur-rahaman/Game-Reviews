@@ -1,5 +1,7 @@
 # Desperados: Wanted Dead or Alive
 
+![Desperados Cover](../images/desperados_cover.png)
+
 | |                             |
 |--------------------|-----------------------------| 
 | Release Date       | 23rd Jul 2001               |

@@ -1,5 +1,7 @@
 # Farm Frenzy
 
+![Farm Frenzy Cover](../images/farm_frenzy_cover.png)
+
 | |                             |
 |--------------------|-----------------------------| 
 | Release Date       | 7th Dec 2007                |

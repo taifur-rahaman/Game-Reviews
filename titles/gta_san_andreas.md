@@ -1,5 +1,7 @@
 # Grand Theft Auto: San Andreas
 
+![GTA San Andreas Cover](../images/gta_san_andreas_cover.png)
+
 | |                             |
 |--------------------|-----------------------------| 
 | Release Date       | 7th Jun 2005                |

@@ -1,5 +1,7 @@
 # Company of Heroes
 
+![Company of Heroes Cover](../images/company_of_heroes_cover.png)
+
 | |                             |
 |--------------------|-----------------------------|
 | Release Date       | 11th Sep 2006               |

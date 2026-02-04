@@ -1,5 +1,7 @@
 # Assassin's Creed I
 
+![Assassin's Creed I Cover](../images/assassins_creed_1_cover.png)
+
 | |                             |
 |--------------------|-----------------------------|
 | Release Date       | 8th Apr 2008                |
