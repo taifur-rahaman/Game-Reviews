@@ -1,5 +1,7 @@
 # Tom Clancy's Splinter Cell
 
+![Splinter Cell Cover](../images/splinter_cell_cover.png)
+
 | |                             |
 |--------------------|-----------------------------| 
 | Release Date       | 17th Nov 2002               |

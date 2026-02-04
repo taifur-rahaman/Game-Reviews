@@ -1,5 +1,7 @@
 # Syberia
 
+![Syberia Cover](../images/syberia_cover.png)
+
 | |                             |
 |--------------------|-----------------------------| 
 | Release Date       | 1st Sep 2002                |

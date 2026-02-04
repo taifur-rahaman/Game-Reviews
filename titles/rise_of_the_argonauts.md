@@ -1,5 +1,7 @@
 # Rise of the Argonauts
 
+![Rise of the Argonauts Cover](../images/rise_of_argonauts_cover.png)
+
 | |                             |
 |--------------------|-----------------------------| 
 | Release Date       | 12th Dec 2008               |

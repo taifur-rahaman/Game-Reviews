@@ -1,5 +1,7 @@
 # Frostpunk
 
+![Frostpunk Cover](../images/frostpunk_cover.png)
+
 | |                             |
 |--------------------|-----------------------------| 
 | Release Date       | 24th Apr 2018             |

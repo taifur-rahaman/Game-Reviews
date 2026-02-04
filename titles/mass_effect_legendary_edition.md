@@ -1,5 +1,7 @@
 # Mass Effect Legendary Edition
 
+![Mass Effect LE Cover](../images/mass_effect_le_cover.png)
+
 | |                             |
 |--------------------|-----------------------------| 
 | Release Date       | 14th May 2021               |

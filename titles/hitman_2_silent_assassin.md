@@ -1,5 +1,7 @@
 # Hitman 2: Silent Assassin
 
+![Hitman 2 Cover](../images/hitman_2_cover.png)
+
 | |                             |
 |--------------------|-----------------------------| 
 | Release Date       | 1st Oct 2002                |

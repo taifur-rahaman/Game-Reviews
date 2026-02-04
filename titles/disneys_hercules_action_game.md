@@ -1,5 +1,7 @@
 # Disney's Hercules Action Game
 
+![Hercules Cover](../images/hercules_cover.png)
+
 | |                             |
 |--------------------|-----------------------------| 
 | Release Date       | 20th Jun 1997               |

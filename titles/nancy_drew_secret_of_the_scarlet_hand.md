@@ -1,5 +1,7 @@
 # Nancy Drew: Secret of the Scarlet Hand
 
+![Nancy Drew Cover](../images/nancy_drew_cover.png)
+
 | |                             |
 |--------------------|-----------------------------| 
 | Release Date       | 12th November 2002          |
