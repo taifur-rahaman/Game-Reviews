@@ -1,5 +1,7 @@
 # The Godfather
 
+![The Godfather Cover](../images/the_godfather_cover.png)
+
 | |                             |
 |--------------------|-----------------------------| 
 | Release Date       | 21st Mar 2006             |
