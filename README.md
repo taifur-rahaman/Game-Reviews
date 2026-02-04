@@ -46,7 +46,6 @@
 | └─ [🍺 Casual & Family-Friendly](#-casual--family-friendly) | Lighthearted games |
 | [🗺️ What to Play Next](#️-what-to-play-next) | Year-wise game recommendations |
 | [🏆 Achievement Guides](#-achievement-guides) | 100% completion walkthroughs |
-| [🗺️ Walkthrough Guides](#️-walkthrough-guides) | Speedrun & normal playthrough guides |
 | [🌟 The Star Chart of Judgment](#-the-star-chart-of-judgment) | Rating system explained |
 | [📚 The Keeper's Wisdom](#-the-keepers-wisdom) | Gaming philosophy & quotes |
 | [🤝 Join the Fellowship](#-join-the-fellowship) | Add me on Steam! |
@@ -337,37 +336,6 @@
 ═══════════════════════════════════════════════════════════════════════
 </pre>
 
-## 🗺️ Walkthrough Guides
-### *Journey Maps for Speedruns & Complete Playthroughs*
-
-<p><em>Not all who wander are lost—but even the bravest adventurers benefit from a well-charted map. Whether thou seekest to speedrun through challenges with precision and efficiency, or to savor every moment of a leisurely playthrough, these guides shall illuminate thy path through digital realms.</em></p>
-
-<pre>
-╔══════════════════════════════════════════════════════════════════════╗
-║              🏃 SPEEDRUN & NORMAL PLAYTHROUGH GUIDES 🌟             ║
-║         Complete journey maps for every type of adventurer           ║
-╚══════════════════════════════════════════════════════════════════════╝
-</pre>
-
-### 🏃 Speedrun Walkthroughs
-*For the swift and the strategic—conquer with speed and precision*
-
-These guides focus on optimal routes, time-saving strategies, and efficient completion paths for those who seek to master games quickly.
-
-### 🌟 Normal Playthrough Walkthroughs
-*For the explorers and completionists—experience every detail*
-
-Comprehensive guides that help you savor the full richness of each game, including all story beats, collectibles, side quests, and hidden secrets.
-
-**Available Guides:**
-- **[Syberia](walkthroughs/syberia.md)** - Complete chapter-by-chapter walkthrough covering all 4 locations (Valadilène, Barrockstadt, Komkolzgrad, Aralbad) with detailed puzzle solutions, item locations, and tips for experiencing Kate Walker's dreamlike journey.
-- **[Company of Heroes](walkthroughs/company_of_heroes.md)** - Comprehensive walkthrough covering all 41 missions across 6 campaigns (Invasion of Normandy, Liberation of Caen, Operation Market Garden, Tiger Ace, Causeway, and Falaise Pocket) with mission-by-mission strategies, combat tactics, and detailed tips for mastering World War II RTS warfare.
-- **[Nancy Drew: Secret of the Scarlet Hand](walkthroughs/nancy_drew_secret_of_the_scarlet_hand.md)** - Complete mystery walkthrough covering the Beech Hill Museum investigation, Mayan artifact puzzles, character interactions, and tips for solving the case of the legendary Scarlet Hand.
-
-
-**[📂 Browse All Walkthrough Guides](walkthroughs/)**
-
-<p><em>More guides shall be inscribed as the Keeper's journey continues. Each walkthrough is crafted to enhance your adventure, whether you race against time or explore at leisure.</em></p>
 
 <pre>
 ═══════════════════════════════════════════════════════════════════════

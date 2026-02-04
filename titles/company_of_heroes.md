@@ -42,25 +42,6 @@ The campaign follows Able Company during the Battle of Normandy, starting with t
 
 Company of Heroes focuses on squad-level tactics and cover mechanics. Units must use the terrain to survive, and the environment itself is dynamic; buildings can be destroyed, leaving behind rubble that offers new cover. Managing resources (Manpower, Munitions, and Fuel) requires controlling territory on the map, forcing aggressive play. Throughout the 40+ hour campaign, mastering flanking maneuvers, combined arms warfare, and the specific strengths of each faction (US, British, Panzer Elite) was essential to victory.
 
-## Walkthrough
-
-📖 **[View Complete Walkthrough Guide](../walkthroughs/company_of_heroes.md)**
-
-A comprehensive guide covering all 41 missions across 6 campaigns:
-- **Part 1:** Invasion of Normandy (US) - 15 missions
-- **Part 2:** Operation Market Garden (Panzer Elite) - 8 missions
-- **Part 3:** Liberation of Caen (British) - 9 missions
-- **Part 4-6:** Tales of Valor (Tiger Ace, Causeway, Falaise Pocket) - 9 missions
-
-**Current Progress:**
-- ✅ Invasion of Normandy - COMPLETED (All medals earned! 🏅)
-- ✅ Operation Market Garden - COMPLETED (All medals earned! 🏅)
-- ✅ Liberation of Caen - COMPLETED (All medals earned! 🏅)
-- ✅ Tiger Ace - COMPLETED (All medals earned! 🏅)
-- ✅ Causeway - COMPLETED (All medals earned! 🏅)
-- ✅ Falaise Pocket - COMPLETED (All medals earned! 🏅)
-- **Overall:** 41/41 missions (100%)
-
 ## Verdict
 
 After 40 hours and 18 minutes of intense tactical warfare, Company of Heroes stands as the definitive World War II RTS experience. It is a masterpiece that completely redefined expectations for the genre. Completing all six campaigns and earning every single medal was a challenge of patience, strategy, and execution, but one that felt incredibly rewarding.

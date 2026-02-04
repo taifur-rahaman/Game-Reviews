@@ -53,23 +53,6 @@ At the end of the day, Syberia isn't just a puzzle game. It's an experience abou
 
 ---
 
-## Walkthrough
-
-📖 **[View Complete Walkthrough Guide](../walkthroughs/syberia.md)**
-
-A comprehensive chapter-by-chapter guide covering all 4 locations:
-- **Chapter 1:** Valadilène - The journey begins
-- **Chapter 2:** Barrockstadt - University mysteries
-- **Chapter 3:** Komkolzgrad - Industrial puzzles
-- **Chapter 4:** Aralbad - The final destination
-
-**Current Progress:**
-- ✅ Chapter 1: Valadilène - Completed
-- ✅ Chapter 2: Barrockstadt - Completed
-- ✅ Chapter 3: Komkolzgrad - Completed
-- ✅ Chapter 4: Aralbad - Completed
-- **Overall:** 4/4 chapters (100%)
-
 ## Notes & Observations
 
 *(These are my raw notes from while I was playing—some spoilers involved!)*
