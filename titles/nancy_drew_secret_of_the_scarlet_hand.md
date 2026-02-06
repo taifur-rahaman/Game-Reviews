@@ -9,7 +9,7 @@
 | Publisher          | Her Interactive             |
 | Genre              | Adventure / Mystery         |
 | Status             | Playing                     |
-| Time Played        | 1h 43m                      |
+| Time Played        | 4h 48m                      |
 | Start Date         | 15th January 2026           |
 | End Date           | -                           |
 | Duration           | -                           |
@@ -75,8 +75,6 @@ Nancy's to-do list at her desk in the lab serves as the main quest tracker. Key 
 
 ### 🏛️ The Museum & The Maya
 *   **Meeting the Boss:** Finally met **Joanna Riggs**, the curator. She’s giving major "rigid academic" energy—cares more about her reputation than breathing. Her office is a flex, though: massive photo of the **Great Plaza of Tikal** and shelves overflowing with artifacts.
-*   **The Workspace:** I’ve inherited the desk from the previous intern, **Sonny Joon**. Found some of his notes... this guy was "wacky" to say the least. Obsessed with aliens and doodles. He’s like a legend in the intern world.
-*   **The Mystery:** The museum is a crime scene. A priceless jade carving of King Pacal was stolen, and the thief left a **red handprint**. It turns out the "blood" is actually **Cinnabar** (mercury sulfide). The Maya used it to highlight lines in their carvings. It's toxic, symbolic, and very dramatic.
 *   **Crash Course in Mythology:** The game is basically a Maya history lesson in disguise, and I’m here for it. The god roster is stacked:
     *   **Itzamna (The Big Boss):** Supreme God, Lord of the Heavens. Name literally means "Lizard House" (weird flex, but okay). He invented writing and the calendar. Also, apparently the husband of Ixchel.
     *   **Ixchel (Moon Goddess):** Major duality vibes here. She’s the goddess of the moon, medicine, and weaving, but can also bring storms and destruction. She’s often depicted with a snake in her hair.
@@ -100,3 +98,10 @@ I went down a massive rabbit hole on **K'Inich Janahb' Pacal**, aka **Lord Shiel
 *   **The Sarcophagus:** His tomb in the **Temple of the Inscriptions** is legendary.
     *   **The Lid:** The carving on his sarcophagus lid is famous. Some people think it looks like he’s piloting a spaceship ("Ancient Aliens," anyone?), but it’s actually depicting his descent into the underworld and rebirth as the Maize God.
     *   **The Jade Mask:** He was buried with a death mask made of over **300 fragments of jade**. It was meant to preserve his identity in the afterlife so the gods would recognize his royalty. Talk about an eternal flex.
+
+### 🧩 The Temple Quiz
+*   **Level 1 Quiz:** Completed the quiz in the Maya Temple inside the museum. The topic was "Pacal and His region and family".
+*   **The Impossible Question:** One question stumped me: *"What is the Name of the Modern Maya Language?"*
+    *   **My Guess:** I answered "Logograph" (Wrong).
+    *   **The Reality:** I scoured the game but couldn't find the answer anywhere.
+    *   **The Cheat:** Had to resort to an internet search. The answer is **"Quiche"**. Still haven't found where that info is hidden in the game!

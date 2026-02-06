@@ -62,7 +62,7 @@
 | **🗝️ Sacred Metric** | 💎 **Legendary Value** | 🔮 **Significance** |
 | :--- | :---: | :--- |
 | **📜 Scrolls Inscribed** | **24 Tomes** | *Worlds Documented* |
-| **⏳ Hours in Realms** | **4,917h 29m** | *Lifetimes Lived* |
+| **⏳ Hours in Realms** | **4,920h 34m** | *Lifetimes Lived* |
 | **🎮 Realms Conquered** | **22 Kingdoms** | *Victories Eternal* |
 | **⚔️ Active Campaigns** | **2 Battlefronts** | *Wars Ongoing* |
 
@@ -84,7 +84,7 @@
 | 🏷️ **Realm Type** | 🏹 **Active Quests** | ⏳ **Time** | ⚡ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | **🕵️ Stealth Action** | [Tom Clancy's Splinter Cell](titles/splinter_cell.md) | 0h 35m | 🎯 **INFILTRATING** | Steam | Not Available |
-| **🔍 Mystery Adventure** | [Nancy Drew: Secret of the Scarlet Hand](titles/nancy_drew_secret_of_the_scarlet_hand.md) | 1h 43m | 🔎 **INVESTIGATING** | Steam | Not Available |
+| **🔍 Mystery Adventure** | [Nancy Drew: Secret of the Scarlet Hand](titles/nancy_drew_secret_of_the_scarlet_hand.md) | 4h 48m | 🔎 **INVESTIGATING** | Steam | Not Available |
 
 <pre>
 ╔══════════════════════════════════════════════════════════════════════╗
@@ -241,7 +241,7 @@
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Nancy Drew: Secret of the Scarlet Hand](titles/nancy_drew_secret_of_the_scarlet_hand.md) | 2002 | - | 1h 43m | Playing | Steam | Not Available |
+| [Nancy Drew: Secret of the Scarlet Hand](titles/nancy_drew_secret_of_the_scarlet_hand.md) | 2002 | - | 4h 48m | Playing | Steam | Not Available |
 
 ### 🧩 Puzzle-Platformer
 *Realms of Wonder & Wit*
@@ -438,7 +438,7 @@
 
 *The Grand Archives are maintained by the Eternal Keeper*  
 *A Proud Member of the **PC Master Race***  
-*Last Updated: 19th January 2026*  
+*Last Updated: 6th February 2026*  
 *Version: ∞.∞.∞*
 
 <pre>
