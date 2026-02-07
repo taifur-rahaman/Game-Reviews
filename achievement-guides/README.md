@@ -23,6 +23,7 @@ Each guide includes:
 
 | Game | Platform | Achievements | Guide Status |
 |:---|:---:|:---:|:---:|
+| [Mafia: Definitive Edition](../titles/mafia.md) | Steam | 44 | [✅ Available](mafia_definitive_edition.md) |
 
 
 ---

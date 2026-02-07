@@ -64,7 +64,7 @@
 | **📜 Scrolls Inscribed** | **24 Tomes** | *Worlds Documented* |
 | **⏳ Hours in Realms** | **4,920h 34m** | *Lifetimes Lived* |
 | **🎮 Realms Conquered** | **22 Kingdoms** | *Victories Eternal* |
-| **⚔️ Active Campaigns** | **2 Battlefronts** | *Wars Ongoing* |
+| **⚔️ Active Campaigns** | **3 Battlefronts** | *Wars Ongoing* |
 
 <pre>
 ═══════════════════════════════════════════════════════════════════════
@@ -85,6 +85,7 @@
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | **🕵️ Stealth Action** | [Tom Clancy's Splinter Cell](titles/splinter_cell.md) | 0h 35m | 🎯 **INFILTRATING** | Steam | Not Available |
 | **🔍 Mystery Adventure** | [Nancy Drew: Secret of the Scarlet Hand](titles/nancy_drew_secret_of_the_scarlet_hand.md) | 4h 48m | 🔎 **INVESTIGATING** | Steam | Not Available |
+| **🔫 Crime Drama** | [Mafia: Definitive Edition](titles/mafia.md) | 0h 0m | 🕵️ **RISING** | Steam | 0/44 (0%) |
 
 <pre>
 ╔══════════════════════════════════════════════════════════════════════╗
@@ -298,7 +299,7 @@
 
 | 📅 **Year** | 🎮 **Must-Play Titles** | 📊 **Progress** | 🔗 **Guide** |
 |:---:|:---|:---:|:---:|
-| **2002** | ✅ [GTA III](titles/gta_3.md)<br>✅ [Syberia](titles/syberia.md)<br>✅ [Age of Mythology](titles/age_of_mythology.md)<br>✅ [Hitman 2: Silent Assassin](titles/hitman_2_silent_assassin.md)<br>🎮 [Tom Clancy's Splinter Cell](titles/splinter_cell.md)<br>• Mafia: The City of Lost Heaven<br>• The Elder Scrolls III: Morrowind<br>🎮 [Nancy Drew: Secret of the Scarlet Hand](titles/nancy_drew_secret_of_the_scarlet_hand.md)<br>• Nancy Drew: Ghost Dogs of Moon Lake<br>• Robin Hood: Legend of Sherwood | 4/10 Complete<br>2/10 Active | [View Details](recommendations/2002.md) |
+| **2002** | ✅ [GTA III](titles/gta_3.md)<br>✅ [Syberia](titles/syberia.md)<br>✅ [Age of Mythology](titles/age_of_mythology.md)<br>✅ [Hitman 2: Silent Assassin](titles/hitman_2_silent_assassin.md)<br>🎮 [Tom Clancy's Splinter Cell](titles/splinter_cell.md)<br>🎮 [Mafia: Definitive Edition](titles/mafia.md)<br>• The Elder Scrolls III: Morrowind<br>🎮 [Nancy Drew: Secret of the Scarlet Hand](titles/nancy_drew_secret_of_the_scarlet_hand.md)<br>• Nancy Drew: Ghost Dogs of Moon Lake<br>• Robin Hood: Legend of Sherwood | 4/10 Complete<br>3/10 Active | [View Details](recommendations/2002.md) |
 | **2003** | ✅ [GTA Vice City](titles/gta_vice_city.md)<br>• Max Payne 2: The Fall of Max Payne<br>• Call of Duty<br>• Manhunt<br>• Runaway: A Road Adventure<br>• Nancy Drew: The Haunted Carousel<br>• Nancy Drew: Danger on Deception Island | 1/7 Complete<br>0/7 Active | [View Details](recommendations/2003.md) |
 | **2004** | • Half-Life 2<br>• Vampire: The Masquerade - Bloodlines<br>• Splinter Cell: Pandora Tomorrow<br>• Far Cry<br>• Nancy Drew: Secret of Shadow Ranch<br>• Nancy Drew: Curse of Blackmoor Manor | 0/6 Complete<br>0/6 Active | [View Details](recommendations/2004.md) |
 | **2005** | ✅ [GTA San Andreas](titles/gta_san_andreas.md)<br>✅ [NFS Most Wanted](titles/nfs_most_wanted.md)<br>• Indigo Prophecy<br>• Splinter Cell: Chaos Theory<br>• F.E.A.R.<br>• Psychonauts<br>• Nancy Drew: Secret of the Old Clock<br>• Nancy Drew: Last Train to Blue Moon Canyon | 2/8 Complete<br>0/8 Active | [View Details](recommendations/2005.md) |
@@ -326,6 +327,7 @@
 
 | 🎮 **Game** | 🏆 **Achievements** | ⏱️ **Est. Time** | 📊 **Difficulty** | 📖 **Guide** |
 |:---|:---:|:---:|:---:|:---:|
+| [Mafia: Definitive Edition](titles/mafia.md) | 44 | 25-30h | 6/10 | [View Guide](achievement-guides/mafia_definitive_edition.md) |
 
 
 <p><em>More guides shall be inscribed as the Keeper's journey continues. Each guide contains detailed strategies, tips, and a complete roadmap to achieve gaming perfection.</em></p>

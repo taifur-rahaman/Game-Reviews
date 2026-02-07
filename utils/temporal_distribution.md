@@ -13,8 +13,8 @@
 | **📜 Titles Logged** | **24** | *Unique games documented* |
 | **⏳ Total Playtime** | **4,920h 34m** | *Hours spent across all realms* |
 | **🎮 Games Completed** | **22** | *Victories achieved* |
-| **⚔️ Currently Playing** | **2** | *Active campaigns* |
-| **🌌 Series Tracked** | **18** | *Unique universes/franchises* |
+| **⚔️ Currently Playing** | **3** | *Active campaigns* |
+| **🌌 Series Tracked** | **19** | *Unique universes/franchises* |
 
 ---
 
@@ -25,7 +25,7 @@
 |:---:|:---|
 | **Pre-2024** | • [DOTA 2](../titles/dota_2.md)<br>• [Age of Mythology](../titles/age_of_mythology.md)<br>• [Grand Theft Auto III](../titles/gta_3.md)<br>• [Grand Theft Auto: Vice City](../titles/gta_vice_city.md)<br>• [Grand Theft Auto: San Andreas](../titles/gta_san_andreas.md)<br>• [Assassin's Creed I](../titles/assassin's_creed_1.md)<br>• [Assassin's Creed II](../titles/assassin's_creed_2.md)<br>• [Assassin's Creed: Brotherhood](../titles/assassin's_creed_brotherhood.md)<br>• [Need for Speed: Most Wanted](../titles/nfs_most_wanted.md)<br>• [Farm Frenzy](../titles/farm_frenzy.md)<br>• [Farm Frenzy 2](../titles/farm_frenzy_2.md)<br>• [Desperados: Wanted Dead or Alive](../titles/desperados_wanted_dead_or_alive.md)<br>• [Disney's Hercules Action Game](../titles/disneys_hercules_action_game.md)<br>• [Middle-Earth: Shadow of Mordor](../titles/shadow_of_mordor.md)<br>• [Middle-Earth: Shadow of War](../titles/shadow_of_war.md)<br>• [Company of Heroes](../titles/company_of_heroes.md)<br>• [The Godfather](../titles/the_godfather.md)<br>• [Frostpunk](../titles/frostpunk.md)<br>• [Rise of the Argonauts](../titles/rise_of_the_argonauts.md)<br>• [Mass Effect Legendary Edition](../titles/mass_effect_legendary_edition.md) |
 | **2025** | • [Hitman 2: Silent Assassin](../titles/hitman_2_silent_assassin.md)<br>• [Syberia](../titles/syberia.md) |
-| **2026** | • [Tom Clancy's Splinter Cell](../titles/splinter_cell.md)<br>• [Nancy Drew: Secret of the Scarlet Hand](../titles/nancy_drew_secret_of_the_scarlet_hand.md) |
+| **2026** | • [Tom Clancy's Splinter Cell](../titles/splinter_cell.md)<br>• [Nancy Drew: Secret of the Scarlet Hand](../titles/nancy_drew_secret_of_the_scarlet_hand.md)<br>• [Mafia: Definitive Edition](../titles/mafia.md) |
 
 ---
 
@@ -56,6 +56,7 @@
 | **2002** | **Syberia** | 15h 22m | 1 |
 | **2002** | **Nancy Drew** | 4h 48m | 1 |
 | **2002** | **Hitman** | 14h 42m | 1 |
+| **2002** | **Mafia** | 0h 0m | 1 |
 | **2002** | **Splinter Cell** | 0h 35m | 1 |
 | **2005** | **Need for Speed** | 26h 52m | 1 |
 | **2006** | **Company of Heroes** | 40h 18m | 1 |
@@ -80,6 +81,7 @@
 | **2002** | **[Nancy Drew: Secret of the Scarlet Hand](../titles/nancy_drew_secret_of_the_scarlet_hand.md)** | 4h 48m | #22 |
 | **2002** | **[Age of Mythology](../titles/age_of_mythology.md)** | 20h 07m | #12 |
 | **2002** | **[Hitman 2: Silent Assassin](../titles/hitman_2_silent_assassin.md)** | 14h 42m | #19 |
+| **2002** | **[Mafia: Definitive Edition](../titles/mafia.md)** | 0h 0m | - |
 | **2002** | **[Tom Clancy's Splinter Cell](../titles/splinter_cell.md)** | 0h 35m | #24 |
 | **2003** | **[Grand Theft Auto: Vice City](../titles/gta_vice_city.md)** | 17h 39m | #14 |
 | **2005** | **[Grand Theft Auto: San Andreas](../titles/gta_san_andreas.md)** | 41h 48m | #6 |
