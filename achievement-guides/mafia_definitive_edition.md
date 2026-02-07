@@ -33,8 +33,9 @@ Load up "Free Ride" mode to complete the Phone Booth side missions, collect any 
 
 | Achievement | Description | How to Unlock |
 |:---|:---|:---|
-| **A Chase through the Night** | Complete "Running Man" | Complete Chapter 1: An Offer You Can't Refuse & Chapter 2: Running Man. |
-| **The Way this City Works** | Complete "Molotov Party" | Complete Chapter 3: Molotov Party. |
+| **A Chase through the Night** | Complete "An Offer You Can't Refuse" | Complete Chapter 1. |
+| **The Back Streets of Little Italy** | Complete "Running Man" | Complete Chapter 2. |
+| **The Way this City Works** | Complete "Molotov Party" | Complete Chapter 3. |
 | **Gangs of Lost Heaven** | Complete "Ordinary Routine" | Complete Chapter 4: Ordinary Routine. |
 | **Neighborhood Hero** | Complete "Fair Play" | Complete Chapter 5: Fair Play. |
 | **Good Night for a Walk** | Complete "Sarah" | Complete Chapter 6: Sarah. |

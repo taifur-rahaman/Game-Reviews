@@ -11,7 +11,7 @@
 | **🗝️ Metric** | **💎 Value** | **🔮 Description** |
 |:---|:---:|:---|
 | **📜 Titles Logged** | **24** | *Unique games documented* |
-| **⏳ Total Playtime** | **4,920h 34m** | *Hours spent across all realms* |
+| **⏳ Total Playtime** | **4,921h 22m** | *Hours spent across all realms* |
 | **🎮 Games Completed** | **22** | *Victories achieved* |
 | **⚔️ Currently Playing** | **3** | *Active campaigns* |
 | **🌌 Series Tracked** | **19** | *Unique universes/franchises* |
@@ -36,7 +36,7 @@
 |:---|:---:|:---:|:---:|
 | **⚔️ MOBA** | 4,197h 49m | 85.4% | 1 |
 | **🌌 RPG** | 223h 27m | 4.5% | 2 |
-| **⚔️ Action-Adventure** | 222h 17m | 4.5% | 8 |
+| **⚔️ Action-Adventure** | 223h 05m | 4.5% | 8 |
 | **🌆 Open-World Action** | 96h 29m | 2.0% | 4 |
 | **♟️ Strategy** | 82h 35m | 1.7% | 4 |
 | **🏎️ Racing** | 26h 52m | 0.5% | 1 |
@@ -56,7 +56,7 @@
 | **2002** | **Syberia** | 15h 22m | 1 |
 | **2002** | **Nancy Drew** | 4h 48m | 1 |
 | **2002** | **Hitman** | 14h 42m | 1 |
-| **2002** | **Mafia** | 0h 0m | 1 |
+| **2002** | **Mafia** | 0h 48m | 1 |
 | **2002** | **Splinter Cell** | 0h 35m | 1 |
 | **2005** | **Need for Speed** | 26h 52m | 1 |
 | **2006** | **Company of Heroes** | 40h 18m | 1 |
@@ -81,7 +81,7 @@
 | **2002** | **[Nancy Drew: Secret of the Scarlet Hand](../titles/nancy_drew_secret_of_the_scarlet_hand.md)** | 4h 48m | #22 |
 | **2002** | **[Age of Mythology](../titles/age_of_mythology.md)** | 20h 07m | #12 |
 | **2002** | **[Hitman 2: Silent Assassin](../titles/hitman_2_silent_assassin.md)** | 14h 42m | #19 |
-| **2002** | **[Mafia: Definitive Edition](../titles/mafia.md)** | 0h 0m | - |
+| **2002** | **[Mafia: Definitive Edition](../titles/mafia.md)** | 0h 48m | - |
 | **2002** | **[Tom Clancy's Splinter Cell](../titles/splinter_cell.md)** | 0h 35m | #24 |
 | **2003** | **[Grand Theft Auto: Vice City](../titles/gta_vice_city.md)** | 17h 39m | #14 |
 | **2005** | **[Grand Theft Auto: San Andreas](../titles/gta_san_andreas.md)** | 41h 48m | #6 |

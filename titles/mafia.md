@@ -9,13 +9,13 @@
 | Publisher          | 2K Games                    |
 | Genre              | Action-Adventure, Crime     |
 | Status             | Playing                     |
-| Time Played        | -                           |
+| Time Played        | 0h 48m                      |
 | Start Date         | 7th February 2026           |
 | End Date           | -                           |
 | Duration           | -                           |
 | Rating             | -                           |
 | Platform           | Steam                       |
-| Achievements       | 0/44 (0%)                   |
+| Achievements       | 2/44 (4%)                   |
 
 
 
@@ -35,8 +35,8 @@ Mafia: Definitive Edition is a faithful remake of the 2002 classic, rebuilt from
 
 *(Tracking my progress towards 100% completion. See full [Achievement Guide](../achievement-guides/mafia_definitive_edition.md))*
 
-| Achievement | Description | Status |
-|:---|:---|:---:|
+| **A Chase through the Night** | Complete "An Offer You Can't Refuse". | ✅ |
+| **The Back Streets of Little Italy** | Complete "Running Man". | ✅ |
 | **A Life of Crime** | Complete the game on Easy, Medium, or Hard difficulty. | 🔒 |
 | **Made Man** | Complete the game on Classic difficulty. | 🔒 |
 | **Supercharged** | Win the race. | 🔒 |
@@ -54,9 +54,9 @@ Mafia: Definitive Edition is a faithful remake of the 2002 classic, rebuilt from
 
 *(Tracking my journey through the game)*
 
-- [ ] **Prologue**
-- [ ] **Chapter 1: An Offer You Can't Refuse**
-- [ ] **Chapter 2: Running Man**
+- [x] **Prologue**
+- [x] **Chapter 1: An Offer You Can't Refuse**
+- [x] **Chapter 2: Running Man**
 - [ ] **Chapter 3: Molotov Party**
 - [ ] **Chapter 4: Ordinary Routine**
 - [ ] **Chapter 5: Fair Play**
@@ -83,3 +83,9 @@ Mafia: Definitive Edition is a faithful remake of the 2002 classic, rebuilt from
 ### General Thoughts
 *   **Visuals:** The leap from 2002 graphics to this is insane. Lost Heaven looks incredible.
 *   **Driving:** The driving model feels weighty, appropriate for the era.
+*   **Prologue:** Visually stunning but feels dragged out. "TOO FUCKING LONG."
+
+### Characters
+*   **Tommy Angelo:** Seems like an honest, hardworking guy who was just in the wrong place at the wrong time. If he hadn't been taking a break that night, he never would have met Sam and Paulie or been targeted by Morello's goons. A victim of circumstance.
+*   **Sam:** Gives off a stoic vibe. Calm and collected.
+*   **Paulie:** The chaotic element. Seems like the type who would kill you while laughing and joking.

@@ -62,7 +62,7 @@
 | **🗝️ Sacred Metric** | 💎 **Legendary Value** | 🔮 **Significance** |
 | :--- | :---: | :--- |
 | **📜 Scrolls Inscribed** | **24 Tomes** | *Worlds Documented* |
-| **⏳ Hours in Realms** | **4,920h 34m** | *Lifetimes Lived* |
+| **⏳ Hours in Realms** | **4,921h 22m** | *Lifetimes Lived* |
 | **🎮 Realms Conquered** | **22 Kingdoms** | *Victories Eternal* |
 | **⚔️ Active Campaigns** | **3 Battlefronts** | *Wars Ongoing* |
 
@@ -85,7 +85,7 @@
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | **🕵️ Stealth Action** | [Tom Clancy's Splinter Cell](titles/splinter_cell.md) | 0h 35m | 🎯 **INFILTRATING** | Steam | Not Available |
 | **🔍 Mystery Adventure** | [Nancy Drew: Secret of the Scarlet Hand](titles/nancy_drew_secret_of_the_scarlet_hand.md) | 4h 48m | 🔎 **INVESTIGATING** | Steam | Not Available |
-| **🔫 Crime Drama** | [Mafia: Definitive Edition](titles/mafia.md) | 0h 0m | 🕵️ **RISING** | Steam | 0/44 (0%) |
+| **🔫 Crime Drama** | [Mafia: Definitive Edition](titles/mafia.md) | 0h 48m | 🕵️ **RISING** | Steam | 2/44 (4%) |
 
 <pre>
 ╔══════════════════════════════════════════════════════════════════════╗
@@ -157,6 +157,7 @@
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | [The Godfather](titles/the_godfather.md) | 2006 | ★★★★★ | 17h 6m | Completed | Pirated | Pirated |
+| [Mafia: Definitive Edition](titles/mafia.md) | 2020 | - | 0h 48m | Playing | Steam | 2/44 (4%) |
 
 ### � Role-Playing Games (RPG)
 *Where Destiny Bends to the Will of Heroes*
