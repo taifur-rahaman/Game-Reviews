@@ -84,7 +84,7 @@
 | 🏷️ **Realm Type** | 🏹 **Active Quests** | ⏳ **Time** | ⚡ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | **🕵️ Stealth Action** | [Tom Clancy's Splinter Cell](titles/splinter_cell.md) | 0h 35m | 🎯 **INFILTRATING** | Steam | Not Available |
-| **🔍 Mystery Adventure** | [Nancy Drew: Secret of the Scarlet Hand](titles/nancy_drew_secret_of_the_scarlet_hand.md) | 4h 48m | 🔎 **INVESTIGATING** | Steam | Not Available |
+| **🔍 Mystery Adventure** | [Nancy Drew: Secret of the Scarlet Hand](titles/nancy_drew_secret_of_the_scarlet_hand.md) | 5h 21m | 🔎 **INVESTIGATING** | Steam | Not Available |
 | **🔫 Crime Drama** | [Mafia: Definitive Edition](titles/mafia.md) | 0h 48m | 🕵️ **RISING** | Steam | 2/44 (4%) |
 
 <pre>
@@ -243,7 +243,7 @@
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Nancy Drew: Secret of the Scarlet Hand](titles/nancy_drew_secret_of_the_scarlet_hand.md) | 2002 | - | 4h 48m | Playing | Steam | Not Available |
+| [Nancy Drew: Secret of the Scarlet Hand](titles/nancy_drew_secret_of_the_scarlet_hand.md) | 2002 | - | 5h 21m | Playing | Steam | Not Available |
 
 ### 🧩 Puzzle-Platformer
 *Realms of Wonder & Wit*

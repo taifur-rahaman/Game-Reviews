@@ -54,7 +54,7 @@
 | **2002** | **Grand Theft Auto** | 79h 23m | 3 |
 | **2002** | **Age of Mythology** | 20h 07m | 1 |
 | **2002** | **Syberia** | 15h 22m | 1 |
-| **2002** | **Nancy Drew** | 4h 48m | 1 |
+| **2002** | **Nancy Drew** | 5h 21m | 1 |
 | **2002** | **Hitman** | 14h 42m | 1 |
 | **2002** | **Mafia** | 0h 48m | 1 |
 | **2002** | **Splinter Cell** | 0h 35m | 1 |
@@ -78,7 +78,7 @@
 | **2001** | **[Desperados: Wanted Dead or Alive](../titles/desperados_wanted_dead_or_alive.md)** | 7h 10m | #21 |
 | **2002** | **[Grand Theft Auto III](../titles/gta_3.md)** | 19h 56m | #13 |
 | **2002** | **[Syberia](../titles/syberia.md)** | 15h 22m | #17 |
-| **2002** | **[Nancy Drew: Secret of the Scarlet Hand](../titles/nancy_drew_secret_of_the_scarlet_hand.md)** | 4h 48m | #22 |
+| **2002** | **[Nancy Drew: Secret of the Scarlet Hand](../titles/nancy_drew_secret_of_the_scarlet_hand.md)** | 5h 21m | #22 |
 | **2002** | **[Age of Mythology](../titles/age_of_mythology.md)** | 20h 07m | #12 |
 | **2002** | **[Hitman 2: Silent Assassin](../titles/hitman_2_silent_assassin.md)** | 14h 42m | #19 |
 | **2002** | **[Mafia: Definitive Edition](../titles/mafia.md)** | 0h 48m | - |

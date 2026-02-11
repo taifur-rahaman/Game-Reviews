@@ -9,7 +9,7 @@
 | Publisher          | Her Interactive             |
 | Genre              | Adventure / Mystery         |
 | Status             | Playing                     |
-| Time Played        | 4h 48m                      |
+| Time Played        | 8h 7m                       |
 | Start Date         | 15th January 2026           |
 | End Date           | -                           |
 | Duration           | -                           |
@@ -105,3 +105,89 @@ I went down a massive rabbit hole on **K'Inich Janahb' Pacal**, aka **Lord Shiel
     *   **My Guess:** I answered "Logograph" (Wrong).
     *   **The Reality:** I scoured the game but couldn't find the answer anywhere.
     *   **The Cheat:** Had to resort to an internet search. The answer is **"Quiche"**. Still haven't found where that info is hidden in the game!
+
+### 🔢 The Mayan Number System
+*   **Deciphered the System:** Okay, so I finally cracked the **Mayan Number System**, and honestly? It's way cooler than our boring base-10 system.
+*   **How It Works:** It's a **vigesimal (base-20) system**, which sounds fancy but basically means they counted in groups of 20 instead of 10. Here's the breakdown:
+    *   **Dot = 1** (simple enough)
+    *   **Bar = 5** (still tracking)
+    *   **Shell symbol = 0** (the Maya invented zero independently—absolute legends)
+*   **Stacking Numbers:** Numbers are written vertically. You stack symbols on top of each other, and each level represents a different power of 20. So the bottom level is 1s, the next level up is 20s, then 400s, and so on. It's like our place-value system but vertical and cooler.
+*   **Why It's Elegant:** Once you get the hang of it, it's actually pretty intuitive. You can represent huge numbers with just a few symbols. Plus, the visual layout makes it easier to see the structure at a glance. The game uses this system in puzzles, so understanding it isn't just trivia—it's survival.
+
+### 🗺️ Sonny's Map
+*   **Mapping the Museum:** I've mapped out the exhibits using **Sonny's Map**, and let me tell you, this thing is a masterpiece of organized chaos.
+*   **Sonny's Legacy:** Remember Sonny Joon, the "wacky" intern who was obsessed with aliens and left doodles everywhere? Turns out he also left behind a hand-drawn map of the museum exhibits. It's scribbled, annotated with weird symbols, and looks like it was drawn by someone who'd had way too much coffee, but it's **incredibly useful**.
+*   **What It Shows:** The map breaks down where all the major exhibits are located—artifacts, displays, interactive stations, the whole deal. It's like having a cheat sheet for navigating the museum without wandering around aimlessly clicking on everything.
+*   **Why It Matters:** The museum is bigger than it looks, and some exhibits are tucked away in corners you'd never think to check. Sonny's map saves you from the frustration of "Wait, where was that thing again?" It's also got little notes pointing out which exhibits are connected to specific puzzles, which is clutch when you're trying to solve a mystery and don't want to backtrack a million times.
+*   **The Vibe:** Honestly, Sonny might've been weird, but he was thorough. His map is proof that even the chaotic geniuses leave behind something valuable.
+
+### 🗿 Pacal's Monolith
+*   **The Slabs:** I've noted out the **slabs around Pacal's Monolith**, and wow, these things are loaded with information.
+*   **What They Are:** The monolith—the centerpiece of the museum's Maya exhibit—is surrounded by several stone slabs covered in glyphs and carvings. These aren't just decorative; they're basically ancient billboards advertising Pacal's greatness and documenting his lineage, achievements, and divine right to rule.
+*   **The Inscriptions:** Each slab tells a different part of the story. Some detail family trees, others highlight military victories, and some reference connections to the gods. The glyphs are intricate, and deciphering them feels like unlocking a secret language.
+*   **Why They Matter:** These slabs aren't just lore dumps—they're puzzle pieces. The game uses the information on them to create challenges, so you actually have to pay attention and take notes. It's not enough to just look at them and go "cool art"; you need to **read** them, understand them, and remember what they say.
+
+#### The Individual Slabs (Going Clockwise Around the Monolith):
+
+1. **Rutherford Slab**
+    *   **What It Is:** Named after some archaeologist who probably found it, this slab is one of the key pieces surrounding the monolith.
+    *   **The Details:** Features intricate carvings and glyphs that document historical events or royal lineages. The craftsmanship is top-tier—every line is deliberate, every symbol has weight.
+    *   **My Take:** This one sets the tone for the rest. It's like the opening chapter of a stone book, establishing the importance of what you're about to see.
+
+2. **Marriage Lintel**
+    *   **What It Is:** A lintel (basically a horizontal support beam) that depicts a royal marriage ceremony. These were huge deals in Maya culture because marriages solidified political alliances and legitimized power.
+    *   **The Scene:** Shows a king and queen in ceremonial dress, often with offerings or ritual objects. The imagery is all about unity, divine blessing, and the continuation of the royal bloodline.
+    *   **My Take:** It's romantic in a "we're uniting two kingdoms and the gods are watching" kind of way. Very high-stakes love story vibes.
+
+3. **Bac-T'Ul Stela**
+    *   **What It Is:** A stela (upright stone slab) dedicated to **Bac-T'Ul**, a Maya ruler or noble. Stelae were like ancient Instagram posts—"Look at me, I'm important, and here's why."
+    *   **The Details:** Features the ruler in full regalia, probably holding a ceremonial staff or weapon. The glyphs around the figure detail his titles, achievements, and divine favor.
+    *   **My Take:** This guy wanted to be remembered. The level of detail in his outfit alone is insane—headdress, jewelry, every accessory is carved with precision. Respect the hustle.
+
+4. **Bird Jaguar & Captive**
+    *   **What It Is:** This one depicts **Bird Jaguar**, a famous Maya king, standing over a captive. It's a classic power move carved in stone.
+    *   **The Scene:** Bird Jaguar is shown in full warrior regalia, towering over a bound prisoner. The captive is usually depicted in a submissive pose, emphasizing the king's dominance and military prowess.
+    *   **The Message:** "I conquered you, and now everyone who sees this will know it forever." It's propaganda, but it's effective propaganda.
+    *   **My Take:** Bird Jaguar was not messing around. This slab is basically a flex on an epic scale. The detail in the captive's expression—fear, defeat—adds to the drama.
+
+5. **Lady Xoc Vision Lintel M**
+    *   **What It Is:** One of the famous **Lady Xoc lintels** from Yaxchilan. Lady Xoc was a queen consort, and these lintels depict her performing bloodletting rituals to summon visions of ancestors or gods.
+    *   **The Scene:** Lady Xoc is shown pulling a thorn-studded rope through her tongue (yes, really) as part of a ritual sacrifice. Blood drips onto paper, which is then burned to create smoke that summons a vision serpent.
+    *   **The Vision:** From the serpent's mouth emerges an ancestor or deity, often a warrior or king, offering guidance or legitimacy to the current ruler.
+    *   **My Take:** This is metal as hell. Lady Xoc was hardcore—bloodletting rituals were no joke, and she did them to prove her devotion and her family's divine right to rule. The artistry is stunning, but the subject matter is intense.
+
+6. **Sculpture**
+    *   **What It Is:** A more general sculptural piece, possibly a fragment of a larger work or a standalone decorative element.
+    *   **The Details:** Could depict a deity, a mythological scene, or an abstract design. Without more context, it's hard to pin down, but the craftsmanship is consistent with the other pieces—detailed, symbolic, and purposeful.
+    *   **My Take:** Even the "generic" pieces are impressive. The Maya didn't do anything halfway.
+
+7. **Stela of Noble**
+    *   **What It Is:** A stela dedicated to a noble or high-ranking official (not quite a king, but still important).
+    *   **The Details:** Shows the noble in ceremonial attire, possibly holding ritual objects or making offerings. The glyphs detail their lineage, titles, and accomplishments.
+    *   **My Take:** This is proof that you didn't have to be royalty to get your own monument. If you were important enough, you got your stone billboard too. The Maya had a whole hierarchy of fame.
+
+8. **Bicephalic Altar**
+    *   **What It Is:** An altar featuring a **bicephalic (two-headed) serpent**, a common motif in Maya art. The serpent often represents the sky, the earth, or the connection between the mortal and divine realms.
+    *   **The Design:** The two heads face opposite directions, symbolizing duality—life and death, day and night, creation and destruction. The body of the serpent often forms a platform or frame for other imagery.
+    *   **My Take:** The symbolism is layered. The bicephalic serpent isn't just cool-looking; it's a representation of cosmic balance. The Maya loved their dualities, and this altar embodies that philosophy perfectly.
+
+9. **Carved Panel**
+    *   **What It Is:** A decorative or narrative panel, possibly part of a larger architectural feature like a temple wall or staircase.
+    *   **The Details:** Could depict a historical event, a mythological story, or a series of glyphs documenting dates and events. The carving is intricate, with multiple layers of meaning.
+    *   **My Take:** These panels were like comic strips—visual storytelling that anyone could "read," even if they couldn't decipher the glyphs. The Maya were master communicators.
+
+10. **Lady Xoc Vision Lintel F**
+    *   **What It Is:** Another lintel from the Lady Xoc series, continuing the narrative of her rituals and visions.
+    *   **The Scene:** Similar to Lintel M, this one shows Lady Xoc in the midst of a bloodletting ceremony or the aftermath, with the vision serpent appearing. The details vary slightly—different poses, different ritual implements—but the core message is the same: devotion, sacrifice, and divine communication.
+    *   **My Take:** The fact that there are multiple lintels dedicated to Lady Xoc shows how important she was. She wasn't just a queen; she was a spiritual leader, a bridge between the mortal and divine. These lintels immortalize her role in legitimizing her husband's (and her family's) rule.
+
+**Overall Thoughts on the Slabs:**
+The craftsmanship is absolutely insane. Every glyph, every figure, every detail is carved with precision and purpose. These aren't just decorations—they're historical records, religious texts, and political statements all rolled into one. Walking around the monolith and reading these slabs feels like stepping into a time machine. The Maya didn't mess around when it came to preserving their legacy, and these slabs are proof of that.
+
+### 💀 Yum Cimil (God of Death)
+*   **The Dark One:** I've learned about **Yum Cimil**, the Maya god of death, and he is **not** messing around.
+*   **The Look:** Yum Cimil is usually depicted as a **skeleton** or a **corpse in various stages of decay**. Sometimes he's shown with **bells** attached to his body (because apparently death needed a soundtrack?). He's got that classic "I am the end of all things" aesthetic—hollow eyes, exposed ribs, the works. Definitely not the kind of deity you'd want to run into at a museum after hours.
+*   **His Domain:** He ruled **Mitnal**, which is the **lowest and most terrible level of Xibalba** (the Maya underworld). Think of it as the VIP section of hell, except the VIP stands for "Very Intense Pain." Mitnal was reserved for the worst of the worst—people who died without honor, criminals, and those who angered the gods. It was a place of eternal cold, darkness, and suffering. Fun times.
+*   **Cultural Significance:** The Maya didn't shy away from death; they integrated it into their worldview. Yum Cimil wasn't just a scary boogeyman—he was a reminder that death was inevitable and that how you lived determined where you ended up. It's heavy stuff, but it adds so much depth to the mythology.
+*   **In the Game:** Learning about Yum Cimil in the context of the museum makes the stakes feel real. The game isn't just about solving puzzles; it's about understanding a culture that took life, death, and the afterlife **seriously**. When you're surrounded by artifacts dedicated to gods like this, the atmosphere gets genuinely eerie.
