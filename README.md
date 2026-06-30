@@ -61,10 +61,10 @@
 
 | **🗝️ Sacred Metric** | 💎 **Legendary Value** | 🔮 **Significance** |
 | :--- | :---: | :--- |
-| **📜 Scrolls Inscribed** | **25 Tomes** | *Worlds Documented* |
+| **📜 Scrolls Inscribed** | **27 Tomes** | *Worlds Documented* |
 | **⏳ Hours in Realms** | **4,921h 22m** | *Lifetimes Lived* |
 | **🎮 Realms Conquered** | **22 Kingdoms** | *Victories Eternal* |
-| **⚔️ Active Campaigns** | **1 Battlefront** | *Wars Ongoing* |
+| **⚔️ Active Campaigns** | **2 Battlefronts** | *Wars Ongoing* |
 
 <pre>
 ═══════════════════════════════════════════════════════════════════════
@@ -84,6 +84,7 @@
 | 🏷️ **Realm Type** | 🏹 **Active Quests** | ⏳ **Time** | ⚡ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | **♟️ Strategy** | [Age of Empires II](titles/age_of_empires_ii.md) | 0h 00m | 🏰 **CONQUERING** | Steam | 0/170 (0%) |
+| **⚔️ Action-Adventure** | [Max Payne](titles/max_payne.md) | 0h 00m | 🕶️ **INVESTIGATING** | Pirated | Not Available |
 
 <pre>
 ╔══════════════════════════════════════════════════════════════════════╗
@@ -130,7 +131,15 @@
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Tom Clancy's Splinter Cell](titles/splinter_cell.md) | 2002 | - | 0h 0m | Playing | Steam | Not Available |
+| [Tom Clancy's Splinter Cell](titles/splinter_cell.md) | 2002 | - | 0h 35m | On Hold | Steam | Not Available |
+
+#### 🕶️ Max Payne Series
+
+<p><em>A man with nothing to lose, Max Payne is a fugitive DEA agent and former NYPD cop framed for murder, hunting for the truth in a snow-swept, noir New York. Armed with an arsenal of guns and the revolutionary ability to slow down time, Max embarks on a dark, tragic quest for vengeance against the forces that tore his family apart. With graphic novel panel storytelling, poetic yet cynical monologues, and cinematic bullet-time combat, Max Payne is the quintessential hard-boiled noir shooter where every dive is a dance of death.</em></p>
+
+| 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+| [Max Payne](titles/max_payne.md) | 2001 | - | 0h 00m | Playing | Pirated | Not Available |
 
 
 ### 🌆 Open-World Action
@@ -155,7 +164,7 @@
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | [The Godfather](titles/the_godfather.md) | 2006 | ★★★★★ | 17h 6m | Completed | Pirated | Pirated |
-| [Mafia: Definitive Edition](titles/mafia.md) | 2020 | - | 0h 48m | Playing | Steam | 2/44 (4%) |
+| [Mafia: Definitive Edition](titles/mafia.md) | 2020 | - | 0h 48m | On Hold | Steam | 2/44 (4%) |
 
 ### � Role-Playing Games (RPG)
 *Where Destiny Bends to the Will of Heroes*
@@ -249,7 +258,7 @@
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Nancy Drew: Secret of the Scarlet Hand](titles/nancy_drew_secret_of_the_scarlet_hand.md) | 2002 | - | 5h 21m | Playing | Steam | Not Available |
+| [Nancy Drew: Secret of the Scarlet Hand](titles/nancy_drew_secret_of_the_scarlet_hand.md) | 2002 | - | 5h 21m | On Hold | Steam | Not Available |
 
 ### 🧩 Puzzle-Platformer
 *Realms of Wonder & Wit*
@@ -306,7 +315,7 @@
 
 | 📅 **Year** | 🎮 **Must-Play Titles** | 📊 **Progress** | 🔗 **Guide** |
 |:---:|:---|:---:|:---:|
-| **2001** | 🎮 [Age of Empires II](titles/age_of_empires_ii.md) 💳<br>✅ [Desperados: Wanted Dead or Alive](titles/desperados_wanted_dead_or_alive.md) 🏴‍☠️<br>• Gothic 1<br>• Commandos 2<br>• Max Payne 🏴‍☠️ | 1/5 Complete<br>1/5 Active | [View Details](recommendations/2001.md) |
+| **2001** | 🎮 [Age of Empires II](titles/age_of_empires_ii.md) 💳<br>✅ [Desperados: Wanted Dead or Alive](titles/desperados_wanted_dead_or_alive.md) 🏴‍☠️<br>• Gothic 1<br>• Commandos 2<br>🎮 [Max Payne](titles/max_payne.md) 🏴‍☠️ | 1/5 Complete<br>2/5 Active | [View Details](recommendations/2001.md) |
 | **2002** | ✅ [GTA III](titles/gta_3.md) 🏴‍☠️<br>✅ [Syberia](titles/syberia.md) 💳<br>✅ [Age of Mythology](titles/age_of_mythology.md) 🏴‍☠️<br>✅ [Hitman 2: Silent Assassin](titles/hitman_2_silent_assassin.md) 💳<br>⏸️ [Tom Clancy's Splinter Cell](titles/splinter_cell.md) 💳<br>⏸️ [Mafia: Definitive Edition](titles/mafia.md) 💳<br>• The Elder Scrolls III: Morrowind<br>⏸️ [Nancy Drew: Secret of the Scarlet Hand](titles/nancy_drew_secret_of_the_scarlet_hand.md) 💳<br>• Nancy Drew: Ghost Dogs of Moon Lake 💳<br>• Robin Hood: Legend of Sherwood 💳 | 4/10 Complete<br>0/10 Active | [View Details](recommendations/2002.md) |
 | **2003** | ✅ [GTA Vice City](titles/gta_vice_city.md) 🏴‍☠️<br>• Max Payne 2: The Fall of Max Payne 💳<br>• Manhunt 💳<br>• Runaway: A Road Adventure 💳<br>• Nancy Drew: The Haunted Carousel<br>• Nancy Drew: Danger on Deception Island | 1/6 Complete<br>0/6 Active | [View Details](recommendations/2003.md) |
 | **2004** | • Half-Life 2 💳<br>• Vampire: The Masquerade - Bloodlines<br>• Splinter Cell: Pandora Tomorrow<br>• Far Cry<br>• Nancy Drew: Secret of Shadow Ranch<br>• Nancy Drew: Curse of Blackmoor Manor | 0/6 Complete<br>0/6 Active | [View Details](recommendations/2004.md) |
