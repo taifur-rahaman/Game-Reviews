@@ -8,7 +8,7 @@
 | Developer          | Ubisoft Montreal            |
 | Publisher          | Ubisoft                     |
 | Genre              | Stealth / Action            |
-| Status             | Playing                     |
+| Status             | On Hold                     |
 | Time Played        | 0h 35m                      |
 | Start Date         | 26th January 2026           |
 | End Date           | -                           |

@@ -8,7 +8,7 @@
 | Developer          | Her Interactive             |
 | Publisher          | Her Interactive             |
 | Genre              | Adventure / Mystery         |
-| Status             | Playing                     |
+| Status             | On Hold                     |
 | Time Played        | 8h 7m                       |
 | Start Date         | 15th January 2026           |
 | End Date           | -                           |

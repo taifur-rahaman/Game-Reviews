@@ -61,10 +61,10 @@
 
 | **🗝️ Sacred Metric** | 💎 **Legendary Value** | 🔮 **Significance** |
 | :--- | :---: | :--- |
-| **📜 Scrolls Inscribed** | **24 Tomes** | *Worlds Documented* |
+| **📜 Scrolls Inscribed** | **25 Tomes** | *Worlds Documented* |
 | **⏳ Hours in Realms** | **4,921h 22m** | *Lifetimes Lived* |
 | **🎮 Realms Conquered** | **22 Kingdoms** | *Victories Eternal* |
-| **⚔️ Active Campaigns** | **3 Battlefronts** | *Wars Ongoing* |
+| **⚔️ Active Campaigns** | **1 Battlefront** | *Wars Ongoing* |
 
 <pre>
 ═══════════════════════════════════════════════════════════════════════
@@ -83,9 +83,7 @@
 
 | 🏷️ **Realm Type** | 🏹 **Active Quests** | ⏳ **Time** | ⚡ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| **🕵️ Stealth Action** | [Tom Clancy's Splinter Cell](titles/splinter_cell.md) | 0h 35m | 🎯 **INFILTRATING** | Steam | Not Available |
-| **🔍 Mystery Adventure** | [Nancy Drew: Secret of the Scarlet Hand](titles/nancy_drew_secret_of_the_scarlet_hand.md) | 5h 21m | 🔎 **INVESTIGATING** | Steam | Not Available |
-| **🔫 Crime Drama** | [Mafia: Definitive Edition](titles/mafia.md) | 0h 48m | 🕵️ **RISING** | Steam | 2/44 (4%) |
+| **♟️ Strategy** | [Age of Empires II](titles/age_of_empires_ii.md) | 0h 00m | 🏰 **CONQUERING** | Steam | 0/170 (0%) |
 
 <pre>
 ╔══════════════════════════════════════════════════════════════════════╗
@@ -192,6 +190,14 @@
 
 <p><em>In these hallowed halls of strategic mastery, victory belongs not to the strongest arm, but to the keenest mind. From the frozen wastelands of Frostpunk to the war-torn battlefields of World War II, from the Wild West to the mystical realms of ancient mythology—these are the chronicles of commanders who shaped history through cunning, foresight, and tactical brilliance. Every unit placed, every resource managed, every decision made echoes through the annals of strategic warfare.</em></p>
 
+#### 🏰 Age of Empires Series
+
+<p><em>Wololo! From the dusty roads of the ancient world to the grand fortifications of the medieval era, the Age of Empires series stands as the bedrock of real-time strategy history. Leading civilizations through epochs of technological advancement, resource gathering, and tactical siege warfare, it is the ultimate test of economic management and military command. Gathering stone, wood, gold, and food, you construct monuments that stand the test of time, command massive historical armies, and write your own legacy in the annals of time.</em></p>
+
+| 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+| [Age of Empires II](titles/age_of_empires_ii.md) | 2001 | - | 0h 0m | Playing | Steam | 0/170 (0%) |
+
 #### 🎖️ Company of Heroes Series
 
 <p><em>The definitive World War II RTS experience. CoH threw out the base-building formula and said "just capture territory and hold it." The result? Intense, tactical combat where every squad matters, every piece of cover is life or death, and tanks feel like actual tanks. Watching a well-placed machine gun mow down an advance, or flanking a Panzer with sticky bombs—it's chef's kiss. The destructible environments mean every battle literally reshapes the map.</em></p>
@@ -296,17 +302,18 @@
 ╚══════════════════════════════════════════════════════════════════════╝
 </pre>
 
-**Legend:** ✅ = Completed | 🎮 = Currently Playing | • = Not Started
+**Legend:** ✅ = Completed | 🎮 = Currently Playing | 💳 = Bought | ⏸️ = On Hold | • = Not Started
 
 | 📅 **Year** | 🎮 **Must-Play Titles** | 📊 **Progress** | 🔗 **Guide** |
 |:---:|:---|:---:|:---:|
-| **2002** | ✅ [GTA III](titles/gta_3.md)<br>✅ [Syberia](titles/syberia.md)<br>✅ [Age of Mythology](titles/age_of_mythology.md)<br>✅ [Hitman 2: Silent Assassin](titles/hitman_2_silent_assassin.md)<br>🎮 [Tom Clancy's Splinter Cell](titles/splinter_cell.md)<br>🎮 [Mafia: Definitive Edition](titles/mafia.md)<br>• The Elder Scrolls III: Morrowind<br>🎮 [Nancy Drew: Secret of the Scarlet Hand](titles/nancy_drew_secret_of_the_scarlet_hand.md)<br>• Nancy Drew: Ghost Dogs of Moon Lake<br>• Robin Hood: Legend of Sherwood | 4/10 Complete<br>3/10 Active | [View Details](recommendations/2002.md) |
+| **2001** | 🎮 [Age of Empires II](titles/age_of_empires_ii.md)<br>✅ [Desperados: Wanted Dead or Alive](titles/desperados_wanted_dead_or_alive.md)<br>• Gothic 1<br>• Commandos 2<br>• Max Payne | 1/5 Complete<br>1/5 Active | [View Details](recommendations/2001.md) |
+| **2002** | ✅ [GTA III](titles/gta_3.md)<br>✅ [Syberia](titles/syberia.md)<br>✅ [Age of Mythology](titles/age_of_mythology.md)<br>✅ [Hitman 2: Silent Assassin](titles/hitman_2_silent_assassin.md)<br>⏸️ [Tom Clancy's Splinter Cell](titles/splinter_cell.md)<br>⏸️ [Mafia: Definitive Edition](titles/mafia.md)<br>• The Elder Scrolls III: Morrowind<br>⏸️ [Nancy Drew: Secret of the Scarlet Hand](titles/nancy_drew_secret_of_the_scarlet_hand.md)<br>• Nancy Drew: Ghost Dogs of Moon Lake<br>• Robin Hood: Legend of Sherwood | 4/10 Complete<br>0/10 Active | [View Details](recommendations/2002.md) |
 | **2003** | ✅ [GTA Vice City](titles/gta_vice_city.md)<br>• Max Payne 2: The Fall of Max Payne<br>• Manhunt<br>• Runaway: A Road Adventure<br>• Nancy Drew: The Haunted Carousel<br>• Nancy Drew: Danger on Deception Island | 1/6 Complete<br>0/6 Active | [View Details](recommendations/2003.md) |
 | **2004** | • Half-Life 2<br>• Vampire: The Masquerade - Bloodlines<br>• Splinter Cell: Pandora Tomorrow<br>• Far Cry<br>• Nancy Drew: Secret of Shadow Ranch<br>• Nancy Drew: Curse of Blackmoor Manor | 0/6 Complete<br>0/6 Active | [View Details](recommendations/2004.md) |
 | **2005** | ✅ [GTA San Andreas](titles/gta_san_andreas.md)<br>✅ [NFS Most Wanted](titles/nfs_most_wanted.md)<br>• Indigo Prophecy<br>• Splinter Cell: Chaos Theory<br>• F.E.A.R.<br>• Psychonauts<br>• Nancy Drew: Secret of the Old Clock<br>• Nancy Drew: Last Train to Blue Moon Canyon | 2/8 Complete<br>0/8 Active | [View Details](recommendations/2005.md) |
 | **2006** | ✅ [Company of Heroes](titles/company_of_heroes.md) (Base Game)<br>✅ [The Godfather](titles/the_godfather.md)<br>• The Elder Scrolls IV: Oblivion<br>• Hitman: Blood Money | 2/4 Complete<br>0/4 Active | [View Details](recommendations/2006.md) |
 | **2007** | ✅ [Company of Heroes: Opposing Fronts](titles/company_of_heroes.md)<br>✅ [Assassin's Creed](titles/assassin's_creed_1.md)<br>✅ [Mass Effect](titles/mass_effect_legendary_edition.md) (Legendary Edition)<br>• BioShock<br>• The Witcher<br>• S.T.A.L.K.E.R.: Shadow of Chernobyl<br>• Crysis<br>• The Elder Scrolls IV: Shivering Isles | 3/8 Complete<br>0/8 Active | [View Details](recommendations/2007.md) |
-| **2009** | 🎮 [Company of Heroes: Tales of Valor](titles/company_of_heroes.md)<br>• Dragon Age: Origins<br>• Batman: Arkham Asylum<br>• Borderlands<br>• The Saboteur<br>• Risen<br>• Trine<br>• Prototype<br>• Divinity II | 0/9 Complete<br>1/9 Active | [View Details](recommendations/2009.md) |
+| **2009** | 🎮 [Company of Heroes: Tales of Valor](titles/company_of_heroes.md)<br>💳 Dragon Age: Origins<br>💳 Batman: Arkham Asylum<br>• Borderlands<br>• The Saboteur<br>• Risen<br>• Trine<br>• Prototype<br>• Divinity II | 0/9 Complete<br>1/9 Active | [View Details](recommendations/2009.md) |
 
 <p><em>More years shall be added to this chronicle as thy journey continues. Each era of gaming holds treasures waiting to be discovered.</em></p>
 

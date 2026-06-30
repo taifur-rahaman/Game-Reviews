@@ -8,7 +8,7 @@
 | Developer          | Hangar 13                   |
 | Publisher          | 2K Games                    |
 | Genre              | Action-Adventure, Crime     |
-| Status             | Playing                     |
+| Status             | On Hold                     |
 | Time Played        | 0h 48m                      |
 | Start Date         | 7th February 2026           |
 | End Date           | -                           |
