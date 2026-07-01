@@ -62,7 +62,7 @@
 | **🗝️ Sacred Metric** | 💎 **Legendary Value** | 🔮 **Significance** |
 | :--- | :---: | :--- |
 | **📜 Scrolls Inscribed** | **28 Tomes** | *Worlds Documented* |
-| **⏳ Hours in Realms** | **4,921h 22m** | *Lifetimes Lived* |
+| **⏳ Hours in Realms** | **4,923h 23m** | *Lifetimes Lived* |
 | **🎮 Realms Conquered** | **22 Kingdoms** | *Victories Eternal* |
 | **⚔️ Active Campaigns** | **1 Battlefront** | *Wars Ongoing* |
 
@@ -83,7 +83,7 @@
 
 | 🏷️ **Realm Type** | 🏹 **Active Quests** | ⏳ **Time** | ⚡ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| **♟️ Strategy** | [Commandos: Behind Enemy Lines](titles/commandos_behind_enemy_lines.md) | 0h 00m | 🪖 **INFILTRATING** | Steam | Not Available |
+| **♟️ Strategy** | [Commandos: Behind Enemy Lines](titles/commandos_behind_enemy_lines.md) | 2h 01m | 🪖 **INFILTRATING** | Steam | Not Available |
 
 <pre>
 ╔══════════════════════════════════════════════════════════════════════╗
@@ -219,8 +219,8 @@
 <p><em>The legendary World War II stealth tactics series. Commandos throws you behind enemy lines with a handful of specialists who must work in perfect synchronization. One mistake triggers the alarm, and the alarm means certain death. It's the ultimate test of planning, patience, and quicksaves.</em></p>
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Commandos: Behind Enemy Lines](titles/commandos_behind_enemy_lines.md) | 1998 | - | 0h 0m | Playing | Steam | Not Available |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+| [Commandos: Behind Enemy Lines](titles/commandos_behind_enemy_lines.md) | 1998 | - | 2h 01m | Playing | Steam | Not Available |
 
 #### 🤠 Desperados Series
 

@@ -11,7 +11,7 @@
 | **🗝️ Metric** | **💎 Value** | **🔮 Description** |
 |:---|:---:|:---|
 | **📜 Titles Logged** | **28** | *Unique games documented* |
-| **⏳ Hours in Realms** | **4,921h 22m** | *Hours spent across all realms* |
+| **⏳ Hours in Realms** | **4,923h 23m** | *Hours spent across all realms* |
 | **🎮 Games Completed** | **22** | *Victories achieved* |
 | **⚔️ Currently Playing** | **1** | *Active campaigns* |
 | **🌌 Series Tracked** | **22** | *Unique universes/franchises* |
@@ -38,7 +38,7 @@
 | **🌌 RPG** | 223h 27m | 4.5% | 2 |
 | **⚔️ Action-Adventure** | 223h 05m | 4.5% | 9 |
 | **🌆 Open-World Action** | 96h 29m | 2.0% | 4 |
-| **♟️ Strategy** | 82h 35m | 1.7% | 5 |
+| **♟️ Strategy** | 84h 36m | 1.7% | 5 |
 | **🏎️ Racing** | 26h 52m | 0.5% | 1 |
 | **🍺 Casual** | 28h 30m | 0.6% | 3 |
 | **🧩 Puzzle-Adventure** | 20h 10m | 0.4% | 2 |
@@ -50,7 +50,7 @@
 | 📅 **First PC Era** | 🌌 **Universe/Series** | ⏳ **Total Time** | 📚 **Titles Logged** |
 |:---:|:---|:---:|:---:|
 | **1997** | **Disney's Hercules** | 1h 56m | 1 |
-| **1998** | **Commandos** | 0h 00m | 1 |
+| **1998** | **Commandos** | 2h 01m | 1 |
 | **1999** | **Age of Empires** | 0h 00m | 1 |
 | **2001** | **Desperados** | 7h 10m | 1 |
 | **2001** | **Max Payne** | 0h 00m | 1 |
@@ -77,8 +77,8 @@
 
 | 📅 **PC Year** | 🎮 **Game** | ⏳ **Time** | 🥇 **Time Rank** |
 |:---:|:---|:---:|:---:|
-| **1997** | **[Disney's Hercules Action Game](../titles/disneys_hercules_action_game.md)** | 1h 56m | #23 |
-| **1998** | **[Commandos: Behind Enemy Lines](../titles/commandos_behind_enemy_lines.md)** | 0h 00m | - |
+| **1997** | **[Disney's Hercules Action Game](../titles/disneys_hercules_action_game.md)** | 1h 56m | #24 |
+| **1998** | **[Commandos: Behind Enemy Lines](../titles/commandos_behind_enemy_lines.md)** | 2h 01m | #23 |
 | **1999** | **[Age of Empires II](../titles/age_of_empires_ii.md)** | 0h 00m | - |
 | **2001** | **[Desperados: Wanted Dead or Alive](../titles/desperados_wanted_dead_or_alive.md)** | 7h 10m | #21 |
 | **2001** | **[Max Payne](../titles/max_payne.md)** | 0h 00m | - |
@@ -88,7 +88,7 @@
 | **2002** | **[Age of Mythology](../titles/age_of_mythology.md)** | 20h 07m | #12 |
 | **2002** | **[Hitman 2: Silent Assassin](../titles/hitman_2_silent_assassin.md)** | 14h 42m | #19 |
 | **2002** | **[Mafia: Definitive Edition](../titles/mafia.md)** | 0h 48m | - |
-| **2002** | **[Tom Clancy's Splinter Cell](../titles/splinter_cell.md)** | 0h 35m | #24 |
+| **2002** | **[Tom Clancy's Splinter Cell](../titles/splinter_cell.md)** | 0h 35m | #25 |
 | **2003** | **[Grand Theft Auto: Vice City](../titles/gta_vice_city.md)** | 17h 39m | #14 |
 | **2005** | **[Grand Theft Auto: San Andreas](../titles/gta_san_andreas.md)** | 41h 48m | #6 |
 | **2005** | **[Need for Speed: Most Wanted](../titles/nfs_most_wanted.md)** | 26h 52m | #10 |
