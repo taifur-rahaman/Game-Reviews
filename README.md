@@ -62,7 +62,7 @@
 | **🗝️ Sacred Metric** | 💎 **Legendary Value** | 🔮 **Significance** |
 | :--- | :---: | :--- |
 | **📜 Scrolls Inscribed** | **28 Tomes** | *Worlds Documented* |
-| **⏳ Hours in Realms** | **4,923h 23m** | *Lifetimes Lived* |
+| **⏳ Hours in Realms** | **4,926h 09m** | *Lifetimes Lived* |
 | **🎮 Realms Conquered** | **22 Kingdoms** | *Victories Eternal* |
 | **⚔️ Active Campaigns** | **1 Battlefront** | *Wars Ongoing* |
 
@@ -265,7 +265,7 @@
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Nancy Drew: Secret of the Scarlet Hand](titles/nancy_drew_secret_of_the_scarlet_hand.md) | 2002 | - | 5h 21m | On Hold | Steam | Not Available |
+| [Nancy Drew: Secret of the Scarlet Hand](titles/nancy_drew_secret_of_the_scarlet_hand.md) | 2002 | - | 8h 7m | On Hold | Steam | Not Available |
 
 ### 🧩 Puzzle-Platformer
 *Realms of Wonder & Wit*
