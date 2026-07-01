@@ -13,7 +13,7 @@
 | **📜 Titles Logged** | **27** | *Unique games documented* |
 | **⏳ Hours in Realms** | **4,921h 22m** | *Hours spent across all realms* |
 | **🎮 Games Completed** | **22** | *Victories achieved* |
-| **⚔️ Currently Playing** | **2** | *Active campaigns* |
+| **⚔️ Currently Playing** | **1** | *Active campaigns* |
 | **🌌 Series Tracked** | **21** | *Unique universes/franchises* |
 
 ---
@@ -50,8 +50,8 @@
 | 📅 **First PC Era** | 🌌 **Universe/Series** | ⏳ **Total Time** | 📚 **Titles Logged** |
 |:---:|:---|:---:|:---:|
 | **1997** | **Disney's Hercules** | 1h 56m | 1 |
+| **1999** | **Age of Empires** | 0h 00m | 1 |
 | **2001** | **Desperados** | 7h 10m | 1 |
-| **2001** | **Age of Empires** | 0h 00m | 1 |
 | **2001** | **Max Payne** | 0h 00m | 1 |
 | **2002** | **Grand Theft Auto** | 79h 23m | 3 |
 | **2002** | **Age of Mythology** | 20h 07m | 1 |
@@ -77,8 +77,8 @@
 | 📅 **PC Year** | 🎮 **Game** | ⏳ **Time** | 🥇 **Time Rank** |
 |:---:|:---|:---:|:---:|
 | **1997** | **[Disney's Hercules Action Game](../titles/disneys_hercules_action_game.md)** | 1h 56m | #23 |
+| **1999** | **[Age of Empires II](../titles/age_of_empires_ii.md)** | 0h 00m | - |
 | **2001** | **[Desperados: Wanted Dead or Alive](../titles/desperados_wanted_dead_or_alive.md)** | 7h 10m | #21 |
-| **2001** | **[Age of Empires II](../titles/age_of_empires_ii.md)** | 0h 00m | - |
 | **2001** | **[Max Payne](../titles/max_payne.md)** | 0h 00m | - |
 | **2002** | **[Grand Theft Auto III](../titles/gta_3.md)** | 19h 56m | #13 |
 | **2002** | **[Syberia](../titles/syberia.md)** | 15h 22m | #17 |

@@ -64,7 +64,7 @@
 | **📜 Scrolls Inscribed** | **27 Tomes** | *Worlds Documented* |
 | **⏳ Hours in Realms** | **4,921h 22m** | *Lifetimes Lived* |
 | **🎮 Realms Conquered** | **22 Kingdoms** | *Victories Eternal* |
-| **⚔️ Active Campaigns** | **2 Battlefronts** | *Wars Ongoing* |
+| **⚔️ Active Campaigns** | **1 Battlefront** | *Wars Ongoing* |
 
 <pre>
 ═══════════════════════════════════════════════════════════════════════
@@ -83,7 +83,6 @@
 
 | 🏷️ **Realm Type** | 🏹 **Active Quests** | ⏳ **Time** | ⚡ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| **♟️ Strategy** | [Age of Empires II](titles/age_of_empires_ii.md) | 0h 00m | 🏰 **CONQUERING** | Steam | 0/170 (0%) |
 | **⚔️ Action-Adventure** | [Max Payne](titles/max_payne.md) | 0h 00m | 🕶️ **INVESTIGATING** | Pirated | Not Available |
 
 <pre>
@@ -205,7 +204,7 @@
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Age of Empires II](titles/age_of_empires_ii.md) | 2001 | - | 0h 0m | Playing | Steam | 0/170 (0%) |
+| [Age of Empires II](titles/age_of_empires_ii.md) | 1999 | - | 0h 0m | On Hold | Steam | 0/170 (0%) |
 
 #### 🎖️ Company of Heroes Series
 
@@ -221,7 +220,7 @@
 
 | 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Desperados: Wanted Dead or Alive](titles/desperados_wanted_dead_or_alive.md) | 2001 | ★★★★☆ | 7h 10m | Completed | Pirated | Pirated |
+| [Desperados: Wanted Dead or Alive](titles/desperados_wanted_dead_or_alive.md) | 2001 | ★★★★☆ | 7h 10m | Completed | Steam | Not Available |
 
 #### ❄️ Frostpunk Series
 
@@ -315,14 +314,16 @@
 
 | 📅 **Year** | 🎮 **Must-Play Titles** | 📊 **Progress** | 🔗 **Guide** |
 |:---:|:---|:---:|:---:|
-| **2001** | 🎮 [Age of Empires II](titles/age_of_empires_ii.md) 💳<br>✅ [Desperados: Wanted Dead or Alive](titles/desperados_wanted_dead_or_alive.md) 🏴‍☠️<br>• Gothic 1<br>• Commandos 2<br>🎮 [Max Payne](titles/max_payne.md) 🏴‍☠️ | 1/5 Complete<br>2/5 Active | [View Details](recommendations/2001.md) |
-| **2002** | ✅ [GTA III](titles/gta_3.md) 🏴‍☠️<br>✅ [Syberia](titles/syberia.md) 💳<br>✅ [Age of Mythology](titles/age_of_mythology.md) 🏴‍☠️<br>✅ [Hitman 2: Silent Assassin](titles/hitman_2_silent_assassin.md) 💳<br>⏸️ [Tom Clancy's Splinter Cell](titles/splinter_cell.md) 💳<br>⏸️ [Mafia: Definitive Edition](titles/mafia.md) 💳<br>• The Elder Scrolls III: Morrowind<br>⏸️ [Nancy Drew: Secret of the Scarlet Hand](titles/nancy_drew_secret_of_the_scarlet_hand.md) 💳<br>• Nancy Drew: Ghost Dogs of Moon Lake 💳<br>• Robin Hood: Legend of Sherwood 💳 | 4/10 Complete<br>0/10 Active | [View Details](recommendations/2002.md) |
-| **2003** | ✅ [GTA Vice City](titles/gta_vice_city.md) 🏴‍☠️<br>• Max Payne 2: The Fall of Max Payne 💳<br>• Manhunt 💳<br>• Runaway: A Road Adventure 💳<br>• Nancy Drew: The Haunted Carousel<br>• Nancy Drew: Danger on Deception Island | 1/6 Complete<br>0/6 Active | [View Details](recommendations/2003.md) |
-| **2004** | • Half-Life 2 💳<br>• Vampire: The Masquerade - Bloodlines<br>• Splinter Cell: Pandora Tomorrow<br>• Far Cry<br>• Nancy Drew: Secret of Shadow Ranch<br>• Nancy Drew: Curse of Blackmoor Manor | 0/6 Complete<br>0/6 Active | [View Details](recommendations/2004.md) |
+| **1998** | • Commandos: Behind Enemy Lines 💳 | 0/1 Complete<br>0/1 Active | [View Details](recommendations/1998.md) |
+| **1999** | ⏸️ [Age of Empires II](titles/age_of_empires_ii.md) 💳<br>• Commandos: Beyond the Call of Duty 💳 | 0/2 Complete<br>0/2 Active | [View Details](recommendations/1999.md) |
+| **2001** | ✅ [Desperados: Wanted Dead or Alive](titles/desperados_wanted_dead_or_alive.md) 💳<br>• Gothic 1 💳<br>• Commandos 2 💳<br>🎮 [Max Payne](titles/max_payne.md) 🏴‍☠️ | 1/4 Complete<br>1/4 Active | [View Details](recommendations/2001.md) |
+| **2002** | ✅ [GTA III](titles/gta_3.md) 🏴‍☠️<br>✅ [Syberia](titles/syberia.md) 💳<br>✅ [Age of Mythology](titles/age_of_mythology.md) 🏴‍☠️<br>✅ [Hitman 2: Silent Assassin](titles/hitman_2_silent_assassin.md) 💳<br>⏸️ [Tom Clancy's Splinter Cell](titles/splinter_cell.md) 💳<br>⏸️ [Mafia: Definitive Edition](titles/mafia.md) 💳<br>• The Elder Scrolls III: Morrowind 💳<br>⏸️ [Nancy Drew: Secret of the Scarlet Hand](titles/nancy_drew_secret_of_the_scarlet_hand.md) 💳<br>• Nancy Drew: Ghost Dogs of Moon Lake 💳<br>• Robin Hood: Legend of Sherwood 💳 | 4/10 Complete<br>0/10 Active | [View Details](recommendations/2002.md) |
+| **2003** | ✅ [GTA Vice City](titles/gta_vice_city.md) 🏴‍☠️<br>• Max Payne 2: The Fall of Max Payne 💳<br>• Manhunt 💳<br>• Runaway: A Road Adventure 💳<br>• Commandos 3: Destination Berlin 💳<br>• Nancy Drew: The Haunted Carousel<br>• Nancy Drew: Danger on Deception Island | 1/7 Complete<br>0/7 Active | [View Details](recommendations/2003.md) |
+| **2004** | • Half-Life 2 💳<br>• Vampire: The Masquerade - Bloodlines<br>• Splinter Cell: Pandora Tomorrow<br>• Far Cry 💳<br>• Nancy Drew: Secret of Shadow Ranch<br>• Nancy Drew: Curse of Blackmoor Manor | 0/6 Complete<br>0/6 Active | [View Details](recommendations/2004.md) |
 | **2005** | ✅ [GTA San Andreas](titles/gta_san_andreas.md) 🏴‍☠️<br>✅ [NFS Most Wanted](titles/nfs_most_wanted.md) 🏴‍☠️<br>• Indigo Prophecy 💳<br>• Splinter Cell: Chaos Theory<br>• F.E.A.R.<br>• Psychonauts<br>• Nancy Drew: Secret of the Old Clock<br>• Nancy Drew: Last Train to Blue Moon Canyon | 2/8 Complete<br>0/8 Active | [View Details](recommendations/2005.md) |
-| **2006** | ✅ [Company of Heroes](titles/company_of_heroes.md) (Base Game) 💳<br>✅ [The Godfather](titles/the_godfather.md) 🏴‍☠️<br>• The Elder Scrolls IV: Oblivion<br>• Hitman: Blood Money 💳 | 2/4 Complete<br>0/4 Active | [View Details](recommendations/2006.md) |
+| **2006** | ✅ [Company of Heroes](titles/company_of_heroes.md) (Base Game) 💳<br>✅ [The Godfather](titles/the_godfather.md) 🏴‍☠️<br>• The Elder Scrolls IV: Oblivion<br>• Hitman: Blood Money 💳<br>• Desperados 2: Cooper's Revenge 💳 | 2/5 Complete<br>0/5 Active | [View Details](recommendations/2006.md) |
 | **2007** | ✅ [Company of Heroes: Opposing Fronts](titles/company_of_heroes.md) 💳<br>✅ [Assassin's Creed](titles/assassin's_creed_1.md) 🏴‍☠️<br>✅ [Mass Effect](titles/mass_effect_legendary_edition.md) (Legendary Edition) 🏴‍☠️<br>• BioShock<br>• The Witcher 💳<br>• S.T.A.L.K.E.R.: Shadow of Chernobyl<br>• Crysis<br>• The Elder Scrolls IV: Shivering Isles | 3/8 Complete<br>0/8 Active | [View Details](recommendations/2007.md) |
-| **2009** | 🎮 [Company of Heroes: Tales of Valor](titles/company_of_heroes.md) 💳<br>• Dragon Age: Origins 💳<br>• Batman: Arkham Asylum 💳<br>• Borderlands<br>• The Saboteur<br>• Risen<br>• Trine 💳<br>• Prototype<br>• Divinity II | 0/9 Complete<br>1/9 Active | [View Details](recommendations/2009.md) |
+| **2009** | 🎮 [Company of Heroes: Tales of Valor](titles/company_of_heroes.md) 💳<br>• Dragon Age: Origins 💳<br>• Batman: Arkham Asylum 💳<br>• Borderlands<br>• The Saboteur 💳<br>• Risen<br>• Trine 💳<br>• Prototype<br>• Divinity II | 0/9 Complete<br>1/9 Active | [View Details](recommendations/2009.md) |
 
 <p><em>More years shall be added to this chronicle as thy journey continues. Each era of gaming holds treasures waiting to be discovered.</em></p>
 

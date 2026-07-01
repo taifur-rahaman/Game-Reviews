@@ -8,7 +8,7 @@
 | Developer          | Ensemble Studios / Forgotten Empires |
 | Publisher          | Microsoft Game Studios / Xbox Game Studios |
 | Genre              | Real-Time Strategy (RTS)    |
-| Status             | Playing                     |
+| Status             | On Hold                     |
 | Time Played        | 0h 00m                      |
 | Start Date         | 30th June 2026              |
 | End Date           | -                           |
