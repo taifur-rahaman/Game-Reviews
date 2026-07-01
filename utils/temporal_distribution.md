@@ -10,11 +10,11 @@
 
 | **🗝️ Metric** | **💎 Value** | **🔮 Description** |
 |:---|:---:|:---|
-| **📜 Titles Logged** | **27** | *Unique games documented* |
+| **📜 Titles Logged** | **28** | *Unique games documented* |
 | **⏳ Hours in Realms** | **4,921h 22m** | *Hours spent across all realms* |
 | **🎮 Games Completed** | **22** | *Victories achieved* |
-| **⚔️ Currently Playing** | **1** | *Active campaigns* |
-| **🌌 Series Tracked** | **21** | *Unique universes/franchises* |
+| **⚔️ Currently Playing** | **2** | *Active campaigns* |
+| **🌌 Series Tracked** | **22** | *Unique universes/franchises* |
 
 ---
 
@@ -25,7 +25,7 @@
 |:---:|:---|
 | **Pre-2024** | • [DOTA 2](../titles/dota_2.md)<br>• [Age of Mythology](../titles/age_of_mythology.md)<br>• [Grand Theft Auto III](../titles/gta_3.md)<br>• [Grand Theft Auto: Vice City](../titles/gta_vice_city.md)<br>• [Grand Theft Auto: San Andreas](../titles/gta_san_andreas.md)<br>• [Assassin's Creed I](../titles/assassin's_creed_1.md)<br>• [Assassin's Creed II](../titles/assassin's_creed_2.md)<br>• [Assassin's Creed: Brotherhood](../titles/assassin's_creed_brotherhood.md)<br>• [Need for Speed: Most Wanted](../titles/nfs_most_wanted.md)<br>• [Farm Frenzy](../titles/farm_frenzy.md)<br>• [Farm Frenzy 2](../titles/farm_frenzy_2.md)<br>• [Desperados: Wanted Dead or Alive](../titles/desperados_wanted_dead_or_alive.md)<br>• [Disney's Hercules Action Game](../titles/disneys_hercules_action_game.md)<br>• [Middle-Earth: Shadow of Mordor](../titles/shadow_of_mordor.md)<br>• [Middle-Earth: Shadow of War](../titles/shadow_of_war.md)<br>• [Company of Heroes](../titles/company_of_heroes.md)<br>• [The Godfather](../titles/the_godfather.md)<br>• [Frostpunk](../titles/frostpunk.md)<br>• [Rise of the Argonauts](../titles/rise_of_the_argonauts.md)<br>• [Mass Effect Legendary Edition](../titles/mass_effect_legendary_edition.md) |
 | **2025** | • [Hitman 2: Silent Assassin](../titles/hitman_2_silent_assassin.md)<br>• [Syberia](../titles/syberia.md) |
-| **2026** | • [Tom Clancy's Splinter Cell](../titles/splinter_cell.md)<br>• [Nancy Drew: Secret of the Scarlet Hand](../titles/nancy_drew_secret_of_the_scarlet_hand.md)<br>• [Mafia: Definitive Edition](../titles/mafia.md)<br>• [Age of Empires II](../titles/age_of_empires_ii.md)<br>• [Max Payne](../titles/max_payne.md) |
+| **2026** | • [Tom Clancy's Splinter Cell](../titles/splinter_cell.md)<br>• [Nancy Drew: Secret of the Scarlet Hand](../titles/nancy_drew_secret_of_the_scarlet_hand.md)<br>• [Mafia: Definitive Edition](../titles/mafia.md)<br>• [Age of Empires II](../titles/age_of_empires_ii.md)<br>• [Max Payne](../titles/max_payne.md)<br>• [Commandos: Behind Enemy Lines](../titles/commandos_behind_enemy_lines.md) |
 
 ---
 
@@ -50,6 +50,7 @@
 | 📅 **First PC Era** | 🌌 **Universe/Series** | ⏳ **Total Time** | 📚 **Titles Logged** |
 |:---:|:---|:---:|:---:|
 | **1997** | **Disney's Hercules** | 1h 56m | 1 |
+| **1998** | **Commandos** | 0h 00m | 1 |
 | **1999** | **Age of Empires** | 0h 00m | 1 |
 | **2001** | **Desperados** | 7h 10m | 1 |
 | **2001** | **Max Payne** | 0h 00m | 1 |
@@ -77,6 +78,7 @@
 | 📅 **PC Year** | 🎮 **Game** | ⏳ **Time** | 🥇 **Time Rank** |
 |:---:|:---|:---:|:---:|
 | **1997** | **[Disney's Hercules Action Game](../titles/disneys_hercules_action_game.md)** | 1h 56m | #23 |
+| **1998** | **[Commandos: Behind Enemy Lines](../titles/commandos_behind_enemy_lines.md)** | 0h 00m | - |
 | **1999** | **[Age of Empires II](../titles/age_of_empires_ii.md)** | 0h 00m | - |
 | **2001** | **[Desperados: Wanted Dead or Alive](../titles/desperados_wanted_dead_or_alive.md)** | 7h 10m | #21 |
 | **2001** | **[Max Payne](../titles/max_payne.md)** | 0h 00m | - |

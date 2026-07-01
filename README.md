@@ -61,10 +61,10 @@
 
 | **🗝️ Sacred Metric** | 💎 **Legendary Value** | 🔮 **Significance** |
 | :--- | :---: | :--- |
-| **📜 Scrolls Inscribed** | **27 Tomes** | *Worlds Documented* |
+| **📜 Scrolls Inscribed** | **28 Tomes** | *Worlds Documented* |
 | **⏳ Hours in Realms** | **4,921h 22m** | *Lifetimes Lived* |
 | **🎮 Realms Conquered** | **22 Kingdoms** | *Victories Eternal* |
-| **⚔️ Active Campaigns** | **1 Battlefront** | *Wars Ongoing* |
+| **⚔️ Active Campaigns** | **2 Battlefronts** | *Wars Ongoing* |
 
 <pre>
 ═══════════════════════════════════════════════════════════════════════
@@ -83,6 +83,7 @@
 
 | 🏷️ **Realm Type** | 🏹 **Active Quests** | ⏳ **Time** | ⚡ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
 | :--- | :--- | :---: | :---: | :---: | :---: |
+| **♟️ Strategy** | [Commandos: Behind Enemy Lines](titles/commandos_behind_enemy_lines.md) | 0h 00m | 🪖 **INFILTRATING** | Steam | Not Available |
 | **⚔️ Action-Adventure** | [Max Payne](titles/max_payne.md) | 0h 00m | 🕶️ **INVESTIGATING** | Pirated | Not Available |
 
 <pre>
@@ -214,6 +215,14 @@
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|
 | [Company of Heroes](titles/company_of_heroes.md) | 2006 | ★★★★★ | 40h 18m | Completed | Steam | Not Available |
 
+#### 🪖 Commandos Series
+
+<p><em>The legendary World War II stealth tactics series. Commandos throws you behind enemy lines with a handful of specialists who must work in perfect synchronization. One mistake triggers the alarm, and the alarm means certain death. It's the ultimate test of planning, patience, and quicksaves.</em></p>
+
+| 📜 **Tome** | 📅 **Year** | 🌟 **Rank** | ⏳ **Time** | 🛡️ **Status** | 🎮 **Platform** | 🏆 **Achievements** |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+| [Commandos: Behind Enemy Lines](titles/commandos_behind_enemy_lines.md) | 1998 | - | 0h 0m | Playing | Steam | Not Available |
+
 #### 🤠 Desperados Series
 
 <p><em>Commandos but make it cowboys. Desperados is all about controlling a ragtag gang of Wild West misfits, sneaking through enemy camps, and executing perfectly timed synchronized takedowns. You've got the gunslinger, the knife-throwing lady, the explosives expert—each with unique skills. The satisfaction of planning the perfect heist or ambush, watching it play out in slow-mo? Unmatched.</em></p>
@@ -314,7 +323,7 @@
 
 | 📅 **Year** | 🎮 **Must-Play Titles** | 📊 **Progress** | 🔗 **Guide** |
 |:---:|:---|:---:|:---:|
-| **1998** | • Commandos: Behind Enemy Lines 💳 | 0/1 Complete<br>0/1 Active | [View Details](recommendations/1998.md) |
+| **1998** | 🎮 [Commandos: Behind Enemy Lines](titles/commandos_behind_enemy_lines.md) 💳 | 0/1 Complete<br>1/1 Active | [View Details](recommendations/1998.md) |
 | **1999** | ⏸️ [Age of Empires II](titles/age_of_empires_ii.md) 💳<br>• Commandos: Beyond the Call of Duty 💳 | 0/2 Complete<br>0/2 Active | [View Details](recommendations/1999.md) |
 | **2001** | ✅ [Desperados: Wanted Dead or Alive](titles/desperados_wanted_dead_or_alive.md) 💳<br>• Gothic 1 💳<br>• Commandos 2 💳<br>🎮 [Max Payne](titles/max_payne.md) 🏴‍☠️ | 1/4 Complete<br>1/4 Active | [View Details](recommendations/2001.md) |
 | **2002** | ✅ [GTA III](titles/gta_3.md) 🏴‍☠️<br>✅ [Syberia](titles/syberia.md) 💳<br>✅ [Age of Mythology](titles/age_of_mythology.md) 🏴‍☠️<br>✅ [Hitman 2: Silent Assassin](titles/hitman_2_silent_assassin.md) 💳<br>⏸️ [Tom Clancy's Splinter Cell](titles/splinter_cell.md) 💳<br>⏸️ [Mafia: Definitive Edition](titles/mafia.md) 💳<br>• The Elder Scrolls III: Morrowind 💳<br>⏸️ [Nancy Drew: Secret of the Scarlet Hand](titles/nancy_drew_secret_of_the_scarlet_hand.md) 💳<br>• Nancy Drew: Ghost Dogs of Moon Lake 💳<br>• Robin Hood: Legend of Sherwood 💳 | 4/10 Complete<br>0/10 Active | [View Details](recommendations/2002.md) |
