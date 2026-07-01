@@ -13,7 +13,7 @@
 | **📜 Titles Logged** | **28** | *Unique games documented* |
 | **⏳ Hours in Realms** | **4,921h 22m** | *Hours spent across all realms* |
 | **🎮 Games Completed** | **22** | *Victories achieved* |
-| **⚔️ Currently Playing** | **2** | *Active campaigns* |
+| **⚔️ Currently Playing** | **1** | *Active campaigns* |
 | **🌌 Series Tracked** | **22** | *Unique universes/franchises* |
 
 ---

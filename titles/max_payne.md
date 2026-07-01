@@ -8,7 +8,7 @@
 | Developer          | Remedy Entertainment        |
 | Publisher          | Gathering of Developers / Rockstar Games |
 | Genre              | Third-Person Shooter / Action / Film Noir |
-| Status             | Playing                     |
+| Status             | On Hold                     |
 | Time Played        | 0h 00m                      |
 | Start Date         | 30th June 2026              |
 | End Date           | -                           |
